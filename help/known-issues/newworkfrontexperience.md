@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: e8d9550435882464904beed2acc25f9884fc2bd7
+source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,8 @@ Deze pagina bevat de momenteel in [!DNL Adobe Workfront].
 
 | **Probleem** | **Laatst gewijzigd** |
 |---|---|
+| [Taken: Uren worden niet opgeslagen bij het invoeren van uren in de taak [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 19 september 2022 |
+| [Proefdrukken: Gebruiker keert niet terug naar vorige pagina wanneer proefdruk wordt gesloten](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md) | 19 september 2022 |
 | [Meldingen: Fouten bij het openen van instellingen voor e-mailmeldingen](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 15 september 2022 |
 | [Taken en problemen: Onbedoeld afsluiten bij het maken van taken of problemen](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md) | 9 september 2022 |
 | [Rapporten: Problemen bij het maken en bewerken van rapporten in [!UICONTROL Report builder]](known-issues-workfront/wf-reports-builder-degraded-performance.md) | 6 september 2022 |

@@ -2,9 +2,9 @@
 title: "Meldingen: Fouten bij het openen van instellingen voor e-mailmeldingen"
 description: "Wanneer een gebruiker de instellingen voor e-mailmeldingen probeert te wijzigen, wordt mogelijk een fout weergegeven."
 hidefromtoc: true
-source-git-commit: 7b08d32dbdc06d224a30cde787a05276efc782dd
+source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Dit probleem doet zich alleen voor in de voorvertoningsomgeving.
+>Dit probleem doet zich zowel voor in de productieomgeving als in de voorbeeldomgeving.
 
 Wanneer een gebruiker de instellingen voor e-mailmeldingen probeert te wijzigen, wordt mogelijk een van de volgende fouten weergegeven:
 
