@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 69fbacd0de7751bf9d9b597e6862fe3406a49fde
+source-git-commit: 658f0ace9e6f00c5d621eec62159865983c815a9
 workflow-type: tm+mt
-source-wordcount: '12111'
+source-wordcount: '12169'
 ht-degree: 0%
 
 ---
@@ -30,6 +30,16 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2022.
 Voor onderhoudsupdates vóór 2022, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in september 2022
+
++++**Onderhoudsupdate op 22 september 2022**
+
+**Kan gebruikerskaart niet sluiten in updatestroom**
+
+*Updates*
+
+Wanneer een gebruiker updates weergeeft en deze boven een naam plaatst, wordt een kaart met gegevens over de gebruiker wiens naam wordt geopend en wordt deze niet automatisch gesloten. De pagina reageert pas als de kaart handmatig wordt gesloten door op de X in de rechterbovenhoek te klikken.
+
++++
 
 +++**Onderhoudsupdate op 15 september 2022**
 
