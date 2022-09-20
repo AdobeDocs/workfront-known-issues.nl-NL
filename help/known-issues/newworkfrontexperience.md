@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 797eab330860d68262fda07b8f3dca4183b10272
+source-git-commit: 505e512651cb14559e63b8f6c9509ff3cfc4474f
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: '433'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,6 @@ Deze pagina bevat de momenteel in [!DNL Adobe Workfront].
 | [Aangepaste formulieren: Elementen die elkaar overlappen in het linkerdeelvenster](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 16 september 2022 |
 | [Timesheets: Uren worden niet opgeslagen tijdens het gebruik [!UICONTROL Tab] key](known-issues-workfront/wf-timesheets-hours-do-not-save-when-using-tab.md) | 16 september 2022 |
 | [Proefdrukken: [!UICONTROL Active Proof Stages] veld is leeg](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 september 2022 |
-| [Lijsten: Nieuwe status niet weergegeven als status inline bewerken](known-issues-workfront/wf-lists-inline-edit-does-not-show-new-status.md) | 9 september 2022 |
 | [Integraties: Fout bij verzenden van verzoek van [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 augustus 2022 |
 | [[!DNL Workfront Proof]: E-mails met dagelijkse samenvattingen bevatten geen &quot;[!UICONTROL View Details]&quot;, knop](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md) | 5 augustus 2022 |
 | [Dashboards: Voor grafieken die in een dashboard worden weergegeven, worden andere kleuren gebruikt dan bij weergave in het rapport](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 5 augustus 2022 |
