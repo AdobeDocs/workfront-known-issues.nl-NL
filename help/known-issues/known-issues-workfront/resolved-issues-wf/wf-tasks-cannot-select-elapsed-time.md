@@ -3,14 +3,14 @@ title: '"Taken: Kan Verstreken tijd niet selecteren bij inlinebewerking Taakduur
 description: Wanneer een gebruiker een taaklijst bekijkt en probeert om de Duur van de Taak uit te geven, zijn de verstreken duureenheden niet beschikbaar.
 exl-id: ce481ab5-2391-4d62-af30-90fb91319206
 hidefromtoc: true
-source-git-commit: 453eef770b0f31990946c746e677fb453d0be94b
+source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
-# Taken: Kan Verstreken tijd niet selecteren wanneer inline het uitgeven de Duur van de Taak
+# Taken: Kan niet selecteren [!UICONTROL Elapsed time] wanneer het inline uitgeven de Duur van de Taak
 
 >[!NOTE]
 >

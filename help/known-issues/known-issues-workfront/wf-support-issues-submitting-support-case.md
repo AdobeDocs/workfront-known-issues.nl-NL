@@ -2,15 +2,15 @@
 title: "[!DNL Workfront]: Problemen bij het indienen van een Workfront-ondersteuningskwestie op Experience League"
 description: '""Als u een [!DNL Workfront] Bel ons op de onderstaande nummers om u te helpen.'
 hidefromtoc: true
-source-git-commit: fb377977f4f166a1631eb33be94a88b23d8676a7
+source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
 
-# Workfront: Kwesties die een [!DNL Workfront] support case on [!DNL Experience League]
+# [!DNL Workfront]: Kwesties die een [!DNL Workfront] support case on [!DNL Experience League]
 
 Als u een [!DNL Workfront] Geautoriseerde contactpersoon voor ondersteuning. Er zijn problemen met het indienen van een ondersteuningsaanvraag. Klik op [hier](https://workfrontpartners.force.com/one/s/).
 
