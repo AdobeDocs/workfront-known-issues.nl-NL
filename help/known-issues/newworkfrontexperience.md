@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 505e512651cb14559e63b8f6c9509ff3cfc4474f
+source-git-commit: b53c6ea6e0c24581780855d37f4f20cbce41468c
 workflow-type: tm+mt
-source-wordcount: '433'
+source-wordcount: '424'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,6 @@ Deze pagina bevat de momenteel in [!DNL Adobe Workfront].
 | **Probleem** | **Laatst gewijzigd** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
 | [Proefdrukken: Kan proef niet openen in [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md) | 20 september 2022 |
-| [Updates: Kan gebruikerskaart niet sluiten in updatestroom](known-issues-workfront/wf-updates-cant-close-user-card.md) | 20 september 2022 |
 | [Aangepaste formulieren: Elementen die elkaar overlappen in het linkerdeelvenster](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 16 september 2022 |
 | [Timesheets: Uren worden niet opgeslagen tijdens het gebruik [!UICONTROL Tab] key](known-issues-workfront/wf-timesheets-hours-do-not-save-when-using-tab.md) | 16 september 2022 |
 | [Proefdrukken: [!UICONTROL Active Proof Stages] veld is leeg](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 september 2022 |
