@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: 797eab330860d68262fda07b8f3dca4183b10272
+source-git-commit: d3fb396603c5f2283c74ff6a9dbd6cb5466d7334
 workflow-type: tm+mt
-source-wordcount: '1102'
+source-wordcount: '1096'
 ht-degree: 0%
 
 ---
@@ -112,6 +112,7 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [Bekende problemen in [!DNL Workfront Proof]](workfrontproof.md)
    + Huidige problemen in [!DNL Workfront Proof] {#proof-current}
+      + [[!DNL Workfront Proof]: Lege pagina&#39;s bij weergave van een proefdruk op meerdere pagina&#39;s](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
       + [Proefdrukken: Fout bij toevoegen van proefdruk aan [!DNL Workfront] van [!DNL Workfront] Proef](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
       + [[!DNL Workfront Proof]: Fout bij het uploaden van een bestand naar een opmerking](known-issues-workfront-proof/proof-error-when-uploading-file-to-comment.md)
       + [[!DNL Workfront Proof]: Mapweergaven tonen zonder proefdrukken](known-issues-workfront-proof/proof-folder-views-not-displaying-proofs.md)
@@ -130,7 +131,6 @@ ht-degree: 0%
       + [Nieuwe fase gemaakt omdat deadline niet overeenkomt met deadline van bestaand werkgebied](known-issues-workfront-proof/new-stage-created.md)
       + [Onnauwkeurige proefdrukgoedkeuringstermijn weergegeven in de lijst Home Work](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md)
       + [Kan gebruiker niet aan proef toevoegen door de gebruiker in een commentaar te etiketteren](known-issues-workfront-proof/cannot-add-user-to-proof.md)
-      + [Kan geen nieuwe versie van een proefdruk maken](known-issues-workfront-proof/cannot-create-a-new-version-of-a-proof.md)
       + [[!UICONTROL Reply in Proof] knopgedrag is inconsistent](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md)
       + [Automatische toegang tot proefdrukken wordt vertraagd](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md)
       + [[!UICONTROL Proof Approval] rapport kan termijnen niet nauwkeurig bepalen](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
@@ -152,7 +152,6 @@ ht-degree: 0%
       + [[!DNL Workfront Fusion] Help-koppelingen in de app leiden niet tot specifieke Help-pagina&#39;s](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
    + Opgeloste problemen in [!DNL Workfront Fusion] {#fusion-resolved}
       + [401 fout op [!DNL Workfront] modules](known-issues-workfront-fusion/resolved-issues-fusion/401-error-on-workfront-modules.md)
-      + [Kan niet schuiven om alle uitgevoerde scenario&#39;s weer te geven](known-issues-workfront-fusion/resolved-issues-fusion/cannot-scroll-to-view-all-scenario-executions.md)
       + [Gegevens uit aangepaste formulieren niet beschikbaar in [!DNL Workfront Fusion] [!DNL Workfront] modules](known-issues-workfront-fusion/resolved-issues-fusion/data-from-custom-forms-not-available.md)
 
 + [!UICONTROL Adobe Workfront Goals] {#goals}

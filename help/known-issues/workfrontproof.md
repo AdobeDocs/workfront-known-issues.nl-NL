@@ -3,9 +3,9 @@ title: Bekende problemen in [!DNL Adobe Workfront Proof]
 description: Bekende problemen gemeld voor [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 797eab330860d68262fda07b8f3dca4183b10272
+source-git-commit: d3fb396603c5f2283c74ff6a9dbd6cb5466d7334
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -30,6 +30,7 @@ Deze pagina bevat de momenteel in [!DNL Adobe Workfront Proof].
 
 | **Probleem** | **Laatst gewijzigd** |
 |-----------------------------------------------------------------------------------|-------------------|
+| [[!DNL Workfront Proof]: Lege pagina&#39;s bij weergave van een proefdruk op meerdere pagina&#39;s](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md) | 22 september 2022 |
 | [Proefdrukken: Kan proef niet openen in [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md) | 20 september 2022 |
 | [Proefdrukken: Gebruiker keert niet terug naar vorige pagina wanneer proefdruk wordt gesloten](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md) | 15 september 2022 |
 | [[!DNL Workfront Proof]: E-mailmeldingen worden vertraagd](known-issues-workfront-proof/proof-delays-receiving-email-notifications.md) | 15 september 2022 |
