@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 658f0ace9e6f00c5d621eec62159865983c815a9
+source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
 workflow-type: tm+mt
-source-wordcount: '12169'
+source-wordcount: '12342'
 ht-degree: 0%
 
 ---
@@ -30,6 +30,36 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2022.
 Voor onderhoudsupdates vóór 2022, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in september 2022
+
++++**Onderhoudsupdate op 29 september 2022**
+
+**Gebruiker keert niet terug naar vorige pagina wanneer proefdruk wordt gesloten**
+
+*Proefdrukken*
+
+Wanneer een gebruiker die een proef bekijkt binnen [!DNL Workfront] Sluit de proefdruk af, omdat ze de pagina waarop ze stonden niet retourneren voordat ze de proefdruk opende. In plaats daarvan worden ze doorgestuurd naar een andere pagina in [!DNL Workfront].
+
+**Kan proef niet openen in[!DNL Workfront]**
+
+*Proefdrukken*
+
+Wanneer een gebruiker een document weergeeft in [!DNL Workfront] en probeert de proefdruk te openen, wordt de proefdruk niet geopend en wordt de gebruiker teruggestuurd naar de [!UICONTROL Document Details] pagina.
+
+**Uren worden niet opgeslagen tijdens het gebruik [!UICONTROL Tab] key**
+
+*Timesheets*
+
+Wanneer een gebruiker een tijdblad invult en met het gereedschap [!UICONTROL Tab] -toets, de uren worden niet opgeslagen. De [!UICONTROL Auto-save] Deze melding wordt niet onder aan het scherm weergegeven. Als de gebruiker de pagina vernieuwt, ziet hij of zij dat de uren niet zijn opgeslagen.
+
+**Lege pagina&#39;s bij weergave van een proefdruk op meerdere pagina&#39;s**
+
+*[!DNL Workfront Proof]*
+
+Wanneer een gebruiker een proefdruk op meerdere pagina&#39;s weergeeft, kan de gebruiker miniaturen van de pagina&#39;s zien, maar worden de pagina&#39;s niet geopend in de hoofdviewer.
+
+
+
++++
 
 +++**Onderhoudsupdate op 22 september 2022**
 
@@ -72,6 +102,8 @@ Om de nieuwe functionaliteit te weerspiegelen van het kunnen zowel taken als kwe
 *[!DNL Workfront Scenario Planner]*
 
 Nu, wanneer u een projectfilter met een groep deelt die extra subgroepen heeft, is de filter zichtbaar aan alle groep en subgroepsleden die projecten in bekijken [!UICONTROL Import Projects] vak van een plan in het [!DNL Scenario Planner].
+
++++
 
 +++**Onderhoudsupdate op 8 september 2022**
 

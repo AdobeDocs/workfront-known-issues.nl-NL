@@ -3,9 +3,9 @@ title: Bekende problemen in [!DNL Adobe Workfront Proof]
 description: Bekende problemen gemeld voor [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: d3fb396603c5f2283c74ff6a9dbd6cb5466d7334
+source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -30,9 +30,6 @@ Deze pagina bevat de momenteel in [!DNL Adobe Workfront Proof].
 
 | **Probleem** | **Laatst gewijzigd** |
 |-----------------------------------------------------------------------------------|-------------------|
-| [[!DNL Workfront Proof]: Lege pagina&#39;s bij weergave van een proefdruk op meerdere pagina&#39;s](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md) | 22 september 2022 |
-| [Proefdrukken: Kan proef niet openen in [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md) | 20 september 2022 |
-| [Proefdrukken: Gebruiker keert niet terug naar vorige pagina wanneer proefdruk wordt gesloten](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md) | 15 september 2022 |
 | [[!DNL Workfront Proof]: E-mailmeldingen worden vertraagd](known-issues-workfront-proof/proof-delays-receiving-email-notifications.md) | 15 september 2022 |
 | [Proefdrukken: [!UICONTROL Active Proof Stages] veld is leeg](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 september 2022 |
 | [[!DNL Workfront Proof]: Aanvragers en revisoren tellen mee voor het aantal licenties van een organisatie](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md) | 12 augustus 2022 |
