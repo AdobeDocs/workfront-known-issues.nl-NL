@@ -2,9 +2,9 @@
 title: "[!DNL Workfront Fusion]: Kan verbindingsfout niet verifiëren"
 description: "Workfront Fusion-verbindingen met een Workfront-account kunnen mislukken bij verificatie, waardoor scenario's de volgende fout genereren: Kan de verbinding niet controleren."
 hidefromtoc: true
-source-git-commit: 98fa6676b103bd9870d5811fc710d54d0cd54599
+source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # [!DNL Workfront Fusion]: Fout &quot;Kan verbinding niet verifiëren&quot;
 
-Workfront Fusion-verbindingen met een Workfront-account kunnen mislukken bij verificatie, waardoor scenario&#39;s de volgende fout genereren:
+[!UICONTROL Workfront Fusion] verbindingen met een [!DNL Workfront] account kan mislukken bij verificatie, waardoor scenario&#39;s de volgende fout genereren:
 
 Kan verbinding niet controleren.
 

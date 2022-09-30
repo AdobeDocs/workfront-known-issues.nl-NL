@@ -2,15 +2,20 @@
 title: "Rapporten: Problemen bij het maken en bewerken van rapporten in Report builder"
 description: "Er zijn meerdere problemen gemeld bij het maken en bewerken van rapporten in de rapportbuilder."
 hidefromtoc: true
-source-git-commit: fb377977f4f166a1631eb33be94a88b23d8676a7
+source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 
 # Rapporten: Problemen bij het maken en bewerken van rapporten in de rapportbuilder
+
+>[!NOTE]
+>
+>Dit probleem is opgelost.
+
 
 De volgende kwesties zijn gemeld wanneer het creëren van en het uitgeven van rapporten in de Bouwer van het Rapport:
 
