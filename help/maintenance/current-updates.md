@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
+source-git-commit: a767d13343d0554325ba05c4b817b72c7e2b5727
 workflow-type: tm+mt
-source-wordcount: '12342'
+source-wordcount: '12397'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,18 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2022.
 -->
 
 Voor onderhoudsupdates vóór 2022, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
+
+## Updates in oktober 2022
+
++++**Onderhoudsupdate op 3 oktober 2022**
+
+**Sla uw timesheet handmatig op wanneer vorige taakrollen zijn gewijzigd**
+
+*Timesheets*
+
+Als een baanrol waarvoor u tijd registreerde is veranderd en [!UICONTROL Assign job roles to hour entries manually] instelling is uitgeschakeld, moet u uw tijdinvoer handmatig opslaan totdat de uren niet meer zijn geregistreerd voor de gewijzigde taakrol.
+
++++
 
 ## Updates in september 2022
 
