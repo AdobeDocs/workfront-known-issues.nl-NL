@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
+source-git-commit: 9a63be9f1083046f615e620740e2f2e3fc93c1f1
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,6 @@ Deze pagina bevat de momenteel in [!DNL Adobe Workfront].
 | **Probleem** | **Laatst gewijzigd** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
 | [Taken: Uren worden niet opgeslagen bij het invoeren van uren in de taak [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 30 september 2022 |
-| [Timesheets: Fouten bij het toevoegen van opmerkingen aan een timesheet](known-issues-workfront/wf-timesheets-permissions-error-when-adding-hours.md) | 29 september 2022 |
 | [Aangepaste formulieren: Elementen die elkaar overlappen in het linkerdeelvenster](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 16 september 2022 |
 | [Proefdrukken: [!UICONTROL Active Proof Stages] veld is leeg](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 september 2022 |
 | [Integraties: Fout bij verzenden van verzoek van [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 augustus 2022 |

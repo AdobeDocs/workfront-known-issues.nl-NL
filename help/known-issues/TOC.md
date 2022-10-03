@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: e1d537f182d5c86f6f06d39b806b29f225143e3f
+source-git-commit: 9a63be9f1083046f615e620740e2f2e3fc93c1f1
 workflow-type: tm+mt
-source-wordcount: '1124'
+source-wordcount: '1128'
 ht-degree: 0%
 
 ---
@@ -147,6 +147,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Bekende problemen in Workfront Fusion](workfrontfusion.md)
    + Huidige problemen in [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Custom API Call] 404- of 422-fouten retourneren](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: [!DNL Adobe PDF Services] > [!UICONTROL Extract Text] module die geen tekst produceert](known-issues-workfront-fusion/fusion-pdf-extract-text.md)
       + [[!DNL Workfront Fusion]: Fout &quot;Kan verbinding niet verifiëren&quot;](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: De module wordt niet geladen wanneer u een scenario maakt of bewerkt](known-issues-workfront-fusion/fusion-module-does-not-load.md)
