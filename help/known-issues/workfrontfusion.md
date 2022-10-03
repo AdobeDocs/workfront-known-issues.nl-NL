@@ -3,9 +3,9 @@ title: Bekende problemen in [!DNL Adobe Workfront Fusion]
 description: Bekende problemen gemeld voor [!DNL Adobe Workfront Fusion]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 9a63be9f1083046f615e620740e2f2e3fc93c1f1
+source-git-commit: 75defe0270b4c2d0dab3e18886b7f8276030ca71
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,7 @@ Deze pagina bevat de momenteel in [!DNL Adobe Workfront Fusion].
 
 | **Probleem** | **Laatst gewijzigd** |
 |-----------------------------------------------------------------------------------|-------------------|
+| [[!DNL Workfront Fusion]: &quot;[!UICONTROL Failed to load data]&quot;-fout](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md) | 3 oktober 2022 |
 | [[!DNL Workfront Fusion]: [!DNL Adobe PDF Services] > [!UICONTROL Extract Text] module die geen tekst produceert](known-issues-workfront-fusion/fusion-pdf-extract-text.md) | 30 september 2022 |
 | [[!DNL Workfront Fusion]: Fout &quot;Kan verbinding niet verifiëren&quot;](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | 29 september 2022 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] module retourneert een fout van 404 zonder meer informatie](known-issues-workfront-fusion/fusion-404-error-no-description.md) | 9 september 2022 |
