@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: a767d13343d0554325ba05c4b817b72c7e2b5727
+source-git-commit: ee588d19aa1f14e4db2dd4248de151193227d599
 workflow-type: tm+mt
-source-wordcount: '12397'
+source-wordcount: '12545'
 ht-degree: 0%
 
 ---
@@ -30,6 +30,41 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2022.
 Voor onderhoudsupdates vóór 2022, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in oktober 2022
+
++++**(Geplande) onderhoudsupdate op 6 oktober 2022**
+
+**Elementen die elkaar overlappen in het linkerdeelvenster**
+
+*Aangepaste formulieren*
+
+Wanneer een gebruiker in de formulierbuilder werkt en het formulier meer dan 100 velden bevat, overlappen elementen in het linkerdeelvenster in het bericht dat de gebruiker op de hoogte wordt gebracht van de veldlimiet.
+
+**Datumkiezer wordt automatisch geopend bij focus**
+
+*Navigatie*
+
+Wanneer u nu navigeert met het toetsenbord, worden datumkiezers niet meer automatisch geopend en geactiveerd wanneer u toetsenbordfocus krijgt.
+
+&quot;[!UICONTROL Your recent changes were not saved]&quot; fout bij het automatisch opslaan van wijzigingen op een tijdblad
+
+*Timesheets*
+
+Wanneer een gebruiker probeert om een timesheet op een manier uit te geven die autosave zou teweegbrengen worden de veranderingen niet bewaard en de gebruiker ziet het volgende bericht:
+
+&quot;[!UICONTROL Your recent changes were not saved. Refresh the page to view.]&quot;
+
+Dit is gemeld bij het bewerken van het volgende:
+
+* Uren
+* Taken
+
+E-mailmeldingen worden vertraagd
+
+*Workfront Proof*
+
+Wanneer een gebeurtenis plaatsvindt in [!DNL Workfront Proof] die een e-mailbericht activeert, ontvangt de gebruiker het bericht niet onmiddellijk. De kennisgeving kan enkele uren worden uitgesteld.
+
++++
 
 +++**Onderhoudsupdate op 3 oktober 2022**
 

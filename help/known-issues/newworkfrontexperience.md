@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 9a63be9f1083046f615e620740e2f2e3fc93c1f1
+source-git-commit: 7ce112ec71647b3d7388bc44edd4189b6cd19f10
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '420'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,7 @@ Deze pagina bevat de momenteel in [!DNL Adobe Workfront].
 
 | **Probleem** | **Laatst gewijzigd** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
+| [Teams: Het toewijzen van veelvoudige teamresultaten in slechts één toegewezen team](known-issues-workfront/wf-teams-multiple-team-assignments.md) | 4 oktober 2022 |
 | [Taken: Uren worden niet opgeslagen bij het invoeren van uren in de taak [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 30 september 2022 |
 | [Aangepaste formulieren: Elementen die elkaar overlappen in het linkerdeelvenster](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 16 september 2022 |
 | [Proefdrukken: [!UICONTROL Active Proof Stages] veld is leeg](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 september 2022 |
