@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 7ce112ec71647b3d7388bc44edd4189b6cd19f10
+source-git-commit: 2c801b5adb0b1e2455cf741eb40596550fd33172
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,7 @@ Deze pagina bevat de momenteel in [!DNL Adobe Workfront].
 
 | **Probleem** | **Laatst gewijzigd** |
 |---|---|
+| [Documenten: &quot;[!UICONTROL Failed to upload file]&quot;-fout](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 oktober 2022 |
 | [Meldingen: Gebruikers die niet op de hoogte zijn gesteld wanneer zij in een opmerking worden vermeld of die in een opmerking zijn opgenomen](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 29 september 2022 |
 | [Meldingen: Fouten bij het openen van instellingen voor e-mailmeldingen](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 15 september 2022 |
 | [Taken en problemen: Onbedoeld afsluiten bij het maken van taken of problemen](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md) | 9 september 2022 |
