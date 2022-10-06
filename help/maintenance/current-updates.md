@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
+source-git-commit: 38e86575a1c495bc2340899562d68e59cbce7b06
 workflow-type: tm+mt
-source-wordcount: '12604'
+source-wordcount: '12630'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,12 @@ Voor onderhoudsupdates vóór 2022, zie [Vorige onderhoudsupdates](#previous-mai
 ## Updates in oktober 2022
 
 +++**Onderhoudsupdate op 6 oktober 2022**
+
+**Nieuw blauwdruktype**
+
+*Blauwdrukken*
+
+Het blauwdruktype &#39;Dashboard&#39; is toegevoegd aan de catalogus met blauwdrukken. Eerder waren alleen blauwdrukken voor projectsjablonen en organisatiestructuur beschikbaar.
 
 **Elementen die elkaar overlappen in het linkerdeelvenster**
 
