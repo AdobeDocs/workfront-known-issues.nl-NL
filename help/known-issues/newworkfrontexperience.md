@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 2c801b5adb0b1e2455cf741eb40596550fd33172
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
@@ -37,14 +37,12 @@ Deze pagina bevat de momenteel in [!DNL Adobe Workfront].
 
 | **Probleem** | **Laatst gewijzigd** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
-| [Teams: Het toewijzen van veelvoudige teamresultaten in slechts één toegewezen team](known-issues-workfront/wf-teams-multiple-team-assignments.md) | 4 oktober 2022 |
+| [Proefdrukken: Kan proefdrukken niet automatisch vergelijken](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 6 oktober 2022 |
 | [Taken: Uren worden niet opgeslagen bij het invoeren van uren in de taak [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 30 september 2022 |
-| [Aangepaste formulieren: Elementen die elkaar overlappen in het linkerdeelvenster](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 16 september 2022 |
 | [Proefdrukken: [!UICONTROL Active Proof Stages] veld is leeg](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 september 2022 |
 | [Integraties: Fout bij verzenden van verzoek van [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 augustus 2022 |
 | [[!DNL Workfront Proof]: E-mails met dagelijkse samenvattingen bevatten geen &quot;[!UICONTROL View Details]&quot;, knop](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md) | 5 augustus 2022 |
 | [Dashboards: Voor grafieken die in een dashboard worden weergegeven, worden andere kleuren gebruikt dan bij weergave in het rapport](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 5 augustus 2022 |
-| [Timesheets: &quot;[!UICONTROL Your recent changes were not saved]&quot; fout bij het automatisch opslaan van wijzigingen op een tijdblad](known-issues-workfront/wf-timesheets-recent-changes-not-saved-error.md) | 28 juli 2022 |
 | [[!UICONTROL Home]: Aangepaste terminologie wordt niet toegepast op het thuisgebied](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | 3 juni 2022 |
 | [Stijl: Kan velden van aangepaste formulieren niet bewerken op kaarten](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md) | 11 mei 2022 |
 | [Lay-outsjablonen: Kan geen groep selecteren bij het maken van een lay-outsjabloon](known-issues-workfront/wf-layout-templ-cannot-select-group.md) | 4 mei 2022 |

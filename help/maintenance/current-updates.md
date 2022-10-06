@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ee588d19aa1f14e4db2dd4248de151193227d599
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
-source-wordcount: '12545'
+source-wordcount: '12604'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Voor onderhoudsupdates vóór 2022, zie [Vorige onderhoudsupdates](#previous-mai
 
 ## Updates in oktober 2022
 
-+++**(Geplande) onderhoudsupdate op 6 oktober 2022**
++++**Onderhoudsupdate op 6 oktober 2022**
 
 **Elementen die elkaar overlappen in het linkerdeelvenster**
 
@@ -45,7 +45,17 @@ Wanneer een gebruiker in de formulierbuilder werkt en het formulier meer dan 100
 
 Wanneer u nu navigeert met het toetsenbord, worden datumkiezers niet meer automatisch geopend en geactiveerd wanneer u toetsenbordfocus krijgt.
 
-&quot;[!UICONTROL Your recent changes were not saved]&quot; fout bij het automatisch opslaan van wijzigingen op een tijdblad
+**Het toewijzen van veelvoudige teamresultaten in slechts één toegewezen team**
+
+*Teams*
+
+>[!NOTE]
+>
+>Dit probleem doet zich alleen voor in de voorvertoningsomgeving.
+
+Wanneer een gebruiker meerdere teams toewijst aan een taak of uitgave, wordt slechts één team weergegeven in de toewijzingslijst. Dit probleem heeft ook invloed op de rapportage. Rapporten waarin teamtoewijzingen worden weergegeven, zijn onjuist omdat slechts één team wordt weergegeven als toegewezen aan de taak of uitgave.
+
+**&quot;[!UICONTROL Your recent changes were not saved]&quot; fout bij het automatisch opslaan van wijzigingen op een tijdblad**
 
 *Timesheets*
 
@@ -58,7 +68,7 @@ Dit is gemeld bij het bewerken van het volgende:
 * Uren
 * Taken
 
-E-mailmeldingen worden vertraagd
+**E-mailmeldingen worden vertraagd**
 
 *Workfront Proof*
 

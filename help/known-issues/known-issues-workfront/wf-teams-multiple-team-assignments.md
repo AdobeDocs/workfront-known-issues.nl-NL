@@ -2,15 +2,19 @@
 title: "Teams: Het toewijzen van meerdere teams resulteert slechts in één toegewezen team."
 description: "Wanneer een gebruiker meerdere teams toewijst aan een taak of uitgave, wordt slechts één team weergegeven in de toewijzingslijst. Dit probleem heeft ook invloed op de rapportage. Rapporten waarin teamtoewijzingen worden weergegeven, zijn onjuist omdat slechts één team wordt weergegeven als toegewezen aan de taak of uitgave."
 hidefromtoc: true
-source-git-commit: ed675a0d4f5dfd0f66b6756df3cae0935f33a286
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
 
 
 # Teams: Het toewijzen van veelvoudige teamresultaten in slechts één toegewezen team
+
+>[!NOTE]
+>
+>Dit probleem is op 6 oktober 2022 opgelost.
 
 >[!NOTE]
 >

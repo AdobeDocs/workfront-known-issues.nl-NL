@@ -3,7 +3,7 @@ title: Bekende problemen in [!DNL Adobe Workfront Proof]
 description: Bekende problemen gemeld voor [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 2c801b5adb0b1e2455cf741eb40596550fd33172
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Deze pagina bevat de momenteel in [!DNL Adobe Workfront Proof].
 
 | **Probleem** | **Laatst gewijzigd** |
 |-----------------------------------------------------------------------------------|-------------------|
-| [[!DNL Workfront Proof]: E-mailmeldingen worden vertraagd](known-issues-workfront-proof/proof-delays-receiving-email-notifications.md) | 15 september 2022 |
+| [Proefdrukken: Kan proefdrukken niet automatisch vergelijken](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 6 oktober 2022 |
 | [Proefdrukken: [!UICONTROL Active Proof Stages] veld is leeg](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 september 2022 |
 | [[!DNL Workfront Proof]: Aanvragers en revisoren tellen mee voor het aantal licenties van een organisatie](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md) | 12 augustus 2022 |
 | [Proefdrukken: Onjuiste deadline voor goedkeuring van bewijs weergegeven in [!UICONTROL Home Work List]](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md) | 25 april 2022 |
