@@ -2,7 +2,7 @@
 title: "Integraties: Fout bij openen van Workfront voor [!DNL Jira] in Jira"
 description: "Wanneer een gebruiker werkt in [!DNL Jira] en probeert de [!DNL Workfront for Jira] invoegtoepassing, wordt de invoegtoepassing niet geopend en ziet de gebruiker een foutbericht."
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
+source-git-commit: 0c5a738b36e954f07802b3c095fbdce5fedda168
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
@@ -11,8 +11,6 @@ ht-degree: 0%
 
 
 # Integraties: Fout bij openen [!DNL Workfront for Jira] binnen [!DNL Jira]
-
-<!--Becky recheck DNL-->
 
 >[!NOTE]
 >
