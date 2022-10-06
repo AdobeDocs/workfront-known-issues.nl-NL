@@ -3,14 +3,18 @@ title: 'Dashboards: Kan geen toegang krijgen tot dashboard vanaf linkernavigatie
 description: Wanneer een gebruiker op een koppeling naar een dashboard klikt in de linkernavigatie van een [!DNL Workfront] object, wordt het dashboard niet weergegeven.
 hidefromtoc: true
 exl-id: f140f758-32ff-4b5a-b690-0ece22461c50
-source-git-commit: de7f66f7acba1a0ac32a1257b2e643a767eae7fb
+source-git-commit: 60ebb7b0b5e9436da8d9f6b1b9c0057c4d5f3e1b
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Dashboards: Kan geen toegang krijgen tot dashboard vanaf linkernavigatie op een object
+
+>[!NOTE]
+>
+>Dit probleem is op 29 september 2022 opgelost.
 
 Wanneer een gebruiker op een koppeling naar een dashboard klikt in de linkernavigatie van een [!DNL Workfront] object, wordt het dashboard niet weergegeven.
 
