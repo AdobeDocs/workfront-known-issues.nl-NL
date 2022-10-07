@@ -2,7 +2,7 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: fae6d2991f44c333f9db1bd4c437ae3567387a86
+source-git-commit: 6ce6194f9f911b02457240645ce6407ec3eb7e26
 workflow-type: tm+mt
 source-wordcount: '12714'
 ht-degree: 0%
@@ -49,7 +49,7 @@ Wanneer een gebruiker in de formulierbuilder werkt en het formulier meer dan 100
 
 *Navigatie*
 
-Wanneer een gebruiker met het toetsenbord navigeert, worden de datumkiezers niet meer automatisch geopend bij de datum waarop de toetsenbordfocus wordt ontvangen. In plaats daarvan moeten toetsenbordgebruikers met de Tab-toets naar het pictogram van de datumkiezer gaan en op Enter drukken om de datumkiezer te openen. Wanneer een gebruiker met de muis navigeert, worden de datumkiezers niet meer automatisch geopend wanneer op de datuminvoer wordt geklikt. In plaats daarvan moeten toetsenbordgebruikers op het pictogram van de datumkiezer klikken om de datumkiezer te openen.
+Wanneer een gebruiker met het toetsenbord navigeert, worden de datumkiezers niet meer automatisch geopend bij de datum waarop de toetsenbordfocus wordt ontvangen. In plaats daarvan moeten toetsenbordgebruikers met de Tab-toets naar het pictogram van de datumkiezer gaan en op Enter drukken om de datumkiezer te openen. Wanneer een gebruiker met de muis navigeert, worden de datumkiezers niet meer automatisch geopend wanneer op de datuminvoer wordt geklikt. In plaats daarvan moeten muisgebruikers op het pictogram van de datumkiezer klikken om de datumkiezer te openen.
 
 Deze wijziging is aangebracht om beter te voldoen aan de UX-patronen van de standaarddatumkiezer en om een toegankelijkere ervaring te creëren voor gebruikers van toetsenbord en schermlezers.
 
