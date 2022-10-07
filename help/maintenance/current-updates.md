@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 38e86575a1c495bc2340899562d68e59cbce7b06
+source-git-commit: fae6d2991f44c333f9db1bd4c437ae3567387a86
 workflow-type: tm+mt
-source-wordcount: '12630'
+source-wordcount: '12714'
 ht-degree: 0%
 
 ---
@@ -45,11 +45,13 @@ Het blauwdruktype &#39;Dashboard&#39; is toegevoegd aan de catalogus met blauwdr
 
 Wanneer een gebruiker in de formulierbuilder werkt en het formulier meer dan 100 velden bevat, overlappen elementen in het linkerdeelvenster in het bericht dat de gebruiker op de hoogte wordt gebracht van de veldlimiet.
 
-**Datumkiezer wordt automatisch geopend bij focus**
+**De datumkiezer wordt niet meer automatisch geopend bij invoerfocus of klikt op**
 
 *Navigatie*
 
-Wanneer u nu navigeert met het toetsenbord, worden datumkiezers niet meer automatisch geopend en geactiveerd wanneer u toetsenbordfocus krijgt.
+Wanneer een gebruiker met het toetsenbord navigeert, worden de datumkiezers niet meer automatisch geopend bij de datum waarop de toetsenbordfocus wordt ontvangen. In plaats daarvan moeten toetsenbordgebruikers met de Tab-toets naar het pictogram van de datumkiezer gaan en op Enter drukken om de datumkiezer te openen. Wanneer een gebruiker met de muis navigeert, worden de datumkiezers niet meer automatisch geopend wanneer op de datuminvoer wordt geklikt. In plaats daarvan moeten toetsenbordgebruikers op het pictogram van de datumkiezer klikken om de datumkiezer te openen.
+
+Deze wijziging is aangebracht om beter te voldoen aan de UX-patronen van de standaarddatumkiezer en om een toegankelijkere ervaring te creëren voor gebruikers van toetsenbord en schermlezers.
 
 **Het toewijzen van veelvoudige teamresultaten in slechts één toegewezen team**
 
