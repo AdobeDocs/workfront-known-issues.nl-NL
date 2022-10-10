@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: 69ecc78407585dff0f7d786265fd7177963edc42
+source-git-commit: edbc35c24a135af7f3d32042ccbf2d25ae56033a
 workflow-type: tm+mt
-source-wordcount: '1167'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Taken: [!UICONTROL Predecessor] pictogram ontbreekt in taakkoptekst](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md)
+      + [Proefdrukken: Als u een groep aan een proefdruk toevoegt, worden niet alle leden van de groep toegevoegd](known-issues-workfront/wf-proofs-group-members-not-added.md)
+      + [Taken en problemen: Kan naam of percentage van voltooiing van een taak of kwestie niet uitgeven](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md)
       + [Lay-outsjablonen: Fout bij het aanpassen van lijsten in een lay-outsjabloon](known-issues-workfront/wf-layout-templates-error-lists-users.md)
       + [Proefdrukken: Het tekstvak Nieuwe ontvangers voor proefdrukken is te klein](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md)
       + [Proefdrukken: Kan proefdrukken niet automatisch vergelijken](known-issues-workfront/wf-proofs-cannot-auto-compare.md)
