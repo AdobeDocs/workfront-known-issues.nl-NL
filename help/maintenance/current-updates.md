@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 6ce6194f9f911b02457240645ce6407ec3eb7e26
+source-git-commit: 166754914f4d532ffdb63555270548a676cf63d0
 workflow-type: tm+mt
-source-wordcount: '12714'
+source-wordcount: '13070'
 ht-degree: 0%
 
 ---
@@ -30,6 +30,56 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2022.
 Voor onderhoudsupdates vóór 2022, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in oktober 2022
+
++++**(Geplande) onderhoudsupdate op 13 oktober 2022**
+
+**Kan een pagina niet opnieuw vastzetten nadat het punt is verwijderd**
+
+*Navigatie*
+
+>[!NOTE]
+>
+>Dit probleem wordt opgelost in Voorvertoning op 13 oktober 2022. Het zal op 27 oktober 2022 in productie worden vastgesteld.
+
+Wanneer een gebruiker &quot;[!UICONTROL Remove pin]&quot; op een punt, ontvangt een bericht over de verwijdering en probeert het punt te vervangen door te klikken op &quot;[!UICONTROL Undo]&quot; in het bericht wordt het punt niet vervangen in de bovenste navigatie en wordt het evenmin toegevoegd aan de lijst met punten onder de [!UICONTROL More pins] lijst (het menu met drie punten in het menu [!UICONTROL Pins] gebied).
+
+Als een gebruiker de pagina opnieuw vastzet door naar de pagina te gaan en deze vast te zetten, wordt het punt niet gemaakt en kan de gebruiker de pagina niet vastzetten.
+
+**Kan nieuwe filters geen naam geven of opslaan**
+
+*[!UICONTROL Resource Planner]*
+
+Wanneer een gebruiker een naam probeert te geven aan een nieuw filter in het dialoogvenster [!UICONTROL Resource Planner], blijft het naamvak leeg. Als de gebruiker op de spatiebalk heeft gedrukt, wordt bovendien de [!UICONTROL Save] wordt uitgeschakeld.
+
+**Kan naam of percentage van voltooiing van een taak of kwestie niet uitgeven**
+
+*Taken en problemen*
+
+Gebruikers met [!UICONTROL Contribute] Als u toegang hebt tot een taak of uitgave, kunt u de naam van de taak of uitgave in de koptekst niet bewerken. Bovendien kunnen gebruikers met [!UICONTROL Contribute] de toegang kan niet het percentage uitgeven voltooide van een taak of kwestie.
+
+**Aanvragers en revisoren tellen mee voor het aantal licenties van een organisatie**
+
+*[!DNL Workfront Proof]*
+
+Wanneer een gebruiker aan een proef als Revisor of een Aanvrager wordt toegevoegd, krijgen zij &quot;[!UICONTROL Visitor]&quot; machtigingenprofiel, dat geen [!DNL Workfront Proof] licentie. Wanneer de gebruiker echter wordt toegevoegd, wordt het aantal gebruikte [!DNL Workfront Proof] de licenties stijgen.
+
++++
+
+++**Onderhoudsupdate op 11 oktober 2022
+
+**Kan een pagina niet opnieuw vastzetten nadat het punt is verwijderd**
+
+*Navigatie*
+
+>[!NOTE]
+>
+>Dit probleem is opgelost in Voorvertoning op 13 oktober 2022. Het zal op 27 oktober 2022 in productie worden vastgesteld.
+
+Wanneer een gebruiker &quot;[!UICONTROL Remove pin]&quot; op een punt, ontvangt een bericht over de verwijdering en probeert het punt te vervangen door te klikken op &quot;[!UICONTROL Undo]&quot; in het bericht wordt het punt niet vervangen in de bovenste navigatie en wordt het evenmin toegevoegd aan de lijst met punten onder de [!UICONTROL More pins] lijst (het menu met drie punten in het menu [!UICONTROL Pins] gebied).
+
+Als een gebruiker de pagina opnieuw vastzet door naar de pagina te gaan en deze vast te zetten, wordt het punt niet gemaakt en kan de gebruiker de pagina niet vastzetten.
+
++++
 
 +++**Onderhoudsupdate op 6 oktober 2022**
 
