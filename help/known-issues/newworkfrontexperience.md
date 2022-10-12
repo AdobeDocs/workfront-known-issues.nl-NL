@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 6a7bd8e83e01199d8b5523caaaa6db76bd9675e1
+source-git-commit: 6937b5ece29ecc41c62e3e3116961c12e7ad49b7
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '480'
 ht-degree: 0%
 
 ---
@@ -41,6 +41,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Lijsten: [!UICONTROL Quick filter] retourneert geen resultaten bij het zoeken naar teams](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md) | 12 oktober 2022 |
 | [Navigatie: Kan een pagina niet opnieuw vastzetten nadat het punt is verwijderd](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md) | 11 oktober 2022 |
 | [Taken: [!UICONTROL Predecessor] pictogram ontbreekt in taakkoptekst](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md) | 10 oktober 2022 |
 | [Taken en problemen: Kan naam of percentage van voltooiing van een taak of kwestie niet uitgeven](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md) | 10 oktober 2022 |
