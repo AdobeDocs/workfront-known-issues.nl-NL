@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: edbc35c24a135af7f3d32042ccbf2d25ae56033a
+source-git-commit: 6a7bd8e83e01199d8b5523caaaa6db76bd9675e1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1219'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Navigatie: Kan een pagina niet opnieuw vastzetten nadat het punt is verwijderd](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md)
+      + [Toewijzingen: Fout bij bulksgewijze toewijzing van een team](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md)
       + [Taken: [!UICONTROL Predecessor] pictogram ontbreekt in taakkoptekst](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md)
       + [Proefdrukken: Als u een groep aan een proefdruk toevoegt, worden niet alle leden van de groep toegevoegd](known-issues-workfront/wf-proofs-group-members-not-added.md)
       + [Taken en problemen: Kan naam of percentage van voltooiing van een taak of kwestie niet uitgeven](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md)
