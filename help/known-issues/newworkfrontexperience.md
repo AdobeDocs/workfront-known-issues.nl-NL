@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 6937b5ece29ecc41c62e3e3116961c12e7ad49b7
+source-git-commit: 2ae28fe20f42dc04f717c543505486404794fb4e
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '486'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Timesheets: Kan uren niet invoeren in [!UICONTROL General Time]](known-issues-workfront/wf-timesheets-general-time-disabled.md) | 12 oktober 2022 |
 | [Toewijzingen: Fout bij bulksgewijze toewijzing van een team](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md) | 11 oktober 2022 |
 | [Proefdrukken: Als u een groep aan een proefdruk toevoegt, worden niet alle leden van de groep toegevoegd](known-issues-workfront/wf-proofs-group-members-not-added.md) | 10 oktober 2022 |
 | [Lay-outsjablonen: Fout bij het aanpassen van lijsten in een lay-outsjabloon](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 6 oktober 2022 |
