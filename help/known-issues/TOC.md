@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: 83c933bad05a9d68ffd33f758ec10486044fdd5c
+source-git-commit: 58b95fb905fc12cc459fbdd021fee3c92536d203
 workflow-type: tm+mt
-source-wordcount: '1232'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Stijl: Problemen met taken die aan een herhaling zijn toegevoegd](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md)
+      + [Aangepaste formulieren: Fout bij het instellen van een berekend veld](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
       + [Timesheets: Kan uren niet invoeren in [!UICONTROL General Time]](known-issues-workfront/wf-timesheets-general-time-disabled.md)
       + [Lijsten: [!UICONTROL Quick filter] retourneert geen resultaten bij het zoeken naar teams](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md)
       + [Navigatie: Kan een pagina niet opnieuw vastzetten nadat het punt is verwijderd](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md)

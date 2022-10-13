@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
+source-git-commit: 58b95fb905fc12cc459fbdd021fee3c92536d203
 workflow-type: tm+mt
-source-wordcount: '444'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,8 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Stijl: Problemen met taken die aan een herhaling zijn toegevoegd](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md) | 13 oktober 2022 |
+| [Aangepaste formulieren: Fout bij het instellen van een berekend veld](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 13 oktober 2022 |
 | [Toewijzingen: Fout bij bulksgewijze toewijzing van een team](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md) | 13 oktober 2022 |
 | [Lay-outsjablonen: Fout bij het aanpassen van lijsten in een lay-outsjabloon](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 13 oktober 2022 |
 | [Lijsten: [!UICONTROL Quick filter] retourneert geen resultaten bij het zoeken naar teams](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md) | 12 oktober 2022 |
