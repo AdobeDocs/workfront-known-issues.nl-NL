@@ -2,9 +2,9 @@
 title: "[!DNL Workfront Fusion]: Kan verbindingsfout niet verifiëren"
 description: "Workfront Fusion-verbindingen met een Workfront-account kunnen mislukken bij verificatie, waardoor scenario's de volgende fout genereren: Kan de verbinding niet controleren."
 hidefromtoc: true
-source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
+source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Het scenario kan pas worden uitgevoerd als de verbinding is hersteld.
 
 **Workaround**
 
-Dit probleem kan tijdelijk worden opgelost door de verbinding opnieuw te autoriseren.
+Maak een nieuwe verbinding en vervang de huidige verbindingen in uw Workfront-modules door de nieuwe verbinding.
 
 _Voor het eerst gerapporteerd op 8 september 2022._
 

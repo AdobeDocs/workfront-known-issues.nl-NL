@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 166754914f4d532ffdb63555270548a676cf63d0
+source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
 workflow-type: tm+mt
-source-wordcount: '13070'
+source-wordcount: '13069'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Voor onderhoudsupdates vóór 2022, zie [Vorige onderhoudsupdates](#previous-mai
 
 ## Updates in oktober 2022
 
-+++**(Geplande) onderhoudsupdate op 13 oktober 2022**
++++**Onderhoudsupdate op 13 oktober 2022**
 
 **Kan een pagina niet opnieuw vastzetten nadat het punt is verwijderd**
 

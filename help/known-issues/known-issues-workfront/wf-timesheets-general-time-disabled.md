@@ -2,15 +2,19 @@
 title: "Timesheets: Kan uren niet invoeren in algemene tijd"
 description: "Wanneer een gebruiker uren in de Algemene sectie van de Tijd van hun timesheet probeert te registreren, zijn er geen dozen voor hen om uren in te gaan. Als de gebruiker de muis boven het gebied houdt waar hij of zij uren zou invoeren, wordt het bericht Een functie selecteren om de uren te registreren weergegeven."
 hidefromtoc: true
-source-git-commit: 2ae28fe20f42dc04f717c543505486404794fb4e
+source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
 
 # Timesheets: Kan uren niet invoeren in [!UICONTROL General Time]
+
+>[!NOTE]
+>
+>Dit probleem is op 13 oktober 2022 opgelost.
 
 Wanneer een gebruiker uren probeert in te loggen [!UICONTROL General Time] in het gedeelte van hun tijdsplaat zijn er geen vakjes voor hen om uren in te gaan. Als de gebruiker de muis boven het gebied houdt waar hij of zij uren zou invoeren, wordt het bericht &quot;[!UICONTROL Select a job title to log hours.]&quot;
 

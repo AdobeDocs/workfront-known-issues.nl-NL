@@ -3,9 +3,9 @@ title: Bekende problemen in [!DNL Adobe Workfront Fusion]
 description: Bekende problemen gemeld voor [!DNL Adobe Workfront Fusion]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 60ebb7b0b5e9436da8d9f6b1b9c0057c4d5f3e1b
+source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: &quot;[!UICONTROL Failed to load data]&quot;-fout](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md) | 3 oktober 2022 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] Help-koppelingen in de app leiden niet tot specifieke Help-pagina&#39;s](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | 2 augustus 2022 |
 
 {style=&quot;table-layout:auto&quot;}

@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 2ae28fe20f42dc04f717c543505486404794fb4e
+source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '444'
 ht-degree: 0%
 
 ---
@@ -24,10 +24,6 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [Timesheets: Kan uren niet invoeren in [!UICONTROL General Time]](known-issues-workfront/wf-timesheets-general-time-disabled.md) | 12 oktober 2022 |
-| [Toewijzingen: Fout bij bulksgewijze toewijzing van een team](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md) | 11 oktober 2022 |
-| [Proefdrukken: Als u een groep aan een proefdruk toevoegt, worden niet alle leden van de groep toegevoegd](known-issues-workfront/wf-proofs-group-members-not-added.md) | 10 oktober 2022 |
-| [Lay-outsjablonen: Fout bij het aanpassen van lijsten in een lay-outsjabloon](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 6 oktober 2022 |
 | [Proefdrukken: Het tekstvak Nieuwe ontvangers voor proefdrukken is te klein](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 6 oktober 2022 |
 | [Documenten: &quot;[!UICONTROL Failed to upload file]&quot;-fout](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 oktober 2022 |
 | [Meldingen: Gebruikers die niet op de hoogte zijn gesteld wanneer zij in een opmerking worden vermeld of die in een opmerking zijn opgenomen](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 29 september 2022 |
@@ -42,11 +38,11 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Toewijzingen: Fout bij bulksgewijze toewijzing van een team](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md) | 13 oktober 2022 |
+| [Lay-outsjablonen: Fout bij het aanpassen van lijsten in een lay-outsjabloon](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 13 oktober 2022 |
 | [Lijsten: [!UICONTROL Quick filter] retourneert geen resultaten bij het zoeken naar teams](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md) | 12 oktober 2022 |
 | [Navigatie: Kan een pagina niet opnieuw vastzetten nadat het punt is verwijderd](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md) | 11 oktober 2022 |
 | [Taken: [!UICONTROL Predecessor] pictogram ontbreekt in taakkoptekst](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md) | 10 oktober 2022 |
-| [Taken en problemen: Kan naam of percentage van voltooiing van een taak of kwestie niet uitgeven](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md) | 10 oktober 2022 |
-| [Proefdrukken: Kan proefdrukken niet automatisch vergelijken](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 6 oktober 2022 |
 | [Taken: Uren worden niet opgeslagen bij het invoeren van uren in de taak [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 30 september 2022 |
 | [Integraties: Fout bij verzenden van verzoek van [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 augustus 2022 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] steungeval op Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augustus 2022 |
