@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: 58b95fb905fc12cc459fbdd021fee3c92536d203
+source-git-commit: cdc8a8a6c4dbf6b53a7c8aa0aeae37058f60f5c5
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1269'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Rapporten: De optie &quot;Verplaatsen naar&quot; is niet beschikbaar in rapporten over problemen](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md)
+      + [Problemen: Aantal problemen in linkernavigatie van taak is onjuist](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md)
       + [Stijl: Problemen met taken die aan een herhaling zijn toegevoegd](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md)
       + [Aangepaste formulieren: Fout bij het instellen van een berekend veld](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
       + [Timesheets: Kan uren niet invoeren in [!UICONTROL General Time]](known-issues-workfront/wf-timesheets-general-time-disabled.md)
