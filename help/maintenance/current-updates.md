@@ -2,7 +2,7 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
+source-git-commit: b5cb8f1b158fcdacf158a7bee854c82f143ce96f
 workflow-type: tm+mt
 source-wordcount: '13069'
 ht-degree: 0%
@@ -65,7 +65,7 @@ Wanneer een gebruiker aan een proef als Revisor of een Aanvrager wordt toegevoeg
 
 +++
 
-++**Onderhoudsupdate op 11 oktober 2022
++++**Onderhoudsupdate op 11 oktober 2022**
 
 **Kan een pagina niet opnieuw vastzetten nadat het punt is verwijderd**
 
