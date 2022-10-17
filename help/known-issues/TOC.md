@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: cdc8a8a6c4dbf6b53a7c8aa0aeae37058f60f5c5
+source-git-commit: f7685aec7811e8741440479d083ef13922b73327
 workflow-type: tm+mt
-source-wordcount: '1269'
+source-wordcount: '1274'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Programma&#39;s: Problemen bij het toewijzen van een [!UICONTROL Program Owner]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md)
       + [Rapporten: De optie &quot;Verplaatsen naar&quot; is niet beschikbaar in rapporten over problemen](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md)
       + [Problemen: Aantal problemen in linkernavigatie van taak is onjuist](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md)
       + [Stijl: Problemen met taken die aan een herhaling zijn toegevoegd](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md)
