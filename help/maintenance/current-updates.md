@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b5cb8f1b158fcdacf158a7bee854c82f143ce96f
+source-git-commit: efb3af8506cf73ac7a5fe7e9f756356fdb298158
 workflow-type: tm+mt
-source-wordcount: '13069'
+source-wordcount: '13205'
 ht-degree: 0%
 
 ---
@@ -30,6 +30,39 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2022.
 Voor onderhoudsupdates vóór 2022, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in oktober 2022
+
++++**Onderhoudsupdate op 20 oktober 2022**
+
+**Fout bij bulksgewijze toewijzing van een team**
+
+*Toewijzingen*
+
+Wanneer een gebruiker in bulk bewerkingstaken of kwesties is en een team toewijst na het toewijzen van een individu, slaan de toewijzingen niet op en de gebruiker ziet de volgende fout:
+
+&quot;[!UICONTROL Let's try that again - The following error occurred: teamAssignments must be either a list of objects or a list of IDs]&quot;
+
+**[!UICONTROL Failed to upload file]&quot;-fout**
+
+*Documenten*
+
+Wanneer een gebruiker een bestand probeert te uploaden naar de [!UICONTROL Documents] gebied, wordt het bestand niet geüpload en de gebruiker ziet de fout &quot;[!UICONTROL Failed to upload file].&quot;
+
+Dit is gemeld bij pogingen om MP4-bestanden te uploaden.
+
+**Aantal problemen in linkernavigatie van taak is onjuist**
+
+*Problemen*
+
+Wanneer een gebruiker een taak bekijkt, het aantal dat op [!UICONTROL Issues] in de linkernavigatie geeft het werkelijke aantal problemen dat aan de taak is gekoppeld, niet correct weer.
+
+
+**[!UICONTROL Predecessor]pictogram ontbreekt in taakkoptekst**
+
+*Taken*
+
+Wanneer een gebruiker een taak bekijkt, ontbreekt het taakvoorgangerpictogram in de koptekst.
+
++++
 
 +++**Onderhoudsupdate op 13 oktober 2022**
 
