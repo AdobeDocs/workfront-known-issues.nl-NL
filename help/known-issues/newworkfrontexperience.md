@@ -3,7 +3,7 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: f7685aec7811e8741440479d083ef13922b73327
+source-git-commit: 3409c8e333da62ef218156c1479c4c4263448806
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -24,6 +24,8 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Boards]: [!UICONTROL Boards] pagina wordt niet geladen](known-issues-workfront/wf-boards-boards-do-not-load.md) | 18 oktober 2022 |
+| [Documenten: Koppeling met externe documentaanvraag leidt tot aanmeldingspagina](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 18 oktober 2022 |
 | [Problemen: Aantal problemen in linkernavigatie van taak is onjuist](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md) | 12 oktober 2022 |
 | [Proefdrukken: Het tekstvak Nieuwe ontvangers voor proefdrukken is te klein](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 6 oktober 2022 |
 | [Documenten: &quot;[!UICONTROL Failed to upload file]&quot;-fout](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 oktober 2022 |
@@ -59,6 +61,7 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proefdrukken: Het bewijs wordt niet gedeeld aan gebruikers op het Proef Werkschema](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18 september 2022 |
 | [Proefdrukken: [!UICONTROL Active Proof Stages] veld is leeg](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 september 2022 |
 | [Dashboards: Voor grafieken die in een dashboard worden weergegeven, worden andere kleuren gebruikt dan bij weergave in het rapport](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 5 augustus 2022 |
 | [[!UICONTROL Home]: Aangepaste terminologie wordt niet toegepast op het thuisgebied](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | 3 juni 2022 |

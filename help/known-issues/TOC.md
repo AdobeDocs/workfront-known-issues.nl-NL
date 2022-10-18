@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: f7685aec7811e8741440479d083ef13922b73327
+source-git-commit: 3409c8e333da62ef218156c1479c4c4263448806
 workflow-type: tm+mt
-source-wordcount: '1274'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Boards]: [!UICONTROL Boards] pagina wordt niet geladen](known-issues-workfront/wf-boards-boards-do-not-load.md)
+      + [Documenten: Koppeling met externe documentaanvraag leidt tot aanmeldingspagina](known-issues-workfront/wf-documents-external-request-leads-to-login.md)
       + [Programma&#39;s: Problemen bij het toewijzen van een [!UICONTROL Program Owner]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md)
       + [Rapporten: De optie &quot;Verplaatsen naar&quot; is niet beschikbaar in rapporten over problemen](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md)
       + [Problemen: Aantal problemen in linkernavigatie van taak is onjuist](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md)
@@ -131,6 +133,7 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [Bekende problemen in [!DNL Workfront Proof]](workfrontproof.md)
    + Huidige problemen in [!DNL Workfront Proof] {#proof-current}
+      + [Proefdrukken: Het bewijs wordt niet gedeeld aan gebruikers op het Proef Werkschema](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [[!DNL Workfront Proof]: Lege pagina&#39;s bij weergave van een proefdruk op meerdere pagina&#39;s](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
       + [Proefdrukken: Fout bij toevoegen van proefdruk aan [!DNL Workfront] van [!DNL Workfront] Proef](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
       + [[!DNL Workfront Proof]: Fout bij het uploaden van een bestand naar een opmerking](known-issues-workfront-proof/proof-error-when-uploading-file-to-comment.md)
