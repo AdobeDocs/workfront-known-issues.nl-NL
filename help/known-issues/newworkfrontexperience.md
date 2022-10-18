@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 3409c8e333da62ef218156c1479c4c4263448806
+source-git-commit: ed7f0376de050a220e907bb793c4911f88390a80
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '507'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,6 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | [[!UICONTROL Boards]: [!UICONTROL Boards] pagina wordt niet geladen](known-issues-workfront/wf-boards-boards-do-not-load.md) | 18 oktober 2022 |
 | [Documenten: Koppeling met externe documentaanvraag leidt tot aanmeldingspagina](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 18 oktober 2022 |
 | [Problemen: Aantal problemen in linkernavigatie van taak is onjuist](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md) | 12 oktober 2022 |
-| [Proefdrukken: Het tekstvak Nieuwe ontvangers voor proefdrukken is te klein](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 6 oktober 2022 |
 | [Documenten: &quot;[!UICONTROL Failed to upload file]&quot;-fout](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 oktober 2022 |
 | [Meldingen: Gebruikers die niet op de hoogte zijn gesteld wanneer zij in een opmerking worden vermeld of die in een opmerking zijn opgenomen](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 29 september 2022 |
 | [Meldingen: Fouten bij het openen van instellingen voor e-mailmeldingen](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 15 september 2022 |
@@ -41,6 +40,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proefdrukken: Het tekstvak Nieuwe ontvangers voor proefdrukken is te klein](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 18 oktober 2022 |
 | [Programma&#39;s: Problemen bij het toewijzen van een [!UICONTROL Program Owner]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md) | 17 oktober 2022 |
 | [Rapporten: De optie &quot;Verplaatsen naar&quot; is niet beschikbaar in rapporten over problemen](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 13 oktober 2022 |
 | [Stijl: Problemen met taken die aan een herhaling zijn toegevoegd](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md) | 13 oktober 2022 |

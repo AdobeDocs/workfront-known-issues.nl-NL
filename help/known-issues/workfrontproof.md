@@ -3,9 +3,9 @@ title: Bekende problemen in [!DNL Adobe Workfront Proof]
 description: Bekende problemen gemeld voor [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 3409c8e333da62ef218156c1479c4c4263448806
+source-git-commit: ed7f0376de050a220e907bb793c4911f88390a80
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,6 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
 | [Documenten: Koppeling met externe documentaanvraag leidt tot aanmeldingspagina](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 18 oktober 2022 |
-| [Proefdrukken: Het tekstvak Nieuwe ontvangers voor proefdrukken is te klein](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 6 oktober 2022 |
 | [Documenten: &quot;[!UICONTROL Failed to upload file]&quot;-fout](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 oktober 2022 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -36,7 +35,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| Geen |  |
+| [Proefdrukken: Het tekstvak Nieuwe ontvangers voor proefdrukken is te klein](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 18 oktober 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 
