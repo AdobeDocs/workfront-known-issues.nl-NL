@@ -2,7 +2,7 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: efb3af8506cf73ac7a5fe7e9f756356fdb298158
+source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
 workflow-type: tm+mt
 source-wordcount: '13205'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Wanneer een gebruiker in bulk bewerkingstaken of kwesties is en een team toewijs
 
 &quot;[!UICONTROL Let's try that again - The following error occurred: teamAssignments must be either a list of objects or a list of IDs]&quot;
 
-**[!UICONTROL Failed to upload file]&quot;-fout**
+**&quot;[!UICONTROL Failed to upload file]&quot;-fout**
 
 *Documenten*
 
