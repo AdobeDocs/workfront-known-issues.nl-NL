@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
+source-git-commit: 43639b335e2cc9b7c5e9ab96a4ec0642947270f2
 workflow-type: tm+mt
-source-wordcount: '1341'
+source-wordcount: '1328'
 ht-degree: 0%
 
 ---
@@ -165,7 +165,6 @@ ht-degree: 0%
    + Opgeloste problemen in [!DNL Workfront] Proef {#proof-resolved}
       + [[!DNL Workfront Proof]: Gebieden van [!DNL Workfront Proof] niet bijwerken wanneer een proefdruk wordt gemaakt, verplaatst of gearchiveerd](known-issues-workfront-proof/resolved-issues-proof/proof-areas-not-update-when-proof-moved.md)
       + [Proefdrukken: Proefdrukken worden weergegeven als &quot;[!UICONTROL Generating proof]&quot; voor te lange tijd](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
-      + [Gebruiker kan zichzelf niet verplaatsen naar een ander proefgebied](known-issues-workfront-proof/resolved-issues-proof/user-cannot-move-self-to-another-stage-of-a-proof.md)
 
 
 + [!DNL Adobe Workfront Fusion] {#fusion}
@@ -183,7 +182,6 @@ ht-degree: 0%
       + [[!DNL Workfront Fusion]: 502 fout wanneer het scenario een module omvat die proefdrukbesluiten in Workfront controleert](known-issues-workfront-fusion/fusion-502-error-when-checking-proof-decision.md)
       + [[!DNL Workfront Fusion] Help-koppelingen in de app leiden niet tot specifieke Help-pagina&#39;s](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
    + Opgeloste problemen in [!DNL Workfront Fusion] {#fusion-resolved}
-      + [401 fout op [!DNL Workfront] modules](known-issues-workfront-fusion/resolved-issues-fusion/401-error-on-workfront-modules.md)
       + [Gegevens uit aangepaste formulieren niet beschikbaar in [!DNL Workfront Fusion] [!DNL Workfront] modules](known-issues-workfront-fusion/resolved-issues-fusion/data-from-custom-forms-not-available.md)
 
 + [!UICONTROL Adobe Workfront Goals] {#goals}
