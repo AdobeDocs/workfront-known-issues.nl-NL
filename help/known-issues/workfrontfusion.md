@@ -3,9 +3,9 @@ title: Bekende problemen in [!DNL Adobe Workfront Fusion]
 description: Bekende problemen gemeld voor [!DNL Adobe Workfront Fusion]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
+source-git-commit: 323f4e42b6b0093858542ada3812f9a630bd3a5f
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Fusion]: Fout bij het weergeven van een fout in de uitvoeringsgeschiedenis van een scenario](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md) | 19 oktober 2022 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] Help-koppelingen in de app leiden niet tot specifieke Help-pagina&#39;s](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | 2 augustus 2022 |
 
 {style=&quot;table-layout:auto&quot;}
