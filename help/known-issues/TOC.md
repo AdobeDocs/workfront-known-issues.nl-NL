@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: 43639b335e2cc9b7c5e9ab96a4ec0642947270f2
+source-git-commit: 63a50bd96799fb0c5338119dc4283100b0b01582
 workflow-type: tm+mt
-source-wordcount: '1328'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Aangepaste formulieren: [!UICONTROL HOUR] functie in berekende velden UTC gebruikt](known-issues-workfront/wf-custom-form-hours-use-utc.md)
       + [Stijl: Taken die via bulkbewerking zijn toegewezen, worden niet weergegeven op de achterstand van het team](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md)
       + [Rapporten: Gebruiksgegevens van rapport worden niet bijgewerkt](known-issues-workfront/wf-reports-usage-not-updating.md)
       + [Navigatie: Kan objecten niet vastzetten](known-issues-workfront/wf-navigation-cannot-pin-objects.md)

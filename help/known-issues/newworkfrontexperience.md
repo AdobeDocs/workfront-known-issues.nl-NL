@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
+source-git-commit: 63a50bd96799fb0c5338119dc4283100b0b01582
 workflow-type: tm+mt
-source-wordcount: '515'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Aangepaste formulieren: [!UICONTROL HOUR] functie in berekende velden UTC gebruikt](known-issues-workfront/wf-custom-form-hours-use-utc.md) | 24 oktober 2022 |
 | [Documenten: Koppeling met externe documentaanvraag leidt tot aanmeldingspagina](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 20 oktober 2022 |
 | [[!UICONTROL Boards]: [!UICONTROL Boards] pagina wordt niet geladen](known-issues-workfront/wf-boards-boards-do-not-load.md) | 20 oktober 2022 |
 | [Rapporten: Gebruiksgegevens van rapport worden niet bijgewerkt](known-issues-workfront/wf-reports-usage-not-updating.md) | 19 oktober 2022 |
