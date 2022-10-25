@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
+source-git-commit: d95e66921c74e55ea5a8c6e926ed61e2c85174ed
 workflow-type: tm+mt
-source-wordcount: '13205'
+source-wordcount: '13339'
 ht-degree: 0%
 
 ---
@@ -30,6 +30,28 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2022.
 Voor onderhoudsupdates vóór 2022, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in oktober 2022
+
++++**(Geplande) onderhoudsupdate op 27 oktober 2022**
+
+**[!UICONTROL HOUR]functie in berekende velden UTC gebruikt**
+
+*Aangepaste formulieren*
+
+Wanneer een berekend veld de [!UICONTROL HOUR] de functie waarden retourneert op basis van UTC in plaats van de verwachte tijdzone. Daarom zijn berekeningen op basis van de UUR-waarde onjuist.
+
+**[!UICONTROL Quick filter]retourneert geen resultaten bij het zoeken naar teams**
+
+*Lijsten*
+
+Wanneer een gebruiker de opdracht [!UICONTROL Quick filter] in een lijst om naar een team te zoeken, keert het ingaan van de naam van het team geen resultaten terug, zelfs wanneer het team in de lijst (zoals in [!UICONTROL Assigned to] veld). Het woord &quot;[!UICONTROL team]&quot; retourneert ook geen resultaten.
+
+**Alle gebruikers die worden vermeld in [!UICONTROL Workload Balancer] wanneer u een deelbare koppeling gebruikt in [!DNL Safari] browser**
+
+*[!UICONTROL Workload Balancer]*
+
+Wanneer een gebruiker een deelbare koppeling naar de [!UICONTROL Workload Balancer] tijdens het gebruik van een [!DNL Safari] browser, zien zij alle gebruikers eerder dan enkel de leden van het vermelde team.
+
++++
 
 +++**Onderhoudsupdate op 20 oktober 2022**
 
