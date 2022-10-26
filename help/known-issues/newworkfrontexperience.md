@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: b2994f5f4dfd018d18d3a7f45dae01bb8e9023f6
+source-git-commit: 3a5a53719785b587e8098a4376847cecdf46eee6
 workflow-type: tm+mt
-source-wordcount: '529'
+source-wordcount: '534'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Boards]: [!UICONTROL Intake] kolomzoekopdracht is niet effectief](known-issues-workfront/wf-boards-search-returns-no-results.md) | 26 oktober 2022 |
 | [[!UICONTROL Setup]: Lijsten worden langzaam geladen in [!UICONTROL Setup]](known-issues-workfront/wf-setup-lists-load-slowly.md) | 24 oktober 2022 |
 | [Stijl: Taken die via bulkbewerking zijn toegewezen, worden niet weergegeven op de achterstand van het team](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md) | 20 oktober 2022 |
 | [Proefdrukken: In het afdrukoverzicht worden niet alle proefdrukpagina&#39;s weergegeven](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 oktober 2022 |

@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: b2994f5f4dfd018d18d3a7f45dae01bb8e9023f6
+source-git-commit: 3a5a53719785b587e8098a4376847cecdf46eee6
 workflow-type: tm+mt
-source-wordcount: '1340'
+source-wordcount: '1344'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Boards]: [!UICONTROL Intake] kolomzoekopdracht is niet effectief](known-issues-workfront/wf-boards-search-returns-no-results.md)
       + [[!UICONTROL Setup]: Lijsten worden langzaam geladen in [!UICONTROL Setup]](known-issues-workfront/wf-setup-lists-load-slowly.md)
       + [Aangepaste formulieren: [!UICONTROL HOUR] functie in berekende velden UTC gebruikt](known-issues-workfront/wf-custom-form-hours-use-utc.md)
       + [Stijl: Taken die via bulkbewerking zijn toegewezen, worden niet weergegeven op de achterstand van het team](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md)
