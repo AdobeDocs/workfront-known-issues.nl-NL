@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: 3a5a53719785b587e8098a4376847cecdf46eee6
+source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
 workflow-type: tm+mt
-source-wordcount: '1344'
+source-wordcount: '1379'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Projecten: De kwesties van prestaties en foutenmelding wanneer het creëren van een project van een malplaatje](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
+      + [Verzoeken: Kan meer dan 100 Onderwerpen van de Rij op een pagina bekijken niet](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md)
+      + [Problemen: Bij linkernavigatie worden &quot;(0)&quot;-problemen weergegeven wanneer er problemen optreden](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
+      + [Verzoeken: [!UICONTROL Email Queue Settings] niet beschikbaar](known-issues-workfront/wf-requests-email-queue-details-not-available.md)
       + [[!UICONTROL Boards]: [!UICONTROL Intake] kolomzoekopdracht is niet effectief](known-issues-workfront/wf-boards-search-returns-no-results.md)
       + [[!UICONTROL Setup]: Lijsten worden langzaam geladen in [!UICONTROL Setup]](known-issues-workfront/wf-setup-lists-load-slowly.md)
       + [Aangepaste formulieren: [!UICONTROL HOUR] functie in berekende velden UTC gebruikt](known-issues-workfront/wf-custom-form-hours-use-utc.md)

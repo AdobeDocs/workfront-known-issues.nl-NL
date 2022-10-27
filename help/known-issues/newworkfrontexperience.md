@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 3a5a53719785b587e8098a4376847cecdf46eee6
+source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
 workflow-type: tm+mt
-source-wordcount: '534'
+source-wordcount: '555'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,9 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Verzoeken: Kan meer dan 100 Onderwerpen van de Rij op een pagina bekijken niet](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 27 oktober 2022 |
+| [Problemen: Bij linkernavigatie worden &quot;(0)&quot;-problemen weergegeven wanneer er problemen optreden](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md) | 27 oktober 2022 |
+| [Verzoeken: [!UICONTROL Email Queue Settings] niet beschikbaar](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | 27 oktober 2022 |
 | [[!UICONTROL Boards]: [!UICONTROL Intake] kolomzoekopdracht is niet effectief](known-issues-workfront/wf-boards-search-returns-no-results.md) | 26 oktober 2022 |
 | [[!UICONTROL Setup]: Lijsten worden langzaam geladen in [!UICONTROL Setup]](known-issues-workfront/wf-setup-lists-load-slowly.md) | 24 oktober 2022 |
 | [Stijl: Taken die via bulkbewerking zijn toegewezen, worden niet weergegeven op de achterstand van het team](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md) | 20 oktober 2022 |
@@ -40,7 +43,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [Aangepaste formulieren: [!UICONTROL HOUR] functie in berekende velden UTC gebruikt](known-issues-workfront/wf-custom-form-hours-use-utc.md) | 24 oktober 2022 |
+| [Projecten: De kwesties van prestaties en foutenmelding wanneer het creëren van een project van een malplaatje](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 27 oktober 2022 |
 | [Documenten: Koppeling met externe documentaanvraag leidt tot aanmeldingspagina](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 20 oktober 2022 |
 | [[!UICONTROL Boards]: [!UICONTROL Boards] pagina wordt niet geladen](known-issues-workfront/wf-boards-boards-do-not-load.md) | 20 oktober 2022 |
 | [Rapporten: Gebruiksgegevens van rapport worden niet bijgewerkt](known-issues-workfront/wf-reports-usage-not-updating.md) | 19 oktober 2022 |
@@ -50,7 +53,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | [Rapporten: De optie &quot;Verplaatsen naar&quot; is niet beschikbaar in rapporten over problemen](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 13 oktober 2022 |
 | [Stijl: Problemen met taken die aan een herhaling zijn toegevoegd](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md) | 13 oktober 2022 |
 | [Aangepaste formulieren: Fout bij het instellen van een berekend veld](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 13 oktober 2022 |
-| [Lijsten: [!UICONTROL Quick filter] retourneert geen resultaten bij het zoeken naar teams](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md) | 12 oktober 2022 |
 | [Navigatie: Kan een pagina niet opnieuw vastzetten nadat het punt is verwijderd](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md) | 11 oktober 2022 |
 | [Taken: Uren worden niet opgeslagen bij het invoeren van uren in de taak [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 30 september 2022 |
 | [Integraties: Fout bij verzenden van verzoek van [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 augustus 2022 |

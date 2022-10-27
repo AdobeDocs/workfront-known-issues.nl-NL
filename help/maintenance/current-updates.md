@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: d607895a61242dc6a9a9ddfc7c728fe3e29c29f6
+source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
 workflow-type: tm+mt
-source-wordcount: '13446'
+source-wordcount: '13445'
 ht-degree: 0%
 
 ---
@@ -31,19 +31,7 @@ Voor onderhoudsupdates vóór 2022, zie [Vorige onderhoudsupdates](#previous-mai
 
 ## Updates in oktober 2022
 
-+++**(Geplande) onderhoudsupdate op 27 oktober 2022**
-
-**Kan een pagina niet opnieuw vastzetten nadat het punt is verwijderd**
-
-*Navigatie*
-
->[!NOTE]
->
->Dit probleem is opgelost in Voorvertoning op 13 oktober 2022. Het zal op 27 oktober 2022 in productie worden vastgesteld.
-
-Wanneer een gebruiker &quot;[!UICONTROL Remove pin]&quot; op een punt, ontvangt een bericht over de verwijdering en probeert het punt te vervangen door te klikken op &quot;[!UICONTROL Undo]&quot; in het bericht wordt het punt niet vervangen in de bovenste navigatie en wordt het evenmin toegevoegd aan de lijst met punten onder de [!UICONTROL More pins] lijst (het menu met drie punten in het menu [!UICONTROL Pins] gebied).
-
-Als een gebruiker de pagina opnieuw vastzet door naar de pagina te gaan en deze vast te zetten, wordt het punt niet gemaakt en kan de gebruiker de pagina niet vastzetten.
++++**Onderhoudsupdate op 27 oktober 2022**
 
 **[!UICONTROL HOUR]functie in berekende velden UTC gebruikt**
 
@@ -56,6 +44,18 @@ Wanneer een berekend veld de [!UICONTROL HOUR] de functie waarden retourneert op
 *Lijsten*
 
 Wanneer een gebruiker de opdracht [!UICONTROL Quick filter] in een lijst om naar een team te zoeken, keert het ingaan van de naam van het team geen resultaten terug, zelfs wanneer het team in de lijst (zoals in [!UICONTROL Assigned to] veld). Het woord &quot;[!UICONTROL team]&quot; retourneert ook geen resultaten.
+
+**Kan een pagina niet opnieuw vastzetten nadat het punt is verwijderd**
+
+*Navigatie*
+
+>[!NOTE]
+>
+>Dit probleem is opgelost in Voorvertoning op 13 oktober 2022. Het zal op 27 oktober 2022 in productie worden vastgesteld.
+
+Wanneer een gebruiker &quot;[!UICONTROL Remove pin]&quot; op een punt, ontvangt een bericht over de verwijdering en probeert het punt te vervangen door te klikken op &quot;[!UICONTROL Undo]&quot; in het bericht wordt het punt niet vervangen in de bovenste navigatie en wordt het evenmin toegevoegd aan de lijst met punten onder de [!UICONTROL More pins] lijst (het menu met drie punten in het menu [!UICONTROL Pins] gebied).
+
+Als een gebruiker de pagina opnieuw vastzet door naar de pagina te gaan en deze vast te zetten, wordt het punt niet gemaakt en kan de gebruiker de pagina niet vastzetten.
 
 **Alle gebruikers die worden vermeld in [!UICONTROL Workload Balancer] wanneer u een deelbare koppeling gebruikt in [!DNL Safari] browser**
 
