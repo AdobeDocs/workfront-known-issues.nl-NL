@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
+source-git-commit: 9d484f963278ae1e7b5df10379ed2d0c7b9caade
 workflow-type: tm+mt
-source-wordcount: '1379'
+source-wordcount: '1385'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Proefdrukken: Het genereren van proefdrukken is uiterst traag](known-issues-workfront/wf-proofs-slow-proof-generation.md)
       + [Projecten: De kwesties van prestaties en foutenmelding wanneer het creëren van een project van een malplaatje](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
       + [Verzoeken: Kan meer dan 100 Onderwerpen van de Rij op een pagina bekijken niet](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md)
       + [Problemen: Bij linkernavigatie worden &quot;(0)&quot;-problemen weergegeven wanneer er problemen optreden](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)

@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
+source-git-commit: 9d484f963278ae1e7b5df10379ed2d0c7b9caade
 workflow-type: tm+mt
-source-wordcount: '555'
+source-wordcount: '562'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proefdrukken: Het genereren van proefdrukken is uiterst traag](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 oktober 2022 |
 | [Verzoeken: Kan meer dan 100 Onderwerpen van de Rij op een pagina bekijken niet](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 27 oktober 2022 |
 | [Problemen: Bij linkernavigatie worden &quot;(0)&quot;-problemen weergegeven wanneer er problemen optreden](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md) | 27 oktober 2022 |
 | [Verzoeken: [!UICONTROL Email Queue Settings] niet beschikbaar](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | 27 oktober 2022 |
