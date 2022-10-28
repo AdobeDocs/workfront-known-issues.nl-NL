@@ -2,19 +2,15 @@
 title: "Aangepaste formulieren: De functie van het UUR in berekende gebieden gebruikt UTC"
 description: "Wanneer een berekend veld de functie UUR bevat, retourneert de functie waarden die zijn gebaseerd op UTC in plaats van op de verwachte tijdzone. Daarom zijn berekeningen op basis van de UUR-waarde onjuist."
 hidefromtoc: true
-source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
+source-git-commit: c2fd207043d8d813dbea4695198b49a4cda5fbc2
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
 
 # Aangepaste formulieren: [!UICONTROL HOUR] functie in berekende velden UTC gebruikt
-
->[!NOTE]
->
->Dit probleem is op 27 oktober 2022 opgelost.
 
 Wanneer een berekend veld de [!UICONTROL HOUR] de functie waarden retourneert op basis van UTC in plaats van de verwachte tijdzone. Daarom zijn berekeningen op basis van de UUR-waarde onjuist.
 
