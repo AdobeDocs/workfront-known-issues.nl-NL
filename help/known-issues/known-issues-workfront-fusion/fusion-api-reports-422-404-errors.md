@@ -1,16 +1,16 @@
 ---
-title: "[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Custom API Call] 404 of 422 fouten"
+title: "[!DNL Workfront Fusion]: [!DNL Workfront] > [!UICONTROL Custom API Call] 404 of 422 fouten"
 description: "De module Workfront > Custom API retourneert een fout."
 hidefromtoc: true
-source-git-commit: 60ebb7b0b5e9436da8d9f6b1b9c0057c4d5f3e1b
+source-git-commit: f5a953dafaa758e941e56595e9b1cabd6dc87f15
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '39'
 ht-degree: 0%
 
 ---
 
 
-# [!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Custom API Call] 404- of 422-fouten retourneren
+# [!DNL Workfront Fusion]: [!DNL Workfront] > [!UICONTROL Custom API Call] 404- of 422-fouten retourneren
 
 >[!NOTE]
 >

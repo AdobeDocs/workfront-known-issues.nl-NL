@@ -2,7 +2,7 @@
 title: Workfront-onderhoudsupdates voor 2021
 description: Historie van 2021 onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
-source-git-commit: 7fa90198186a7b0f392683d432a7da0424943da2
+source-git-commit: 65b26c28f83d32aa44e23ca5820bb9a8d8267935
 workflow-type: tm+mt
 source-wordcount: '8963'
 ht-degree: 0%
@@ -335,7 +335,7 @@ De filters in de [!UICONTROL Workload Balancer] nu ondersteuning voor aangepaste
 
 _[!UICONTROL Workload Balancer]_
 
-We hebben de filteroperatoren bijgewerkt tijdens het filteren van de[!UICONTROL  Workload Balancer] gebieden met [!UICONTROL Duration].
+We hebben de filteroperatoren bijgewerkt tijdens het filteren van de [!UICONTROL Workload Balancer] gebieden met [!UICONTROL Duration].
 
 +++
 
