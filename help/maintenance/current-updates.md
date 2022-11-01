@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c2fd207043d8d813dbea4695198b49a4cda5fbc2
+source-git-commit: 57105cfb344a29ae7eb7b64c932d735198f135f6
 workflow-type: tm+mt
-source-wordcount: '13444'
+source-wordcount: '13494'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,32 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2022.
 -->
 
 Voor onderhoudsupdates vóór 2022, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
+
+## Updates in oktober 2022
+
++++**Onderhoudsupdate op 3 november 2022**
+
+**Fouten bij het openen van instellingen voor e-mailmeldingen**
+
+*Meldingen*
+
+>[!NOTE]
+>
+>Dit probleem doet zich zowel voor in de productieomgeving als in de voorbeeldomgeving.
+
+Wanneer een gebruiker de instellingen voor e-mailmeldingen probeert te wijzigen, wordt mogelijk een van de volgende fouten weergegeven:
+
+* &quot;[!UICONTROL Let's try that again. Whoops! Something went wrong. Please contact [!DNL Workfront] so we can figure out what went wrong and fix it.]&quot;
+
+* &quot;[!UICONTROL Failed to fetch email notification]&quot;
+
+Dit is gemeld op de volgende gebieden:
+
+* [!UICONTROL Setup] > [!UICONTROL Email notifications]
+* [!UICONTROL User] > [!UICONTROL Edit user]
+* [!UICONTROL Groups]
+
++++
 
 ## Updates in oktober 2022
 
