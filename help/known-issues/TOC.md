@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: ed5bd591f4be66631dba19d666b7d280eda1e1ab
+source-git-commit: d2d2ae6585d64cfc68d90c17f72d5ce47f7168ab
 workflow-type: tm+mt
-source-wordcount: '1416'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Verzoeken: Het bericht &#39;In&#39; bij het bewerken van de aanvraagwachtrij](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
       + [Lijsten: Foutberichten worden niet veroorzaakt door inline bewerkingsfouten van de gebruiker](known-issues-workfront/wf-lists-error-messages-not-generated.md)
       + [Zoeken: De zoekfunctie is bijzonder traag](known-issues-workfront/wf-search-basic-search-is-slow.md)
       + [[!DNL Workfront Fusion]: 404 fouten op [!DNL Workfront] modules](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)

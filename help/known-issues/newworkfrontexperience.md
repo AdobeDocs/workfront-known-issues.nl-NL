@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: ed5bd591f4be66631dba19d666b7d280eda1e1ab
+source-git-commit: d2d2ae6585d64cfc68d90c17f72d5ce47f7168ab
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Verzoeken: Het bericht &#39;In&#39; bij het bewerken van de aanvraagwachtrij](known-issues-workfront/wf-requests-error-message-when-editing-queue.md) | 2 november 2022 |
 | [Lijsten: Foutberichten worden niet veroorzaakt door inline bewerkingsfouten van de gebruiker](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 2 november 2022 |
 | [Zoeken: De zoekfunctie is bijzonder traag](known-issues-workfront/wf-search-basic-search-is-slow.md) | 1 november 2022 |
 | [Proefdrukken: Het genereren van proefdrukken is uiterst traag](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 oktober 2022 |
