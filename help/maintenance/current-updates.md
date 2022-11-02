@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 57105cfb344a29ae7eb7b64c932d735198f135f6
+source-git-commit: ed5bd591f4be66631dba19d666b7d280eda1e1ab
 workflow-type: tm+mt
-source-wordcount: '13494'
+source-wordcount: '13537'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,12 @@ Voor onderhoudsupdates vóór 2022, zie [Vorige onderhoudsupdates](#previous-mai
 ## Updates in oktober 2022
 
 +++**Onderhoudsupdate op 3 november 2022**
+
+**Wijzig de namen van de secties &quot;Planning&quot; en &quot;Planning&quot; voor teams en projecten in de lay-outsjabloon**
+
+*Lay-outsjablonen*
+
+De tabbladen &quot;Planning&quot; en &quot;Planning&quot; die beschikbaar zijn om in een lay-outsjabloon aan het linkerdeelvenster van een team of project toe te voegen, hebben de naam &quot;Werklastbalans&quot; gewijzigd.
 
 **Fouten bij het openen van instellingen voor e-mailmeldingen**
 
