@@ -2,9 +2,9 @@
 title: "Meldingen: Fouten bij het openen van instellingen voor e-mailmeldingen"
 description: "Wanneer een gebruiker de instellingen voor e-mailmeldingen probeert te wijzigen, wordt mogelijk een fout weergegeven."
 hidefromtoc: true
-source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
+source-git-commit: 047fff767e0eb5e0eff72640ddeb7626276afb7c
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Dit probleem doet zich zowel voor in de productieomgeving als in de voorbeeldomgeving.
+>Dit probleem is op 3 november 2022 opgelost.
 
 Wanneer een gebruiker de instellingen voor e-mailmeldingen probeert te wijzigen, wordt mogelijk een van de volgende fouten weergegeven:
 

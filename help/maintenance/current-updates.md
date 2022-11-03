@@ -2,7 +2,7 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ed5bd591f4be66631dba19d666b7d280eda1e1ab
+source-git-commit: 047fff767e0eb5e0eff72640ddeb7626276afb7c
 workflow-type: tm+mt
 source-wordcount: '13537'
 ht-degree: 0%
@@ -29,7 +29,7 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2022.
 
 Voor onderhoudsupdates vóór 2022, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
-## Updates in oktober 2022
+## Updates in november 2022
 
 +++**Onderhoudsupdate op 3 november 2022**
 
