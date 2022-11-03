@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 047fff767e0eb5e0eff72640ddeb7626276afb7c
+source-git-commit: d425d85b81c88bf301fce143b7cbed55c3c64cbb
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,8 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Taken: Kan niet wijzigen [!UICONTROL Planned Completion Date] van een taak](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md) | 3 november 2022 |
+| [[!DNL Workfront]: 500 error when making changes to a [!DNL Workfront] object](known-issues-workfront/wf-500-error-when-making-changes.md) | 3 november 2022 |
 | [Aangepaste formulieren: [!UICONTROL HOUR] functie in berekende velden UTC gebruikt](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 28 oktober 2022 |
 | [Projecten: De kwesties van prestaties en foutenmelding wanneer het creëren van een project van een malplaatje](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 27 oktober 2022 |
 | [Documenten: Koppeling met externe documentaanvraag leidt tot aanmeldingspagina](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 20 oktober 2022 |

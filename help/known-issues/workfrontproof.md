@@ -3,9 +3,9 @@ title: Bekende problemen in [!DNL Adobe Workfront Proof]
 description: Bekende problemen gemeld voor [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 9d484f963278ae1e7b5df10379ed2d0c7b9caade
+source-git-commit: d425d85b81c88bf301fce143b7cbed55c3c64cbb
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Proof]: Kan geen interactieve proefdruk openen](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md) | 3 november 2022 |
 | [Documenten: Koppeling met externe documentaanvraag leidt tot aanmeldingspagina](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 20 oktober 2022 |
 | [Proefdrukken: Het tekstvak Nieuwe ontvangers voor proefdrukken is te klein](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 18 oktober 2022 |
 

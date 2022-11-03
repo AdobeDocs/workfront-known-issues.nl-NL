@@ -1,7 +1,7 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: d2d2ae6585d64cfc68d90c17f72d5ce47f7168ab
+source-git-commit: 5c3f91350bc1a1e2b563d4d3fc6660fc49f38075
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Taken: Kan niet wijzigen [!UICONTROL Planned Completion Date] van een taak](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
+      + [Workfront: 500-fout bij het aanbrengen van wijzigingen in een Workfront-object](known-issues-workfront/wf-500-error-when-making-changes.md)
       + [Verzoeken: Het bericht &#39;In&#39; bij het bewerken van de aanvraagwachtrij](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
       + [Lijsten: Foutberichten worden niet veroorzaakt door inline bewerkingsfouten van de gebruiker](known-issues-workfront/wf-lists-error-messages-not-generated.md)
       + [Zoeken: De zoekfunctie is bijzonder traag](known-issues-workfront/wf-search-basic-search-is-slow.md)
@@ -149,6 +151,7 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [Bekende problemen in [!DNL Workfront Proof]](workfrontproof.md)
    + Huidige problemen in [!DNL Workfront Proof] {#proof-current}
+      + [[!DNL Workfront Proof]: Kan geen interactieve proefdruk openen](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md)
       + [Proefdrukken: In het afdrukoverzicht worden niet alle proefdrukpagina&#39;s weergegeven](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [Proefdrukken: Het bewijs wordt niet gedeeld aan gebruikers op het Proef Werkschema](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [[!DNL Workfront Proof]: Lege pagina&#39;s bij weergave van een proefdruk op meerdere pagina&#39;s](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
