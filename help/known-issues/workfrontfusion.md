@@ -3,7 +3,7 @@ title: Bekende problemen in [!DNL Adobe Workfront Fusion]
 description: Bekende problemen gemeld voor [!DNL Adobe Workfront Fusion]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 57105cfb344a29ae7eb7b64c932d735198f135f6
+source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
@@ -36,8 +36,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: Array elements in [!UICONTROL Iterator] moduleweergave als &quot;[!UICONTROL object Object]&quot;](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md) | 1 november 2022 |
-| [[!DNL Workfront Fusion]: Fout bij het weergeven van een fout in de uitvoeringsgeschiedenis van een scenario](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md) | 19 oktober 2022 |
+| **** | [[!DNL Workfront Fusion]: Array elements in [!UICONTROL Iterator] moduleweergave als &quot;[!UICONTROL object Object]&quot;](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md) | 1 november 2022 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] Help-koppelingen in de app leiden niet tot specifieke Help-pagina&#39;s](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | 2 augustus 2022 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -48,6 +47,7 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Fusion]: Fout bij het weergeven van een fout in de uitvoeringsgeschiedenis van een scenario](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md) | 4 november 2022 |
 | [[!DNL Workfront Fusion]: Fout &quot;Kan verbinding niet verifiëren&quot;](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | 29 september 2022 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] module retourneert een fout van 404 zonder meer informatie](known-issues-workfront-fusion/fusion-404-error-no-description.md) | 9 september 2022 |
 

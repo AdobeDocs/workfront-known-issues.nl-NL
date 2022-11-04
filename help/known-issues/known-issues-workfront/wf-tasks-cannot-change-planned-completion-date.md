@@ -2,15 +2,19 @@
 title: "Taken: Kan geplande voltooiingsdatum van een taak niet wijzigen."
 description: "Wanneer een gebruiker probeert de Geplande Datum van Voltooiing van een taak te veranderen, reageert het gebied niet. "
 hidefromtoc: true
-source-git-commit: d425d85b81c88bf301fce143b7cbed55c3c64cbb
+source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
 
 # Taken: Kan niet wijzigen [!UICONTROL Planned Completion Date] van een taak
+
+>[!NOTE]
+>
+>Deze kwestie is gesloten omdat het zoals ontworpen werkt.
 
 Wanneer een gebruiker probeert de [!UICONTROL Planned Completion Date] van een taak reageert het veld niet.
 

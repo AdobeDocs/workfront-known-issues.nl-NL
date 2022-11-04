@@ -3,9 +3,9 @@ title: Bekende problemen in [!DNL Adobe Workfront Proof]
 description: Bekende problemen gemeld voor [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: d425d85b81c88bf301fce143b7cbed55c3c64cbb
+source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -24,8 +24,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [Proefdrukken: Het genereren van proefdrukken is uiterst traag](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 oktober 2022 |
-| [Proefdrukken: In het afdrukoverzicht worden niet alle proefdrukpagina&#39;s weergegeven](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 oktober 2022 |
+| Geen |  |
 
 {style=&quot;table-layout:auto&quot;}
 
