@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 047fff767e0eb5e0eff72640ddeb7626276afb7c
+source-git-commit: a1758017f1fa00903c057f6f3d51bc8ac81c1f02
 workflow-type: tm+mt
-source-wordcount: '13537'
+source-wordcount: '13837'
 ht-degree: 0%
 
 ---
@@ -30,6 +30,77 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2022.
 Voor onderhoudsupdates vóór 2022, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in november 2022
+
++++**Onderhoudsupdate (Hot Fix) op 4 november 2022**
+
+**Problemen met taken die aan een herhaling zijn toegevoegd**
+
+*Agile*
+
+De volgende problemen zijn gemeld met betrekking tot kwesties die aan een herhaling zijn toegevoegd:
+
+* Sommige subtaken van een taak die aan een herhaling is toegevoegd, worden niet weergegeven op de knop [!UICONTROL Iteration] pagina.
+* Wanneer een gebruiker een ontbrekende taak aan de herhaling probeert toe te voegen, wordt de taak niet toegevoegd en ziet de gebruiker het volgende bericht:
+
+   &quot;[!UICONTROL The following error occurred: None of the selected items could be moved, because they are not assigned to an agile team or are not agile items]&quot;
+
+**Taken die via bulkbewerking zijn toegewezen, worden niet weergegeven op de achterstand van het team**
+
+*Agile*
+
+Wanneer een gebruiker taken toewijst aan een team van het Trommel door bulkhet uitgeven te gebruiken, verschijnen die taken niet op de achterstand van het team.
+
+Deze kwestie heeft geen gevolgen voor Kanbanteams.
+
+**&quot;[!UICONTROL New proof recipients]&quot; tekstvak is te klein**
+
+*Proefdrukken*
+
+Wanneer een gebruiker een proefdruk weergeeft en de proefdruk probeert te delen via de [!UICONTROL Sharing] tab, de &quot;[!UICONTROL New proof reciepients]&quot; het tekstvak is erg klein. De gebruiker kan een naam typen, maar omdat het vak zo klein is, loopt de tekst om op een manier die moeilijk leesbaar is.
+
+**Gebruiksgegevens van rapport worden niet bijgewerkt**
+
+*Rapporten*
+
+Wanneer een gebruiker een rapport weergeeft, wordt de informatie bij Laatst weergegeven, zoals de datum van laatste weergave en Laatst weergegeven door, niet bijgewerkt. Dit betekent dat eventuele gebruiksinformatie mogelijk onjuist is.
+
+Dit gedrag is gemeld wanneer de gebruiker tot het rapport op de volgende manieren toegang heeft:
+
+* Zoeken
+* Punten
+* Favorieten
+* Recenten
+
+Als u rapporten opent via een dashboard, worden de gegevens in de laatste weergave bijgewerkt.
+
+**[!DNL Workfront]: 500 fout bij het aanbrengen van wijzigingen in een [!DNL Workfront] object**
+
+*[!DNL Workfront]*
+
+Wanneer een gebruiker wijzigingen in een [!DNL Workfront] -object, de wijzigingen worden niet opgeslagen en de gebruiker ziet de volgende fout:
+
+&quot;[!UICONTROL 500: Database error due to invalid SQL statement.]&quot;
+
+Dit is gemeld in de volgende situaties:
+
+* De status van een object wijzigen
+* Tijdlijnen opnieuw berekenen
+* Een sjabloon koppelen
+* Registratietijd
+
++++
+
++++**[!DNL Workfront Fusion]Onderhoudsupdate op 3 november 2022**
+
+**Fout bij [!UICONTROL apiKey] in [!DNL Workfront] > [!UICONTROL Watch Events] module**
+
+*[!DNL Workfront Fusion]*
+
+Wanneer een gebruiker een webhaak probeert toe te voegen aan de [!DNL Workfront] > [!UICONTROL Watch Events] ontvangen ze de volgende fout:
+
+&quot;[!UICONTROL The apiKey provided was empty or deemed invalid.]&quot;
+
++++
 
 +++**Onderhoudsupdate op 3 november 2022**
 

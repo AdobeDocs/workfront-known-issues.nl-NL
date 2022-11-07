@@ -2,15 +2,19 @@
 title: "Agile: Problemen met taken die aan een herhaling zijn toegevoegd"
 description: "Er zijn meerdere meldingen gedaan over kwesties die aan een herhaling zijn toegevoegd"
 hidefromtoc: true
-source-git-commit: 58b95fb905fc12cc459fbdd021fee3c92536d203
+source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
 
 # Stijl: Problemen met taken die aan een herhaling zijn toegevoegd
+
+>[!NOTE]
+>
+>Deze kwestie is vastgesteld op 4 november 2022.
 
 De volgende problemen zijn gemeld met betrekking tot kwesties die aan een herhaling zijn toegevoegd:
 
