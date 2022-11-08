@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: a1758017f1fa00903c057f6f3d51bc8ac81c1f02
+source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
 workflow-type: tm+mt
-source-wordcount: '13837'
+source-wordcount: '13870'
 ht-degree: 0%
 
 ---
@@ -30,6 +30,18 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2022.
 Voor onderhoudsupdates vóór 2022, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in november 2022
+
++++**(Geplande) onderhoudsupdate op 10 november 2022**
+
+**Kan geen interactieve proefdruk openen**
+
+*Workfront Proof*
+
+Wanneer een gebruiker een interactieve proef probeert te openen, opent de proef niet en de gebruiker ziet het volgende bericht:
+
+&quot;[!UICONTROL Proof not loaded (501) Try again]&quot;
+
++++
 
 +++**Onderhoudsupdate (Hot Fix) op 4 november 2022**
 

@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
+source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
 workflow-type: tm+mt
-source-wordcount: '1451'
+source-wordcount: '1458'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Taken: Opsommingbewerkingstaken wijzigen taaktoewijzingen](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
       + [Stijl: De taak heeft een Kanban-achterstand van 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
       + [Taken: Kan niet wijzigen [!UICONTROL Planned Completion Date] van een taak](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
       + [Workfront: 500-fout bij het aanbrengen van wijzigingen in een Workfront-object](known-issues-workfront/wf-500-error-when-making-changes.md)
