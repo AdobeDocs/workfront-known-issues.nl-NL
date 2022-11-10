@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
+source-git-commit: 813e6bb26b612f016ad7df071fa7f6690fe528cf
 workflow-type: tm+mt
-source-wordcount: '1458'
+source-wordcount: '1467'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Lay-outsjablonen: Door een item te verbergen, wordt het onjuiste item verborgen](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
       + [Taken: Opsommingbewerkingstaken wijzigen taaktoewijzingen](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
       + [Stijl: De taak heeft een Kanban-achterstand van 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
       + [Taken: Kan niet wijzigen [!UICONTROL Planned Completion Date] van een taak](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
