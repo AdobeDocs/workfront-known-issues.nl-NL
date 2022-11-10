@@ -2,15 +2,19 @@
 title: "Programma's: Problemen bij het toewijzen van een programmaeigenaar"
 description: "Wanneer een gebruiker een programma maakt en een programmaeigenaar toewijst, treden de problemen op die in dit artikel worden beschreven."
 hidefromtoc: true
-source-git-commit: f7685aec7811e8741440479d083ef13922b73327
+source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
 
 
 # Programma&#39;s: Problemen bij het toewijzen van een [!UICONTROL Program Owner]
+
+>[!NOTE]
+>
+>Deze kwestie is vastgesteld op 7 november 2022.
 
 Wanneer een gebruiker een programma maakt en een [!UICONTROL Program Owner]De volgende problemen doen zich voor:
 

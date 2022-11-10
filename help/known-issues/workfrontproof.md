@@ -3,9 +3,9 @@ title: Bekende problemen in [!DNL Adobe Workfront Proof]
 description: Bekende problemen gemeld voor [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
+source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Proof]: Kan geen interactieve proefdruk openen](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md) | 3 november 2022 |
 | [Documenten: Koppeling met externe documentaanvraag leidt tot aanmeldingspagina](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 20 oktober 2022 |
 
 {style=&quot;table-layout:auto&quot;}

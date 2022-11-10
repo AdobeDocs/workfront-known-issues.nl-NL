@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
+source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
 workflow-type: tm+mt
-source-wordcount: '13870'
+source-wordcount: '13903'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,13 @@ Voor onderhoudsupdates vóór 2022, zie [Vorige onderhoudsupdates](#previous-mai
 
 ## Updates in november 2022
 
-+++**(Geplande) onderhoudsupdate op 10 november 2022**
++++**Onderhoudsupdate op 10 november 2022**
+
+**Opsommingbewerkingstaken wijzigen taaktoewijzingen**
+
+*Taken*
+
+Wanneer een gebruikersbulk om het even welk gebied voor een reeks taken uitgeeft, worden de Taken van de eerste taak toegepast op alle taken. Hierdoor worden vorige toewijzingen verwijderd.
 
 **Kan geen interactieve proefdruk openen**
 

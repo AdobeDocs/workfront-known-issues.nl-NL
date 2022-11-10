@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
+source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
 workflow-type: tm+mt
-source-wordcount: '527'
+source-wordcount: '513'
 ht-degree: 0%
 
 ---
@@ -40,13 +40,11 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [Taken: Opsommingbewerkingstaken wijzigen taaktoewijzingen](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md) | 7 november 2022 |
 | [Lijsten: Foutberichten worden niet veroorzaakt door inline bewerkingsfouten van de gebruiker](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 4 november 2022 |
 | [Verzoeken: Kan meer dan 100 Onderwerpen van de Rij op een pagina bekijken niet](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 4 november 2022 |
 | [Projecten: De kwesties van prestaties en foutenmelding wanneer het creëren van een project van een malplaatje](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 27 oktober 2022 |
 | [Documenten: Koppeling met externe documentaanvraag leidt tot aanmeldingspagina](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 20 oktober 2022 |
 | [Navigatie: Kan objecten niet vastzetten](known-issues-workfront/wf-navigation-cannot-pin-objects.md) | 19 oktober 2022 |
-| [Programma&#39;s: Problemen bij het toewijzen van een [!UICONTROL Program Owner]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md) | 17 oktober 2022 |
 | [Rapporten: De optie &quot;Verplaatsen naar&quot; is niet beschikbaar in rapporten over problemen](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 13 oktober 2022 |
 | [Aangepaste formulieren: Fout bij het instellen van een berekend veld](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 13 oktober 2022 |
 | [Taken: Uren worden niet opgeslagen bij het invoeren van uren in de taak [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 30 september 2022 |
