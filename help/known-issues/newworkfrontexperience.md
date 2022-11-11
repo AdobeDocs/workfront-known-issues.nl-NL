@@ -3,7 +3,7 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 813e6bb26b612f016ad7df071fa7f6690fe528cf
+source-git-commit: 8a0bd10d95cda709d9d934ef1458bb07fc2f335d
 workflow-type: tm+mt
 source-wordcount: '523'
 ht-degree: 0%
@@ -29,7 +29,6 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | [Proefdrukken: Het genereren van proefdrukken is uiterst traag](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 oktober 2022 |
 | [Verzoeken: [!UICONTROL Email Queue Settings] niet beschikbaar](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | 27 oktober 2022 |
 | [Proefdrukken: In het afdrukoverzicht worden niet alle proefdrukpagina&#39;s weergegeven](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 oktober 2022 |
-| [Meldingen: Gebruikers die niet op de hoogte zijn gesteld wanneer zij in een opmerking worden vermeld of die in een opmerking zijn opgenomen](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 29 september 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -60,6 +59,7 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Meldingen: Gebruikers die niet op de hoogte zijn gesteld wanneer zij in een opmerking worden vermeld of die in een opmerking zijn opgenomen](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 11 november 2022 |
 | [API: Kan niet sorteren op dynamische velden](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 31 oktober 2022 |
 | [[!UICONTROL Setup]: Lijsten worden langzaam geladen in [!UICONTROL Setup]](known-issues-workfront/wf-setup-lists-load-slowly.md) | 28 oktober 2022 |
 | [Proefdrukken: Het bewijs wordt niet gedeeld aan gebruikers op het Proef Werkschema](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18 september 2022 |
