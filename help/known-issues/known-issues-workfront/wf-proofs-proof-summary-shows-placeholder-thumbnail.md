@@ -1,10 +1,10 @@
 ---
-title: ""
-description: ""
+title: "Proofs: [!UICONTROL Print summary] geeft afbeeldingsminiatuur niet weer"
+description: "Wanneer een gebruiker de [!UICONTROL Print summary] pagina van een proefdruk in [!DNL Workfront], wordt de miniatuur van de proefdruk niet weergegeven. In plaats daarvan wordt een eenvoudige voorlopige afbeelding weergegeven."
 hidefromtoc: true
-source-git-commit: 7d6683758d76de8d31048f6f0657d45ea9fd5fe1
+source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
 workflow-type: tm+mt
-source-wordcount: '34'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
