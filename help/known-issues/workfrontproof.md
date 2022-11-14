@@ -3,9 +3,9 @@ title: Bekende problemen in [!DNL Adobe Workfront Proof]
 description: Bekende problemen gemeld voor [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
+source-git-commit: 7d6683758d76de8d31048f6f0657d45ea9fd5fe1
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| Geen |  |
+| [Proefdrukken: [!UICONTROL Print summary] geeft afbeeldingsminiatuur niet weer](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md) | 14 november 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 

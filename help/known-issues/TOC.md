@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: f5646872d94a95986ff2cada3024dc4f8318f859
+source-git-commit: 7d6683758d76de8d31048f6f0657d45ea9fd5fe1
 workflow-type: tm+mt
-source-wordcount: '1474'
+source-wordcount: '1482'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Proefdrukken: Afdrukoverzicht bevat geen miniatuur van afbeelding](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
       + [Integraties: [!UICONTROL Home Calendar] toont gebeurtenissen een uur later dan [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
       + [Lay-outsjablonen: Door een item te verbergen, wordt het onjuiste item verborgen](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
       + [Taken: Opsommingbewerkingstaken wijzigen taaktoewijzingen](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
