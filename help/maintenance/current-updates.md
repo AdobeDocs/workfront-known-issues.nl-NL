@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
+source-git-commit: ffd3cb1f7e355af7fd568a33c7ca205031633276
 workflow-type: tm+mt
-source-wordcount: '13903'
+source-wordcount: '13941'
 ht-degree: 0%
 
 ---
@@ -30,6 +30,17 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2022.
 Voor onderhoudsupdates vóór 2022, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in november 2022
+
++++**(Geplande) onderhoudsupdate op 17 november 2022**
+
+**Door een item te verbergen, wordt het onjuiste item verborgen**
+
+*Lay-outsjablonen*
+
+Wanneer een gebruiker wijzigt of een item verborgen of weergegeven is, worden deze wijzigingen doorgevoerd in een ander item in de lay-outsjabloon.
+
+
++++
 
 +++**Onderhoudsupdate op 10 november 2022**
 
