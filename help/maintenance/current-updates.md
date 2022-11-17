@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 4934cd2daca87cbc3b1df7914a0e38969e22e061
+source-git-commit: fdf641bd38d05d6b8abac133daa3118d2c0fff3a
 workflow-type: tm+mt
-source-wordcount: '13940'
+source-wordcount: '14022'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,12 @@ Voor onderhoudsupdates vóór 2022, zie [Vorige onderhoudsupdates](#previous-mai
 ## Updates in november 2022
 
 +++**Onderhoudsupdate op 17 november 2022**
+
+**Documenten die in het [!UICONTROL Recycle Bin] als deze optie niet is geselecteerd wanneer u een taak of probleem verplaatst**
+
+*Documenten*
+
+Wanneer u nu de optie [!UICONTROL Documents] tijdens het verplaatsen van een taak of een probleem, de documenten die aan de taak zijn gekoppeld of het probleem wordt in de [!UICONTROL Recycle Bin] gedurende 30 dagen. Een beheerder kan deze indien nodig herstellen. De gebruiker die Documenten tijdens het bewegingsproces uitschakelt, ontvangt een waarschuwing over dit gedrag in het dialoogvenster [!UICONTROL Move Task] of [!UICONTROL Move Issue] doos. Vóór deze verbetering zijn de documenten definitief verwijderd.
 
 **Door een item te verbergen, wordt het onjuiste item verborgen**
 
