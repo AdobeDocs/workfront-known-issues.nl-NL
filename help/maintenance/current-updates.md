@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ffd3cb1f7e355af7fd568a33c7ca205031633276
+source-git-commit: 4934cd2daca87cbc3b1df7914a0e38969e22e061
 workflow-type: tm+mt
-source-wordcount: '13941'
+source-wordcount: '13940'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Voor onderhoudsupdates vóór 2022, zie [Vorige onderhoudsupdates](#previous-mai
 
 ## Updates in november 2022
 
-+++**(Geplande) onderhoudsupdate op 17 november 2022**
++++**Onderhoudsupdate op 17 november 2022**
 
 **Door een item te verbergen, wordt het onjuiste item verborgen**
 

@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 67b9557b2284ee1089d5e5ecb8ba246cd5363ad8
+source-git-commit: 4934cd2daca87cbc3b1df7914a0e38969e22e061
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '578'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | [Rapporten: Fout bij het toevoegen van een nieuwe uitgave aan een uitgavapport](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 november 2022 |
 | [Rapporten: In een combinatieschema worden dezelfde gegevens twee keer weergegeven](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md) | 14 november 2022 |
 | [Proefdrukken: Aangepast bericht toevoegen veroorzaakt probleem in de proefdrukviewer](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 14 november 2022 |
-| [Lay-outsjablonen: Door een item te verbergen, wordt het onjuiste item verborgen](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md) | 10 november 2022 |
 | [Lijsten: Foutberichten worden niet veroorzaakt door inline bewerkingsfouten van de gebruiker](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 4 november 2022 |
 | [Verzoeken: Kan meer dan 100 Onderwerpen van de Rij op een pagina bekijken niet](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 4 november 2022 |
 | [Projecten: De kwesties van prestaties en foutenmelding wanneer het creëren van een project van een malplaatje](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 27 oktober 2022 |
