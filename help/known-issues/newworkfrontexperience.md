@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 4934cd2daca87cbc3b1df7914a0e38969e22e061
+source-git-commit: c46af0adbbb427a8acc7ba0833f7332f3455f9d3
 workflow-type: tm+mt
-source-wordcount: '578'
+source-wordcount: '591'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proefdrukken: De weergave van proefdrukken in de proefweergave is minder duidelijk dan de oorspronkelijke afbeelding](known-issues-workfront/wf-proofs-are-blurry.md) | 18 november 2022 |
 | [Aangepaste formulieren: &quot;[!UICONTROL You do not have sufficient access]&quot;-fout bij het bewerken van een aangepast formulier](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 16 november 2022 |
 | [Proefdrukken: [!UICONTROL Print summary] geeft afbeeldingsminiatuur niet weer](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md) | 14 november 2022 |
 | [Integraties: [!UICONTROL Home Calendar] toont gebeurtenissen een uur later dan [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) | 11 november 2022 |

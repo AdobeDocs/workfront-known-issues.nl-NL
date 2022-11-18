@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: 67b9557b2284ee1089d5e5ecb8ba246cd5363ad8
+source-git-commit: c46af0adbbb427a8acc7ba0833f7332f3455f9d3
 workflow-type: tm+mt
-source-wordcount: '1527'
+source-wordcount: '1539'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Proefdrukken: De weergave van proefdrukken in de proefweergave is minder duidelijk dan de oorspronkelijke afbeelding](known-issues-workfront/wf-proofs-are-blurry.md)
       + [Aangepaste formulieren: &quot;[!UICONTROL You do not have sufficient access]&quot;-fout bij het bewerken van een aangepast formulier](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
       + [Aangepaste formulieren: &quot;[!UICONTROL Invalid custom expression]&quot; bericht bij verwijzing &quot;[!UICONTROL owner]&quot; in een berekend veld](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
       + [Rapporten: Fout bij het toevoegen van een nieuwe uitgave aan een uitgavapport](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
