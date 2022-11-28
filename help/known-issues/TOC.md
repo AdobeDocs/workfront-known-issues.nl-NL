@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: f37010ce4fbe9bbbde8f54ae10b511e35fdbe1ac
+source-git-commit: bf8ea112ab3b45cc9aed93caec9a7b62dbbced75
 workflow-type: tm+mt
-source-wordcount: '1592'
+source-wordcount: '1597'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Timesheets: Tijdschema is niet gegenereerd](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)
       + [Integraties: Kan geen toegang krijgen tot elementen van [!DNL Workfront for Jira] integratie](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
       + [Aangepaste formulieren: Kan veld niet gebruiken in berekening als veldnaam apostroffen of aanhalingstekens bevat](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
       + [Stijl: Fout bij het verplaatsen van werkitems naar een herhaling](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)

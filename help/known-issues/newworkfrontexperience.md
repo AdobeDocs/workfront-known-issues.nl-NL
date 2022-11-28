@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: f37010ce4fbe9bbbde8f54ae10b511e35fdbe1ac
+source-git-commit: bf8ea112ab3b45cc9aed93caec9a7b62dbbced75
 workflow-type: tm+mt
-source-wordcount: '611'
+source-wordcount: '617'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Timesheets: Tijdschema is niet gegenereerd](known-issues-workfront/wf-timesheets-timesheet-not-generated.md) | 28 november 2022 |
 | [Stijl: Fout bij het verplaatsen van werkitems naar een herhaling](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md) | 23 november 2022 |
 | [Proefdrukken: De weergave van proefdrukken in de proefweergave is minder duidelijk dan de oorspronkelijke afbeelding](known-issues-workfront/wf-proofs-are-blurry.md) | 18 november 2022 |
 | [Integraties: [!UICONTROL Home Calendar] toont gebeurtenissen een uur later dan [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) | 11 november 2022 |
