@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: 94ab02425f64dc53dc62fe32df5fe72b8563b005
+source-git-commit: f37010ce4fbe9bbbde8f54ae10b511e35fdbe1ac
 workflow-type: tm+mt
-source-wordcount: '1567'
+source-wordcount: '1592'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Integraties: Kan geen toegang krijgen tot elementen van [!DNL Workfront for Jira] integratie](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
+      + [Aangepaste formulieren: Kan veld niet gebruiken in berekening als veldnaam apostroffen of aanhalingstekens bevat](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
       + [Stijl: Fout bij het verplaatsen van werkitems naar een herhaling](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
       + [Timesheets: Gedetailleerde gebruikers beschikbaar bij het selecteren van de fiatteur van het tijdblad](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
       + [Aangepaste formulieren: Aangepaste objectformulieren vereisen [!UICONTROL Manage] of [!UICONTROL Edit] toegang tot bewerkingsvelden](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
@@ -200,6 +202,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Bekende problemen in Workfront Fusion](workfrontfusion.md)
    + Huidige problemen in [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Workfront Fusion]: Kan geen verbinding maken met [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]: Array-elementen in [!UICONTROL Iterator] moduleweergave als &quot;[!UICONTROL object Object]&quot;](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]: Fout bij het weergeven van een fout in de uitvoeringsgeschiedenis van een scenario](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]: 409 fout in [!DNL Fusion] scenario](known-issues-workfront-fusion/fusion-409-error.md)

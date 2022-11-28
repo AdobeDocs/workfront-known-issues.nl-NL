@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 94ab02425f64dc53dc62fe32df5fe72b8563b005
+source-git-commit: f37010ce4fbe9bbbde8f54ae10b511e35fdbe1ac
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '611'
 ht-degree: 0%
 
 ---
@@ -39,6 +39,8 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integraties: Kan geen toegang krijgen tot elementen van [!DNL Workfront for Jira] integratie](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md) | 28 november 2022 |
+| [Aangepaste formulieren: Kan veld niet gebruiken in berekening als veldnaam apostroffen of aanhalingstekens bevat](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 28 november 2022 |
 | [Timesheets: Gedetailleerde gebruikers beschikbaar bij het selecteren van de fiatteur van het tijdblad](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 23 november 2022 |
 | [Aangepaste formulieren: &quot;[!UICONTROL You do not have sufficient access]&quot;-fout bij het bewerken van een aangepast formulier](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 21 november 2022 |
 | [Stijl: De taak heeft een Kanban-achterstand van 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 21 november 2022 |

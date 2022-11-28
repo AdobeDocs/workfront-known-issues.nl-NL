@@ -3,9 +3,9 @@ title: Bekende problemen in [!DNL Adobe Workfront Fusion]
 description: Bekende problemen gemeld voor [!DNL Adobe Workfront Fusion]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 8a0bd10d95cda709d9d934ef1458bb07fc2f335d
+source-git-commit: 7d50ddbd99edf3421ce92564590a2d8db76ae939
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Fusion]: Kan geen verbinding maken met [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md) | 28 november 2022 |
 | [[!DNL Workfront Fusion]: 404 errors on [!DNL Workfront] modules](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md) | 31 oktober 2022 |
 
 {style=&quot;table-layout:auto&quot;}
