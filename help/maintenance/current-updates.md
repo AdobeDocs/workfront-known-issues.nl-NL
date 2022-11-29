@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: fdf641bd38d05d6b8abac133daa3118d2c0fff3a
+source-git-commit: 5fdf05bfe98beb6a51bbc679253898cb1f3f7841
 workflow-type: tm+mt
-source-wordcount: '14022'
+source-wordcount: '14257'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,56 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2022.
 -->
 
 Voor onderhoudsupdates vóór 2022, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
+
+## Updates in december 2022
+
++++**(Geplande) onderhoudsupdate op 1 december 2022**
+
+**De taak heeft een Kanban-achterstand van 0**
+
+*Agile*
+
+Wanneer een gebruiker de achterstand van een Kanban-team bekijkt, tonen een of meer van de taken een achterlogorde van 0.
+
+**&quot;[!UICONTROL Invalid custom expression]&quot; bericht bij verwijzing &quot;[!UICONTROL owner]&quot; in een berekend veld**
+
+*Aangepaste formulieren*
+
+Wanneer een gebruiker een berekend veld toevoegt aan een aangepast formulier op emissieniveau en probeert een verwijzing toe te voegen aan &quot;[!UICONTROL owner]&quot; (zoals `ownerID`), slaat het veld niet op en de gebruiker ziet het volgende bericht:
+
+&quot;[!UICONTROL This is an invalid customer expression, please try again.]&quot;
+
+Dit gebeurt zelfs wanneer de expressie geldig is.
+
+**Kan geen toegang krijgen tot elementen van [!DNL Workfront for Jira] integratie**
+
+*Integraties*
+
+De volgende elementen zijn momenteel niet toegankelijk in het dialoogvenster [!DNL Workfront for Jira] integratie voor [!DNL Jira Cloud]:
+
+* De [!UICONTROL Configuration] page
+* De &quot;[!UICONTROL Open Workfront]&quot; op een knop op een [!DNL Jira] kwestie
+
+**Aangepast bericht toevoegen veroorzaakt probleem in de proefdrukviewer**
+
+*Proefdrukken*
+
+Wanneer een gebruiker een proef deelt en probeert om een douanebericht toe te voegen, komt het volgende voor:
+
+* In de proefdrukviewer wordt ingezoomd op de proefdruk.
+* De gebieden in de linkernavigatie reageren niet meer.
+
+**Gedetailleerde gebruikers beschikbaar bij het selecteren van de fiatteur van het tijdblad**
+
+*Timesheets*
+
+Wanneer een gebruiker een timesheet maakt en een fiatteur probeert toe te wijzen, bevat de vervolgkeuzelijst gedeactiveerde gebruikers. Als een gedeactiveerde gebruiker wordt geselecteerd, wordt timesheet niet bewaard en de gebruiker ziet het volgende bericht:
+
+&quot;[!UICONTROL Error. Sorry! Only users with Plan license can approve or reject timesheets. Please contact your system administrator.]&quot;
+
+Aangezien de gedeactiveerde gebruiker niet kan worden toegewezen, moet de gebruiker een geactiveerde gebruiker selecteren. De tijdpagina werkt daarom zoals verwacht, maar de gedeactiveerde gebruikers in de lijst kunnen verwarring of ongemak veroorzaken voor de gebruiker.
+
++++
 
 ## Updates in november 2022
 
