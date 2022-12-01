@@ -2,15 +2,19 @@
 title: "Timesheets: Gedetactiveerde gebruikers beschikbaar bij het selecteren van de fiatteur van het tijdblad"
 description: "Wanneer een gebruiker een tijdspagina maakt en een fiatteur probeert toe te wijzen, bevat de vervolgkeuzelijst gedeactiveerde gebruikers. Als een gedeactiveerde gebruiker wordt geselecteerd, wordt timesheet niet bewaard en de gebruiker ziet een foutenmelding."
 hidefromtoc: true
-source-git-commit: f37c5514fa93915589c8af9bf5a4b678446a8078
+source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
 
 # Timesheets: Gedetailleerde gebruikers beschikbaar bij het selecteren van de fiatteur van het tijdblad
+
+>[!NOTE]
+>
+>Dit probleem is op 1 december 2022 opgelost.
 
 Wanneer een gebruiker een timesheet maakt en een fiatteur probeert toe te wijzen, bevat de vervolgkeuzelijst gedeactiveerde gebruikers. Als een gedeactiveerde gebruiker wordt geselecteerd, wordt timesheet niet bewaard en de gebruiker ziet het volgende bericht:
 

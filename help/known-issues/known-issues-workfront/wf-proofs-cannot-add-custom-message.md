@@ -2,9 +2,9 @@
 title: "Proofs: Het toevoegen van een aangepast bericht veroorzaakt een probleem in de proefdrukviewer."
 description: "Wanneer een gebruiker een proef deelt en probeert om een douanebericht toe te voegen, komen kwesties voor."
 hidefromtoc: true
-source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
+source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # Proefdrukken: Aangepast bericht toevoegen veroorzaakt probleem in de proefdrukviewer
 
 <!--This is on both the WF and WFP TOCs-->
+
+>[!NOTE]
+>
+>Dit probleem is op 1 december 2022 opgelost.
 
 Wanneer een gebruiker een proef deelt en probeert om een douanebericht toe te voegen, komt het volgende voor:
 

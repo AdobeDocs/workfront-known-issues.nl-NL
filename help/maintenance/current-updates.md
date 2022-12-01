@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 5fdf05bfe98beb6a51bbc679253898cb1f3f7841
+source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
 workflow-type: tm+mt
-source-wordcount: '14257'
+source-wordcount: '14293'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Voor onderhoudsupdates vóór 2022, zie [Vorige onderhoudsupdates](#previous-mai
 
 ## Updates in december 2022
 
-+++**(Geplande) onderhoudsupdate op 1 december 2022**
++++**Onderhoudsupdate op 1 december 2022**
 
 **De taak heeft een Kanban-achterstand van 0**
 
@@ -76,6 +76,12 @@ Wanneer een gebruiker een timesheet maakt en een fiatteur probeert toe te wijzen
 &quot;[!UICONTROL Error. Sorry! Only users with Plan license can approve or reject timesheets. Please contact your system administrator.]&quot;
 
 Aangezien de gedeactiveerde gebruiker niet kan worden toegewezen, moet de gebruiker een geactiveerde gebruiker selecteren. De tijdpagina werkt daarom zoals verwacht, maar de gedeactiveerde gebruikers in de lijst kunnen verwarring of ongemak veroorzaken voor de gebruiker.
+
+**Tijdschema is niet gegenereerd**
+
+*Timesheets*
+
+Tijdschema&#39;s worden niet gegenereerd, ondanks tijdbladprofielinstellingen. Omdat het timesheet nooit wordt geproduceerd, is het niet beschikbaar voor de gebruiker om tijd in te gaan, en het is niet zichtbaar op lijsten.
 
 +++
 

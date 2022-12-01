@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 5fdf05bfe98beb6a51bbc679253898cb1f3f7841
+source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
 workflow-type: tm+mt
-source-wordcount: '624'
+source-wordcount: '573'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,6 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!UICONTROL Home]: Kan uitgiftetoewijzing niet verwijderen in [!UICONTROL Home]](known-issues-workfront/wf-home-cannot-remove-assignment.md) | 29 november 2022 |
-| [Timesheets: Tijdschema is niet gegenereerd](known-issues-workfront/wf-timesheets-timesheet-not-generated.md) | 28 november 2022 |
 | [Stijl: Fout bij het verplaatsen van werkitems naar een herhaling](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md) | 23 november 2022 |
 | [Proefdrukken: De weergave van proefdrukken in de proefweergave is minder duidelijk dan de oorspronkelijke afbeelding](known-issues-workfront/wf-proofs-are-blurry.md) | 18 november 2022 |
 | [Integraties: [!UICONTROL Home Calendar] toont gebeurtenissen een uur later dan [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) | 11 november 2022 |
@@ -41,15 +40,10 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [Integraties: Kan geen toegang krijgen tot elementen van [!DNL Workfront for Jira] integratie](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md) | 28 november 2022 |
 | [Aangepaste formulieren: Kan veld niet gebruiken in berekening als veldnaam apostroffen of aanhalingstekens bevat](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 28 november 2022 |
-| [Timesheets: Gedetailleerde gebruikers beschikbaar bij het selecteren van de fiatteur van het tijdblad](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 23 november 2022 |
 | [Aangepaste formulieren: &quot;[!UICONTROL You do not have sufficient access]&quot;-fout bij het bewerken van een aangepast formulier](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 21 november 2022 |
-| [Stijl: De taak heeft een Kanban-achterstand van 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 21 november 2022 |
-| [Aangepaste formulieren: &quot;[!UICONTROL Invalid custom expression]&quot; bericht bij verwijzing &quot;[!UICONTROL owner]&quot; in een berekend veld](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 15 november 2022 |
 | [Rapporten: Fout bij het toevoegen van een nieuwe uitgave aan een uitgavapport](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 november 2022 |
 | [Rapporten: In een combinatieschema worden dezelfde gegevens twee keer weergegeven](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md) | 14 november 2022 |
-| [Proefdrukken: Aangepast bericht toevoegen veroorzaakt probleem in de proefdrukviewer](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 14 november 2022 |
 | [Lijsten: Foutberichten worden niet veroorzaakt door inline bewerkingsfouten van de gebruiker](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 4 november 2022 |
 | [Verzoeken: Kan meer dan 100 Onderwerpen van de Rij op een pagina bekijken niet](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 4 november 2022 |
 | [Projecten: De kwesties van prestaties en foutenmelding wanneer het creëren van een project van een malplaatje](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 27 oktober 2022 |
