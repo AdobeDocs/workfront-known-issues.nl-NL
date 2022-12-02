@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
+source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
 workflow-type: tm+mt
-source-wordcount: '14293'
+source-wordcount: '14492'
 ht-degree: 0%
 
 ---
@@ -30,6 +30,35 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2022.
 Voor onderhoudsupdates vóór 2022, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in december 2022
+
++++**Onderhoudsupdate (Hot Fix) op 1 december 2022**
+
+**Foutberichten worden niet veroorzaakt door inline bewerkingsfouten van de gebruiker**
+
+*Lijsten*
+
+Wanneer een gebruiker een object inline bewerkt en een fout maakt die een foutbericht moet maken, wordt geen foutbericht weergegeven. De fout zelf wordt niet opgeslagen in Workfront, dus de gegevens worden niet beïnvloed, maar het ontbreken van een foutbericht kan verwarring veroorzaken.
+
+Dit is gemeld voor de volgende situaties:
+
+* Voorgangers: Er wordt een voorganger-lus gemaakt, zoals het toewijzen van een taak aan zichzelf
+* Datums: Er wordt een onmogelijke datum ingesteld, zoals een voltooiingsdatum die voor de begindatum ligt of die na de projectuitvoeringsdatum valt
+
+**De optie &quot;Verplaatsen naar&quot; is niet beschikbaar in rapporten over problemen**
+
+*Rapporten*
+
+Wanneer een gebruiker een probleemrapport weergeeft en een probleem probeert te verplaatsen, is de optie &quot;Verplaatsen naar&quot; niet beschikbaar in het menu Meer (drie punten).
+
+
+**Kan gebruikerskaart niet sluiten in updatestroom**
+
+*Updates*
+
+Wanneer een gebruiker updates weergeeft en deze boven een naam plaatst, wordt een kaart met gegevens over de gebruiker wiens naam wordt geopend en wordt deze niet automatisch gesloten. De pagina reageert pas als de kaart handmatig wordt gesloten door op de X in de rechterbovenhoek te klikken.
+
+
++++
 
 +++**Onderhoudsupdate op 1 december 2022**
 

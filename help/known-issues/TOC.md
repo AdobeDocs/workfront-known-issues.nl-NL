@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: 5fdf05bfe98beb6a51bbc679253898cb1f3f7841
+source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
 workflow-type: tm+mt
-source-wordcount: '1603'
+source-wordcount: '1622'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Projecten: Projectstatus volgt niet de projectvoorkeuren voor groepen](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
+      + [Projecten: De fout van &quot;Wiops&quot;wanneer het creëren van een project van een malplaatje](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md)
       + [[!UICONTROL Home]: Kan uitgiftetoewijzing niet verwijderen in [!UICONTROL Home]](known-issues-workfront/wf-home-cannot-remove-assignment.md)
       + [Timesheets: Tijdschema is niet gegenereerd](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)
       + [Integraties: Kan geen toegang krijgen tot elementen van [!DNL Workfront for Jira] integratie](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
