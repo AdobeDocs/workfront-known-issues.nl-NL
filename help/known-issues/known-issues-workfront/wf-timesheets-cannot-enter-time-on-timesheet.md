@@ -1,8 +1,8 @@
 ---
-title: ""
-description: ""
+title: "Timesheets: Kan geen tijd op timesheet ingaan"
+description: "Wanneer een gebruiker probeert om tijd aan een timesheet toe te voegen, zien zij dat de uurvakjes in om het even welke tijd van het Project of de rijen van de Tijd van de Taak grijs uit zijn, en zij kunnen geen tijd in deze vakjes ingaan. Ze kunnen alleen tijd invoeren in het gebied Algemene tijd."
 hidefromtoc: true
-source-git-commit: 4557df164d16b5451cb23d19399655a363641ae9
+source-git-commit: 3a66060667d5c90b4a2c7c17fd56e7003367ebc8
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
