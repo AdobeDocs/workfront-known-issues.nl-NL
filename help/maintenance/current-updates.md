@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+source-git-commit: dd71044b671b7a7da8a8769039485b80664880d7
 workflow-type: tm+mt
-source-wordcount: '14492'
+source-wordcount: '14545'
 ht-degree: 0%
 
 ---
@@ -30,6 +30,18 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2022.
 Voor onderhoudsupdates vóór 2022, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in december 2022
+
++++**(Gepland) Onderhoudsupdate op 8 december 2022**
+
++++
+
+**Projectstatus volgt niet de projectvoorkeuren voor groepen**
+
+*Projecten*
+
+Wanneer een gebruiker tot een project van een malplaatje leidt, neemt het nieuwe project niet de status die in de het projectvoorkeur van de Groep wordt geplaatst. Als een project zonder een malplaatje wordt gecreeerd, wijst de status op het projectvoorkeur van de Groep zoals verwacht.
+
++++
 
 +++**Onderhoudsupdate (Hot Fix) op 1 december 2022**
 
