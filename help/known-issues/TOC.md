@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: eff0362813a15b8e2f5085c05b1d88b716aba25e
+source-git-commit: 4de171bddf40bf7329a0928776d63efbfd18603c
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1640'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Taken: Kan subtaak niet toevoegen](known-issues-workfront/wf-tasks-cannot-add-subtask.md)
       + [Timesheets: Kan tijd niet invoeren op tijdblad](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md)
       + [Proefdrukken: Proefstatus wordt niet bijgewerkt in [!UICONTROL Document] lijsten](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
       + [Projecten: Projectstatus volgt niet de projectvoorkeuren voor groepen](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)

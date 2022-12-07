@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 4557df164d16b5451cb23d19399655a363641ae9
+source-git-commit: 4de171bddf40bf7329a0928776d63efbfd18603c
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Taken: Kan subtaak niet toevoegen](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 7 december 2022 |
 | [Timesheets: Kan tijd niet invoeren op tijdblad](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | 5 december 2022 |
 | [Timesheets: Gedetailleerde gebruikers beschikbaar bij het selecteren van de fiatteur van het tijdblad](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2 december 2022 |
 | [Aangepaste formulieren: &quot;[!UICONTROL Invalid custom expression]&quot; bericht bij verwijzing &quot;[!UICONTROL owner]&quot; in een berekend veld](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2 december 2022 |
