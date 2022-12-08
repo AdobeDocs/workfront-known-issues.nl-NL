@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 835873c47203f6f13e0c5239ff2e68d18049762d
+source-git-commit: 40a8c48b51e1da690aa0622606c40ebfd8df4e8e
 workflow-type: tm+mt
-source-wordcount: '587'
+source-wordcount: '593'
 ht-degree: 0%
 
 ---
@@ -39,6 +39,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documenten: Kan MP4-bestand niet uploaden](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | 8 december 2022 |
 | [Taken: Kan subtaak niet toevoegen](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 7 december 2022 |
 | [Timesheets: Kan tijd niet invoeren op tijdblad](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | 5 december 2022 |
 | [Timesheets: Gedetailleerde gebruikers beschikbaar bij het selecteren van de fiatteur van het tijdblad](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2 december 2022 |
