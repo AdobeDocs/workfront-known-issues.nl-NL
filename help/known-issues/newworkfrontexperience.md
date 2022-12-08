@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 40a8c48b51e1da690aa0622606c40ebfd8df4e8e
+source-git-commit: 1dac681ce138ca2aec65c47833de02cfa1d3fd8f
 workflow-type: tm+mt
-source-wordcount: '593'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | [Timesheets: Kan tijd niet invoeren op tijdblad](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | 5 december 2022 |
 | [Timesheets: Gedetailleerde gebruikers beschikbaar bij het selecteren van de fiatteur van het tijdblad](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2 december 2022 |
 | [Aangepaste formulieren: &quot;[!UICONTROL Invalid custom expression]&quot; bericht bij verwijzing &quot;[!UICONTROL owner]&quot; in een berekend veld](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2 december 2022 |
-| [Projecten: Projectstatus volgt niet de projectvoorkeuren voor groepen](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | 2 december 2022 |
 | [Projecten: De fout van &quot;Wiops&quot;wanneer het creëren van een project van een malplaatje](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md) | 2 december 2022 |
 | [Aangepaste formulieren: Kan veld niet gebruiken in berekening als veldnaam apostroffen of aanhalingstekens bevat](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 28 november 2022 |
 | [Aangepaste formulieren: &quot;[!UICONTROL You do not have sufficient access]&quot;-fout bij het bewerken van een aangepast formulier](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 21 november 2022 |

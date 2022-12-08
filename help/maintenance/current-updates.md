@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: dd71044b671b7a7da8a8769039485b80664880d7
+source-git-commit: faf363bbdaa7c44a447117e35779eeb10d463dbf
 workflow-type: tm+mt
-source-wordcount: '14545'
+source-wordcount: '14625'
 ht-degree: 0%
 
 ---
@@ -31,15 +31,30 @@ Voor onderhoudsupdates vóór 2022, zie [Vorige onderhoudsupdates](#previous-mai
 
 ## Updates in december 2022
 
-+++**(Gepland) Onderhoudsupdate op 8 december 2022**
-
-+++
++++**Onderhoudsupdate op 8 december 2022**
 
 **Projectstatus volgt niet de projectvoorkeuren voor groepen**
 
 *Projecten*
 
 Wanneer een gebruiker tot een project van een malplaatje leidt, neemt het nieuwe project niet de status die in de het projectvoorkeur van de Groep wordt geplaatst. Als een project zonder een malplaatje wordt gecreeerd, wijst de status op het projectvoorkeur van de Groep zoals verwacht.
+
+**Kan subtaak niet toevoegen**
+
+*Taken*
+
+Wanneer een gebruiker een subtaak probeert toe te voegen met &quot;[!UICONTROL +New]&quot;, worden er geen opties weergegeven in het dialoogvenster [!UICONTROL New Task] en de gebruiker ziet het volgende bericht:
+
+&quot;[!UICONTROL Cannot read properties of undefined (reading 'validations)]&quot;
+
+**Fouten bij het sluiten of opslaan van tijdbladen**
+
+*Timesheets*
+
+Wanneer een gebruiker probeert om tijd aan toe te voegen of een timesheet te sluiten, bewaart timesheet niet, en de gebruiker ziet de volgende fouten:
+
+* Databasefout vanwege ongeldige SQL-instructie.
+* De recente wijzigingen zijn niet opgeslagen. Vernieuw de pagina om de laatst opgeslagen wijzigingen weer te geven.
 
 +++
 
