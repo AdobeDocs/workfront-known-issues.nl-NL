@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: faf363bbdaa7c44a447117e35779eeb10d463dbf
+source-git-commit: 1e82922e463ea71019e1c4d625ba10157bd582fa
 workflow-type: tm+mt
-source-wordcount: '14625'
+source-wordcount: '14779'
 ht-degree: 0%
 
 ---
@@ -276,6 +276,21 @@ Dit is gemeld op de volgende gebieden:
 * [!UICONTROL Setup] > [!UICONTROL Email notifications]
 * [!UICONTROL User] > [!UICONTROL Edit user]
 * [!UICONTROL Groups]
+
+**Nieuwe informatiepictogrammen voor voorkeuren voor tijdbladen, tijdlijnprofielen en tijdbladen**
+
+*Workfront*
+
+>[!NOTE]
+>
+>Deze update wordt alleen vrijgegeven voor de voorvertoningsomgeving. De licentie wordt vrijgegeven aan Production met de release van 23.1.
+
+Er zijn verschillende informatiepictogrammen toegevoegd aan de volgende instellingen:
+
+* &quot;Kan tijd&quot;checkbox uitgeven wanneer het creëren van of het uitgeven van een timesheet of een timesheet profiel om erop te wijzen dat wanneer toegelaten, de fiatteurs ook kunnen voorleggen, opnieuw openen, of uitgeven timesheet, tenzij uw beheerder deze acties in het gebied van de Voorkeur van de Chronologie van Opstelling beperkt.
+* &quot;Beperk het uitgeven van timesheet tot eigenaars en beheerders&quot;in het gebied van de Voorkeur van de Tijdopmaak &amp; van het Uur van Opstelling om erop te wijzen dat wanneer gehandicapt, de volgende gebruikers de timesheets kunnen ook uitgeven: gebruikers met administratieve toegang tot timesheets en uren, beoordelaars van tijdbladen die tijd mogen uitgeven, en de managers van timesheet eigenaars.
+
+De functionaliteit van deze instellingen is niet gewijzigd en alleen de informatiepictogrammen zijn toegevoegd om het bereik van de instellingen helderder te maken.
 
 +++
 
