@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 707324aea99a9f77e7664afa555a4b7b9d6e4cef
+source-git-commit: 3973a5e7f934404165fb5132faa36392951940f3
 workflow-type: tm+mt
-source-wordcount: '14934'
+source-wordcount: '15004'
 ht-degree: 0%
 
 ---
@@ -60,6 +60,14 @@ Aangezien de gedeactiveerde gebruiker niet kan worden toegewezen, moet de gebrui
 +++
 
 +++**Onderhoudsupdate op 8 december 2022**
+
+**Selectie van slimme gebruikers bij het toevoegen van fiatteurs aan een goedkeuringspad**
+
+*Goedkeuringen*
+
+We hebben de manier verbeterd waarop gebruikers deze weergeven wanneer u ze toevoegt aan de [!UICONTROL Approvers] gebied van een nieuwe goedkeuring.
+
+Nu, wanneer u een gebruiker aan toevoegt [!UICONTROL Approvers] in het veld van een goedkeuring op systeemniveau of voor eenmalig gebruik, naast hun naam en avatar, ook hun primaire rol en hun e-mailadres. Zo kunt u beter onderscheid maken tussen meerdere gebruikers met dezelfde of vergelijkbare namen.
 
 **Projectstatus volgt niet de projectvoorkeuren voor groepen**
 
