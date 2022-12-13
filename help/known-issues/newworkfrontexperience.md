@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 296acacc040f296c1732ab897b771d26bc0c392e
+source-git-commit: a98c5f2dde335245343c56a2cabea9caef27e56f
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '579'
 ht-degree: 0%
 
 ---
@@ -85,7 +85,6 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 | [E-mailmeldingen: Gebruiker wordt niet omgeleid aan commentaardraad](known-issues-workfront/wf-email-notif-user-not-directed-to-thread.md) | 23 april 2021 |
 | [Kalenders: [!DNL OR] filterinstructie exclusief filterregel](known-issues-workfront/wf-calendars-or-filter-statement.md) | 23 april 2021 |
 | [[!UICONTROL Workfront Proof]: [!UICONTROL Proof Approval] rapport kan termijnen niet nauwkeurig bepalen](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 21 april 2021 |
-| [[!UICONTROL Home]: Voltooide proefdrukken in de [!UICONTROL Work List]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 14 juni 2021 |
 | [Rapporten: Kan rapport niet horizontaal schuiven bij weergave op dashboard](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md) | 30 maart 2021 |
 | [[!UICONTROL Home]: De Naam van het project toont als GUID in [!UICONTROL Work List]](known-issues-workfront/wf-home-project-name-shows-as-guid.md) | 11 februari 2021 |
 | [Documenten: Proefwerkstroompictogram wordt niet weergegeven](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 25 januari 2021 |

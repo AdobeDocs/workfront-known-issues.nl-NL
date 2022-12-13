@@ -3,9 +3,9 @@ title: Bekende problemen in [!DNL Adobe Workfront Proof]
 description: Bekende problemen gemeld voor [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 4557df164d16b5451cb23d19399655a363641ae9
+source-git-commit: a98c5f2dde335245343c56a2cabea9caef27e56f
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,6 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 | [[!UICONTROL Home]: [!UICONTROL Reply in Proof] knopgedrag is inconsistent](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 21 juni 2021 |
 | [[!DNL Workfront Proof]: Automatische toegang tot proefdrukken wordt vertraagd](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md) | 14 juni 2021 |
 | [[!DNL Workfront Proof]: [!UICONTROL Proof Approval] rapport kan termijnen niet nauwkeurig bepalen](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 21 april 2021 |
-| [[!UICONTROL Home]: Voltooide proefdrukken in de [!UICONTROL Work List]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 14 juni 2021 |
 | [Documenten: Proefwerkstroompictogram wordt niet weergegeven](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 5 maart 2021 |
 
 {style=&quot;table-layout:auto&quot;}

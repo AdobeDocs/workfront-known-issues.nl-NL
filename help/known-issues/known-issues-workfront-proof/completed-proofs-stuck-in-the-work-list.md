@@ -3,9 +3,9 @@ title: '''Startpagina: Voltooide proefdrukken die in de Werklijst blijven"'
 description: Nadat een gebruiker een proef voltooit, verschijnt het nog in [!UICONTROL Work List].
 exl-id: 1d52d477-4ba9-4a64-a91d-26682a6c607f
 hidefromtoc: true
-source-git-commit: d122c128b926167a00c7149cb88392b618486876
+source-git-commit: a98c5f2dde335245343c56a2cabea9caef27e56f
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '44'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Het team van het Product evalueert momenteel deze probleemoplossing, die productverbeteringen kan vereisen. De verbeteringen van het product worden meegedeeld in de Mededelingen van het Product en niet met de Updates van het Onderhoud.
+>Dit probleem is opgelost.
 
 Nadat een gebruiker een proef voltooit, verschijnt het nog in [!UICONTROL Work List].
 
