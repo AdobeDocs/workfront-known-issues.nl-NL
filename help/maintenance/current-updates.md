@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 1e82922e463ea71019e1c4d625ba10157bd582fa
+source-git-commit: 707324aea99a9f77e7664afa555a4b7b9d6e4cef
 workflow-type: tm+mt
-source-wordcount: '14779'
+source-wordcount: '14934'
 ht-degree: 0%
 
 ---
@@ -30,6 +30,34 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2022.
 Voor onderhoudsupdates vóór 2022, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in december 2022
+
++++**Onderhoudsupdate op 15 december 2022**
+
+**&quot;[!UICONTROL Whoops]&quot;-fout bij het maken van een project op basis van een sjabloon**
+
+*Projecten*
+
+Wanneer een gebruiker probeert om een project van een malplaatje tot stand te brengen, wordt het project niet gecreeerd, en de gebruiker ziet de volgende fout:
+
+&quot;[!UICONTROL Whoops! Something went wrong. Please contact [!DNL Workfront] so we can figure out what went wrong and fix it.]&quot;
+
+**In een combinatieschema worden dezelfde gegevens twee keer weergegeven**
+
+*Rapporten*
+
+Wanneer een gebruiker een combinatieschema weergeeft, wordt in het diagram tweemaal één waarde weergegeven in plaats van twee waardensets te vergelijken. De juiste waardensets vindt u in de rapportdetails.
+
+**Gedetailleerde gebruikers beschikbaar bij het selecteren van de fiatteur van het tijdblad**
+
+*Timesheets*
+
+Wanneer een gebruiker een timesheet maakt en een fiatteur probeert toe te wijzen, bevat de vervolgkeuzelijst gedeactiveerde gebruikers. Als een gedeactiveerde gebruiker wordt geselecteerd, wordt timesheet niet bewaard en de gebruiker ziet het volgende bericht:
+
+&quot;[!UICONTROL Error. Sorry! Only users with Plan license can approve or reject timesheets. Please contact your system administrator.]&quot;
+
+Aangezien de gedeactiveerde gebruiker niet kan worden toegewezen, moet de gebruiker een geactiveerde gebruiker selecteren. De tijdpagina werkt daarom zoals verwacht, maar de gedeactiveerde gebruikers in de lijst kunnen verwarring of ongemak veroorzaken voor de gebruiker.
+
++++
 
 +++**Onderhoudsupdate op 8 december 2022**
 
@@ -220,7 +248,7 @@ Dit gedrag is gemeld wanneer de gebruiker tot het rapport op de volgende maniere
 
 Als u rapporten opent via een dashboard, worden de gegevens in de laatste weergave bijgewerkt.
 
-**[!DNL Workfront]: 500 fout bij het aanbrengen van wijzigingen in een [!DNL Workfront] object**
+**[!DNL Workfront]: 500 fout bij het aanbrengen van wijzigingen in een [!DNL Workfront] object**+
 
 *[!DNL Workfront]*
 
