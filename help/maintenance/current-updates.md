@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 3973a5e7f934404165fb5132faa36392951940f3
+source-git-commit: 927ea8bc10eb333428f1d10961c0b859be8f19bb
 workflow-type: tm+mt
-source-wordcount: '15004'
+source-wordcount: '15050'
 ht-degree: 0%
 
 ---
@@ -46,6 +46,12 @@ Wanneer een gebruiker probeert om een project van een malplaatje tot stand te br
 *Rapporten*
 
 Wanneer een gebruiker een combinatieschema weergeeft, wordt in het diagram tweemaal één waarde weergegeven in plaats van twee waardensets te vergelijken. De juiste waardensets vindt u in de rapportdetails.
+
+**Knopinfo die voor gedimde uurcellen in timesheets wordt toegevoegd**
+
+*Timesheets*
+
+Wij hebben tooltips toegevoegd om de reden te verklaren waarom een uurcel in een timesheet kan worden gedimd. Een aantal van de redenen kan bijvoorbeeld zijn omdat het tijdspad is gesloten of omdat het project is voltooid.
 
 **Gedetailleerde gebruikers beschikbaar bij het selecteren van de fiatteur van het tijdblad**
 
