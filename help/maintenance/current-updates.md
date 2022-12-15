@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 927ea8bc10eb333428f1d10961c0b859be8f19bb
+source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
 workflow-type: tm+mt
-source-wordcount: '15050'
+source-wordcount: '15231'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,17 @@ Voor onderhoudsupdates vóór 2022, zie [Vorige onderhoudsupdates](#previous-mai
 ## Updates in december 2022
 
 +++**Onderhoudsupdate op 15 december 2022**
+
+**Toegankelijkheidsupdates in lijsten**
+
+*Lijsten*
+
+De volgende toegankelijkheidsfuncties zijn nu beschikbaar in lijsten:
+
+* Selectievakjes in lijsten hebben nu een zichtbare focusindicator wanneer u er met Tab naartoe gaat. Hierdoor is het gemakkelijker om de toetsenbordnavigatie van items in een lijst visueel te volgen.
+* Alle knoppen in de lijstwerkbalken hebben nu dezelfde aanwijs- en focusstatus, met een grijze achtergrond die wordt weergegeven op de aanwijsbalk en een grijze achtergrond en een blauwe omtrek die scherp wordt weergegeven.
+* Als u eerder een vervolgkeuzemenu opent in een lijst met de spatietoets, wordt het menu geopend en wordt de pagina ook een beetje omlaag geschoven, wat niet de bedoeling was. De pagina wordt nu niet meer verschoven wanneer u op Ruimte drukt in een vervolgkeuzelijst. Dit is de juiste manier.
+* Wanneer u een lijst bekijkt terwijl het selectievakje voor rijen is ingeschakeld, kunt u nu met de Tab-toets door elk bewerkbaar item bladeren en vervolgens op de toets Ruimte drukken om over te schakelen op de modus Bewerken en om te beginnen met het bewerken van die cel in de rij. Eerder was navigatie met het toetsenbord niet mogelijk voor deze items en was het gebruik van een muis vereist. Nu is het schakelen naar de bewerkingsmodus zowel muisvriendelijk als toetsenbordvriendelijk.
 
 **&quot;[!UICONTROL Whoops]&quot;-fout bij het maken van een project op basis van een sjabloon**
 

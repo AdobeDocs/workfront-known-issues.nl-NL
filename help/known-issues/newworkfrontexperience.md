@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: a98c5f2dde335245343c56a2cabea9caef27e56f
+source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
 workflow-type: tm+mt
-source-wordcount: '579'
+source-wordcount: '550'
 ht-degree: 0%
 
 ---
@@ -42,13 +42,10 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | [Documenten: Kan MP4-bestand niet uploaden](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | 8 december 2022 |
 | [Taken: Kan subtaak niet toevoegen](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 7 december 2022 |
 | [Timesheets: Kan tijd niet invoeren op tijdblad](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | 5 december 2022 |
-| [Timesheets: Gedetailleerde gebruikers beschikbaar bij het selecteren van de fiatteur van het tijdblad](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2 december 2022 |
 | [Aangepaste formulieren: &quot;[!UICONTROL Invalid custom expression]&quot; bericht bij verwijzing &quot;[!UICONTROL owner]&quot; in een berekend veld](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2 december 2022 |
-| [Projecten: De fout van &quot;Wiops&quot;wanneer het creëren van een project van een malplaatje](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md) | 2 december 2022 |
 | [Aangepaste formulieren: Kan veld niet gebruiken in berekening als veldnaam apostroffen of aanhalingstekens bevat](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 28 november 2022 |
 | [Aangepaste formulieren: &quot;[!UICONTROL You do not have sufficient access]&quot;-fout bij het bewerken van een aangepast formulier](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 21 november 2022 |
 | [Rapporten: Fout bij het toevoegen van een nieuwe uitgave aan een uitgavapport](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 november 2022 |
-| [Rapporten: In een combinatieschema worden dezelfde gegevens twee keer weergegeven](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md) | 14 november 2022 |
 | [Aangepaste formulieren: Fout bij het instellen van een berekend veld](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 13 oktober 2022 |
 | [Integraties: Fout bij verzenden van verzoek van [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 augustus 2022 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] steungeval op Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augustus 2022 |
