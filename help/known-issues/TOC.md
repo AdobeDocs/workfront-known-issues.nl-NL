@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: 7452df87a128b5e6524d205c9114101dc295ad2d
+source-git-commit: 5501b8fc544643d98de923b7b80d504bcf9164ce
 workflow-type: tm+mt
-source-wordcount: '1117'
+source-wordcount: '1132'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Documenten: Documentmachtigingen worden niet overgeërfd wanneer de hoofduitgave wordt omgezet in een project](known-issues-workfront/wf-documents-permissions-not-inherited.md)
       + [Rapporten: Rapport gebruikt rapportmaker in plaats van jokerteken &quot;$$[!UICONTROL USERID]&quot;](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
       + [Documenten: Kan MP4-bestand niet uploaden](known-issues-workfront/wf-documents-cannot-upload-mp4.md)
       + [Integraties: Kan niet openen [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
