@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
+source-git-commit: 7bb0987beff9127e4f5ebf82401f5243712f45f0
 workflow-type: tm+mt
-source-wordcount: '15231'
+source-wordcount: '15282'
 ht-degree: 0%
 
 ---
@@ -73,6 +73,12 @@ Wanneer een gebruiker een timesheet maakt en een fiatteur probeert toe te wijzen
 &quot;[!UICONTROL Error. Sorry! Only users with Plan license can approve or reject timesheets. Please contact your system administrator.]&quot;
 
 Aangezien de gedeactiveerde gebruiker niet kan worden toegewezen, moet de gebruiker een geactiveerde gebruiker selecteren. De tijdpagina werkt daarom zoals verwacht, maar de gedeactiveerde gebruikers in de lijst kunnen verwarring of ongemak veroorzaken voor de gebruiker.
+
+**Kan tijd niet invoeren op tijdblad**
+
+*Timesheets*
+
+Wanneer een gebruiker probeert om tijd aan een timesheet toe te voegen, zien zij dat de uurvakjes in om het even welke tijd van het Project of de rijen van de Tijd van de Taak uit grijs zijn, en zij kunnen geen tijd in deze vakjes ingaan. Ze kunnen alleen tijd invoeren in het gebied Algemene tijd.
 
 +++
 
