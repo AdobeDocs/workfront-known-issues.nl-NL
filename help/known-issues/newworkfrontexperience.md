@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: c3f753f5cba03766f04f530edee1a726142475f5
+source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
 workflow-type: tm+mt
-source-wordcount: '570'
+source-wordcount: '586'
 ht-degree: 0%
 
 ---
@@ -41,6 +41,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Aangepaste Forms: Ctrl+F of Cmd+F werkt niet zoals verwacht in vervolgkeuzelijsten](known-issues-workfront/wf-custom-forms-dropdown-search.md) | 3 januari 2023 |
 | [Proefdrukken: Proefbestanden verwijderen archief niet](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20 december 2022 |
 | [Rapporten: Scherm Rapport bewerken is leeg](known-issues-workfront/wf-reports-edit-report-is-blank.md) | 20 december 2022 |
 | [Documenten: Kan MP4-bestand niet uploaden](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | 8 december 2022 |
