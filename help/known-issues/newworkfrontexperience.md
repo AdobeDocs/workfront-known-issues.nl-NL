@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
+source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
 workflow-type: tm+mt
-source-wordcount: '586'
+source-wordcount: '582'
 ht-degree: 0%
 
 ---
@@ -24,10 +24,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documenten: Kan geen documenten toevoegen van [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) | 20 december 2022 |
-| [Documenten: Documentmachtigingen worden niet overgeërfd wanneer de hoofduitgave wordt omgezet in een project](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 16 december 2022 |
-| [Rapporten: Rapport gebruikt rapportmaker in plaats van jokerteken &quot;$$[!UICONTROL USERID]&quot;](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md) | 13 december 2022 |
-| [Integraties: Kan niet openen [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 7 december 2022 |
+| [Updates: Het scherm gaat tijdelijk leeg wanneer het antwoord wordt verzonden](known-issues-workfront/wf-updates-reply-goes-blank.md) | 6 januari 2023 |
 | [Proefdrukken: De weergave van proefdrukken in de proefweergave is minder duidelijk dan de oorspronkelijke afbeelding](known-issues-workfront/wf-proofs-are-blurry.md) | 18 november 2022 |
 | [Proefdrukken: Het genereren van proefdrukken is uiterst traag](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 oktober 2022 |
 | [Proefdrukken: In het afdrukoverzicht worden niet alle proefdrukpagina&#39;s weergegeven](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 oktober 2022 |
@@ -41,15 +38,15 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integraties: Kan niet openen [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 6 januari 2023 |
+| [Documenten: Documentmachtigingen worden niet overgeërfd wanneer de hoofduitgave wordt omgezet in een project](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 16 december 2022 |
+| [Taken: Ingesprongen taken blijven niet ingesprongen](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md) | 6 januari 2023 |
 | [Aangepaste Forms: Ctrl+F of Cmd+F werkt niet zoals verwacht in vervolgkeuzelijsten](known-issues-workfront/wf-custom-forms-dropdown-search.md) | 3 januari 2023 |
 | [Proefdrukken: Proefbestanden verwijderen archief niet](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20 december 2022 |
 | [Rapporten: Scherm Rapport bewerken is leeg](known-issues-workfront/wf-reports-edit-report-is-blank.md) | 20 december 2022 |
-| [Documenten: Kan MP4-bestand niet uploaden](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | 8 december 2022 |
 | [Taken: Kan subtaak niet toevoegen](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 7 december 2022 |
 | [Aangepaste formulieren: &quot;[!UICONTROL Invalid custom expression]&quot; bericht bij verwijzing &quot;[!UICONTROL owner]&quot; in een berekend veld](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2 december 2022 |
-| [Aangepaste formulieren: Kan veld niet gebruiken in berekening als veldnaam apostroffen of aanhalingstekens bevat](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 28 november 2022 |
 | [Rapporten: Fout bij het toevoegen van een nieuwe uitgave aan een uitgavapport](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 november 2022 |
-| [Aangepaste formulieren: Fout bij het instellen van een berekend veld](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 13 oktober 2022 |
 | [Integraties: Fout bij verzenden van verzoek van [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 augustus 2022 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] steungeval op Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augustus 2022 |
 
@@ -61,6 +58,8 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Aangepaste formulieren: Kan veld niet gebruiken in berekening als veldnaam apostroffen of aanhalingstekens bevat](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 6 januari 2023 |
+| [Projecten: Projectstatus volgt niet de projectvoorkeuren voor groepen](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | 6 januari 2023 |
 | [Proefdrukken: Proefstatus wordt niet bijgewerkt in [!UICONTROL Document] lijsten](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 december 2022 |
 | [Taken: Uren worden niet opgeslagen bij het invoeren van uren in de taak [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2 december 2022 |
 | [Projecten: De kwesties van prestaties en foutenmelding wanneer het creëren van een project van een malplaatje](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2 december 2022 |
