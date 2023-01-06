@@ -4,7 +4,7 @@ description: "Wanneer een gebruiker een takenlijst bekijkt en een taak inspringt
 hidefromtoc: true
 source-git-commit: 765a69f5f29836e6296a79688c555d681964a6ba
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
