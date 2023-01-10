@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: aa129b37ee460450fa8c015b2f1c4b15c1dc466f
+source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '476'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,28 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in januari 2023
+
++++**(Geplande) onderhoudsupdate op 12 januari 2023**
+
+**Ctrl+F of Cmd+F werkt niet zoals verwacht in vervolgkeuzelijsten**
+
+_Aangepaste Forms_
+
+Wanneer een gebruiker een aangepast formulier invult en een vervolgkeuzelijst doorzoekt met Ctrl+F of Cmd+F, wordt vervolgens geprobeerd naar het volgende exemplaar van die zoekopdracht te gaan, keert de vervolgkeuzelijst terug naar de bovenkant van de lijst in plaats van naar het volgende exemplaar van de zoekopdracht te gaan. Dit gebeurt wanneer een vervolgkeuzelijst is ingesteld om meerdere selecties toe te staan.
+
+**[!UICONTROL Edit Report]scherm is leeg**
+
+_Rapporten_
+
+Wanneer een gebruiker een rapport bekijkt en probeert om het rapport uit te geven, wordt de gebruiker genomen aan een leeg scherm en kan niet het rapport uitgeven.
+
+**Ingesprongen taken blijven niet ingesprongen**
+
+_Taken_
+
+Wanneer een gebruiker een takenlijst bekijkt en een taak inspringt, keert de taak onmiddellijk aan zijn originele (uitgedreven) staat terug.
+
++++
 
 +++**Onderhoudsupdate op 5 januari 2023**
 
