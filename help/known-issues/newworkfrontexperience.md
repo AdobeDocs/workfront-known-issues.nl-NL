@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
+source-git-commit: 5f4d8813a43166db6491464dff26938fc4f545ef
 workflow-type: tm+mt
-source-wordcount: '583'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -40,10 +40,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | -----------------------------------------------------------------| ----------------- |
 | [Integraties: Kan niet openen [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 6 januari 2023 |
 | [Documenten: Documentmachtigingen worden niet overgeërfd wanneer de hoofduitgave wordt omgezet in een project](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 16 december 2022 |
-| [Taken: Ingesprongen taken blijven niet ingesprongen](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md) | 6 januari 2023 |
-| [Aangepaste Forms: Ctrl+F of Cmd+F werkt niet zoals verwacht in vervolgkeuzelijsten](known-issues-workfront/wf-custom-forms-dropdown-search.md) | 3 januari 2023 |
 | [Proefdrukken: Proefbestanden verwijderen archief niet](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20 december 2022 |
-| [Rapporten: Scherm Rapport bewerken is leeg](known-issues-workfront/wf-reports-edit-report-is-blank.md) | 20 december 2022 |
 | [Aangepaste formulieren: &quot;[!UICONTROL Invalid custom expression]&quot; bericht bij verwijzing &quot;[!UICONTROL owner]&quot; in een berekend veld](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2 december 2022 |
 | [Rapporten: Fout bij het toevoegen van een nieuwe uitgave aan een uitgavapport](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 november 2022 |
 | [Integraties: Fout bij verzenden van verzoek van [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 augustus 2022 |
