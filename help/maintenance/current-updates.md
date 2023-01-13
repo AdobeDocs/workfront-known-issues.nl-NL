@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 5f4d8813a43166db6491464dff26938fc4f545ef
+source-git-commit: 62d6d8659079211804d2a270b181272ac7b0eede
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '632'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,40 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in januari 2023
+
++++**[!DNL Adobe Workfront Fusion]Onderhoudsupdate (Hot Fix) op 12 januari 2023**
+
+**404 fouten op [!DNL Workfront] modules**
+
+_Workfront Fusion_
+
+Wanneer een scenario loopt, a [!DNL Workfront] retourneert een fout van 404.
+
+Dit is gerapporteerd in de volgende modules:
+
+* [!UICONTROL Read a record]
+
++++
+
++++**Onderhoudsupdate (Hot Fix) op 12 januari 2023**
+
+**&quot;[!UICONTROL Whoops]&quot; fout bij het instellen van een berekend veld**
+
+_Aangepaste Forms_
+
+Wanneer een gebruiker een berekend veld maakt of bewerkt op een aangepast formulier en een aangepast veld opneemt in de berekende expressie van het veld, wordt de expressie als ongeldig beschouwd. De [!UICONTROL Save] is uitgeschakeld en de gebruiker kan niet weg navigeren van het aangepaste veld. Bovendien ziet de gebruiker het volgende bericht onder het gebied:
+
+&quot;[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]&quot;
+
+Als u het aangepaste veld uit de expressie verwijdert, kan de gebruiker het veld opslaan en verder navigeren.
+
+**Kan toegangsniveaus niet instellen**
+
+_Gebruikers_
+
+Wanneer een gebruiker probeert om het toegangsniveau van een andere gebruiker te veranderen, worden de toegangsniveaus grijs uit en de gebruiker kan hen niet veranderen. Dit gebeurt zelfs wanneer de gebruiker die de wijziging probeert, een systeembeheerder is.
+
++++
 
 +++**Onderhoudsupdate op 12 januari 2023**
 
