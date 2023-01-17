@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 62d6d8659079211804d2a270b181272ac7b0eede
+source-git-commit: b6182d9693b48e4b3bdacb783d202522d23583f6
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '734'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,22 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in januari 2023
+
++++**(Geplande) onderhoudsupdate op 19 januari 2023**
+
+**Expressies met jokertekens zijn niet geldig in aangepaste velden**
+
+_Aangepaste Forms_
+
+Wanneer een gebruiker een jokerteken zoals $$TODAY of $$NOW samen met een modifier (zoals &quot;-30d&quot;) in een aangepast veld gebruikt, accepteert de validator het jokerteken niet als geldig. Jokertekens zonder wijzigingstoetsen worden als geldig beschouwd.
+
+**[!UICONTROL Workload Balancer]toont uren niet verbonden aan een project/een taak/een kwestie**
+
+_[!UICONTROL Workload Balancer]_
+
+Wanneer een gebruiker de [!UICONTROL Workload Balancer], zien zij uren die voor een gebruiker worden geregistreerd die niet met om het even welk project, taak, of kwestie worden geassocieerd, noch worden zij geregistreerd als [!UICONTROL General] uren. Deze uren kunnen alleen worden weergegeven in de weergave van 4 weken of 6 weken.
+
++++
 
 +++**[!DNL Adobe Workfront Fusion]Onderhoudsupdate (Hot Fix) op 12 januari 2023**
 
