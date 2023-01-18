@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b6182d9693b48e4b3bdacb783d202522d23583f6
+source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
 workflow-type: tm+mt
-source-wordcount: '734'
+source-wordcount: '733'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-mai
 
 ## Updates in januari 2023
 
-+++**(Geplande) onderhoudsupdate op 19 januari 2023**
++++**Onderhoudsupdate op 18 januari 2023**
 
 **Expressies met jokertekens zijn niet geldig in aangepaste velden**
 
 _Aangepaste Forms_
 
-Wanneer een gebruiker een jokerteken zoals $$TODAY of $$NOW samen met een modifier (zoals &quot;-30d&quot;) in een aangepast veld gebruikt, accepteert de validator het jokerteken niet als geldig. Jokertekens zonder wijzigingstoetsen worden als geldig beschouwd.
+Wanneer een gebruiker een jokerteken zoals \$$TODAY of $$NOW samen met een bepaling (zoals &quot;-30d&quot;) in een douanegebied gebruikt, keurt de validator de vervanging niet als geldig goed. Jokertekens zonder wijzigingstoetsen worden als geldig beschouwd.
 
 **[!UICONTROL Workload Balancer]toont uren niet verbonden aan een project/een taak/een kwestie**
 
