@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 7b0382f7c254795048dd015c4410dc6c25242101
+source-git-commit: 682d0c0beafcb71a412afb1cad71f20ad3a50d82
 workflow-type: tm+mt
-source-wordcount: '555'
+source-wordcount: '570'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Instellen: Kan e-mailsjablonen niet opslaan](known-issues-workfront/wf-setup-email-templates-not-working.md) | 18 januari 2023 |
 | [Documenten: Kan verwijderd document niet herstellen](known-issues-workfront/wf-documents-cannot-restore-document.md) | 18 januari 2023 |
 | [Documenten: Fout bij uploaden van groot bestand](known-issues-workfront/wf-documents-large-uploads-fail.md) | 18 januari 2023 |
 | [Proefdrukken: De weergave van proefdrukken in de proefweergave is minder duidelijk dan de oorspronkelijke afbeelding](known-issues-workfront/wf-proofs-are-blurry.md) | 18 november 2022 |
@@ -39,6 +40,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Gebruikers: Gebruiker kan zijn eigen gebruikersinstelling niet bewerken](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md) | 18 januari 2023 |
 | [Documenten: Documentmachtigingen worden niet overgeërfd wanneer de hoofduitgave wordt omgezet in een project](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 16 december 2022 |
 | [Proefdrukken: Proefbestanden verwijderen archief niet](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20 december 2022 |
 | [Aangepaste formulieren: &quot;[!UICONTROL Invalid custom expression]&quot; bericht bij verwijzing &quot;[!UICONTROL owner]&quot; in een berekend veld](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2 december 2022 |

@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
+source-git-commit: 682d0c0beafcb71a412afb1cad71f20ad3a50d82
 workflow-type: tm+mt
-source-wordcount: '1192'
+source-wordcount: '1205'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Instellen: Kan e-mailsjablonen niet opslaan](known-issues-workfront/wf-setup-email-templates-not-working.md)
+      + [Gebruikers: Gebruiker kan zijn eigen gebruikersinstelling niet bewerken](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
       + [Documenten: Kan verwijderd document niet herstellen](known-issues-workfront/wf-documents-cannot-restore-document.md)
       + [Documenten: Fout bij uploaden van groot bestand](known-issues-workfront/wf-documents-large-uploads-fail.md)
       + [Taken: Ingesprongen taken blijven niet ingesprongen](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
