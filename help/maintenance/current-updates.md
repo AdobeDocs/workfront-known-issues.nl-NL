@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
+source-git-commit: 244d9f48b2f63bf2b0b30259e42ca9317f5ad933
 workflow-type: tm+mt
-source-wordcount: '733'
+source-wordcount: '837'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,26 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in januari 2023
+
++++**Onderhoudsupdate op 19 januari 2023**
+
+**Inlaatkolomfilters kunnen nu worden gedeeld**
+
+_Borden_
+
+Wanneer de inlaatkolomfunctie naar Boards is uitgebracht, konden de filters voor het instellen van de inlaatkolom alleen worden gezien door de persoon die deze filters heeft gemaakt. De maker kan de filters nu delen met andere gebruikers of teams.
+
+**Puntfunctionaliteit beschikbaar in [!UICONTROL More] menu**
+
+_Navigatie_
+
+De volgende functies zijn nu beschikbaar in het dialoogvenster [!UICONTROL More] menu voor spelden in de productieomgeving:
+
+* Naam punten wijzigen
+* Punten opnieuw ordenen binnen de [!UICONTROL More] menu
+* Een punt uit het deelvenster [!UICONTROL More] menu (wanneer u dit doet, wordt het laatste punt in de bovenste navigatiebalk naar de [!UICONTROL More] menu)
+
++++
 
 +++**Onderhoudsupdate op 18 januari 2023**
 
