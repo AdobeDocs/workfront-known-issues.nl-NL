@@ -3,14 +3,18 @@ title: 'Aangepaste formulieren: Ongeldig aangepast expressiebericht bij verwijzi
 description: '"Wanneer een gebruiker een berekend gebied aan een uitgave-vlakke douaneformulier toevoegt en probeert om het even welke verwijzing naar een eigenaar (zoals ` ownerID'') toe te voegen, slaat het gebied niet op, en de gebruiker ziet het volgende bericht: Dit is een ongeldige klantuitdrukking, gelieve te proberen opnieuw.'''
 hidefromtoc: true
 exl-id: 254f1fae-0784-4332-99a1-cc1895c50896
-source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
 
 # Aangepaste formulieren: &quot;[!UICONTROL Invalid custom expression]&quot; bericht bij verwijzing &quot;[!UICONTROL owner]&quot; in een berekend veld
+
+>[!NOTE]
+>
+>Het team van het Product evalueert momenteel deze probleemoplossing, die productverbeteringen kan vereisen. De verbeteringen van het product worden meegedeeld in de Mededelingen van het Product en niet met de Updates van het Onderhoud.
 
 <!--
 >[!NOTE]
