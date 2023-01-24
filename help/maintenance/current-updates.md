@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 244d9f48b2f63bf2b0b30259e42ca9317f5ad933
+source-git-commit: efa58e381aba8aaba59f0c19362f3da0cc81154f
 workflow-type: tm+mt
-source-wordcount: '837'
+source-wordcount: '898'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,20 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in januari 2023
+
++++**(Gepland) Onderhoudsupdate op 26 januari 2023**
+
+**Fout bij verzenden van verzoek van[!DNL Outlook]**
+
+_Integraties_
+
+Wanneer een gebruiker een aanvraag probeert in te dienen met bijlagen van een [!DNL Outlook] e-mail, uploaden één of meerdere gehechtheid niet, en de gebruiker ziet de volgende fout:
+
+&quot;[!UICONTROL The following error occurred: File with handle xxxx does not exist.]&quot;
+
+Dit komt slechts voor wanneer een taak voor het nieuwe verzoek wordt gemaakt, of door de verzoekrij of manueel wanneer het creëren van het verzoek.
+
++++
 
 +++**Onderhoudsupdate op 19 januari 2023**
 
