@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: efa58e381aba8aaba59f0c19362f3da0cc81154f
+source-git-commit: 9d19a853dbd123107d55eb362d383f5080ff1b8a
 workflow-type: tm+mt
-source-wordcount: '898'
+source-wordcount: '947'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,12 @@ Wanneer een gebruiker een aanvraag probeert in te dienen met bijlagen van een [!
 &quot;[!UICONTROL The following error occurred: File with handle xxxx does not exist.]&quot;
 
 Dit komt slechts voor wanneer een taak voor het nieuwe verzoek wordt gemaakt, of door de verzoekrij of manueel wanneer het creëren van het verzoek.
+
+**Gebruiker kan zijn eigen gebruikersinstelling niet bewerken**
+
+_Gebruikers_
+
+Wanneer een gebruiker met een licentie voor werk, revisie of aanvraag zijn eigen gebruikersinstellingen probeert te bewerken, is de pop-up die wordt geopend leeg en kan de gebruiker geen bewerkingen uitvoeren. Om popup weg te gaan, moet de gebruiker de pagina verfrissen.
 
 +++
 
