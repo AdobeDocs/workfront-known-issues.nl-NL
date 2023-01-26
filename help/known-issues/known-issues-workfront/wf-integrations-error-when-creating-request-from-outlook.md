@@ -2,15 +2,19 @@
 title: "Integraties: Fout bij verzenden van verzoek van Outlook "
 description: "Wanneer een gebruiker een aanvraag probeert in te dienen met bijlagen van een [!DNL Outlook] e-mail, uploadt één of meerdere gehechtheid niet, en de gebruiker ziet een fout."
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
+source-git-commit: baeb2b783dcf75bc889096cd02035ecb9bd17ef6
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 
 # Integraties: Fout bij verzenden van verzoek van [!DNL Outlook]
+
+>[!NOTE]
+>
+>Deze kwestie is vastgesteld op 26 januari 2023.
 
 Wanneer een gebruiker een aanvraag probeert in te dienen met bijlagen van een [!DNL Outlook] e-mail, uploaden één of meerdere gehechtheid niet, en de gebruiker ziet de volgende fout:
 

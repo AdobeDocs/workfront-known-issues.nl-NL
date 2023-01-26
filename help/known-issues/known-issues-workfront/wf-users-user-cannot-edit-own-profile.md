@@ -2,15 +2,19 @@
 title: "Gebruikers: Gebruiker kan zijn eigen gebruikersinstelling niet bewerken"
 description: "Wanneer een gebruiker een licentie heeft van [!UICONTROL Work], [!UICONTROL Review], of [!UICONTROL Request] pogingen om hun eigen gebruikersinstellingen te bewerken, de pop-up die wordt geopend, is leeg en de gebruiker kan geen bewerkingen uitvoeren. De gebruiker moet de pagina vernieuwen om de pop-up te sluiten."
 hidefromtoc: true
-source-git-commit: 682d0c0beafcb71a412afb1cad71f20ad3a50d82
+source-git-commit: baeb2b783dcf75bc889096cd02035ecb9bd17ef6
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 
 # Gebruikers: Gebruiker kan zijn eigen gebruikersinstelling niet bewerken
+
+>[!NOTE]
+>
+>Deze kwestie is vastgesteld op 26 januari 2023.
 
 Wanneer een gebruiker een licentie heeft van [!UICONTROL Work], [!UICONTROL Review], of [!UICONTROL Request] pogingen om hun eigen gebruikersinstellingen te bewerken, de pop-up die wordt geopend, is leeg en de gebruiker kan geen bewerkingen uitvoeren. Om popup weg te gaan, moet de gebruiker de pagina verfrissen.
 
