@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: 682d0c0beafcb71a412afb1cad71f20ad3a50d82
+source-git-commit: 1b49b3fdcd78dc0ceef76f2a0c7492d2ae151296
 workflow-type: tm+mt
-source-wordcount: '1205'
+source-wordcount: '1212'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Gebruikers: Geplande deactivering deactiveert gebruiker niet](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
       + [Instellen: Kan e-mailsjablonen niet opslaan](known-issues-workfront/wf-setup-email-templates-not-working.md)
       + [Gebruikers: Gebruiker kan zijn eigen gebruikersinstelling niet bewerken](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
       + [Documenten: Kan verwijderd document niet herstellen](known-issues-workfront/wf-documents-cannot-restore-document.md)

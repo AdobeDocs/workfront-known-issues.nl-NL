@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: baeb2b783dcf75bc889096cd02035ecb9bd17ef6
+source-git-commit: 441062239d07963454e1cc57e4dff54e0c5a06bb
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1018'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,17 @@ Wanneer een gebruiker een aanvraag probeert in te dienen met bijlagen van een [!
 &quot;[!UICONTROL The following error occurred: File with handle xxxx does not exist.]&quot;
 
 Dit komt slechts voor wanneer een taak voor het nieuwe verzoek wordt gemaakt, of door de verzoekrij of manueel wanneer het creëren van het verzoek.
+
+**Nieuwe versie van Desktop Proofing Viewer**
+
+_Proofing_
+
+We hebben een nieuwe versie van de Desktop Proofing Viewer geïmplementeerd om een probleem met het bevriezen van bestanden in de Desktop Proofing Viewer te verhelpen. Gebruikers die de Desktop Proofing Viewer al hebben geïnstalleerd, krijgen deze update automatisch.
+
+Gebruikers kunnen ook handmatig de nieuwste versie verkleinen. Zie voor meer informatie [De Desktop Proofing Viewer installeren](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=en).
+
+* Vorige versie: 2.1.19.
+* Nieuwe versie: 2.1.20.
 
 **Gebruiker kan zijn eigen gebruikersinstelling niet bewerken**
 
