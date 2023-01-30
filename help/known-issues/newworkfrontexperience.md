@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 7d01ba3dad163924a9f5f6f0a5d39215f77980ed
+source-git-commit: e8358a00e3cfa9a62f86056752801f030ced296f
 workflow-type: tm+mt
-source-wordcount: '526'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,8 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Projecten: Project dat vanuit uitgave is geconverteerd, neemt geen rechten over van portfolio of programma](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 30 januari 2023 |
+| [Documenten: Fout bij &quot;Ongeldige reactie&quot; bij het openen of downloaden van een document](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md) | 30 januari 2023 |
 | [Documenten: Kan verwijderd document niet herstellen](known-issues-workfront/wf-documents-cannot-restore-document.md) | 18 januari 2023 |
 | [Proefdrukken: Het genereren van proefdrukken is uiterst traag](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 oktober 2022 |
 | [Proefdrukken: In het afdrukoverzicht worden niet alle proefdrukpagina&#39;s weergegeven](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 oktober 2022 |
@@ -36,6 +38,8 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Setup]: Auditlogboeken worden niet geëxporteerd](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 30 januari 2023 |
+| [[!UICONTROL Summary]: Kan niet schuiven [!UICONTROL Summary] deelvenster](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md) | 30 januari 2023 |
 | [Gebruikers: Geplande deactivering deactiveert gebruiker niet](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 26 januari 2023 |
 | [Instellen: Kan e-mailsjablonen niet opslaan](known-issues-workfront/wf-setup-email-templates-not-working.md) | 20 januari 2023 |
 | [Documenten: Kan verwijderd document niet herstellen](known-issues-workfront/wf-documents-cannot-restore-document.md) | 20 januari 2023 |
