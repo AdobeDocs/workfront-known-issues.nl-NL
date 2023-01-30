@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: 1b49b3fdcd78dc0ceef76f2a0c7492d2ae151296
+source-git-commit: 1ab3d654c933d21a1ec7f91e04a454c96622aa64
 workflow-type: tm+mt
-source-wordcount: '1212'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Projecten: Project dat vanuit uitgave is geconverteerd, neemt geen rechten over van portfolio of programma](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
+      + [[!UICONTROL Setup]: Auditlogboeken worden niet geëxporteerd](known-issues-workfront/wf-setup-audit-logs-do-not-export.md)
+      + [[!UICONTROL Summary]: Kan niet schuiven [!UICONTROL Summary] deelvenster](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md)
+      + [Documenten: Fout bij &quot;Ongeldige reactie&quot; bij het openen of downloaden van een document](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md)
       + [Gebruikers: Geplande deactivering deactiveert gebruiker niet](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
       + [Instellen: Kan e-mailsjablonen niet opslaan](known-issues-workfront/wf-setup-email-templates-not-working.md)
       + [Gebruikers: Gebruiker kan zijn eigen gebruikersinstelling niet bewerken](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
@@ -167,6 +171,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Bekende problemen in Workfront Fusion](workfrontfusion.md)
    + Huidige problemen in [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Adobe Workfront Fusion]: 404 fouten in Workfront-modules](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
       + [[!DNL Workfront Fusion]: Kan geen verbinding maken met [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]: Array-elementen in [!UICONTROL Iterator] moduleweergave als &quot;[!UICONTROL object Object]&quot;](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]: Fout bij het weergeven van een fout in de uitvoeringsgeschiedenis van een scenario](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
