@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 441062239d07963454e1cc57e4dff54e0c5a06bb
+source-git-commit: f3dbb947d2c3d9d36677c6c3c2cb41db2ce47685
 workflow-type: tm+mt
-source-wordcount: '1018'
+source-wordcount: '1249'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,41 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in januari 2023
+
++++**Onderhoudsupdate op 30 januari 2023**
+
+**Sneltoetsen die worden toegevoegd voor algemene tijdlijnhandelingen**
+
+_Timesheets_
+
+De volgende sneltoetsen zijn geïntroduceerd voor de volgende veelvoorkomende acties in een tijdspagina:
+
+* Rij toevoegen (Cmd+Option++ / Ctrl+Option++)
+* Rij verwijderen (Cmd+Option+- / Ctrl+Option+-)
+* Een tijdelijk item vastzetten of vastzetten (Option+P / Option+P)
+* Opmerking openen (Shift+F2 / Shift+F2)
+* Opmerking opslaan (Cmd+Enter / Ctrl+Enter)
+* Uitbreiden (Shift+Option+Pijl-omhoog / Shift+Alt+Pijl-omhoog)
+* Samenvouwen (Shift+Option+Pijl-omlaag / Shift+Alt+Pijl-omlaag)
+
+Het gebied waarop deze acties worden uitgevoerd, moet worden gemarkeerd om ze te kunnen toepassen.
+
+**Nieuwe informatiepictogrammen voor voorkeuren voor tijdbladen, tijdlijnprofielen en tijdbladen**
+
+_Timesheets_
+
+>[!NOTE]
+>
+>Deze update is alleen beschikbaar in de voorbeeldomgeving op 3 november 2022 en is nu beschikbaar in Production.
+
+Er zijn verschillende informatiepictogrammen toegevoegd aan de volgende instellingen:
+
+* &quot;[!UICONTROL Can edit time]&quot; checkbox wanneer het creëren van of het uitgeven van een timesheet of een timesheet profiel om erop te wijzen dat wanneer toegelaten, de fiatteurs, timesheet ook kunnen voorleggen opnieuw openen of uitgeven, tenzij uw beheerder deze acties in beperkt [!UICONTROL Timesheet Preferences] gebied van [!UICONTROL Setup].
+* &quot;[!UICONTROL Restrict timesheet editing to owners and admins]&quot; in de [!UICONTROL Timesheet & Hour Preferences] gebied van [!UICONTROL Setup] om aan te geven dat de volgende gebruikers, wanneer deze optie is uitgeschakeld, ook de tijdbladen kunnen bewerken: gebruikers met administratieve toegang tot timesheets en uren, beoordelaars van tijdbladen die tijd mogen uitgeven, en de managers van timesheet eigenaars.
+
+De functionaliteit van deze instellingen is niet gewijzigd en alleen de informatiepictogrammen zijn toegevoegd om het bereik van de instellingen helderder te maken.
+
++++
 
 +++**Onderhoudsupdate op 26 januari 2023**
 
