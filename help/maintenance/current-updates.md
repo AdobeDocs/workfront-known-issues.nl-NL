@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f3dbb947d2c3d9d36677c6c3c2cb41db2ce47685
+source-git-commit: ee85cc89d8803afa3a239e51c468fe3ed372ea49
 workflow-type: tm+mt
-source-wordcount: '1249'
+source-wordcount: '1280'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,17 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
-## Updates in januari 2023
+## Updates in februari 2023
+
++++**Onderhoudsupdate op 2 februari 2023**
+
+**Kan e-mailsjablonen niet opslaan**
+
+_Instellen_
+
+Wanneer een gebruiker een e-mailsjabloon probeert te maken of te bewerken, [!UICONTROL Save] reageert niet en de gebruiker kan de sjabloon niet opslaan.
+
++++
 
 +++**Onderhoudsupdate op 30 januari 2023**
 
