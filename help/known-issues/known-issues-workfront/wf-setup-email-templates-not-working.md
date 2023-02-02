@@ -2,15 +2,19 @@
 title: "Instellen: Kan e-mailsjablonen niet opslaan"
 description: "Wanneer een gebruiker een e-mailsjabloon probeert te maken of te bewerken, reageert de knop Opslaan niet en kan de gebruiker de sjabloon niet opslaan."
 hidefromtoc: true
-source-git-commit: 682d0c0beafcb71a412afb1cad71f20ad3a50d82
+source-git-commit: 4f1ddf2ac7e5b6b463d421ba3356dfd0815e43f0
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
 
 # Instellen: Kan e-mailsjablonen niet opslaan
+
+>[!NOTE]
+>
+>Dit probleem is op 2 februari 2023 opgelost.
 
 Wanneer een gebruiker een e-mailsjabloon probeert te maken of te bewerken, [!UICONTROL Save] reageert niet en de gebruiker kan de sjabloon niet opslaan.
 
