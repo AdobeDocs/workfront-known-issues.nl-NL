@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 4f1ddf2ac7e5b6b463d421ba3356dfd0815e43f0
+source-git-commit: e13d003b2771683ecd7cc1701f3d94c958b8b9e2
 workflow-type: tm+mt
-source-wordcount: '579'
+source-wordcount: '592'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Groepen: Subgroepen geven geen meldingen weer op basis van de instellingen voor groepsgebeurtenismeldingen](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md) | 2 februari 2023 |
 | [[!UICONTROL Setup]: Auditlogboeken worden niet geëxporteerd](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 30 januari 2023 |
 | [[!UICONTROL Summary]: Kan niet schuiven [!UICONTROL Summary] deelvenster](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md) | 30 januari 2023 |
 | [Gebruikers: Geplande deactivering deactiveert gebruiker niet](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 26 januari 2023 |

@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: 6183d1c028c93ee2eba2e9c4452879bc8813289f
+source-git-commit: e13d003b2771683ecd7cc1701f3d94c958b8b9e2
 workflow-type: tm+mt
-source-wordcount: '1269'
+source-wordcount: '1281'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Groepen: Subgroepen geven geen meldingen weer op basis van de instellingen voor groepsgebeurtenismeldingen](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
       + [Documenten: Het deelvenster Samenvatting keert terug naar de bovenkant wanneer u op het menu met drie punten klikt](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md)
       + [Documenten: De fout &#39;&#39;Die pagina bestaat niet&#39;&#39; tijdens het openen of downloaden van een document](known-issues-workfront/wf-documents-cannot-open-or-download-document.md)
       + [Projecten: Project dat vanuit uitgave is geconverteerd, neemt geen rechten over van portfolio of programma](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
