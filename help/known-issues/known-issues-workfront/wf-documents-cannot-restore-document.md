@@ -2,15 +2,19 @@
 title: "Documenten: Kan verwijderd document niet herstellen"
 description: "Wanneer een gebruiker een eerder verwijderd document probeert te herstellen, kan het document niet worden hersteld en wordt de fout In gehele getallen weergegeven."
 hidefromtoc: true
-source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
+source-git-commit: 43cc7a54a32f68460118de9d8ad93b472bd77c75
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
 
 # Documenten: Kan verwijderd document niet herstellen
+
+>[!NOTE]
+>
+>Dit probleem is op 2 februari 2023 opgelost.
 
 <!-- On WF and WFP TOCs-->
 
