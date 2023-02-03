@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: 4a346b600df6e53d85542faf8cb3ce56d76a07e2
+source-git-commit: 1617567bef73599325b363c61dff421fc65b9a1f
 workflow-type: tm+mt
-source-wordcount: '1308'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Documenten: Machtigingen worden niet overgeërfd wanneer een document naar een nieuw project wordt verplaatst](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
       + [Werklastverdeling: Onnauwkeurige resultaten wanneer meerdere filters tegelijk worden gebruikt](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
       + [Groepen: Subgroepen geven geen meldingen weer op basis van de instellingen voor groepsgebeurtenismeldingen](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
       + [Documenten: Het deelvenster Samenvatting keert terug naar de bovenkant wanneer u op het menu met drie punten klikt](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md)
