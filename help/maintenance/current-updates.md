@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c85772aa45bce70beb6f0f52fec926abcf8d5843
+source-git-commit: f60d2cab1983c7486ca611050de5ee53596c9e05
 workflow-type: tm+mt
-source-wordcount: '1357'
+source-wordcount: '1411'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,16 @@ Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-mai
 +++**(Geplande) onderhoudsupdate op 9 februari 2023**
 
 Deze update bevat alleen kleine of minder belangrijke opgeloste problemen. [!DNL Workfront] Ondersteuning geeft een melding wanneer een probleem dat u hebt verzonden, is opgelost.
+
++++
+
++++**Onderhoudsupdate op 8 februari 2023**
+
+**Filterknop in inlaatkolom**
+
+_Borden_
+
+De inlaatkolom op een bord bevat nu een **Een filter toevoegen** als de kolom leeg is en er geen filters zijn gemaakt. De knoop opent het configuratiegebied, waar u filters kunt toevoegen om taken en kwesties in de inputkolom te brengen.
 
 +++
 
