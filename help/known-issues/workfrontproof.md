@@ -3,9 +3,9 @@ title: Bekende problemen in [!DNL Adobe Workfront Proof]
 description: Bekende problemen gemeld voor [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 1617567bef73599325b363c61dff421fc65b9a1f
+source-git-commit: d03db6c677e340e01629a962fec8b2690af8460d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,6 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | -----------------------------------------------------------------| ----------------- |
 | [Documenten: Machtigingen worden niet overgeërfd wanneer een document naar een nieuw project wordt verplaatst](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 3 februari 2023 |
 | [Documenten: Het deelvenster Samenvatting keert terug naar de bovenkant wanneer u op het menu met drie punten klikt](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 31 januari 2023 |
-| [Documenten: De fout &#39;&#39;Die pagina bestaat niet&#39;&#39; tijdens het openen of downloaden van een document](known-issues-workfront/wf-documents-cannot-open-or-download-document.md) | 31 januari 2023 |
 | [Documenten: Kan geen documenten toevoegen van [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) | 20 december 2022 |
 
 {style=&quot;table-layout:auto&quot;}

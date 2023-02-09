@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 1617567bef73599325b363c61dff421fc65b9a1f
+source-git-commit: d03db6c677e340e01629a962fec8b2690af8460d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '560'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
 | [Documenten: Machtigingen worden niet overgeërfd wanneer een document naar een nieuw project wordt verplaatst](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 3 februari 2023 |
-| [Werklastverdeling: Onnauwkeurige resultaten wanneer meerdere filters tegelijk worden gebruikt](known-issues-workfront/wf-workload-balancer-multiple-filters.md) | 3 februari 2023 |
 | [Documenten: Het deelvenster Samenvatting keert terug naar de bovenkant wanneer u op het menu met drie punten klikt](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 31 januari 2023 |
-| [Documenten: De fout &#39;&#39;Die pagina bestaat niet&#39;&#39; tijdens het openen of downloaden van een document](known-issues-workfront/wf-documents-cannot-open-or-download-document.md) | 31 januari 2023 |
 | [Projecten: Project dat vanuit uitgave is geconverteerd, neemt geen rechten over van portfolio of programma](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 30 januari 2023 |
 | [Proefdrukken: Het genereren van proefdrukken is uiterst traag](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 oktober 2022 |
 | [Proefdrukken: In het afdrukoverzicht worden niet alle proefdrukpagina&#39;s weergegeven](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 oktober 2022 |
@@ -40,9 +38,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [Groepen: Subgroepen geven geen meldingen weer op basis van de instellingen voor groepsgebeurtenismeldingen](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md) | 2 februari 2023 |
 | [[!UICONTROL Setup]: Auditlogboeken worden niet geëxporteerd](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 30 januari 2023 |
-| [[!UICONTROL Summary]: Kan niet schuiven [!UICONTROL Summary] deelvenster](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md) | 30 januari 2023 |
 | [Gebruikers: Geplande deactivering deactiveert gebruiker niet](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 26 januari 2023 |
 | [Documenten: Kan verwijderd document niet herstellen](known-issues-workfront/wf-documents-cannot-restore-document.md) | 20 januari 2023 |
 | [Rapporten: Fout bij het toevoegen van een nieuwe uitgave aan een uitgavapport](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 november 2022 |
