@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f60d2cab1983c7486ca611050de5ee53596c9e05
+source-git-commit: f31a0b764aa1e734fc2cb997b7f7170b315f3086
 workflow-type: tm+mt
-source-wordcount: '1411'
+source-wordcount: '1422'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,13 @@ Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-mai
 
 ## Updates in februari 2023
 
-+++**(Geplande) onderhoudsupdate op 9 februari 2023**
++++**Onderhoudsupdate op 9 februari 2023**
 
-Deze update bevat alleen kleine of minder belangrijke opgeloste problemen. [!DNL Workfront] Ondersteuning geeft een melding wanneer een probleem dat u hebt verzonden, is opgelost.
+**[!UICONTROL Story Points]veld toegevoegd aan taak- en uitgavelijsten en -rapporten**
+
+_Rapporten_
+
+De [!UICONTROL Story Points] is nu beschikbaar om aan lijsten en rapporten voor taken of kwesties toe te voegen. Het is een bewerkbaar, vrij formulierveld dat niet is gekoppeld aan geplande uren of teamtoewijzingen.
 
 +++
 
@@ -33,17 +37,17 @@ Deze update bevat alleen kleine of minder belangrijke opgeloste problemen. [!DNL
 
 _Borden_
 
-De inlaatkolom op een bord bevat nu een **Een filter toevoegen** als de kolom leeg is en er geen filters zijn gemaakt. De knoop opent het configuratiegebied, waar u filters kunt toevoegen om taken en kwesties in de inputkolom te brengen.
+De inlaatkolom op een bord bevat nu een **[!UICONTROL Add a filter]** als de kolom leeg is en er geen filters zijn gemaakt. De knoop opent het configuratiegebied, waar u filters kunt toevoegen om taken en kwesties in de inputkolom te brengen.
 
 +++
 
 +++**Onderhoudsupdate op 2 februari 2023**
 
-**Het pictogram Borden wordt standaard weergegeven in Hoofdmenu**
+**[!UICONTROL Boards]pictogram wordt weergegeven in [!UICONTROL Main Menu] standaard**
 
 _Borden_
 
-Het pictogram Borden wordt nu weergegeven in het hoofdmenu voor gebruikers die geen lay-outsjabloon hebben. Borden worden ook standaard opgenomen in het hoofdmenu voor alle nieuwe lay-outsjablonen die worden gemaakt. Bestaande lay-outsjablonen zijn niet gewijzigd.
+De [!UICONTROL Boards] wordt nu weergegeven in het dialoogvenster [!UICONTROL Main Menu] voor gebruikers die geen lay-outsjabloon hebben. Borden worden ook standaard opgenomen in het hoofdmenu voor alle nieuwe lay-outsjablonen die worden gemaakt. Bestaande lay-outsjablonen zijn niet gewijzigd.
 
 **Kan e-mailsjablonen niet opslaan**
 
