@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: 1617567bef73599325b363c61dff421fc65b9a1f
+source-git-commit: fbc195c8fc6bbd158a77b37b940608abaded784a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1330'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Gebruikers: Gebruiker kan zijn eigen meldingsinstellingen niet bewerken](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
       + [Documenten: Machtigingen worden niet overgeërfd wanneer een document naar een nieuw project wordt verplaatst](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
       + [Werklastverdeling: Onnauwkeurige resultaten wanneer meerdere filters tegelijk worden gebruikt](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
       + [Groepen: Subgroepen geven geen meldingen weer op basis van de instellingen voor groepsgebeurtenismeldingen](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
