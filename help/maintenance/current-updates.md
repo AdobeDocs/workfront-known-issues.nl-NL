@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f31a0b764aa1e734fc2cb997b7f7170b315f3086
+source-git-commit: b931adc190ed492131133cf1ba704a8b8057b6f9
 workflow-type: tm+mt
-source-wordcount: '1422'
+source-wordcount: '1454'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,16 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in februari 2023
+
++++**(Geplande) onderhoudsupdate op 16 februari 2023**
+
+**Geplande deactivering deactiveert gebruiker niet**
+
+_Gebruikers_
+
+Wanneer een gebruiker volgens de planning moet worden gedeactiveerd en de geplande datum en tijd verstrijken, wordt de gebruiker niet gedeactiveerd.
+
++++
 
 +++**Onderhoudsupdate op 9 februari 2023**
 
