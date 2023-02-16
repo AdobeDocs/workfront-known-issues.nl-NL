@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b931adc190ed492131133cf1ba704a8b8057b6f9
+source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
 workflow-type: tm+mt
-source-wordcount: '1454'
+source-wordcount: '1498'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,19 @@ Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-mai
 
 ## Updates in februari 2023
 
-+++**(Geplande) onderhoudsupdate op 16 februari 2023**
++++**Onderhoudsupdate op 16 februari 2023**
+
+**Meerdere teamtoewijzingen op raden van bestuur**
+
+_Borden_
+
+U kunt nu meerdere teams toewijzen aan een taak of uitgave in een bestuur en aan de raad zelf.
+
+**Limiet voor wegvallen van kaart verhoogd**
+
+_Borden_
+
+De uiterste termijnen voor het wegvallen van kaarten zijn verlengd tot 8 weken/60 dagen in plaats van 4 weken/30 dagen.
 
 **Geplande deactivering deactiveert gebruiker niet**
 
