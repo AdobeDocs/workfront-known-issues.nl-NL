@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
+source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
 workflow-type: tm+mt
-source-wordcount: '589'
+source-wordcount: '570'
 ht-degree: 0%
 
 ---
@@ -24,10 +24,9 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Projecten: 504 fout in projectkopbal](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 17 februari 2023 |
 | [[!UICONTROL Boards]: Kan geen kaarten toevoegen bij groepering](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md) | 16 februari 2023 |
-| [Gebruikers: Gebruiker kan zijn eigen meldingsinstellingen niet bewerken](known-issues-workfront/wf-user-cannot-edit-notification-settings.md) | 10 februari 2023 |
 | [Documenten: Machtigingen worden niet overgeërfd wanneer een document naar een nieuw project wordt verplaatst](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 3 februari 2023 |
-| [Documenten: Het deelvenster Samenvatting keert terug naar de bovenkant wanneer u op het menu met drie punten klikt](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 31 januari 2023 |
 | [Projecten: Project dat vanuit uitgave is geconverteerd, neemt geen rechten over van portfolio of programma](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 30 januari 2023 |
 | [Proefdrukken: In het afdrukoverzicht worden niet alle proefdrukpagina&#39;s weergegeven](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 oktober 2022 |
 
@@ -39,11 +38,10 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Gebruikers: Gebruiker kan zijn eigen meldingsinstellingen niet bewerken](known-issues-workfront/wf-user-cannot-edit-notification-settings.md) | 17 februari 2023 |
 | [Integraties: Kan niet openen [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 14 februari 2023 |
 | [Gebruikers: Toegangsniveau wordt niet toegewezen wanneer gebruiker opnieuw wordt geactiveerd](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 13 februari 2023 |
 | [Updates: Koppeling naar een opmerking doorsturen naar [!UICONTROL Details] page](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 10 februari 2023 |
-| [[!UICONTROL Setup]: Auditlogboeken worden niet geëxporteerd](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 30 januari 2023 |
-| [Gebruikers: Geplande deactivering deactiveert gebruiker niet](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 26 januari 2023 |
 | [Documenten: Kan verwijderd document niet herstellen](known-issues-workfront/wf-documents-cannot-restore-document.md) | 20 januari 2023 |
 | [Rapporten: Fout bij het toevoegen van een nieuwe uitgave aan een uitgavapport](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 november 2022 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] steungeval op Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augustus 2022 |
