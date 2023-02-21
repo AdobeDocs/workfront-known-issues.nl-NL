@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
+source-git-commit: e98fb79ece32db7e590078660a4fcf560b8e6be8
 workflow-type: tm+mt
-source-wordcount: '1498'
+source-wordcount: '1604'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,24 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in februari 2023
+
++++**(Geplande) onderhoudsupdate op 23 februari 2023**
+
+**Koppeling naar een opmerking doorsturen naar [!UICONTROL Details] page**
+
+_Updates_
+
+Wanneer een gebruiker een koppeling volgt naar een opmerking over een object in Workfront, wordt de updatestream kort geladen en wordt de gebruiker omgeleid naar het object [!UICONTROL Details] gebied. Dit kan gebeuren als de gebruiker op de koppeling klikt in een e-mail of de koppeling in zijn browser plakt.
+
+Dit is momenteel alleen van toepassing op objecten Document.
+
+**Gebruiker kan zijn eigen meldingsinstellingen niet bewerken**
+
+_Gebruikers_
+
+Wanneer een gebruiker met een [!UICONTROL Worker] licentie probeert hun eigen meldingsinstellingen te bewerken, de [!UICONTROL Notifications] opties zijn niet zichtbaar in het dialoogvenster [!UICONTROL Edit] en de gebruiker kan de instellingen niet bewerken.
+
++++
 
 +++**Onderhoudsupdate op 16 februari 2023**
 
@@ -78,6 +96,8 @@ _Instellen_
 Wanneer een gebruiker een e-mailsjabloon probeert te maken of te bewerken, [!UICONTROL Save] reageert niet en de gebruiker kan de sjabloon niet opslaan.
 
 +++
+
+## Updates in januari 2023
 
 +++**Onderhoudsupdate op 30 januari 2023**
 
