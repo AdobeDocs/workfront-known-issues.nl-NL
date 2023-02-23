@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: e98fb79ece32db7e590078660a4fcf560b8e6be8
+source-git-commit: a21275163de2c7de2201971b125703f40b9983b8
 workflow-type: tm+mt
-source-wordcount: '1604'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-mai
 
 ## Updates in februari 2023
 
-+++**(Geplande) onderhoudsupdate op 23 februari 2023**
++++**Onderhoudsupdate op 23 februari 2023**
 
 **Koppeling naar een opmerking doorsturen naar [!UICONTROL Details] page**
 

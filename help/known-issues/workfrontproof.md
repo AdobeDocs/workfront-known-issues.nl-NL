@@ -3,9 +3,9 @@ title: Bekende problemen in [!DNL Adobe Workfront Proof]
 description: Bekende problemen gemeld voor [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
+source-git-commit: a21275163de2c7de2201971b125703f40b9983b8
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,7 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proefdrukken: Gebruiker ontvangt geen e-mail wanneer deze is gelabeld in een proefdrukopmerking](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23 februari 2023 |
 | [Proefdrukken: Nieuwe fase gemaakt omdat deadline niet overeenkomt met deadline van bestaand werkgebied](known-issues-workfront-proof/proof-new-stage-created.md) | 2 februari 2023 |
 | [[!UICONTROL Home]: Voltooide proefdrukken in de [!UICONTROL Work List]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 januari 2023 |
 | [Proefdrukken: Proefstatus wordt niet bijgewerkt in [!UICONTROL Document] lijsten](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 december 2022 |
