@@ -1,10 +1,10 @@
 ---
-title: ""
-description: ""
+title: "Proofs: Gebruiker ontvangt geen e-mail wanneer deze is gelabeld in een proefdrukopmerking."
+description: "Wanneer een gebruiker is gelabeld met de notatie @name op een proefdrukopmerking, ontvangt de gebruiker geen e-mailbericht over de opmerking."
 hidefromtoc: true
-source-git-commit: a21275163de2c7de2201971b125703f40b9983b8
+source-git-commit: 7aa896333c20e67da4da27b981eee0b0f79a09f2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---

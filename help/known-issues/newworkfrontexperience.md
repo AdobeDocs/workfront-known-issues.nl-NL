@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: ace7bcf248b16fa62c04cc112b5844f5fcb38a2d
+source-git-commit: 7aa896333c20e67da4da27b981eee0b0f79a09f2
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '574'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Updates: Koppeling naar een opmerking doorsturen naar [!UICONTROL Details] page](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 24 februari 2023 |
 | [Projecten: Project dat vanuit uitgave is geconverteerd, neemt geen rechten over van portfolio of programma](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23 februari 2023 |
 | [Integraties: Kan niet openen [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 14 februari 2023 |
 | [Gebruikers: Toegangsniveau wordt niet toegewezen wanneer gebruiker opnieuw wordt geactiveerd](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 13 februari 2023 |
