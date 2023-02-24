@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
+source-git-commit: 72d2cf5620f0ea6ca7f74d2e7e773f93a807af30
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '517'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integraties: Fout bij aanmelden bij [!DNL Workfront] van [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md) | 24 februari 2023 |
 | [Projecten: 504 fout in projectkopbal](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 17 februari 2023 |
 | [[!UICONTROL Boards]: Kan geen kaarten toevoegen bij groepering](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md) | 16 februari 2023 |
 | [Documenten: Machtigingen worden niet overgeërfd wanneer een document naar een nieuw project wordt verplaatst](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 3 februari 2023 |

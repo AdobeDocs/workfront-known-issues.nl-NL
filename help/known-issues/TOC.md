@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: a21275163de2c7de2201971b125703f40b9983b8
+source-git-commit: 72d2cf5620f0ea6ca7f74d2e7e773f93a807af30
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1030'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Integraties: Fout bij aanmelden bij [!DNL Workfront] van [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
       + [Projecten: 504 fout in projectkopbal](known-issues-workfront/wf-projects-504-error-in-project-header.md)
       + [[!UICONTROL Boards]: Kan geen kaarten toevoegen bij groepering](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
       + [Gebruikers: Toegangsniveau wordt niet toegewezen wanneer gebruiker opnieuw wordt geactiveerd](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
@@ -119,6 +120,7 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [Bekende problemen in [!DNL Workfront Proof]](workfrontproof.md)
    + Huidige problemen in [!DNL Workfront Proof] {#proof-current}
+      + [Integraties: Fout bij aanmelden bij [!DNL Workfront] van [!DNL Jira]](known-issues-workfront-proof/proof-print-summary-does-not-load.md)
       + [Proefdrukken: Gebruiker ontvangt geen e-mail wanneer deze is gelabeld in een proefdrukopmerking](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [Proefdrukken: Nieuwe fase gemaakt omdat deadline niet overeenkomt met deadline van bestaand werkgebied](known-issues-workfront-proof/proof-new-stage-created.md)
       + [[!DNL Workfront Proof] API: &quot;[!UICONTROL Body is not a valid XML]&quot;-fout](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)

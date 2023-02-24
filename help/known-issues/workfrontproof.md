@@ -3,9 +3,9 @@ title: Bekende problemen in [!DNL Adobe Workfront Proof]
 description: Bekende problemen gemeld voor [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
+source-git-commit: 72d2cf5620f0ea6ca7f74d2e7e773f93a807af30
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integraties: Fout bij aanmelden bij [!DNL Workfront] van [!DNL Jira]](known-issues-workfront-proof/proof-print-summary-does-not-load.md) | 24 februari 2023 |
 | [Documenten: Machtigingen worden niet overgeërfd wanneer een document naar een nieuw project wordt verplaatst](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 3 februari 2023 |
 
 {style=&quot;table-layout:auto&quot;}
