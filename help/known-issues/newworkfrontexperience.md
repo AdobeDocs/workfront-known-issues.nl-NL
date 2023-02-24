@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 7aa896333c20e67da4da27b981eee0b0f79a09f2
+source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,6 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | [Projecten: 504 fout in projectkopbal](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 17 februari 2023 |
 | [[!UICONTROL Boards]: Kan geen kaarten toevoegen bij groepering](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md) | 16 februari 2023 |
 | [Documenten: Machtigingen worden niet overgeërfd wanneer een document naar een nieuw project wordt verplaatst](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 3 februari 2023 |
-| [Proefdrukken: In het afdrukoverzicht worden niet alle proefdrukpagina&#39;s weergegeven](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 oktober 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -39,10 +38,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | -----------------------------------------------------------------| ----------------- |
 | [Updates: Koppeling naar een opmerking doorsturen naar [!UICONTROL Details] page](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 24 februari 2023 |
 | [Projecten: Project dat vanuit uitgave is geconverteerd, neemt geen rechten over van portfolio of programma](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23 februari 2023 |
-| [Integraties: Kan niet openen [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 14 februari 2023 |
 | [Gebruikers: Toegangsniveau wordt niet toegewezen wanneer gebruiker opnieuw wordt geactiveerd](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 13 februari 2023 |
-| [Documenten: Kan verwijderd document niet herstellen](known-issues-workfront/wf-documents-cannot-restore-document.md) | 20 januari 2023 |
-| [Rapporten: Fout bij het toevoegen van een nieuwe uitgave aan een uitgavapport](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 november 2022 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] steungeval op Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augustus 2022 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -53,14 +49,13 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integraties: Kan niet openen [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 24 februari 2023 |
 | [Proefdrukken: Gebruiker ontvangt geen e-mail wanneer deze is gelabeld in een proefdrukopmerking](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23 februari 2023 |
 | [Aangepaste formulieren: &quot;[!UICONTROL Invalid custom expression]&quot; bericht bij verwijzing &quot;[!UICONTROL owner]&quot; in een berekend veld](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 20 januari 2023 |
 | [[!UICONTROL Home]: Voltooide proefdrukken in de [!UICONTROL Work List]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 januari 2023 |
 | [Aangepaste formulieren: Kan veld niet gebruiken in berekening als veldnaam apostroffen of aanhalingstekens bevat](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 6 januari 2023 |
-| [Projecten: Projectstatus volgt niet de projectvoorkeuren voor groepen](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | 6 januari 2023 |
 | [Proefdrukken: Proefstatus wordt niet bijgewerkt in [!UICONTROL Document] lijsten](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 december 2022 |
 | [Taken: Uren worden niet opgeslagen bij het invoeren van uren in de taak [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2 december 2022 |
-| [Projecten: De kwesties van prestaties en foutenmelding wanneer het creëren van een project van een malplaatje](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2 december 2022 |
 | [Aangepaste formulieren: Aangepaste objectformulieren vereisen [!UICONTROL Manage] of [!UICONTROL Edit] toegang tot bewerkingsvelden](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 21 november 2022 |
 | [Meldingen: Gebruikers die niet op de hoogte zijn gesteld wanneer zij in een opmerking worden vermeld of die in een opmerking zijn opgenomen](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 11 november 2022 |
 | [API: Kan niet sorteren op dynamische velden](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 31 oktober 2022 |
@@ -70,7 +65,6 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 | [Dashboards: Voor grafieken die in een dashboard worden weergegeven, worden andere kleuren gebruikt dan bij weergave in het rapport](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 5 augustus 2022 |
 | [[!UICONTROL Home]: Aangepaste terminologie wordt niet toegepast op het thuisgebied](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | 3 juni 2022 |
 | [Stijl: Kan velden van aangepaste formulieren niet bewerken op kaarten](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md) | 11 mei 2022 |
-| [Lay-outsjablonen: Kan geen groep selecteren bij het maken van een lay-outsjabloon](known-issues-workfront/wf-layout-templ-cannot-select-group.md) | 4 mei 2022 |
 | [Stijl: Problemen bij het verplaatsen van kaarten op de [!UICONTROL Agile] board](known-issues-workfront/wf-agile-issues-moving-cards.md) | 27 april 2022 |
 | [Goedkeuringen: De delegatie van de goedkeuring wordt ingesteld voor het onjuiste aantal dagen](known-issues-workfront/wf-approval-delegation-incorrect-number-of-days.md) | 20 april 2022 |
 | [[!UICONTROL Home]: De optie Nieuwe taak geeft gedeactiveerde gebruikers weer in [!UICONTROL Assign To] field](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md) | 1 oktober 2021 |

@@ -2,9 +2,9 @@
 title: "Projecten: Projectstatus volgt niet de projectvoorkeuren voor groepen."
 description: "Wanneer een gebruiker tot een project van een malplaatje leidt, neemt het nieuwe project niet de status die in de het projectvoorkeur van de Groep wordt geplaatst. Als een project zonder een malplaatje wordt gecreeerd, wijst de status op het projectvoorkeur van de Groep zoals verwacht."
 hidefromtoc: true
-source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
+source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Het team van het Product evalueert momenteel deze probleemoplossing, die productverbeteringen kan vereisen. De verbeteringen van het product worden meegedeeld in de Mededelingen van het Product en niet met de Updates van het Onderhoud.
+>Dit probleem is op 23 februari 2023 opgelost.
 
 Wanneer een gebruiker tot een project van een malplaatje leidt, neemt het nieuwe project niet de status die in de het projectvoorkeur van de Groep wordt geplaatst. Als een project zonder een malplaatje wordt gecreeerd, wijst de status op het projectvoorkeur van de Groep zoals verwacht.
 
