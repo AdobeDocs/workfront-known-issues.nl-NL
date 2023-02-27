@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: 3d821318a12bc8cbc47472f9bfc148cb20a0248a
+source-git-commit: 6f884b3539710a24aa5f389b0372e5a0de0a20c4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1038'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Proefdrukken: Kan gebruiker of groep niet toevoegen aan proefwerkstroom](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
       + [Proefdrukken: Proefdrukrollen worden gewijzigd in [!UICONTROL Read Only]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
       + [Integraties: Fout bij aanmelden bij [!DNL Workfront] van [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
       + [Projecten: 504 fout in projectkopbal](known-issues-workfront/wf-projects-504-error-in-project-header.md)
