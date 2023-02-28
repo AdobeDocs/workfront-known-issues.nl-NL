@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: a21275163de2c7de2201971b125703f40b9983b8
+source-git-commit: 50e30f70083284302eccb04fb056cd4725650419
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1774'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,34 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 >Deze updates bevatten ook andere kleine of minder duidelijke foutoplossingen. [!DNL Workfront] Ondersteuning geeft een melding wanneer een probleem dat u hebt verzonden, is opgelost.
 
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
+
+## Updates in maart 2023
+
++++**(Geplande) onderhoudsupdate op 2 maart 2023**
+
+**Kan geen kaarten toevoegen bij groepering**
+
+_Borden_
+
+Wanneer een gebruiker een bord weergeeft met een groepering en probeert een kaart toe te voegen, kan de gebruiker alleen de naam van de kaart invoeren. De overige kaartvelden zijn uitgeschakeld, inclusief de [!UICONTROL Save] knop.
+
+Als de gebruiker de groep wijzigt in [!UICONTROL None], blijft de kwestie. De gebruiker moet de groep wijzigen in [!UICONTROL None] en vernieuw vervolgens de pagina om de mogelijkheid om een kaart toe te voegen te herstellen.
+
+**Koppeling naar een opmerking doorsturen naar [!UICONTROL Details] page**
+
+_Updates_
+
+Wanneer een gebruiker een koppeling volgt naar een opmerking over een object in Workfront, wordt de updatestream kort geladen en wordt de gebruiker omgeleid naar het object [!UICONTROL Details] gebied. Dit kan gebeuren als de gebruiker op de koppeling klikt in een e-mail of de koppeling in zijn browser plakt.
+
+Dit is momenteel alleen van toepassing op objecten Document.
+
+**Afdrukoverzicht wordt niet geladen**
+
+_[!UICONTROL Workfront Proof]_
+
+Wanneer een gebruiker de pagina Afdrukoverzicht probeert te laden, lijkt de pagina te zijn geladen, maar wordt deze nooit geladen.
+
++++
 
 ## Updates in februari 2023
 
