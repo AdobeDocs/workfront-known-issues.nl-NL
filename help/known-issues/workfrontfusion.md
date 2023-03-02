@@ -3,9 +3,9 @@ title: Bekende problemen in [!DNL Adobe Workfront Fusion]
 description: Bekende problemen gemeld voor [!DNL Adobe Workfront Fusion]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 6290d20892889fb2a31ae2a7a2a844dfe4cc2952
+source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Fusion]: De volledige historie wordt niet weergegeven in de uitvoeringsgeschiedenis van het scenario](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md) | 3 maart 2023 |
 | [[!DNL Adobe Workfront Fusion]: Time-outfouten in Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md) | 3 februari 2023 |
 
 {style=&quot;table-layout:auto&quot;}

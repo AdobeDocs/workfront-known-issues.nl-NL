@@ -2,15 +2,19 @@
 title: "Borden: Kan geen kaarten toevoegen wanneer groepering wordt toegepast."
 description: "Wanneer een gebruiker een bord weergeeft met een groepering en probeert een kaart toe te voegen, kan de gebruiker alleen de naam van de kaart invoeren. De overige kaartvelden zijn uitgeschakeld, inclusief de knop Opslaan."
 hidefromtoc: true
-source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
+source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 
 # [!UICONTROL Boards]: Kan geen kaarten toevoegen bij groepering
+
+>[!NOTE]
+>
+>Deze kwestie is op 2 maart 2023 vastgesteld.
 
 Wanneer een gebruiker een bord weergeeft met een groepering en probeert een kaart toe te voegen, kan de gebruiker alleen de naam van de kaart invoeren. De overige kaartvelden zijn uitgeschakeld, inclusief de [!UICONTROL Save] knop.
 

@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 50e30f70083284302eccb04fb056cd4725650419
+source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
 workflow-type: tm+mt
-source-wordcount: '1774'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-mai
 
 ## Updates in maart 2023
 
-+++**(Geplande) onderhoudsupdate op 2 maart 2023**
++++**Onderhoudsupdate op 2 maart 2023**
 
 **Kan geen kaarten toevoegen bij groepering**
 
@@ -30,6 +30,13 @@ _Borden_
 Wanneer een gebruiker een bord weergeeft met een groepering en probeert een kaart toe te voegen, kan de gebruiker alleen de naam van de kaart invoeren. De overige kaartvelden zijn uitgeschakeld, inclusief de [!UICONTROL Save] knop.
 
 Als de gebruiker de groep wijzigt in [!UICONTROL None], blijft de kwestie. De gebruiker moet de groep wijzigen in [!UICONTROL None] en vernieuw vervolgens de pagina om de mogelijkheid om een kaart toe te voegen te herstellen.
+
+**Aangesloten kaarten die niet aan kolommen zijn toegevoegd op basis van status**
+
+_Borden_
+
+Hoewel het kolombeleid wordt toegepast op status, verschijnen de nieuwe verbonden kaarten in de uiterst linkse kolom en niet in de kolom die aan hun status beantwoordt.
+
 
 **Koppeling naar een opmerking doorsturen naar [!UICONTROL Details] page**
 
