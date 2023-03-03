@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 10b71f5db302070b8fb851f40e01db7b234c5863
+source-git-commit: 94fb9fc57614aa914031d1fa0039650a7478201e
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '554'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,8 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Timesheets: [!UICONTROL Hour Type] dropdown wordt niet geopend](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 3 maart 2023 |
+| [Documenten: [!UICONTROL Summary] paneelinhoud is te breed voor het paneel](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 3 maart 2023 |
 | [Proefdrukken: Aangepaste berichten worden niet weergegeven in e-mailberichten](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md) | 3 maart 2023 |
 | [Integraties: Fout bij aanmelden bij [!DNL Workfront] van [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md) | 2 maart 2023 |
 | [Projecten: Aangepast veld ontbreekt wanneer uitgave wordt omgezet in project](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md) | 2 maart 2023 |

@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: 10b71f5db302070b8fb851f40e01db7b234c5863
+source-git-commit: 94fb9fc57614aa914031d1fa0039650a7478201e
 workflow-type: tm+mt
-source-wordcount: '1083'
+source-wordcount: '1097'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Timesheets: [!UICONTROL Hour Type] dropdown wordt niet geopend](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)
+      + [Documenten: [!UICONTROL Summary] paneelinhoud is te breed voor het paneel](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
       + [Projecten: Aangepast veld ontbreekt wanneer uitgave wordt omgezet in project](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
       + [Proefdrukken: Kan gebruiker of groep niet toevoegen aan proefwerkstroom](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
       + [Proefdrukken: Proefdrukrollen worden gewijzigd in [!UICONTROL Read Only]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)

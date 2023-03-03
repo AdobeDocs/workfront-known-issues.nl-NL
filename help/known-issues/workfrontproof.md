@@ -3,9 +3,9 @@ title: Bekende problemen in [!DNL Adobe Workfront Proof]
 description: Bekende problemen gemeld voor [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 5ac0ab64966824ac533f262ac9cb863b3b79c2ac
+source-git-commit: 94fb9fc57614aa914031d1fa0039650a7478201e
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documenten: [!UICONTROL Summary] paneelinhoud is te breed voor het paneel](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 3 maart 2023 |
 | [[!DNL Workfront Proof] API: &quot;[!UICONTROL Body is not a valid XML]&quot;-fout](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20 januari 2023 |
 
 {style=&quot;table-layout:auto&quot;}
