@@ -3,7 +3,7 @@ title: "E-mailmeldingen: Gebruiker wordt niet omgeleid om draad van commentaar t
 description: Wanneer een gebruiker in een e-mailbericht op de koppeling Opmerking klikt, wordt deze boven aan het dialoogvenster [!UICONTROL Updates] in plaats van de commentaarthread waarop ze proberen te reageren.
 exl-id: 335c2867-eae5-46e8-a7d5-8b9b35e66e31
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
+source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -11,6 +11,8 @@ ht-degree: 0%
 ---
 
 # E-mailmeldingen: Gebruiker wordt niet omgeleid aan commentaardraad
+
+<!--Article created by request-->
 
 >[!NOTE]
 >

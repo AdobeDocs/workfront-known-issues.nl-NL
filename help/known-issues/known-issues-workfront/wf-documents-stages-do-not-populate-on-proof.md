@@ -2,7 +2,7 @@
 title: "Proofs: [!UICONTROL Active Proof Stages] veld is leeg"
 description: '"Wanneer een gebruiker een proef creeert en dan die proef in een rapport zoals bekijkt [!UICONTROL Document Version] of [!UICONTROL Proof Approval] zij zien dat de [!UICONTROL Active Proof Stages] veld is leeg. Dit gebeurt wanneer de proefdruk wordt gemaakt nadat het document is geüpload als een [!UICONTROL Simple Proof] of [!UICONTROL Advanced Proof] met een [!UICONTROL Basic Workflow].'
 hidefromtoc: true
-source-git-commit: 40763737feab664840a600224cff2f2889cbef72
+source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Proefdrukken: [!UICONTROL Active Proof Stages] veld is leeg
 
-<!-- This Known Issue is on the TOC for both Workfront and Workfront Proof-->
+<!-- This Known Issue is on the TOC for both Workfront and Workfront Proof. Article created by request.-->
 
 >[!NOTE]
 >

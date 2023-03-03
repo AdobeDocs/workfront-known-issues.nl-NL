@@ -3,7 +3,7 @@ title: 'Startpagina: Kan de documentafbeelding niet weergeven in de werklijst.'
 description: Wanneer een gebruiker op een .docx-miniatuur klikt om een voorvertoning van het document weer te geven, wordt een videospeler geopend die het document niet kan zien.
 exl-id: 63b02355-0857-4da2-98d4-190ed4219b89
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
+source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -11,6 +11,8 @@ ht-degree: 0%
 ---
 
 # [!UICONTROL Home]: Kan de documentafbeelding niet weergeven in het dialoogvenster [!UICONTROL Work List]
+
+<!--Article created by request-->
 
 >[!NOTE]
 >
