@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 94fb9fc57614aa914031d1fa0039650a7478201e
+source-git-commit: 3307a9be28555d0b9561e8ae96e3667cb1fee711
 workflow-type: tm+mt
-source-wordcount: '554'
+source-wordcount: '529'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | [Projecten: 504 fout in projectkopbal](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 17 februari 2023 |
 | [Documenten: Machtigingen worden niet overgeërfd wanneer een document naar een nieuw project wordt verplaatst](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 3 februari 2023 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## In uitvoering
 
@@ -46,7 +46,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | [Gebruikers: Toegangsniveau wordt niet toegewezen wanneer gebruiker opnieuw wordt geactiveerd](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 13 februari 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] steungeval op Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augustus 2022 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Geen correctie
 
@@ -58,7 +58,6 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 | [Proefdrukken: Gebruiker ontvangt geen e-mail wanneer deze is gelabeld in een proefdrukopmerking](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23 februari 2023 |
 | [Aangepaste formulieren: &quot;[!UICONTROL Invalid custom expression]&quot; bericht bij verwijzing &quot;[!UICONTROL owner]&quot; in een berekend veld](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 20 januari 2023 |
 | [[!UICONTROL Home]: Voltooide proefdrukken in de [!UICONTROL Work List]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 januari 2023 |
-| [Aangepaste formulieren: Kan veld niet gebruiken in berekening als veldnaam apostroffen of aanhalingstekens bevat](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 6 januari 2023 |
 | [Proefdrukken: Proefstatus wordt niet bijgewerkt in [!UICONTROL Document] lijsten](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 december 2022 |
 | [Taken: Uren worden niet opgeslagen bij het invoeren van uren in de taak [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2 december 2022 |
 | [Aangepaste formulieren: Aangepaste objectformulieren vereisen [!UICONTROL Manage] of [!UICONTROL Edit] toegang tot bewerkingsvelden](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 21 november 2022 |
@@ -91,5 +90,5 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 | [Home: De datum van de delegatie van de goedkeuring verandert na verfrist zich en verzendt twee e-mails](known-issues-workfront/wf-home-approval-delegation-dates-changing.md) | 9 november 2020 |
 | [Kalender: Taken worden niet weergegeven](known-issues-workfront/wf-calendar-tasks-not-displaying.md) | 9 november 2020 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
