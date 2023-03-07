@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
+source-git-commit: 1b1627e2f4448c5e4fd3791354cd17e5dda327b3
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1881'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,16 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in maart 2023
+
++++**(Gepland) Onderhoudsupdate op 9 maart 2023**
+
+**Toegangsniveau wordt niet toegewezen wanneer gebruiker opnieuw wordt geactiveerd**
+
+_Gebruikers_
+
+Wanneer een gebruiker een gedeactiveerde gebruiker opnieuw activeert en deze een toegangsniveau in het dialoogvenster [!UICONTROL Reactivate User] in het venster, wordt het vervolgkeuzemenu op toegangsniveau niet gevuld en kan de gebruiker geen toegangsniveau selecteren. Als de gebruiker in het toegangsniveau typt en bewaart, wordt dat toegangsniveau niet toegewezen aan de opnieuw geactiveerde gebruiker.
+
++++
 
 +++**Onderhoudsupdate op 2 maart 2023**
 
