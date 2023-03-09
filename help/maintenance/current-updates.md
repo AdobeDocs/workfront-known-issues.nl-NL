@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 1b1627e2f4448c5e4fd3791354cd17e5dda327b3
+source-git-commit: 3c0a34c118c8a3b900890a7126a7502b7556b0d4
 workflow-type: tm+mt
-source-wordcount: '1881'
+source-wordcount: '1926'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,19 @@ Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-mai
 
 ## Updates in maart 2023
 
-+++**(Gepland) Onderhoudsupdate op 9 maart 2023**
++++**Onderhoudsupdate op 9 maart 2023**
 
 **Toegangsniveau wordt niet toegewezen wanneer gebruiker opnieuw wordt geactiveerd**
 
 _Gebruikers_
 
 Wanneer een gebruiker een gedeactiveerde gebruiker opnieuw activeert en deze een toegangsniveau in het dialoogvenster [!UICONTROL Reactivate User] in het venster, wordt het vervolgkeuzemenu op toegangsniveau niet gevuld en kan de gebruiker geen toegangsniveau selecteren. Als de gebruiker in het toegangsniveau typt en bewaart, wordt dat toegangsniveau niet toegewezen aan de opnieuw geactiveerde gebruiker.
+
+**Sla het concept van een opmerking op in het dialoogvenster [!DNL Goals] gebied**
+
+_[!DNL Workfront Goals]_
+
+Wanneer u nu weg navigeert van de [!UICONTROL Updates] pagina van een doel terwijl in het midden van het samenstellen van een bericht, wordt het bericht bewaard wanneer u terug navigeert. Vóór deze update zou de niet-verzonden opmerking zijn verwijderd.
 
 +++
 

@@ -3,9 +3,9 @@ title: 'Aangepaste formulieren: Ongeldig aangepast expressiebericht bij verwijzi
 description: '"Wanneer een gebruiker een berekend gebied aan een uitgave-vlakke douaneformulier toevoegt en probeert om het even welke verwijzing naar een eigenaar (zoals ` ownerID'') toe te voegen, slaat het gebied niet op, en de gebruiker ziet het volgende bericht: Dit is een ongeldige klantuitdrukking, gelieve te proberen opnieuw.'''
 hidefromtoc: true
 exl-id: 254f1fae-0784-4332-99a1-cc1895c50896
-source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
+source-git-commit: d6935a9ad66633d64083f227def3b027349645b1
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Het team van het Product evalueert momenteel deze probleemoplossing, die productverbeteringen kan vereisen. De verbeteringen van het product worden meegedeeld in de Mededelingen van het Product en niet met de Updates van het Onderhoud.
+>Deze kwestie is op 9 maart 2023 vastgesteld.
 
 <!--
 >[!NOTE]
