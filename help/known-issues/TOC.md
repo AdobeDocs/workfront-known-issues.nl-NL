@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: 94fb9fc57614aa914031d1fa0039650a7478201e
+source-git-commit: 88ccfcb9b94d60d9ec843f83eaca54ffbec41ca6
 workflow-type: tm+mt
-source-wordcount: '1097'
+source-wordcount: '1116'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Rapporten: Sorteren op kolomkop keert terug naar vorige sortering](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
+      + [[!UICONTROL Updates]: Kan de tijd voor aanmelding voor de huidige dag in het dialoogvenster [!UICONTROL Updates] gebied](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
       + [Timesheets: [!UICONTROL Hour Type] dropdown wordt niet geopend](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)
       + [Documenten: [!UICONTROL Summary] paneelinhoud is te breed voor het paneel](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
       + [Projecten: Aangepast veld ontbreekt wanneer uitgave wordt omgezet in project](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
