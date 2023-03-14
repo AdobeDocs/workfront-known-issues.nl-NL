@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 7738ac9b68dd48817105171d7f9ae2cf97e742fe
+source-git-commit: f27dfd8dbe3e0c862f84edfe5b2deab5f139eb50
 workflow-type: tm+mt
-source-wordcount: '2092'
+source-wordcount: '2121'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,12 @@ Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-mai
 ## Updates in maart 2023
 
 +++**(Geplande) onderhoudsupdate op 16 maart 2023**
+
+**De items in de controlelijst worden niet gekopieerd wanneer een kaart wordt gekopieerd**
+
+_Borden_
+
+Bij het kopiëren van een ad-hockaart (gekoppelde kaarten kunnen niet worden gekopieerd) worden de items in de controlelijst niet naar de nieuwe kaart gekopieerd.
 
 **[!UICONTROL Summary]paneelinhoud is te breed voor het paneel**
 
