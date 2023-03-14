@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 3c0a34c118c8a3b900890a7126a7502b7556b0d4
+source-git-commit: 7f4d16ac984134af0f16122ea0aa79a6bcc4cd3c
 workflow-type: tm+mt
-source-wordcount: '1926'
+source-wordcount: '2091'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,28 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in maart 2023
+
++++**Onderhoudsupdate op 16 maart 2023**
+
+**[!UICONTROL Summary]paneelinhoud is te breed voor het paneel**
+
+_Documenten_
+
+Wanneer een gebruiker de [!UICONTROL Summary] voor een document is de inhoud te breed om in het deelvenster te kunnen worden weergegeven. Het deelvenster heeft nu een horizontale schuifbalk en de gebruiker moet horizontaal schuiven om de [!UICONTROL Summary] inhoud van het deelvenster. Dit gebeurt omdat de bestandsnaam van het document niet omloopt. Dit probleem is beperkt tot bestanden waarvan de bestandsnaam een bestandsextensie HTML heeft.
+
+**Aangepast veld ontbreekt wanneer uitgave wordt omgezet in project**
+
+_Projecten_
+
+Wanneer een gebruiker een kwestie in een project gebruikend een malplaatje omzet, een douanegebied dat op de kwestie was niet op het project toont. Dit probleem betreft alleen niet-beheerders.
+
+**Aangepaste berichten worden niet weergegeven in e-mailberichten**
+
+_Proefdrukken_
+
+Wanneer een gebruiker een proef deelt en een douanebericht toevoegt, verschijnt dat douanebericht niet in het bericht e-mail aan de ontvanger. Het onderwerp is de proefdruknaam en het bericht komt niet voor in het e-mailbericht.
+
++++
 
 +++**Onderhoudsupdate op 9 maart 2023**
 
