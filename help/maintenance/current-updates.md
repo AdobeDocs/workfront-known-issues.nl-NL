@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f27dfd8dbe3e0c862f84edfe5b2deab5f139eb50
+source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
 workflow-type: tm+mt
-source-wordcount: '2121'
+source-wordcount: '2049'
 ht-degree: 0%
 
 ---
@@ -28,12 +28,6 @@ Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-mai
 _Borden_
 
 Bij het kopiëren van een ad-hockaart (gekoppelde kaarten kunnen niet worden gekopieerd) worden de items in de controlelijst niet naar de nieuwe kaart gekopieerd.
-
-**[!UICONTROL Summary]paneelinhoud is te breed voor het paneel**
-
-_Documenten_
-
-Wanneer een gebruiker de [!UICONTROL Summary] voor een document is de inhoud te breed om in het deelvenster te kunnen worden weergegeven. Het deelvenster heeft nu een horizontale schuifbalk en de gebruiker moet horizontaal schuiven om de [!UICONTROL Summary] inhoud van het deelvenster. Dit gebeurt omdat de bestandsnaam van het document niet omloopt. Dit probleem is beperkt tot bestanden waarvan de bestandsnaam een bestandsextensie HTML heeft.
 
 **Aangepast veld ontbreekt wanneer uitgave wordt omgezet in project**
 

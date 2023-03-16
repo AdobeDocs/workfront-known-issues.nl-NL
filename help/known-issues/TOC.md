@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: e2b518715b4283ed7940ee51dda44cc1cad0227a
+source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
 workflow-type: tm+mt
-source-wordcount: '1131'
+source-wordcount: '1140'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Filters: Filter wordt niet toegepast wanneer de pagina wordt vernieuwd](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md)
       + [[!UICONTROL Workload Balancer]: Uren worden niet aangepast om rekening te houden met vrije tijd](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [Rapporten: Sorteren op kolomkop keert terug naar vorige sortering](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
       + [[!UICONTROL Updates]: Kan de tijd voor aanmelding voor de huidige dag in het dialoogvenster [!UICONTROL Updates] gebied](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)

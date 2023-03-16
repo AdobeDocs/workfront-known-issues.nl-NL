@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 506874e3b4503db3390a09f44b4be204b4ead2b3
+source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
 workflow-type: tm+mt
-source-wordcount: '533'
+source-wordcount: '522'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,8 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Filters: Filter wordt niet toegepast wanneer de pagina wordt vernieuwd](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 16 maart 2023 |
 | [Documenten: [!UICONTROL Summary] paneelinhoud is te breed voor het paneel](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 3 maart 2023 |
-| [Proefdrukken: Aangepaste berichten worden niet weergegeven in e-mailberichten](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md) | 3 maart 2023 |
-| [Projecten: Aangepast veld ontbreekt wanneer uitgave wordt omgezet in project](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md) | 2 maart 2023 |
 | [Projecten: Project dat vanuit uitgave is geconverteerd, neemt geen rechten over van portfolio of programma](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23 februari 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] steungeval op Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augustus 2022 |
 
