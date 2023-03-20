@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: c95d478b78e26e4f0243e9b9ae69ecfbc016d696
+source-git-commit: 86168f5bdcf81904d9fd943685e2ab38ba4f8f1e
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '548'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Gebruikers: Toegangsniveau gewijzigd door systeem zonder een verslag van de verandering](known-issues-workfront/wf-users-access-level-is-changed.md) | 20 maart 2023 |
 | [Documenten: 404 fout bij toegang tot document dat is gekoppeld vanuit [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 17 maart 2023 |
 | [Documenten: [!UICONTROL Proofing Activities] opties leiden tot aanmeldingspagina](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 17 maart 2023 |
 | [Updates: Bijwerken die namens een gebruiker worden uitgevoerd, worden direct door de gebruiker weergegeven](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md) | 17 maart 2023 |
