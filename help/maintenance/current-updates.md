@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
+source-git-commit: f736d2d5eef0e77c56f1993ea32c92a4c6f17cb1
 workflow-type: tm+mt
-source-wordcount: '2049'
+source-wordcount: '2125'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,17 @@ Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-mai
 
 ## Updates in maart 2023
 
-+++**(Geplande) onderhoudsupdate op 16 maart 2023**
++++**(Geplande) onderhoudsupdate op 23 maart 2023**
+
+**[!UICONTROL Summary]paneelinhoud is te breed voor het paneel**
+
+_Documenten_
+
+Wanneer een gebruiker de [!UICONTROL Summary] voor een document is de inhoud te breed om in het deelvenster te kunnen worden weergegeven. Het deelvenster heeft nu een horizontale schuifbalk en de gebruiker moet horizontaal schuiven om de [!UICONTROL Summary] inhoud van het deelvenster. Dit gebeurt omdat de bestandsnaam van het document niet omloopt. Dit probleem is beperkt tot bestanden waarvan de bestandsnaam een bestandsextensie HTML heeft.
+
++++
+
++++**Onderhoudsupdate op 16 maart 2023**
 
 **De items in de controlelijst worden niet gekopieerd wanneer een kaart wordt gekopieerd**
 
