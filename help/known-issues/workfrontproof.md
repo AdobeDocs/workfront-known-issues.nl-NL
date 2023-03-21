@@ -3,9 +3,9 @@ title: Bekende problemen in [!DNL Adobe Workfront Proof]
 description: Bekende problemen gemeld voor [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: c95d478b78e26e4f0243e9b9ae69ecfbc016d696
+source-git-commit: b2270697c3d01883a6680a67cd20d34db85db2a4
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proefdrukken: Proefwerkgebied wordt niet geactiveerd wanneer de deadline van vorige werkgebied verstreken is](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 21 maart 2023 |
 | [Documenten: 404 fout bij toegang tot document dat is gekoppeld vanuit [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 17 maart 2023 |
 | [Documenten: [!UICONTROL Proofing Activities] opties leiden tot aanmeldingspagina](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 17 maart 2023 |
 | [[!DNL Workfront Proof]: Lijsten worden niet correct gesorteerd](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 15 maart 2023 |
