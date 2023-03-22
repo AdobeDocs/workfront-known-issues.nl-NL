@@ -2,7 +2,7 @@
 title: "Documenten: Problemen met de documentlijst "
 description: "In dit artikel worden recente problemen beschreven die zijn gemeld met betrekking tot de documentlijst."
 hidefromtoc: true
-source-git-commit: 9c7a9725ae2ebcc98415c19457db28b8074460a3
+source-git-commit: 9d76e762063f7922b1d47930a0aa0b7e812ae7f9
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 De volgende problemen zijn gerapporteerd met betrekking tot de documentlijst:
 
-* Miniaturen worden niet weergegeven
+* Miniaturen worden niet weergegeven.
 * Als een gebruiker in de lijstweergave van de geselecteerde map overschakelt, werken de opties Filterweergave en Groeperen niet meer.
 
 **Workaround**
