@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f736d2d5eef0e77c56f1993ea32c92a4c6f17cb1
+source-git-commit: 3299691cd869897ca0049e11e79e5b6fc7675411
 workflow-type: tm+mt
-source-wordcount: '2125'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,26 @@ Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-mai
 
 ## Updates in maart 2023
 
-+++**(Geplande) onderhoudsupdate op 23 maart 2023**
++++**Onderhoudsupdate op 23 maart 2023**
 
 **[!UICONTROL Summary]paneelinhoud is te breed voor het paneel**
 
 _Documenten_
 
 Wanneer een gebruiker de [!UICONTROL Summary] voor een document is de inhoud te breed om in het deelvenster te kunnen worden weergegeven. Het deelvenster heeft nu een horizontale schuifbalk en de gebruiker moet horizontaal schuiven om de [!UICONTROL Summary] inhoud van het deelvenster. Dit gebeurt omdat de bestandsnaam van het document niet omloopt. Dit probleem is beperkt tot bestanden waarvan de bestandsnaam een bestandsextensie HTML heeft.
+
+**Nieuw [!UICONTROL Desktop Proofing Viewer] versie**
+
+_Proofing_
+
+Een opmerkingsprobleem corrigeren in het dialoogvenster [!UICONTROL Desktop Proofing Viewe]We hebben een nieuwe versie van de Desktop Proofing Viewer geïmplementeerd.
+
+Gebruikers die al beschikken over de [!UICONTROL Desktop Proofing Viewer] deze update wordt automatisch opgehaald.
+
+Gebruikers kunnen ook handmatig de nieuwste versie verkleinen. Zie voor meer informatie [Installeer de [!UICONTROL Desktop Proofing Viewer]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html).
+
+* Vorige versie: 2.1.22.
+* Nieuwe versie: 2.1.23.
 
 +++
 
