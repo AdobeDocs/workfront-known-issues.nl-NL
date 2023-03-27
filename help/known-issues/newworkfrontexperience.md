@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: dc40136eb4343745d7e43b372c444df2022bb406
+source-git-commit: 3d16be4546c171afb0cc9485a7b2d62ca8cba9d2
 workflow-type: tm+mt
-source-wordcount: '570'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,9 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Zoeken: [!DNL Workfront] Zoektijden uit](known-issues-workfront/wf-search-search-times-out.md) | 27 maart 2023 |
+| [Proefdrukken: Kan proefdrukversie niet wisselen bij weergave van proefdrukversie](known-issues-workfront/wf-proofs-cannot-switch-version.md) | 27 maart 2023 |
+| [Proefdrukken: Vervolgkeuzelijsten worden niet geopend wanneer een gebruiker aan een proefdruk wordt toegevoegd](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md) | 27 maart 2023 |
 | [Timesheets: [!UICONTROL Hour Type] dropdown wordt niet geopend](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 23 maart 2023 |
 | [Proefdrukken: Proefwerkgebied wordt niet geactiveerd wanneer de deadline van vorige werkgebied verstreken is](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 maart 2023 |
 | [Proefdrukken: Gebruiker is gedeactiveerd vanuit de proefdrukworkflow en krijgt &quot;[!UICONTROL Access not permitted]&quot; wanneer u een proefdruk opent](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 23 maart 2023 |

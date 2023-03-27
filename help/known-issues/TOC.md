@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: 223ef5c3573b85981a91fabddc7c591116beb94e
+source-git-commit: 3d16be4546c171afb0cc9485a7b2d62ca8cba9d2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1233'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Zoeken: [!DNL Workfront] Zoektijden uit](known-issues-workfront/wf-search-search-times-out.md)
+      + [Proefdrukken: Kan proefdrukversie niet wisselen bij weergave van proefdrukversie](known-issues-workfront/wf-proofs-cannot-switch-version.md)
+      + [Proefdrukken: Vervolgkeuzelijsten worden niet geopend wanneer een gebruiker aan een proefdruk wordt toegevoegd](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md)
       + [Proefdrukken: Gebruiker is gedeactiveerd vanuit de proefdrukworkflow en krijgt &quot;[!UICONTROL Access not permitted]&quot; wanneer u een proefdruk opent](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
       + [Documenten: Problemen met de documentlijst](known-issues-workfront/wf-documents-list-missing-elements.md)
       + [Proefdrukken: Proefwerkgebied wordt niet geactiveerd wanneer de deadline van vorige werkgebied verstreken is](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
