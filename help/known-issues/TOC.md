@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: 3d16be4546c171afb0cc9485a7b2d62ca8cba9d2
+source-git-commit: 861e0f3e69cf30e897315fa7f999ef5ac4cbee3a
 workflow-type: tm+mt
-source-wordcount: '1233'
+source-wordcount: '1241'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Proefdrukken: Het meetgereedschap accepteert geen decimale punten](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
       + [Zoeken: [!DNL Workfront] Zoektijden uit](known-issues-workfront/wf-search-search-times-out.md)
       + [Proefdrukken: Kan proefdrukversie niet wisselen bij weergave van proefdrukversie](known-issues-workfront/wf-proofs-cannot-switch-version.md)
       + [Proefdrukken: Vervolgkeuzelijsten worden niet geopend wanneer een gebruiker aan een proefdruk wordt toegevoegd](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md)
