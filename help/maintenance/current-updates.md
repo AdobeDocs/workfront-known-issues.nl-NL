@@ -2,7 +2,7 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 3299691cd869897ca0049e11e79e5b6fc7675411
+source-git-commit: c3a4e85589744be4d1b40a1074835dc6bd7a48a1
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -20,6 +20,22 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in maart 2023
+
++++**(Geplande) onderhoudsupdate op 23 maart 2023**
+
+**Kan proefdrukversie niet wisselen bij weergave van proefdrukversie**
+
+_Proefdrukken_
+
+Wanneer een gebruiker een proefdruk weergeeft in het dialoogvenster [!UICONTROL Proofing Viewer]en overschakelt naar een andere versie, wordt de vervolgkeuzelijst uitgeschakeld en kan de gebruiker niet terugschakelen naar de oorspronkelijke versie die hij of zij bekeek, of naar een andere versie van de proefdruk.
+
+**504-fout bij het exporteren van rapporten**
+
+_Rapporten_
+
+Wanneer een gebruiker probeert om een rapport met een hoog aantal punten uit te voeren, zien zij een fout 504 en kunnen niet het rapport uitvoeren.
+
++++
 
 +++**Onderhoudsupdate op 23 maart 2023**
 

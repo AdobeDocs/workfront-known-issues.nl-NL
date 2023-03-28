@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 861e0f3e69cf30e897315fa7f999ef5ac4cbee3a
+source-git-commit: c3a4e85589744be4d1b40a1074835dc6bd7a48a1
 workflow-type: tm+mt
-source-wordcount: '607'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proefdrukken: Kan het gereedschap Veellijn niet gebruiken wanneer u een opmerking maakt over een proefdruk](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 28 maart 2023 |
 | [Gebruikers: Toegangsniveau gewijzigd door systeem zonder een verslag van de verandering](known-issues-workfront/wf-users-access-level-is-changed.md) | 20 maart 2023 |
 | [Documenten: [!UICONTROL Proofing Activities] opties leiden tot aanmeldingspagina](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 17 maart 2023 |
 | [Updates: Bijwerken die namens een gebruiker worden uitgevoerd, worden direct door de gebruiker weergegeven](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md) | 17 maart 2023 |
