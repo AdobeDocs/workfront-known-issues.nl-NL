@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
+source-git-commit: b1f0590a6e5beffa41144bfbb04a4020dfe31a24
 workflow-type: tm+mt
-source-wordcount: '596'
+source-wordcount: '609'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Projecten: [!UICONTROL Home Group] aangepaste statussen zijn niet beschikbaar wanneer u een project maakt op basis van een sjabloon](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 maart 2023 |
 | [Zoeken: [!DNL Workfront] Zoektijden uit](known-issues-workfront/wf-search-search-times-out.md) | 27 maart 2023 |
 | [Proefdrukken: Vervolgkeuzelijsten worden niet geopend wanneer een gebruiker aan een proefdruk wordt toegevoegd](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md) | 27 maart 2023 |
 | [Timesheets: [!UICONTROL Hour Type] dropdown wordt niet geopend](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 23 maart 2023 |
