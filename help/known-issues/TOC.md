@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: aad3b2765a83b265b6b356d44f1be6b4c21bcdba
+source-git-commit: 0e78bfc2f2a681f035d26d40daeac35f29b6e6f0
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1275'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Gebruikers: Kan niet selecteren [!UICONTROL Default Hour Type] of [!UICONTROL Available Hour Types]](known-issues-workfront/wf-user-cannot-select-hour-type.md)
       + [Projecten: [!UICONTROL Home Group] aangepaste statussen zijn niet beschikbaar wanneer u een project maakt op basis van een sjabloon](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
       + [Proefdrukken: Kan het gereedschap Veellijn niet gebruiken wanneer u een opmerking maakt over een proefdruk](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
       + [Proefdrukken: Het meetgereedschap accepteert geen decimale punten](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
