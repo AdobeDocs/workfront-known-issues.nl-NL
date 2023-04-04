@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
+source-git-commit: c914b0f7d3b0f3fea1f73baf16b29cfe3e09ea96
 workflow-type: tm+mt
-source-wordcount: '2307'
+source-wordcount: '2371'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,21 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
+## Updates in april 2023
+
++++**Onderhoudsupdate op 4 april 2023**
+
+**De vervolgkeuzelijsten worden niet geopend wanneer een gebruiker aan een proefdruk wordt toegevoegd**
+
+_Proefdrukken_
+
+Wanneer een gebruiker een andere gebruiker toevoegt aan een proefdruk in het dialoogvenster [!UICONTROL Proofing Viewer], de[!UICONTROL Proof role]&quot; en &quot;[!UICONTROL Email alerts]&quot;-dropdowns kunnen niet worden geopend. De gebruiker kan geen proefdrukscherm of e-mailwaarschuwing toewijzen. Dit kan voorkomen wanneer het toevoegen van een gebruiker door een commentaar, of wanneer het delen van de proef met de gebruiker.
+
++++
+
 ## Updates in maart 2023
 
-+++**Onderhoudsupdate op 23 maart 2023**
++++**Onderhoudsupdate op 30 maart 2023**
 
 **Kan proefdrukversie niet wisselen bij weergave van proefdrukversie**
 
