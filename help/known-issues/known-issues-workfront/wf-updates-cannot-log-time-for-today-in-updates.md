@@ -2,15 +2,19 @@
 title: "Updates: Kan de tijd voor de huidige dag in het gebied van Updates niet registreren"
 description: "Wanneer een gebruiker probeert om tijd voor de huidige dag in het gebied van Updates te registreren, wordt de huidige dag grayed uit, en de gebruiker kan geen uren ingaan."
 hidefromtoc: true
-source-git-commit: 88ccfcb9b94d60d9ec843f83eaca54ffbec41ca6
+source-git-commit: f89ebb0b007f8c0c8fdc678f2b8933c5f4fb585b
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
 
 # [!UICONTROL Updates]: Kan de tijd voor aanmelding voor de huidige dag in het dialoogvenster [!UICONTROL Updates] gebied
+
+>[!NOTE]
+>
+>Dit probleem is gesloten omdat het niet opnieuw kan worden weergegeven.
 
 Wanneer een gebruiker probeert tijd voor de huidige dag in te loggen [!UICONTROL Updates] , wordt de huidige dag grijs weergegeven en kan de gebruiker geen uren invoeren.
 
