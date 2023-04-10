@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: f89ebb0b007f8c0c8fdc678f2b8933c5f4fb585b
+source-git-commit: 7ff96f21e2438743a7273b7ba0015cef4e4e47ee
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: '609'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Home]: Klikken bij miniatuur in [!UICONTROL Work List] leidt tot lege pagina](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md) | 10 april 2023 |
 | [Gebruikers: Kan niet selecteren [!UICONTROL Default Hour Type] of [!UICONTROL Available Hour Types]](known-issues-workfront/wf-user-cannot-select-hour-type.md) | 6 april 2023 |
 | [Proefdrukken: Kan het gereedschap Veellijn niet gebruiken wanneer u een opmerking maakt over een proefdruk](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 6 april 2023 |
 | [Proefdrukken: In het vak Tekstopties wordt &quot;textAnnotations&quot; weergegeven](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 6 april 2023 |

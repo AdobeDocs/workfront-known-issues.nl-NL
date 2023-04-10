@@ -3,9 +3,9 @@ title: Bekende problemen in [!DNL Adobe Workfront Proof]
 description: Bekende problemen gemeld voor [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: f89ebb0b007f8c0c8fdc678f2b8933c5f4fb585b
+source-git-commit: 7ff96f21e2438743a7273b7ba0015cef4e4e47ee
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Home]: Klikken bij miniatuur in [!UICONTROL Work List] leidt tot lege pagina](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md) | 10 april 2023 |
 | [Proefdrukken: Kan het gereedschap Veellijn niet gebruiken wanneer u een opmerking maakt over een proefdruk](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 6 april |
 | [Proefdrukken: In het vak Tekstopties wordt &quot;textAnnotations&quot; weergegeven](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 6 april 2023 |
 | [Proefdrukken: Kan niet schakelen tussen proefdrukken in [!UICONTROL Proof Viewer]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 31 maart 2023 |

@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: f3a5fa9f863c670d56c8d8dea929065317dc21d1
+source-git-commit: 7ff96f21e2438743a7273b7ba0015cef4e4e47ee
 workflow-type: tm+mt
-source-wordcount: '1288'
+source-wordcount: '1296'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Home]: Klikken bij miniatuur in [!UICONTROL Work List] leidt tot lege pagina](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md)
       + [Aangepaste formulieren: Problemen in aangepaste vervolgkeuzelijsten](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md)
       + [Proefdrukken: Kan niet schakelen tussen proefdrukken in [!UICONTROL Proof Viewer]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)
       + [Gebruikers: Kan niet selecteren [!UICONTROL Default Hour Type] of [!UICONTROL Available Hour Types]](known-issues-workfront/wf-user-cannot-select-hour-type.md)
