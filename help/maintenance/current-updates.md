@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c914b0f7d3b0f3fea1f73baf16b29cfe3e09ea96
+source-git-commit: ff0a984c4f9f2041f1e3f3d8da6432f6b1a6d499
 workflow-type: tm+mt
-source-wordcount: '2371'
+source-wordcount: '2439'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,22 @@ Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-mai
 
 ## Updates in april 2023
 
-+++**Onderhoudsupdate op 4 april 2023**
++++**Onderhoudsupdate op 13 april 2023**
+
+**Filters worden niet toegepast op de lijst met aanvragen**
+
+_Verzoeken_
+
+Wanneer een gebruiker een lijst met aanvragen weergeeft waarop een filter is toegepast, bevat de lijst aanvragen die het filter moet uitsluiten.
+
+**Kan niet selecteren [!UICONTROL Default Hour Type] of[!UICONTROL Available Hour Types]**
+
+_Gebruikers_
+
+Wanneer een beheerder een gebruiker bewerkt en probeert een [!UICONTROL Default Hour Type] of [!UICONTROL Available Hour Type], zien ze dat de keuzelijsten voor die velden zijn uitgeschakeld en dat ze geen uurtypen kunnen selecteren.
++++
+
++++**Onderhoudsupdate op 6 april 2023**
 
 **De vervolgkeuzelijsten worden niet geopend wanneer een gebruiker aan een proefdruk wordt toegevoegd**
 
