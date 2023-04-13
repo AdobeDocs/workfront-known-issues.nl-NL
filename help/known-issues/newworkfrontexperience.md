@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: ddce44ac49df4795b17195a8672e4240945398be
+source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
 workflow-type: tm+mt
-source-wordcount: '627'
+source-wordcount: '608'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,6 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [Gebruikers: Toegangsniveau gewijzigd door systeem zonder een verslag van de verandering](known-issues-workfront/wf-users-access-level-is-changed.md) | 20 maart 2023 |
 | [Documenten: [!UICONTROL Proofing Activities] opties leiden tot aanmeldingspagina](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 17 maart 2023 |
 
 {style="table-layout:auto"}
@@ -35,9 +34,8 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Gebruikers: Toegangsniveau gewijzigd door systeem zonder een verslag van de verandering](known-issues-workfront/wf-users-access-level-is-changed.md) | 13 april 2023 |
 | [Sjablonen: Kan sjabloon niet selecteren vanuit [!UICONTROL Favorite templates]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 12 april 2023 |
-| [[!UICONTROL Home]: Klikken bij miniatuur in [!UICONTROL Work List] leidt tot lege pagina](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md) | 10 april 2023 |
-| [Gebruikers: Kan niet selecteren [!UICONTROL Default Hour Type] of [!UICONTROL Available Hour Types]](known-issues-workfront/wf-user-cannot-select-hour-type.md) | 6 april 2023 |
 | [Proefdrukken: Kan het gereedschap Veellijn niet gebruiken wanneer u een opmerking maakt over een proefdruk](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 6 april 2023 |
 | [Proefdrukken: In het vak Tekstopties wordt &quot;textAnnotations&quot; weergegeven](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 6 april 2023 |
 | [Aangepaste formulieren: Problemen in aangepaste vervolgkeuzelijsten](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md) | 5 april 2023 |
@@ -47,7 +45,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | [Timesheets: [!UICONTROL Hour Type] dropdown wordt niet geopend](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 23 maart 2023 |
 | [Proefdrukken: Proefwerkgebied wordt niet geactiveerd wanneer de deadline van vorige werkgebied verstreken is](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 maart 2023 |
 | [Proefdrukken: Gebruiker is gedeactiveerd vanuit de proefdrukworkflow en krijgt &quot;[!UICONTROL Access not permitted]&quot; wanneer u een proefdruk opent](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 23 maart 2023 |
-| [Rapporten: Sorteren op kolomkop keert terug naar vorige sortering](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 16 maart 2023 |
 | [Filters: Filter wordt niet toegepast wanneer de pagina wordt vernieuwd](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 16 maart 2023 |
 | [Projecten: Project dat vanuit uitgave is geconverteerd, neemt geen rechten over van portfolio of programma](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23 februari 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] steungeval op Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augustus 2022 |
@@ -60,6 +57,7 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Zoeken: [!DNL Workfront] Zoektijden uit](known-issues-workfront/wf-search-search-times-out.md) | 13 april 2023 |
 | [Filters: Kan geen filter delen uit een rapport op een dashboard](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md) | 11 april 2023 |
 | [Proefdrukken: Het meetgereedschap accepteert geen decimale punten](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 27 maart 2023 |
 | [Documenten: 404 fout bij toegang tot document dat is gekoppeld vanuit [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23 maart 2023 |

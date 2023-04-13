@@ -2,15 +2,19 @@
 title: "Gebruikers: Kan Standaarduurtype of Beschikbare uurtypen niet selecteren"
 description: "Wanneer een beheerder een gebruiker bewerkt en een standaarduurtype of Beschikbaar uurtype probeert te selecteren, zien ze dat de keuzelijsten voor die velden zijn uitgeschakeld en dat ze geen uurtypen kunnen selecteren. "
 hidefromtoc: true
-source-git-commit: 0e78bfc2f2a681f035d26d40daeac35f29b6e6f0
+source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
 
 # Gebruikers: Kan niet selecteren [!UICONTROL Default Hour Type] of [!UICONTROL Available Hour Types]
+
+>[!NOTE]
+>
+>Dit probleem is op 13 april 2023 opgelost.
 
 Wanneer een beheerder een gebruiker bewerkt en probeert een [!UICONTROL Default Hour Type] of [!UICONTROL Available Hour Type], zien ze dat de keuzelijsten voor die velden zijn uitgeschakeld en dat ze geen uurtypen kunnen selecteren.
 
