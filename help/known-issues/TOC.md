@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: ddce44ac49df4795b17195a8672e4240945398be
+source-git-commit: 174dff688f137feecb5f3c7ad6c67e66ab6c2388
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1315'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Proefdrukken: [!UICONTROL Proof Activity] tab opent [!UICONTROL Proof Details]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
       + [Sjablonen: Kan sjabloon niet selecteren vanuit [!UICONTROL Favorite templates]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [Filters: Kan geen filter delen uit een rapport op een dashboard](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
       + [[!UICONTROL Home]: Klikken bij miniatuur in [!UICONTROL Work List] leidt tot lege pagina](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md)

@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
+source-git-commit: 174dff688f137feecb5f3c7ad6c67e66ab6c2388
 workflow-type: tm+mt
-source-wordcount: '608'
+source-wordcount: '612'
 ht-degree: 0%
 
 ---
@@ -34,6 +34,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proefdrukken: [!UICONTROL Proof Activity] tab opent [!UICONTROL Proof Details]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md) | 17 april 2023 |
 | [Gebruikers: Toegangsniveau gewijzigd door systeem zonder een verslag van de verandering](known-issues-workfront/wf-users-access-level-is-changed.md) | 13 april 2023 |
 | [Sjablonen: Kan sjabloon niet selecteren vanuit [!UICONTROL Favorite templates]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 12 april 2023 |
 | [Proefdrukken: Kan het gereedschap Veellijn niet gebruiken wanneer u een opmerking maakt over een proefdruk](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 6 april 2023 |
