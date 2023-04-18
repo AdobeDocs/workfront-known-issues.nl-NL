@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 5291904cc6e086d8f943f2141874df944b64a7bd
+source-git-commit: 6cbbb738a49855fb2d0750ca4a8b4b21ba7a2f5b
 workflow-type: tm+mt
-source-wordcount: '2519'
+source-wordcount: '2616'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,25 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in april 2023
+
++++**(Geplande) onderhoudsupdate op 20 april 2023**
+
+**Problemen in aangepaste vervolgkeuzelijsten**
+
+_Aangepaste formulieren_
+
+Aangepaste vervolgkeuzelijsten die zijn ingeschakeld als multiselect-velden, kunnen de volgende problemen weergeven:
+
+* De &quot;+[!UICONTROL Add]De knop &quot;&quot; is niet aanwezig als het formulier zich niet in de bewerkingsmodus bevindt.
+* Velden zonder waarden geven een &quot;—[!UICONTROL no label]—&quot;.
+
+**In het vak Tekstopties wordt &quot;textAnnotations&quot; weergegeven**
+
+_Proefdrukken_
+
+Wanneer een gebruiker een proefdruk weergeeft, een opmerking toevoegt en het gereedschap Tekst opent, wordt het woord &quot;textAnnotation&quot; weergegeven naast de opties in het gereedschap. Het gereedschap Tekst functioneert nog steeds zoals u had verwacht en &quot;textAnnotation&quot; verdwijnt na het plaatsen van de opmerking.
+
++++
 
 +++**Onderhoudsupdate op 17 april 2023**
 
