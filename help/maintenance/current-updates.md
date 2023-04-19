@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 6cbbb738a49855fb2d0750ca4a8b4b21ba7a2f5b
+source-git-commit: 92e59572387e45e24569a8b8781e8487ef848718
 workflow-type: tm+mt
-source-wordcount: '2616'
+source-wordcount: '2718'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,14 @@ Aangepaste vervolgkeuzelijsten die zijn ingeschakeld als multiselect-velden, kun
 _Proefdrukken_
 
 Wanneer een gebruiker een proefdruk weergeeft, een opmerking toevoegt en het gereedschap Tekst opent, wordt het woord &quot;textAnnotation&quot; weergegeven naast de opties in het gereedschap. Het gereedschap Tekst functioneert nog steeds zoals u had verwacht en &quot;textAnnotation&quot; verdwijnt na het plaatsen van de opmerking.
+
+## Behoud afbeeldingen als concept wanneer u afstapt van een update voor doelen en voor problemen in de bètaervaring met opmerkingen
+
+>[!NOTE]
+>
+>Deze functie is op 19 april 2023 beschikbaar gesteld voor Voorvertoning. Het zal op 20 april 2023 in productie worden genomen.
+
+Wanneer u nu weg navigeert van de pagina Updates terwijl u midden in het samenstellen van een bericht bent waar u een afbeelding hebt gekoppeld, blijven het bericht en de afbeelding behouden wanneer u terugnavigeert. Vóór deze update bleef de niet-verzonden opmerking behouden, maar werd de afbeelding verwijderd. Dit is beschikbaar in de sectie van Updates voor doelstellingen en in die van kwesties wanneer het toelaten van de het becommentariëren bètaervaring.
 
 +++
 
