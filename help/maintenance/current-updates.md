@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
+source-git-commit: 64c3ac3656a8caf38a224bf092c9e755b04fc179
 workflow-type: tm+mt
-source-wordcount: '2804'
+source-wordcount: '2880'
 ht-degree: 0%
 
 ---
@@ -44,15 +44,25 @@ _Proefdrukken_
 
 Wanneer een gebruiker een proefdruk weergeeft, een opmerking toevoegt en het gereedschap Tekst opent, wordt het woord &quot;textAnnotation&quot; weergegeven naast de opties in het gereedschap. Het gereedschap Tekst functioneert nog steeds zoals u had verwacht en &quot;textAnnotation&quot; verdwijnt na het plaatsen van de opmerking.
 
-## Behoud afbeeldingen als concept wanneer u afstapt van een update voor doelen en voor problemen in de bètaervaring met opmerkingen
+**Behoud afbeeldingen als concept wanneer u afstapt van een update voor doelen en voor problemen in de bètaervaring met opmerkingen**
 
 >[!NOTE]
 >
->Deze functie is op 19 april 2023 beschikbaar gesteld voor Voorvertoning. Het zal in de nabije toekomst in productie worden genomen.
+>Deze functie is op 19 april 2023 uitgebracht aan Preview en is op 20 april 2023 in productie genomen.
 
 _Updates_
 
 Wanneer u nu weg navigeert van de pagina Updates terwijl u midden in het samenstellen van een bericht bent waar u een afbeelding hebt gekoppeld, blijven het bericht en de afbeelding behouden wanneer u terugnavigeert. Vóór deze update bleef de niet-verzonden opmerking behouden, maar werd de afbeelding verwijderd. Dit is beschikbaar in de sectie van Updates voor doelstellingen en in die van kwesties wanneer het toelaten van de het becommentariëren bètaervaring.
+
+**Updates in realtime en verwijderde opmerkingen in de sectie Updates**
+
+>[!NOTE]
+>
+>Deze functie is op 19 april 2023 uitgebracht aan Preview en is op 20 april 2023 in productie genomen.
+
+_Updates_
+
+Wanneer iemand nu een opmerking of antwoord toevoegt of een opmerking verwijdert uit het gedeelte Updates, kunt u de nieuwe opmerking of een indicatie zien dat de opmerking in real-time en zonder vertraging is verwijderd. Dit is beschikbaar in de sectie van Updates voor doelstellingen en in die van kwesties wanneer het toelaten van de het becommentariëren bètaervaring.
 
 **Toegangsniveau gewijzigd door systeem zonder een verslag van de verandering**
 
