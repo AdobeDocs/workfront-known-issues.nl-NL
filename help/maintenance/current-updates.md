@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 92e59572387e45e24569a8b8781e8487ef848718
+source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
 workflow-type: tm+mt
-source-wordcount: '2718'
+source-wordcount: '2804'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,12 @@ Aangepaste vervolgkeuzelijsten die zijn ingeschakeld als multiselect-velden, kun
 * De &quot;+[!UICONTROL Add]De knop &quot;&quot; is niet aanwezig als het formulier zich niet in de bewerkingsmodus bevindt.
 * Velden zonder waarden geven een &quot;—[!UICONTROL no label]—&quot;.
 
+**Kan het gereedschap Veellijn niet gebruiken wanneer u een opmerking maakt over een proefdruk**
+
+_Proefdrukken_
+
+Wanneer een gebruiker een proefdruk weergeeft in de Proofing Viewer en probeert een opmerking te maken met het gereedschap Veelzijdig, markeert het gereedschap de proefdruk niet.
+
 **In het vak Tekstopties wordt &quot;textAnnotations&quot; weergegeven**
 
 _Proefdrukken_
@@ -42,9 +48,17 @@ Wanneer een gebruiker een proefdruk weergeeft, een opmerking toevoegt en het ger
 
 >[!NOTE]
 >
->Deze functie is op 19 april 2023 beschikbaar gesteld voor Voorvertoning. Het zal op 20 april 2023 in productie worden genomen.
+>Deze functie is op 19 april 2023 beschikbaar gesteld voor Voorvertoning. Het zal in de nabije toekomst in productie worden genomen.
+
+_Updates_
 
 Wanneer u nu weg navigeert van de pagina Updates terwijl u midden in het samenstellen van een bericht bent waar u een afbeelding hebt gekoppeld, blijven het bericht en de afbeelding behouden wanneer u terugnavigeert. Vóór deze update bleef de niet-verzonden opmerking behouden, maar werd de afbeelding verwijderd. Dit is beschikbaar in de sectie van Updates voor doelstellingen en in die van kwesties wanneer het toelaten van de het becommentariëren bètaervaring.
+
+**Toegangsniveau gewijzigd door systeem zonder een verslag van de verandering**
+
+_Gebruikers_
+
+Het toegangsniveau van een gebruiker kan onvoorspelbaar door het systeem worden veranderd. Wanneer dit voorkomt, is er geen zichtbare update, en de verandering verschijnt niet in het controlelogboek.
 
 +++
 
