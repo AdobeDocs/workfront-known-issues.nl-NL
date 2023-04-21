@@ -1,8 +1,8 @@
 ---
 title: "Werklastverdeling: Uren worden niet aangepast om rekening te houden met vrije tijd"
-description: '"Als een gebruiker tijd uit plant en taken toegewezen heeft, werkt de Werklastbalans de chronologie niet aan rekening voor de tijd uit bij. In plaats daarvan, toont de Balancer van de Werkbelasting dat de gebruiker voor de dagen oververdeeld is die zij hebben gepland weg. Als u de uren wilt aanpassen, moet de beheerder naar het project gaan en de tijdlijn opnieuw berekenen.'
+description: "Als een gebruiker tijd uit plant en taken toegewezen heeft, werkt de Werklastbalans de chronologie niet aan rekening voor de tijd uit bij. In plaats daarvan, toont de Balancer van de Werkbelasting dat de gebruiker voor de dagen oververdeeld is die zij hebben gepland weg. Als u de uren wilt aanpassen, moet de beheerder naar het project gaan en de tijdlijn opnieuw berekenen."
 hidefromtoc: true
-source-git-commit: f89ebb0b007f8c0c8fdc678f2b8933c5f4fb585b
+source-git-commit: 67d7e907af995a40ecad3792584ebf8768ad4570
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%

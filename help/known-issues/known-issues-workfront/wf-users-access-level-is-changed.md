@@ -1,10 +1,10 @@
 ---
 title: "Gebruikers: Toegangsniveau gewijzigd door systeem zonder een verslag van de verandering"
-description: '"Het toegangsniveau van een gebruiker kan onvoorspelbaar door het systeem worden veranderd. Wanneer dit voorkomt, is er geen zichtbare update, en de verandering verschijnt niet in het controlelogboek.'
+description: "Het toegangsniveau van een gebruiker kan onvoorspelbaar door het systeem worden veranderd. Wanneer dit voorkomt, is er geen zichtbare update, en de verandering verschijnt niet in het controlelogboek."
 hidefromtoc: true
-source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
+source-git-commit: 67d7e907af995a40ecad3792584ebf8768ad4570
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
