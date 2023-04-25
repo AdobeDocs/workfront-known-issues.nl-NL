@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 3466245b95c2ab8b6206eec7f42f9bed0b68e325
+source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
 workflow-type: tm+mt
-source-wordcount: '2879'
+source-wordcount: '2976'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,26 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in april 2023
+
++++**(Geplande) onderhoudsupdate op 27 april 2023**
+
+**Kan niet schakelen tussen proefdrukken in[!UICONTROL Proof Viewer]**
+
+_Proefdrukken_
+
+Wanneer een gebruiker een proefdruk weergeeft in het dialoogvenster [!UICONTROL Proofing Viewer]en schakelt u over naar een andere proefdruk. De knop voor de proefdruk van de switch reageert dan niet. De gebruiker kan niet terugschakelen naar de oorspronkelijke proefdruk die hij of zij bekeek of naar een andere proefdruk.
+
++++
+
++++**[!DNL Adobe Workfront Fusion]Onderhoudsupdate op 25 april 2023**
+
+**[!DNL Fusion]Help-koppelingen in de app leiden niet tot specifieke Help-pagina&#39;s**
+
+_[!DNL Workfront Fusion]_
+
+Wanneer een gebruiker een proefdruk weergeeft in het dialoogvenster [!UICONTROL Proofing Viewer]en schakelt u over naar een andere proefdruk. De knop voor de proefdruk van de switch reageert dan niet. De gebruiker kan niet terugschakelen naar de oorspronkelijke proefdruk die hij of zij bekeek of naar een andere proefdruk.
+
++++
 
 +++**Onderhoudsupdate op 20 april 2023**
 
