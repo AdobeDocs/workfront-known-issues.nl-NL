@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
+source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
 workflow-type: tm+mt
-source-wordcount: '584'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,6 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | -----------------------------------------------------------------| ----------------- |
 | [Timesheets: Filter wordt niet toegepast wanneer de pagina wordt vernieuwd](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md) | 25 april 2023 |
 | [Proefdrukken: Vergrendelde proefdrukgoedkeuringen worden nog steeds weergegeven in de werklijst](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 21 april 2023 |
-| [[!UICONTROL Resource Planner]: Kan niet opslaan na toevoegen tijd](known-issues-workfront/wf-resource-planner-cannot-save-time.md) | 20 april 2023 |
 
 {style="table-layout:auto"}
 

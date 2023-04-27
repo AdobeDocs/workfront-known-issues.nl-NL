@@ -3,9 +3,9 @@ title: Bekende problemen in [!DNL Adobe Workfront Proof]
 description: Bekende problemen gemeld voor [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
+source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | -----------------------------------------------------------------| ----------------- |
 | [Proefdrukken: [!UICONTROL Proof Activity] tab opent [!UICONTROL Proof Details]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md) | 17 april 2023 |
 | [Proefdrukken: Proefwerkgebied wordt niet geactiveerd wanneer de deadline van vorige werkgebied verstreken is](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 maart 2023 |
-| [[!DNL Workfront Proof] API: &quot;[!UICONTROL Body is not a valid XML]&quot;-fout](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20 januari 2023 |
 
 {style="table-layout:auto"}
 

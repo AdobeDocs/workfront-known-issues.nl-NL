@@ -3,9 +3,9 @@ title: Bekende problemen in [!DNL Adobe Workfront Fusion]
 description: Bekende problemen gemeld voor [!DNL Adobe Workfront Fusion]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
+source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Proof] API: &quot;[!UICONTROL Body is not a valid XML]&quot;-fout](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20 januari 2023 |
+| Geen |  |
 
 {style="table-layout:auto"}
 
