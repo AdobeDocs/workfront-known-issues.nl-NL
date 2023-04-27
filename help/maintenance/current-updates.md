@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
+source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
 workflow-type: tm+mt
-source-wordcount: '2976'
+source-wordcount: '3020'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,19 @@ Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-mai
 
 ## Updates in april 2023
 
-+++**(Geplande) onderhoudsupdate op 27 april 2023**
++++**Onderhoudsupdate op 27 april 2023**
 
 **Kan niet schakelen tussen proefdrukken in[!UICONTROL Proof Viewer]**
 
 _Proefdrukken_
 
 Wanneer een gebruiker een proefdruk weergeeft in het dialoogvenster [!UICONTROL Proofing Viewer]en schakelt u over naar een andere proefdruk. De knop voor de proefdruk van de switch reageert dan niet. De gebruiker kan niet terugschakelen naar de oorspronkelijke proefdruk die hij of zij bekeek of naar een andere proefdruk.
+
+**Gekoppelde afbeeldingen bewerken tijdens het bewerken van een opmerking**
+
+_Updates_
+
+U kunt de afbeelding die aan een opmerking is gekoppeld nu bewerken wanneer u een opmerking bewerkt. Dit is beschikbaar in de sectie Updates voor Workfront Goals en in die van problemen wanneer u de bètaervaring met opmerkingen inschakelt.
 
 +++
 
