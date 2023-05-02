@@ -3,9 +3,9 @@ title: Bekende problemen in [!DNL Adobe Workfront Proof]
 description: Bekende problemen gemeld voor [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
+source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,6 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 | [[!DNL Workfront Proof]: Lijsten worden niet correct gesorteerd](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 23 maart 2023 |
 | [Documenten: Machtigingen worden niet overgeërfd wanneer een document naar een nieuw project wordt verplaatst](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 7 maart 2023 |
 | [[!DNL Workfront Proof]: [!UICONTROL Reports] gebied wordt niet meer ondersteund](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 1 maart 2023 |
-| [Proefdrukken: Gebruiker ontvangt geen e-mail wanneer deze is gelabeld in een proefdrukopmerking](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23 februari 2023 |
 | [Proefdrukken: Nieuwe fase gemaakt omdat deadline niet overeenkomt met deadline van bestaand werkgebied](known-issues-workfront-proof/proof-new-stage-created.md) | 2 februari 2023 |
 | [[!UICONTROL Home]: Voltooide proefdrukken in de [!UICONTROL Work List]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 januari 2023 |
 | [Proefdrukken: Proefstatus wordt niet bijgewerkt in [!UICONTROL Document] lijsten](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 december 2022 |

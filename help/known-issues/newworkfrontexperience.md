@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 7fc9e90be94c30dff1c8de17c033407c165b45f2
+source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '547'
 ht-degree: 0%
 
 ---
@@ -59,10 +59,8 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 | [Proefdrukken: Het meetgereedschap accepteert geen decimale punten](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 27 maart 2023 |
 | [Documenten: 404 fout bij toegang tot document dat is gekoppeld vanuit [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23 maart 2023 |
 | [Documenten: Problemen met de documentlijst](known-issues-workfront/wf-documents-list-missing-elements.md) | 23 maart 2023 |
-| [Timesheets: [!UICONTROL Hour Type] dropdown wordt niet geopend](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 9 maart 2023 |
 | [Documenten: Machtigingen worden niet overgeërfd wanneer een document naar een nieuw project wordt verplaatst](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 7 maart 2023 |
 | [Integraties: Kan niet openen [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 24 februari 2023 |
-| [Proefdrukken: Gebruiker ontvangt geen e-mail wanneer deze is gelabeld in een proefdrukopmerking](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23 februari 2023 |
 | [[!UICONTROL Home]: Voltooide proefdrukken in de [!UICONTROL Work List]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 januari 2023 |
 | [Proefdrukken: Proefstatus wordt niet bijgewerkt in [!UICONTROL Document] lijsten](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 december 2022 |
 | [Taken: Uren worden niet opgeslagen bij het invoeren van uren in de taak [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2 december 2022 |

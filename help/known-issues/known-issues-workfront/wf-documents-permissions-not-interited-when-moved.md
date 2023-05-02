@@ -1,20 +1,20 @@
 ---
 title: "Documenten: Machtigingen worden niet overgeërfd wanneer een document naar een nieuw project wordt verplaatst."
-description: "Wanneer een gebruiker een document naar een ander project verplaatst, erft het document het delen geen toestemmingen van het nieuwe project. Het document wordt niet gedeeld met de gebruikers aan wie het project wordt gedeeld. "
+description: 'Wanneer een gebruiker een document naar een ander project verplaatst, overerft het document geen machtigingen voor delen van het nieuwe project. Het document wordt niet gedeeld met de gebruikers aan wie het project wordt gedeeld. '
 hidefromtoc: true
-source-git-commit: ca969341423e373a94faa677729fc2dccd9453d6
+exl-id: 56dfaf55-7438-4569-b9a1-b62fbdd3f4d9
+source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
 
 ---
 
-
 # Documenten: Machtigingen worden niet overgeërfd wanneer een document naar een nieuw project wordt verplaatst
 
 <!-- This Known Issue is on the TOC for both Workfront and Workfront Proof-->
 
-<!--This issue has been closed as won't fix, but no reason.-->
+<!--Valid issue, won't fix.-->
 
 Wanneer een gebruiker een document naar een ander project verplaatst, erft het document het delen geen toestemmingen van het nieuwe project. Het document wordt niet gedeeld met de gebruikers aan wie het project wordt gedeeld.
 
@@ -29,4 +29,3 @@ Wanneer een gebruiker een document naar een ander project verplaatst, erft het d
 U kunt ook een notitie maken van de id van het document (in de URL van het dialoogvenster [!UICONTROL Document Details] pagina) en contact opnemen [!DNL Workfront] klantenondersteuning.
 
 _Eerste rapportage op 6 januari 2023._
-
