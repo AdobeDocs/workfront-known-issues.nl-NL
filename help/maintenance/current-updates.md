@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
+source-git-commit: e50e74711a4c19c3f9f6964ec228dbe50c7b00c5
 workflow-type: tm+mt
-source-wordcount: '3020'
+source-wordcount: '3097'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,18 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 >Deze updates bevatten ook andere kleine of minder duidelijke foutoplossingen. [!DNL Workfront] Ondersteuning geeft een melding wanneer een probleem dat u hebt verzonden, is opgelost.
 
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
+
+## Updates in mei 2023
+
++++**(Geplande) onderhoudsupdate op 4 mei 2023**
+
+**Kan sjabloon niet selecteren vanuit[!UICONTROL Favorite templates]**
+
+_Sjablonen_
+
+Wanneer een gebruiker een sjabloon probeert te selecteren in het menu Handelingen (drie punten), verdwijnt de lijst met sjablonen wanneer de gebruiker de muis naar de lijst verplaatst en kan de gebruiker geen sjabloon selecteren. De reden hiervoor is dat de schuifbalk zich tussen het menu en de lijst met sjablonen bevindt. De muis richt zich dan op de schuifbalk terwijl deze naar de lijst met sjablonen gaat.
+
++++
 
 ## Updates in april 2023
 
