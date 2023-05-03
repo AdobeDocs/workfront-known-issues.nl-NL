@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: f63f33c4038da13d36d522754b9174b799c48599
+source-git-commit: 9947478d3699657386fef218be278fb3ec95e187
 workflow-type: tm+mt
-source-wordcount: '1016'
+source-wordcount: '1025'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Taken: Geen foutbericht bij opnieuw ordenen van taak in [!UICONTROL Pending approval] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
       + [Timesheets: Filter wordt niet toegepast wanneer de pagina wordt vernieuwd](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
       + [Proefdrukken: Vergrendelde proefdrukgoedkeuringen worden nog steeds weergegeven in de werklijst](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
       + [[!UICONTROL Resource Planner]: Kan niet opslaan na toevoegen tijd](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
