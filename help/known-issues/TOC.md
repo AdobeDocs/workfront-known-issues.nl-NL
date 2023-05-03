@@ -3,7 +3,7 @@ user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 source-git-commit: f63f33c4038da13d36d522754b9174b799c48599
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1016'
 ht-degree: 0%
 
 ---
