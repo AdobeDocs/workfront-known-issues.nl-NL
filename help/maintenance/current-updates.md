@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: e50e74711a4c19c3f9f6964ec228dbe50c7b00c5
+source-git-commit: 64a21b5ac15ffb068ae2e45a13cab91977d1608d
 workflow-type: tm+mt
-source-wordcount: '3097'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-mai
 
 ## Updates in mei 2023
 
-+++**(Geplande) onderhoudsupdate op 4 mei 2023**
++++**Onderhoudsupdate op 4 mei 2023**
 
 **Kan sjabloon niet selecteren vanuit[!UICONTROL Favorite templates]**
 

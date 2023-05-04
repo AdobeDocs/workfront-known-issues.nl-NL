@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 9947478d3699657386fef218be278fb3ec95e187
+source-git-commit: 0a1b37c657f460ba5d6773e36e69de60f1efdddd
 workflow-type: tm+mt
-source-wordcount: '557'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | -----------------------------------------------------------------| ----------------- |
 | [Taken: Geen foutbericht bij opnieuw ordenen van taak in [!UICONTROL Pending approval] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 3 mei 2023 |
 | [Proefdrukken: [!UICONTROL Proof Activity] tab opent [!UICONTROL Proof Details]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md) | 17 april 2023 |
-| [Sjablonen: Kan sjabloon niet selecteren vanuit [!UICONTROL Favorite templates]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 12 april 2023 |
 | [Projecten: [!UICONTROL Home Group] aangepaste statussen zijn niet beschikbaar wanneer u een project maakt op basis van een sjabloon](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 maart 2023 |
 | [Zoeken: [!DNL Workfront] Zoektijden uit](known-issues-workfront/wf-search-search-times-out.md) | 27 maart 2023 |
 | [Proefdrukken: Proefwerkgebied wordt niet geactiveerd wanneer de deadline van vorige werkgebied verstreken is](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 maart 2023 |
