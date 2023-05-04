@@ -1,18 +1,24 @@
 ---
-title: "Proofs: Het tabblad Proefactiviteit opent Proefdrukdetails"
-description: "Wanneer een gebruiker een proefdruk weergeeft en op het tabblad Proefactiviteit klikt, wordt in plaats daarvan het tabblad Proefdetails geopend. Dit gebeurt wanneer een proefdrukwerkgebied handmatig aan de workflow is toegevoegd."
+title: 'Proefdrukken: Het tabblad Proefactiviteit opent Proefdetails.'''
+description: Wanneer een gebruiker een proefdruk weergeeft en op het tabblad Proefactiviteit klikt, wordt het tabblad Proefdetails geopend. Dit gebeurt wanneer een proefdrukwerkgebied handmatig aan de workflow is toegevoegd.
 hidefromtoc: true
-source-git-commit: fdada45b870aef2e9c286519dd324db063d23462
+exl-id: 153a7289-d1e3-4894-bb0d-5baafebb7dac
+source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-
 # Proefdrukken: [!UICONTROL Proof Activity] tab opent [!UICONTROL Proof Details]
 
 <!--This article is on WF and WFP TOCs-->
+
+<!--Valid issue, live for workaround-->
+
+>[!NOTE]
+>
+>Deze kwestie is gesloten.
 
 Wanneer een gebruiker een proefdruk weergeeft en op de knop[!UICONTROL Proof Activity] de [!UICONTROL Proof Details] wordt geopend. Dit gebeurt wanneer een proefdrukwerkgebied handmatig aan de workflow is toegevoegd.
 
@@ -21,4 +27,3 @@ Wanneer een gebruiker een proefdruk weergeeft en op de knop[!UICONTROL Proof Act
 Bekijk de Proofingactiviteiten in de linkernavigatie van het document in Workfront.
 
 _Voor het eerst gemeld op 10 april 2023._
-
