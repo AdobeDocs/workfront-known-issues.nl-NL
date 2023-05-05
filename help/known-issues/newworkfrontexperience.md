@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
+source-git-commit: b52c358bc47dbfa9c3f4bb31998651614b88f76a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '520'
 ht-degree: 0%
 
 ---
@@ -34,6 +34,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Projecten: Fout bij gebruik [!UICONTROL Milestone] weergave](known-issues-workfront/wf-projects-error-in-milestone-view.md) | 5 mei 2023 |
 | [Proefdrukken: Vergrendelde proefdrukgoedkeuringen worden nog steeds weergegeven in de werklijst](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4 mei 2023 |
 | [Taken: Geen foutbericht bij opnieuw ordenen van taak in [!UICONTROL Pending approval] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 3 mei 2023 |
 | [Projecten: [!UICONTROL Home Group] aangepaste statussen zijn niet beschikbaar wanneer u een project maakt op basis van een sjabloon](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 maart 2023 |

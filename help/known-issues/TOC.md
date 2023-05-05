@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: 9947478d3699657386fef218be278fb3ec95e187
+source-git-commit: b52c358bc47dbfa9c3f4bb31998651614b88f76a
 workflow-type: tm+mt
-source-wordcount: '1025'
+source-wordcount: '1030'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Projecten: Fout bij gebruik [!UICONTROL Milestone] weergave](known-issues-workfront/wf-projects-error-in-milestone-view.md)
       + [Taken: Geen foutbericht bij opnieuw ordenen van taak in [!UICONTROL Pending approval] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
       + [Timesheets: Filter wordt niet toegepast wanneer de pagina wordt vernieuwd](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
       + [Proefdrukken: Vergrendelde proefdrukgoedkeuringen worden nog steeds weergegeven in de werklijst](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
