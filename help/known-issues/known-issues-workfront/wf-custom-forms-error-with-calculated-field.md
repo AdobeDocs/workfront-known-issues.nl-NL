@@ -1,0 +1,25 @@
+---
+title: '''Aangepaste formulieren: De fout in het gehele getal bij het instellen van een berekend veld"'
+description: Wanneer een gebruiker een berekend veld maakt of bewerkt op een aangepast formulier en een aangepast veld opneemt in de berekende expressie van het veld, wordt de expressie als ongeldig beschouwd. De knop Opslaan is uitgeschakeld en de gebruiker kan niet weg navigeren van het aangepaste veld. Bovendien ziet de gebruiker een bericht van het Hele onder het gebied.
+hidefromtoc: true
+exl-id: e499c680-2fdf-40cb-a1fa-b0d4ae799ad2
+source-git-commit: 25b7ec9e953eca2f439a2625ba4ca58514703d1e
+workflow-type: tm+mt
+source-wordcount: '156'
+ht-degree: 0%
+
+---
+
+# Aangepaste formulieren: &quot;[!UICONTROL Whoops]&quot; fout bij het instellen van een berekend veld
+
+>[!NOTE]
+>
+>Dit probleem is opgelost op 12 januari 2023
+
+Wanneer een gebruiker een berekend veld maakt of bewerkt op een aangepast formulier en een aangepast veld opneemt in de berekende expressie van het veld, wordt de expressie als ongeldig beschouwd. De [!UICONTROL Save] is uitgeschakeld en de gebruiker kan niet weg navigeren van het aangepaste veld. Bovendien ziet de gebruiker het volgende bericht onder het gebied:
+
+&quot;[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]&quot;
+
+Als u het aangepaste veld uit de expressie verwijdert, kan de gebruiker het veld opslaan en verder navigeren.
+
+_Voor het eerst gerapporteerd op 11 oktober 2022._
