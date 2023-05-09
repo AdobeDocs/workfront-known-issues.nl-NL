@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 64a21b5ac15ffb068ae2e45a13cab91977d1608d
+source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '3303'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,52 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in mei 2023
+
++++**(Geplande) onderhoudsupdate op 11 mei 2023**
+
+**[!DNL Workfront]Zoektijden uit**
+
+_Zoeken_
+
+[!DNL Workfront] zoekactie is time-out. De zoekopdracht kan een paar resultaten opleveren, of helemaal geen.
+
+Deze kwestie beïnvloedt ook de functionaliteit van [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL Search] module.
+
+**Kan proefdrukversie niet wisselen bij weergave van proefdrukversie**
+
+_Proefdrukken_
+
+Wanneer een gebruiker een proefdruk weergeeft in het dialoogvenster [!UICONTROL Proofing Viewer]en overschakelt naar een andere versie, wordt het vervolgkeuzemenu uitgeschakeld en kan de gebruiker niet terugschakelen naar de oorspronkelijke versie die hij of zij bekeek, of naar een andere versie van de proefdruk.
+
++++
+
++++**(Geplant) [!DNL Adobe Workfront Fusion] Onderhoudsupdate op 11 mei 2023**
+
+**Time-outfouten in[!DNL Workfront Fusion]**
+
+_Adobe Workfront Fusion_
+
+Wanneer een scenario loopt, kan het een onderbrekingsfout hebben. De informatie van de module met de fout bereikt zijn bestemming niet.
+
+**[!DNL Workfront]Zoektijden uit**
+
+_Zoeken_
+
+[!DNL Workfront] zoekactie is time-out. De zoekopdracht kan een paar resultaten opleveren, of helemaal geen.
+
+Deze kwestie beïnvloedt ook de functionaliteit van [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL Search] module.
+
++++
+
++++**Onderhoudsupdate op 9 mei 2023**
+
+**Opgeslagen filters beschikbaar in de inlaatkolom**
+
+_Borden_
+
+U kunt nu bestaande Workfront-taken en -filters gebruiken bij het configureren van de innamekolom voor een board. Bestaande inlaatkolomfilters zijn nu echter alleen-lezen in het configuratievenster. De bestaande filters worden nog steeds toegepast op de inlaatkolom, maar u moet de filters opnieuw maken als u ze wilt bewerken.
+
++++
 
 +++**Onderhoudsupdate op 4 mei 2023**
 
