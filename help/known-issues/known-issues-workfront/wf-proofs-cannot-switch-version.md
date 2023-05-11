@@ -1,23 +1,21 @@
 ---
-title: "Proofs: Kan proefdrukversie niet wisselen bij weergave van proefdruk"
-description: "Wanneer een gebruiker een proef in bekijkt [!UICONTROL Proofing Viewer]en overschakelt naar een andere versie, wordt de vervolgkeuzelijst uitgeschakeld en kan de gebruiker niet terugschakelen naar de oorspronkelijke versie die hij of zij bekeek, of naar een andere versie van de proefdruk."
+title: 'Proefdrukken: Kan proefdrukversie niet wisselen bij weergave van proefdruk'''
+description: Wanneer een gebruiker een proefdruk weergeeft in het dialoogvenster [!UICONTROL Proofing Viewer]en overschakelt naar een andere versie, wordt de vervolgkeuzelijst uitgeschakeld en kan de gebruiker niet terugschakelen naar de oorspronkelijke versie die hij of zij bekeek, of naar een andere versie van de proefdruk.
 hidefromtoc: true
-source-git-commit: 7b22b27cddb7a7cd21d3570a057a33753b2e0be3
+exl-id: 2ee55109-47c0-4e85-8b91-a56d677303ef
+source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
 
-
 # Proefdrukken: Kan proefdrukversie niet wisselen bij weergave van proefdrukversie
 
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on March 30, 2023.
--->
+>Deze kwestie is op 11 mei 2023 opgelost.
 
 Wanneer een gebruiker een proefdruk weergeeft in het dialoogvenster [!UICONTROL Proofing Viewer]en overschakelt naar een andere versie, wordt het vervolgkeuzemenu uitgeschakeld en kan de gebruiker niet terugschakelen naar de oorspronkelijke versie die hij of zij bekeek, of naar een andere versie van de proefdruk.
 
@@ -29,4 +27,3 @@ Voer een van de volgende handelingen uit:
 * Selecteer de vergelijkingsmening, dan sluit de versie u niet wilt bekijken.
 
 _Voor het eerst gerapporteerd op 23 maart 2023._
-

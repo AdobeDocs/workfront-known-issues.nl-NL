@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: 25b7ec9e953eca2f439a2625ba4ca58514703d1e
+source-git-commit: c9876398ffdec456113d3343c8fb19ae8ca8ae83
 workflow-type: tm+mt
-source-wordcount: '1048'
+source-wordcount: '1053'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Werklastverdeling: Uren onverwacht opnieuw verdelen](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [Aangepaste formulieren: &quot;[!UICONTROL Whoops]&quot; fout bij het instellen van een berekend veld](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
       + [Rapporten: Sorteren op kolomkop keert terug naar vorige sortering](known-issues-workfront/wf-reports-sorting-not-applied.md)
       + [Projecten: Fout bij gebruik [!UICONTROL Milestone] weergave](known-issues-workfront/wf-projects-error-in-milestone-view.md)

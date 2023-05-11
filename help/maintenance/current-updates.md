@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
+source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
 workflow-type: tm+mt
-source-wordcount: '3303'
+source-wordcount: '3301'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,13 @@ Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-mai
 
 ## Updates in mei 2023
 
-+++**(Geplande) onderhoudsupdate op 11 mei 2023**
++++**Onderhoudsupdate op 11 mei 2023**
+
+**Kan proefdrukversie niet wisselen bij weergave van proefdrukversie**
+
+_Proefdrukken_
+
+Wanneer een gebruiker een proefdruk weergeeft in het dialoogvenster [!UICONTROL Proofing Viewer]en overschakelt naar een andere versie, wordt het vervolgkeuzemenu uitgeschakeld en kan de gebruiker niet terugschakelen naar de oorspronkelijke versie die hij of zij bekeek, of naar een andere versie van de proefdruk.
 
 **[!DNL Workfront]Zoektijden uit**
 
@@ -31,15 +37,9 @@ _Zoeken_
 
 Deze kwestie beïnvloedt ook de functionaliteit van [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL Search] module.
 
-**Kan proefdrukversie niet wisselen bij weergave van proefdrukversie**
-
-_Proefdrukken_
-
-Wanneer een gebruiker een proefdruk weergeeft in het dialoogvenster [!UICONTROL Proofing Viewer]en overschakelt naar een andere versie, wordt het vervolgkeuzemenu uitgeschakeld en kan de gebruiker niet terugschakelen naar de oorspronkelijke versie die hij of zij bekeek, of naar een andere versie van de proefdruk.
-
 +++
 
-+++**(Geplant) [!DNL Adobe Workfront Fusion] Onderhoudsupdate op 11 mei 2023**
++++**[!DNL Adobe Workfront Fusion]Onderhoudsupdate op 11 mei 2023**
 
 **Time-outfouten in[!DNL Workfront Fusion]**
 

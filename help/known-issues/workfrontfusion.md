@@ -3,9 +3,9 @@ title: Bekende problemen in [!DNL Adobe Workfront Fusion]
 description: Bekende problemen gemeld voor [!DNL Adobe Workfront Fusion]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
+source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Adobe Workfront Fusion]: Time-outfouten in Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md) | 3 februari 2023 |
+| Geen |  |
 
 {style="table-layout:auto"}
 
@@ -45,7 +45,6 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [Zoeken: [!DNL Workfront] Zoektijden uit](known-issues-workfront/wf-search-search-times-out.md) | 13 april 2023 |
 | [[!DNL Workfront Fusion]: Fout &quot;Kan verbinding niet verifiëren&quot;](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | 29 september 2022 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] module retourneert een fout van 404 zonder meer informatie](known-issues-workfront-fusion/fusion-404-error-no-description.md) | 9 september 2022 |
 
