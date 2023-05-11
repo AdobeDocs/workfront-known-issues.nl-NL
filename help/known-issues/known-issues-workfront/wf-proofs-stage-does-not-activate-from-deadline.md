@@ -1,20 +1,23 @@
 ---
-title: "Proofs: Proefwerkgebied wordt niet geactiveerd wanneer de deadline van vorige werkgebied verstreken is."
-description: "Wanneer een proef veelvoudige stadia heeft, en een later stadium activeert wordt het werkgebied geplaatst aan wanneer vorige werkgebieddeadline gaat, dat recentere stadium niet geactiveerd wanneer de deadline gaat."
+title: 'Proefdrukken: Proefwerkgebied wordt niet geactiveerd wanneer de deadline van vorige werkgebied verstreken is.'
+description: Wanneer een proef veelvoudige stadia heeft, en een later stadium activeert het werkgebied wordt geplaatst aan wanneer de vorige werkgebieddeadline gaat, dat recentere stadium niet activeert wanneer de deadline gaat.
 hidefromtoc: true
-source-git-commit: 6ba26f7b8bd836e5a63214137c06116dcdb1d58d
+exl-id: c3a16e21-f645-4382-94d8-9836a773132f
+source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
-
 
 # Proefdrukken: Proefwerkgebied wordt niet geactiveerd wanneer de deadline van vorige werkgebied verstreken is
 
 <!--This article is on the WF and WFP TOC-->
 
+>[!NOTE]
+>
+>Deze kwestie is op 11 mei 2023 opgelost.
+
 Wanneer een proef veelvoudige stadia heeft, en een later stadium &quot;activeert het stadium&quot;wordt geplaatst aan &quot;wanneer de vorige tijdslimiet van het stadium&quot;verstrijkt, niet activeert dat recentere stadium wanneer de deadline gaat.
 
 _Voor het eerst gerapporteerd op 14 maart 2023._
-
