@@ -3,9 +3,9 @@ title: Bekende problemen in [!DNL Adobe Workfront Proof]
 description: Bekende problemen gemeld voor [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
+source-git-commit: da7467950481dc880a88c2cc78df73bc7ded3a74
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
@@ -34,6 +34,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof] via API of [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 15 mei 2023 |
 | [Proefdrukken: Vergrendelde proefdrukgoedkeuringen worden nog steeds weergegeven in de werklijst](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4 mei 2023 |
 
 {style="table-layout:auto"}

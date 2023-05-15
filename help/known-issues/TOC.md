@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
+source-git-commit: da7467950481dc880a88c2cc78df73bc7ded3a74
 workflow-type: tm+mt
-source-wordcount: '1063'
+source-wordcount: '1069'
 ht-degree: 0%
 
 ---
@@ -123,6 +123,7 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [Bekende problemen in [!DNL Workfront Proof]](workfrontproof.md)
    + Huidige problemen in [!DNL Workfront Proof] {#proof-current}
+      + [[!DNL Workfront Proof]: 500 fout bij toegang [!DNL Workfront Proof] via API of [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof]: Zoekopdracht retourneert geen resultaten](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [Proefdrukken: In het vak Tekstopties wordt &quot;textAnnotations&quot; weergegeven](known-issues-workfront-proof/proof-text-shows-textannotation.md)
       + [[!DNL Workfront Proof]: Lijsten worden niet correct gesorteerd](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)

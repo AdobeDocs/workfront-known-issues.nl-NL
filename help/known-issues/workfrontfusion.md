@@ -3,9 +3,9 @@ title: Bekende problemen in [!DNL Adobe Workfront Fusion]
 description: Bekende problemen gemeld voor [!DNL Adobe Workfront Fusion]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
+source-git-commit: da7467950481dc880a88c2cc78df73bc7ded3a74
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| Geen |  |
+| [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof] via API of [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 15 mei 2023 |
 
 {style="table-layout:auto"}
 
