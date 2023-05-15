@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
+source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '517'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| Geen |  |
+| [Rapporten: Niet correct sorteren rapporteren wanneer sorteren op een veld](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md) | 15 mei 2023 |
 
 {style="table-layout:auto"}
 
@@ -34,7 +34,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [Rapporten: Sorteren op kolomkop keert terug naar vorige sortering](known-issues-workfront/wf-reports-sorting-not-applied.md) | 11 mei 2023 |
+| [Rapporten: Rapport wordt niet correct gesorteerd bij sorteren op aangepast veld](known-issues-workfront/wf-reports-sorting-not-applied.md) | 11 mei 2023 |
 | [Taken: Geen foutbericht bij opnieuw ordenen van taak in [!UICONTROL Pending approval] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 11 mei 2023 |
 | [Werklastverdeling: Uren onverwacht opnieuw verdelen](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 11 mei 2023 |
 | [Proefdrukken: Vergrendelde proefdrukgoedkeuringen worden nog steeds weergegeven in de werklijst](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4 mei 2023 |

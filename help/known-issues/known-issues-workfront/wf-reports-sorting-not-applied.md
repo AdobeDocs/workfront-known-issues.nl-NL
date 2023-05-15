@@ -1,16 +1,16 @@
 ---
-title: "Rapporten: Rapport wordt niet correct gesorteerd"
-description: ""
+title: '"Rapporten: Rapport wordt niet correct gesorteerd bij sorteren op aangepast veld'
+description: '"Wanneer een gebruiker een taakrapport in werking stelt, lijkt het rapport correct te sorteren wanneer het laadt, maar wanneer het klaar is met laden ziet de gebruiker dat het rapport niet correct gesorteerd is. '
 hidefromtoc: true
-source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
+source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
 
 
-# Rapporten: Rapport wordt niet correct gesorteerd
+# Rapporten: Rapport wordt niet correct gesorteerd bij sorteren op aangepast veld
 
 Wanneer een gebruiker een taakrapport in werking stelt, lijkt het rapport correct te sorteren wanneer het laadt, maar wanneer het klaar is met laden ziet de gebruiker dat het rapport niet correct gesorteerd is.
 
