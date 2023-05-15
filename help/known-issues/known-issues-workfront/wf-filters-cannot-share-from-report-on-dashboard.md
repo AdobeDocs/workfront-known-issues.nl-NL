@@ -3,7 +3,7 @@ title: 'Filters: Kan geen filter delen uit een rapport op een dashboard'
 description: Wanneer een gebruiker een rapport weergeeft op een dashboard en een filter probeert te delen uit dat rapport, kunnen de gebruikers het filter niet delen. Wanneer u op de drie punten klikt, springt het dashboard naar het volgende rapport en wanneer de gebruiker naar het bedoelde rapport terugschuift, ziet hij of zij dat de optie Delen niet is geopend.
 hidefromtoc: true
 exl-id: 50c3f5c8-f4ba-4447-bfc8-5cdd56cc43b0
-source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Filters: Kan geen filter delen uit een rapport op een dashboard
 
-<!--Valid issue, won't fix-->
+<!--Requested article: Valid issue, won't fix:-->
 
 Wanneer een gebruiker een rapport weergeeft op een dashboard en een filter probeert te delen uit dat rapport, kunnen de gebruikers het filter niet delen. Wanneer u op de drie punten klikt, springt het dashboard naar het volgende rapport en wanneer de gebruiker naar het bedoelde rapport schuift, ziet de gebruiker dat het [!UICONTROL Share] is niet geopend.
 

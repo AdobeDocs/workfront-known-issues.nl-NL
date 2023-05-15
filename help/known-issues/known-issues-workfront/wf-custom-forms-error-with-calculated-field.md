@@ -3,7 +3,7 @@ title: '''Aangepaste formulieren: De fout in het gehele getal bij het instellen 
 description: Wanneer een gebruiker een berekend veld maakt of bewerkt op een aangepast formulier en een aangepast veld opneemt in de berekende expressie van het veld, wordt de expressie als ongeldig beschouwd. De knop Opslaan is uitgeschakeld en de gebruiker kan niet weg navigeren van het aangepaste veld. Bovendien ziet de gebruiker een bericht van het Hele onder het gebied.
 hidefromtoc: true
 exl-id: e499c680-2fdf-40cb-a1fa-b0d4ae799ad2
-source-git-commit: 4cc779627205b6b66876e6e7323cdf0ce94477b6
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Aangepaste formulieren: &quot;[!UICONTROL Whoops]&quot; fout bij het instellen van een berekend veld
 
-<!--Do not delete without approval from Alex Beach-->
+<!--Requested: Do not delete without approval from Alex Beach-->
 
 >[!NOTE]
 >

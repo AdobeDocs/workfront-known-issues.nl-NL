@@ -1,18 +1,19 @@
 ---
 title: "Documenten: Opties voor proefdrukactiviteiten leiden tot een aanmeldingspagina"
-description: "Wanneer een gebruiker de pagina Documentdetails bekijkt en op een tikon in het menu Proofingactiviteiten klikt, wordt de gebruiker naar een aanmeldingspagina geleid in plaats van naar de gewenste doelpagina."
+description: Wanneer een gebruiker de pagina Documentdetails bekijkt en op een tikon in het menu Proofingactiviteiten klikt, wordt de gebruiker naar een aanmeldingspagina geleid in plaats van naar de gewenste doelpagina.
 hidefromtoc: true
-source-git-commit: 84a36d6747a47a6e0884eb053b16f5e6dbfb9c20
+exl-id: 637fa798-9d23-497c-a50b-e40deaa4fd61
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
-
 # Documenten: [!UICONTROL Proofing Activities] opties leiden tot aanmeldingspagina
 
 <!--This article is on WF and WFP TOCs-->
+<!--Converted to story-->
 
 >[!NOTE]
 >
@@ -21,4 +22,3 @@ ht-degree: 0%
 Wanneer een gebruiker de [!UICONTROL Document Details] pagina en klikt op een optikon in het dialoogvenster [!UICONTROL Proofing Activities] wordt de gebruiker naar een aanmeldingspagina geleid in plaats van naar de bedoelde doelpagina.
 
 _Voor het eerst gerapporteerd op 3 maart 2023._
-

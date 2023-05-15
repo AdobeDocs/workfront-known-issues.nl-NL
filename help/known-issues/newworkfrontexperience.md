@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
 workflow-type: tm+mt
-source-wordcount: '510'
+source-wordcount: '505'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,6 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 | -----------------------------------------------------------------| ----------------- |
 | [Aangepaste formulieren: &quot;[!UICONTROL Whoops]&quot; fout bij het instellen van een berekend veld](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 5 mei 2023 |
 | [Documenten: [!UICONTROL Proofing Activities] opties leiden tot aanmeldingspagina](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 21 april 2023 |
-| [Zoeken: [!DNL Workfront] Zoektijden uit](known-issues-workfront/wf-search-search-times-out.md) | 13 april 2023 |
 | [Filters: Kan geen filter delen uit een rapport op een dashboard](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md) | 11 april 2023 |
 | [Proefdrukken: Het meetgereedschap accepteert geen decimale punten](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 27 maart 2023 |
 | [Documenten: 404 fout bij toegang tot document dat is gekoppeld vanuit [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23 maart 2023 |

@@ -3,7 +3,7 @@ title: '"Documenten: Proefwerkstroompictogram wordt niet weergegeven.'''
 description: Wanneer een gebruiker in de nieuwe [!DNL Workfront] De ervaring leidt tot een proef, toont het proefdrukstatuspictogram "SOCD"soms niet in de lijst van Documenten tot de gebruiker de pagina vernieuwt.
 exl-id: ed99c9f3-412d-4e56-9b0a-84a1d53bdcfc
 hidefromtoc: true
-source-git-commit: d122c128b926167a00c7149cb88392b618486876
+source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -11,6 +11,8 @@ ht-degree: 0%
 ---
 
 # Documenten: Proefwerkstroompictogram wordt niet weergegeven
+
+<!--Converted to story-->
 
 >[!NOTE]
 >

@@ -3,7 +3,7 @@ title: "Documenten: Machtigingen worden niet overgeërfd wanneer een document na
 description: 'Wanneer een gebruiker een document naar een ander project verplaatst, overerft het document geen machtigingen voor delen van het nieuwe project. Het document wordt niet gedeeld met de gebruikers aan wie het project wordt gedeeld. '
 hidefromtoc: true
 exl-id: 56dfaf55-7438-4569-b9a1-b62fbdd3f4d9
-source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <!-- This Known Issue is on the TOC for both Workfront and Workfront Proof-->
 
-<!--Valid issue, won't fix.-->
+<!--Won't fix tab: Valid issue, won't fix.-->
 
 Wanneer een gebruiker een document naar een ander project verplaatst, erft het document het delen geen toestemmingen van het nieuwe project. Het document wordt niet gedeeld met de gebruikers aan wie het project wordt gedeeld.
 

@@ -1,16 +1,18 @@
 ---
-title: "Aangepaste formulieren: Aangepaste formulieren voor meerdere objecten vereisen toegang voor Beheren of Bewerken om velden te bewerken"
-description: "Wanneer een gebruiker een formulier maakt met kruisobjecten die alleen toegang tot Beheren of Bewerken toestaan en vervolgens dat objecttype verwijdert, blijft het aangepaste formulier toegang tot Beheren of Bewerken nodig om de velden te kunnen bewerken. Er is geen visuele indicatie voor de velden die toegang tot Beheren of Bewerken vereisen, en er is geen manier om het formulier opnieuw in te stellen."
+title: 'Aangepaste formulieren: Aangepaste formulieren voor meerdere objecten vereisen toegang voor Beheren of Bewerken om velden te bewerken.'
+description: Wanneer een gebruiker een formulier maakt met kruisobjecten die alleen toegang tot Beheren of Bewerken toestaan en dat objecttype vervolgens verwijdert, blijft het aangepaste formulier toegang tot Beheren of Bewerken nodig om de velden te kunnen bewerken. Er is geen visuele indicatie voor de velden die toegang tot Beheren of Bewerken vereisen en er is geen manier om het formulier opnieuw in te stellen.
 hidefromtoc: true
-source-git-commit: be498327ea7bb2a49be0fc65e53806ddb217aa8c
+exl-id: 3f7ad4f5-1480-4514-8543-7e699743a8ef
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
 
-
 # Aangepaste formulieren: Aangepaste objectformulieren vereisen [!UICONTROL Manage] of [!UICONTROL Edit] toegang tot bewerkingsvelden
+
+<!--Won't fix, live for workaround-->
 
 >[!NOTE]
 >
@@ -26,4 +28,3 @@ Wanneer een gebruiker een formulier maakt met cross-objecten die alleen [!UICONT
 4. Verwijder het zojuist toegevoegde sectie-einde en sla het formulier opnieuw op.
 
 _Voor het eerst gerapporteerd op 9 november 2022._
-

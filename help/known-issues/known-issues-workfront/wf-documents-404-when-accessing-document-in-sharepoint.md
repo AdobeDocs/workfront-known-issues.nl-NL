@@ -3,7 +3,7 @@ title: '"Documenten: 404 fout bij toegang tot document dat is gekoppeld vanuit S
 description: Wanneer een gebruiker toegang probeert te krijgen tot een document dat is gekoppeld via SharePoint, wordt hij of zij doorgestuurd naar een pagina met een fout van 404.
 hidefromtoc: true
 exl-id: b86ec92b-a27f-4ec3-acc2-0f0118014760
-source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Documenten: 404 fout bij toegang tot document dat is gekoppeld vanuit [!DNL SharePoint]
 
-<!--This issue is on the WF and WFP TOCs. By request.-->
+<!--Requested article. This issue is on the WF and WFP TOCs.-->
 
 Wanneer een gebruiker toegang probeert te krijgen tot een document dat via [!DNL SharePoint], worden ze doorgestuurd naar een pagina met de volgende fout:
 

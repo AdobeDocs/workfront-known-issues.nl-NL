@@ -2,14 +2,17 @@
 title: 'Proefdrukken: Nieuwe fase gemaakt omdat deadline niet overeenkomt met deadline van bestaand werkgebied.'''
 description: Wanneer nieuwe proefdrukken worden gemaakt, kan de deadline worden ingesteld in stappen van 15 minuten (10:00, 10:15, 10:30, 20:45, enz.). Wanneer een gebruiker echter aan een bewijs wordt toegevoegd nadat de proefdruk is gemaakt, kan de deadline alleen worden ingesteld in stappen van 30 minuten (10:00, 10:30, 11:00, enz.).
 hidefromtoc: true
-source-git-commit: 3826558093ba7d8aa6ee25211010c60610d03fcc
+exl-id: dc0725f4-d31b-4f55-a3ea-24486ce73ebf
+source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
 
 # Proefdrukken: Nieuwe fase gemaakt omdat deadline niet overeenkomt met deadline van bestaand werkgebied
+
+<!--Requested article-->
 
 Wanneer nieuwe proefdrukken worden gemaakt, kan de deadline worden ingesteld in stappen van 15 minuten (10:00, 10:15, 10:30, 20:45, enz.). Wanneer een gebruiker echter aan een bewijs wordt toegevoegd nadat de proefdruk is gemaakt, kan de deadline alleen worden ingesteld in stappen van 30 minuten (10:00, 10:30, 11:00, enz.). Daarom kan de nieuwe gebruiker niet worden toegevoegd aan een werkgebied met een deadline die eindigt op 0,15 of 0,45, omdat de deadlines niet kunnen worden gehaald. In plaats daarvan wordt de nieuwe gebruiker toegevoegd aan een nieuw werkgebied, met een deadline die in stappen van 30 minuten wordt ingesteld.
 
