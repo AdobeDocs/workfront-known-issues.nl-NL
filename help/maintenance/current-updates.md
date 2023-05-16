@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
+source-git-commit: cc698b048b0e13e52fa5b0739a7354097018f011
 workflow-type: tm+mt
-source-wordcount: '3301'
+source-wordcount: '3380'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,22 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in mei 2023
+
++++**(Geplande) onderhoudsupdate op 18 mei 2023**
+
+
+**Rapport wordt niet correct gesorteerd bij sorteren op aangepast veld**
+
+_Rapporten_
+Wanneer een gebruiker een taakrapport in werking stelt, lijkt het rapport correct te sorteren wanneer het laadt, maar wanneer het klaar is met laden ziet de gebruiker dat het rapport niet correct gesorteerd is.
+
+Dit lijkt zich voor te doen als aan alle volgende voorwaarden is voldaan:
+
+* Het verslag is een taakverslag
+* Het rapport wordt gesorteerd op een aangepast veld
+* Er is een groepering toegepast op het rapport
+
++++
 
 +++**Onderhoudsupdate op 11 mei 2023**
 
