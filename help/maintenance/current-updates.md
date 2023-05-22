@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: d781ab9f0204cf65f67583a90d9aaaa3bc9db303
+source-git-commit: d0c6f72269cb94bbe309b1bd3f323af83b79353d
 workflow-type: tm+mt
-source-wordcount: '3379'
+source-wordcount: '3428'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,16 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in mei 2023
+
++++**Onderhoudsupdate op 22 mei 2023**
+
+**Kan de grootte van beschrijvende tekst niet aanpassen**
+
+_Aangepaste formulieren_
+
+Toen de aangepaste formulierontwerper in de bètaversie werd uitgebracht, was de functionaliteit om de grootte van beschrijvende tekst aan te passen niet beschikbaar. Dit probleem is opgelost en gebruikers kunnen de grootte van beschrijvende tekst nu aanpassen.
+
++++
 
 +++**Onderhoudsupdate op 18 mei 2023**
 
