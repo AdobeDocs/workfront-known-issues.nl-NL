@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: d0c6f72269cb94bbe309b1bd3f323af83b79353d
+source-git-commit: 844b6e4f47084992fd690ed2ea716b46a4e259dd
 workflow-type: tm+mt
-source-wordcount: '3428'
+source-wordcount: '3489'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,22 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in mei 2023
+
++++**(Geplande) onderhoudsupdate op 25 mei 2023**
+
+**[!UICONTROL Kanban]board wordt leeg gebruikt bij het bewerken van kaarten**
+
+_Agile_
+
+Wanneer een gebruiker iets wijzigt over een kaart op het tabblad [!UICONTROL Kanban] de [!UICONTROL Kanban] Het bord wordt leeg weergegeven in plaats van te vernieuwen met de wijziging. Als de gebruiker de pagina handmatig vernieuwt, [!UICONTROL Kanban] boardgeretourneerde waarden, met de juiste wijziging.
+
+Dit is gemeld in de volgende omstandigheden:
+
+* Een kaart bewerken
+* Een kaart verplaatsen
+
+
++++
 
 +++**Onderhoudsupdate op 22 mei 2023**
 
