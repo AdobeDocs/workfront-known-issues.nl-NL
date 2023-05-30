@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 844b6e4f47084992fd690ed2ea716b46a4e259dd
+source-git-commit: 2919ae11be238227242de8a5863f19ebd6099f92
 workflow-type: tm+mt
-source-wordcount: '3489'
+source-wordcount: '3656'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,27 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
+## Updates in juni 2023
+
++++**(Geplande) onderhoudsupdate op 1 juni 2023**
+
+**Geen foutbericht bij opnieuw ordenen van taak in [!UICONTROL Pending approval] status**
+
+_Taken_
+
+Wanneer een gebruiker een taak in een takenlijst probeert opnieuw te rangschikken en de taak binnen is [!UICONTROL Pending approval] status, lijkt de taak in de takenlijst te bewegen. Na vernieuwen ziet de gebruiker dat het item niet is verplaatst. Het item kan niet worden verplaatst omdat het zich in [!UICONTROL Pending approval] status, maar er is geen bericht om de gebruiker te laten weten dat het item niet kan worden verplaatst, wat tot verwarring kan leiden.
+
+**Geen foutbericht bij verplaatsen van voorgangstaak onder afhankelijke taak**
+
+_Taken_
+
+Wanneer een gebruiker een taak in een takenlijst probeert opnieuw te rangschikken en de taak binnen is [!UICONTROL Pending approval] status, lijkt de taak in de takenlijst te bewegen. Na vernieuwen ziet de gebruiker dat het item niet is verplaatst. Het item kan niet worden verplaatst omdat een voorganger niet kan worden verplaatst onder een taak waarvoor het de voorganger is, maar er is geen bericht om de gebruiker te laten weten dat het item niet kan worden verplaatst, wat tot verwarring kan leiden.
+
++++
+
 ## Updates in mei 2023
 
-+++**(Geplande) onderhoudsupdate op 25 mei 2023**
++++**Onderhoudsupdate op 25 mei 2023**
 
 **[!UICONTROL Kanban]board wordt leeg gebruikt bij het bewerken van kaarten**
 
