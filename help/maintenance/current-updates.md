@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 2919ae11be238227242de8a5863f19ebd6099f92
+source-git-commit: 3c0433fb5c690346ccd474ec72c27ace056abd03
 workflow-type: tm+mt
-source-wordcount: '3656'
+source-wordcount: '3655'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-mai
 
 ## Updates in juni 2023
 
-+++**(Geplande) onderhoudsupdate op 1 juni 2023**
++++**Onderhoudsupdate op 1 juni 2023**
 
 **Geen foutbericht bij opnieuw ordenen van taak in [!UICONTROL Pending approval] status**
 
