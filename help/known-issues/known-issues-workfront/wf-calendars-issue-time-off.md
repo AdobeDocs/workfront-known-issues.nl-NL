@@ -3,9 +3,9 @@ title: "Kalenders: Problemen met de kalender voor time-off"
 description: Er zijn problemen gemeld met betrekking tot de kalender voor uitgestelde termijnen.
 exl-id: 242b3f9a-2ee2-4e76-bbfa-46576ebaa5d9
 hidefromtoc: true
-source-git-commit: de7f66f7acba1a0ac32a1257b2e643a767eae7fb
+source-git-commit: cdf229505b05676fddbe2aae07769768c415daa8
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Het team van het Product evalueert momenteel deze probleemoplossing, die productverbeteringen kan vereisen. De verbeteringen van het product worden meegedeeld in de Mededelingen van het Product en niet met de Updates van het Onderhoud.
+>Dit probleem is op 6 juni 2023 opgelost.
 
 De volgende kwesties worden gerapporteerd met betrekking tot de [!UICONTROL Time Off] kalender:
 

@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 3c0433fb5c690346ccd474ec72c27ace056abd03
+source-git-commit: cdf229505b05676fddbe2aae07769768c415daa8
 workflow-type: tm+mt
-source-wordcount: '502'
+source-wordcount: '497'
 ht-degree: 0%
 
 ---
@@ -71,7 +71,6 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 | [Goedkeuringen: De delegatie van de goedkeuring wordt ingesteld voor het onjuiste aantal dagen](known-issues-workfront/wf-approval-delegation-incorrect-number-of-days.md) | 20 april 2022 |
 | [[!UICONTROL Home]: De optie Nieuwe taak geeft gedeactiveerde gebruikers weer in [!UICONTROL Assign To] field](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md) | 1 oktober 2021 |
 | [Updates: Teamnaam wordt niet weergegeven in @entry](known-issues-workfront/wf-updates-team-name-not-in-mention.md) | 1 oktober 2021 |
-| [Kalenders: Problemen met [!UICONTROL Time Off] kalender](known-issues-workfront/wf-calendars-issue-time-off.md) | 25 juni 2021 |
 | [Stijl: Discrepantie bij [!UICONTROL Completed Points] voor een herhaling](known-issues-workfront/wf-agile-discrepancy-in-completed-points.md) | 22 juni 2021 |
 | [[!UICONTROL Home]: [!UICONTROL Reply in Proof] knopgedrag is inconsistent](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 21 juni 2021 |
 | [E-mailmeldingen: &quot;[!UICONTROL I'm assigned to an issue]&quot; instelling wordt weergegeven](known-issues-workfront/wf-email-notif-im-assigned-to-issue-displaying.md) | 2 juni 2021 |
