@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: 22b645ee68e1735e4b3c91d0a88e2e2855c982c4
+source-git-commit: 2ef839479364e7692f04ddcc84cbbc40466b2521
 workflow-type: tm+mt
-source-wordcount: '1104'
+source-wordcount: '1113'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Proefdrukken: Proefdrukken worden langzaam gemaakt in de voorvertoningsomgeving](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
       + [Aangepaste formulieren: Logica voor weergave gaat verloren wanneer een aangepast formulier wordt bewerkt in een nieuwe formulierontwerper (bèta)](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
       + [Stijl: [!UICONTROL Kanban] board wordt leeg gebruikt bij het bewerken van kaarten](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
       + [Rapporten: Niet correct sorteren rapporteren wanneer sorteren op een veld](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
