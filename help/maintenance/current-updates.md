@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 6723b17ebb88e68ef59957f69ef4840b82229b1d
+source-git-commit: ac52149aa600405065d677c2b1f0e893844b3b46
 workflow-type: tm+mt
-source-wordcount: '3680'
+source-wordcount: '3720'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,14 @@ Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-mai
 +++**Onderhoudsupdate op 8 juni 2023**
 
 Deze update bevat alleen kleine of minder belangrijke opgeloste problemen. [!DNL Workfront] Ondersteuning geeft een melding wanneer een probleem dat u hebt verzonden, is opgelost.
+
++++
+
++++**[!DNL Adobe Workfront Fusion]Onderhoudsupdate op 8 juni 2023**
+
+[!DNL Fusion] heeft een oplossing geïmplementeerd die voorkomt dat de verbindingen van een gebruiker worden verwijderd wanneer de gebruiker in het dialoogvenster [!UICONTROL Adobe Admin Console].
+
+[!DNL Fusion] teambeheerders zijn nog steeds in staat onnodige verbindingen uit de [!UICONTROL Connections] pagina in Fus[!DNL]ion.
 
 +++
 
