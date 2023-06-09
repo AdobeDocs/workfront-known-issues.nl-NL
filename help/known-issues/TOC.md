@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: 2ef839479364e7692f04ddcc84cbbc40466b2521
+source-git-commit: bc59c3734bdb06698aa426dadd6671bc4d1739b2
 workflow-type: tm+mt
-source-wordcount: '1113'
+source-wordcount: '1128'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Rapporten: &quot;[!UICONTROL Whoops]&quot;-fout bij weergeven van matrixrapport](known-issues-workfront/wf-reports-error-matrix-report.md)
+      + [Proefdrukken: Proefdrukken worden langzaam gemaakt in de voorvertoningsomgeving](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
       + [Proefdrukken: Proefdrukken worden langzaam gemaakt in de voorvertoningsomgeving](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
       + [Aangepaste formulieren: Logica voor weergave gaat verloren wanneer een aangepast formulier wordt bewerkt in een nieuwe formulierontwerper (bèta)](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
       + [Stijl: [!UICONTROL Kanban] board wordt leeg gebruikt bij het bewerken van kaarten](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
