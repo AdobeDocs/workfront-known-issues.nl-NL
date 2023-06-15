@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 813f3a32184d73ff63e10fba8e8b207e42f31483
+source-git-commit: 0be265067c6f281c2f125a8f54e4f381da2f8ffe
 workflow-type: tm+mt
-source-wordcount: '3746'
+source-wordcount: '3745'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-mai
 
 ## Updates in juni 2023
 
-+++**(Geplande) onderhoudsupdate op 15 juni 2023**
++++**Onderhoudsupdate op 15 juni 2023**
 
 Deze update bevat alleen kleine of minder belangrijke opgeloste problemen. [!DNL Workfront] Ondersteuning geeft een melding wanneer een probleem dat u hebt verzonden, is opgelost.
 
