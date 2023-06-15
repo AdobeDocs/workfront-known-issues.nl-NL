@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 0be265067c6f281c2f125a8f54e4f381da2f8ffe
+source-git-commit: b8552cb4de3b5372b5b18d5891b490f22b9d803d
 workflow-type: tm+mt
-source-wordcount: '3745'
+source-wordcount: '3743'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Deze update bevat alleen kleine of minder belangrijke opgeloste problemen. [!DNL
 
 [!DNL Fusion] heeft een oplossing geïmplementeerd die voorkomt dat de verbindingen van een gebruiker worden verwijderd wanneer de gebruiker in het dialoogvenster [!UICONTROL Adobe Admin Console].
 
-[!DNL Fusion] teambeheerders zijn nog steeds in staat onnodige verbindingen uit de [!UICONTROL Connections] pagina in Fus[!DNL]ion.
+[!DNL Fusion] teambeheerders zijn nog steeds in staat onnodige verbindingen uit de [!UICONTROL Connections] pagina in [!DNL Fusion].
 
 +++
 
