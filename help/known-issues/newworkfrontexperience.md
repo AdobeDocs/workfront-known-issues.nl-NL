@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
+source-git-commit: 4c62a437106b67c45b3bb0f8adcb41c7c50e5500
 workflow-type: tm+mt
-source-wordcount: '529'
+source-wordcount: '512'
 ht-degree: 0%
 
 ---
@@ -25,8 +25,6 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!UICONTROL Home]: Items worden niet weergegeven in [!UICONTROL Home Work List]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 12 juni 2023 |
-| [Rapporten: &quot;[!UICONTROL Whoops]&quot;-fout bij weergeven van matrixrapport](known-issues-workfront/wf-reports-error-matrix-report.md) | 9 juni 2023 |
-| [Proefdrukken: Proefdrukken worden langzaam gemaakt in de voorvertoningsomgeving](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md) | 9 juni 2023 |
 
 {style="table-layout:auto"}
 
