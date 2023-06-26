@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
+source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
 workflow-type: tm+mt
-source-wordcount: '1142'
+source-wordcount: '1163'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Rapporten: Het gebruiksrapport wordt niet geladen](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
+      + [Proefdrukken: Goedkeuringsopties worden niet weergegeven in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
+      + [Timesheets: Fouten bij het aanmelden van uren op een tijdsplaat](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
       + [[!UICONTROL Home]: Items worden niet weergegeven in [!UICONTROL Home Work List]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
       + [Rapporten: &quot;[!UICONTROL Whoops]&quot;-fout bij weergeven van matrixrapport](known-issues-workfront/wf-reports-error-matrix-report.md)
       + [Proefdrukken: Proefdrukken worden langzaam gemaakt in de voorvertoningsomgeving](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)

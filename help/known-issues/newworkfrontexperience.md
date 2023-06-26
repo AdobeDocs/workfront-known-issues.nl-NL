@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 4c62a437106b67c45b3bb0f8adcb41c7c50e5500
+source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '536'
 ht-degree: 0%
 
 ---
@@ -34,6 +34,9 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Rapporten: Het gebruiksrapport wordt niet geladen](known-issues-workfront/wf-reports-utilization-report-does-not-load.md) | 26 juni 2023 |
+| [Proefdrukken: Goedkeuringsopties worden niet weergegeven in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 26 juni 2023 |
+| [Timesheets: Fouten bij het aanmelden van uren op een tijdsplaat](known-issues-workfront/wf-timesheets-error-when-saving-hours.md) | 26 juni 2023 |
 | [Aangepaste formulieren: Logica voor weergave gaat verloren wanneer een aangepast formulier wordt bewerkt in een nieuwe formulierontwerper (bèta)](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md) | 24 mei 2023 |
 | [Werklastverdeling: Uren onverwacht opnieuw verdelen](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 11 mei 2023 |
 | [Proefdrukken: Vergrendelde proefdrukgoedkeuringen worden nog steeds weergegeven in de werklijst](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4 mei 2023 |

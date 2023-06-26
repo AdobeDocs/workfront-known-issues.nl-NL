@@ -3,9 +3,9 @@ title: Bekende problemen in [!DNL Adobe Workfront Proof]
 description: Bekende problemen gemeld voor [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 150b29e6b3a839be808d4fab2faaee78502b8070
+source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -34,6 +34,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proefdrukken: Goedkeuringsopties worden niet weergegeven in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 26 juni 2023 |
 | [Proefdrukken: Vergrendelde proefdrukgoedkeuringen worden nog steeds weergegeven in de werklijst](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4 mei 2023 |
 
 {style="table-layout:auto"}
