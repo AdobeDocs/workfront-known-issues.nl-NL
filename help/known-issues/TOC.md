@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: 5b0020fd4acbd34dc179b8e80e27b1adac63a16e
+source-git-commit: f15168bdb9a7ae0f3b675cf44cfe4cfbf47fd313
 workflow-type: tm+mt
-source-wordcount: '1175'
+source-wordcount: '1181'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Borden: Horizontale schuifbalk is niet aanwezig](known-issues-workfront/wf-board-no-scrollbar.md)
       + [Projecten/taken/problemen: Tijdlijn wordt niet opnieuw berekend](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
       + [Filters: &quot;[!UICONTROL Enable system-wide]&quot; en &quot;[!UICONTROL View system-wide]&quot; Andere functionaliteit vertegenwoordigen](known-issues-workfront/wf-filters-enable-system-wide.md)
       + [Rapporten: Het gebruiksrapport wordt niet geladen](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)

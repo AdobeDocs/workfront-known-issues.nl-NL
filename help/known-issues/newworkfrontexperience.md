@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 092056ca967a2fb28bbc80e61a44b83da9f705b4
+source-git-commit: 040d45f467161a5c6609b21da38094499bd7fec6
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '553'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Borden: Horizontale schuifbalk is niet aanwezig](known-issues-workfront/wf-board-no-scrollbar.md) | 28 juni 2023 |
 | [Projecten/taken/problemen: Tijdlijn wordt niet opnieuw berekend](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md) | 27 juni 2023 |
 | [[!UICONTROL Home]: Items worden niet weergegeven in [!UICONTROL Home Work List]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 12 juni 2023 |
 
