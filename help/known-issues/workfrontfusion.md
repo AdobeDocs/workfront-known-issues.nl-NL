@@ -3,9 +3,9 @@ title: Bekende problemen in [!DNL Adobe Workfront Fusion]
 description: Bekende problemen gemeld voor [!DNL Adobe Workfront Fusion]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 22b645ee68e1735e4b3c91d0a88e2e2855c982c4
+source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: &quot;[!UICONTROL cannot execute UPDATE]&quot;-fout](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md) | 8 juni 2023 |
+| Geen |  |
 
 {style="table-layout:auto"}
 

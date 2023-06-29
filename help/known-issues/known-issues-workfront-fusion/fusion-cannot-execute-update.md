@@ -2,15 +2,19 @@
 title: "Workfront Fusion: kan UPDATE-fout niet uitvoeren"
 description: "Een uitvoering van een scenario mislukt met de fout kan geen UPDATE uitvoeren in een alleen-lezen transactie."
 hidefromtoc: true
-source-git-commit: 22b645ee68e1735e4b3c91d0a88e2e2855c982c4
+source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
 workflow-type: tm+mt
-source-wordcount: '42'
+source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
 
 # [!DNL Workfront Fusion]: &quot;[!UICONTROL cannot execute UPDATE]&quot;-fout
+
+>[!NOTE]
+>
+>Dit probleem is op 14 juni 2023 opgelost.
 
 De uitvoering van een scenario mislukt met de volgende fout:
 

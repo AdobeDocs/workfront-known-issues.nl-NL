@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 040d45f467161a5c6609b21da38094499bd7fec6
+source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
 workflow-type: tm+mt
-source-wordcount: '553'
+source-wordcount: '527'
 ht-degree: 0%
 
 ---
@@ -39,8 +39,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | [Filters: &quot;[!UICONTROL Enable system-wide]&quot; en &quot;[!UICONTROL View system-wide]&quot; Andere functionaliteit vertegenwoordigen](known-issues-workfront/wf-filters-enable-system-wide.md) | 27 juni 2023 |
 | [Rapporten: Het gebruiksrapport wordt niet geladen](known-issues-workfront/wf-reports-utilization-report-does-not-load.md) | 26 juni 2023 |
 | [Proefdrukken: Goedkeuringsopties worden niet weergegeven in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 26 juni 2023 |
-| [Timesheets: Fouten bij het aanmelden van uren op een tijdsplaat](known-issues-workfront/wf-timesheets-error-when-saving-hours.md) | 26 juni 2023 |
-| [Aangepaste formulieren: Logica voor weergave gaat verloren wanneer een aangepast formulier wordt bewerkt in een nieuwe formulierontwerper (bèta)](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md) | 24 mei 2023 |
 | [Werklastverdeling: Uren onverwacht opnieuw verdelen](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 11 mei 2023 |
 | [Proefdrukken: Vergrendelde proefdrukgoedkeuringen worden nog steeds weergegeven in de werklijst](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4 mei 2023 |
 | [Projecten: [!UICONTROL Home Group] aangepaste statussen zijn niet beschikbaar wanneer u een project maakt op basis van een sjabloon](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 maart 2023 |

@@ -2,15 +2,19 @@
 title: "Timesheets: Fouten bij het aanmelden van uren op een tijdsplaat"
 description: "Wanneer een gebruiker uren op een taak in hun timesheet probeert te registreren, worden de uren niet bewaard, en de gebruiker ziet foutenmeldingen."
 hidefromtoc: true
-source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
+source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
 
 # Timesheets: Fouten bij het aanmelden van uren op een tijdsplaat
+
+>[!NOTE]
+>
+>Dit probleem is op 29 juni 2023 opgelost.
 
 Wanneer een gebruiker uren op een taak in hun timesheet probeert te registreren, worden de uren niet bewaard, en de gebruiker ziet de volgende berichten:
 
