@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 3d5489cd6a5474d4a53800f7bea1475aa8ddc482
+source-git-commit: ddda3e0d0f00d935e8be5789b41f7e05b91299d6
 workflow-type: tm+mt
-source-wordcount: '3842'
+source-wordcount: '4000'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,38 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 >Deze updates bevatten ook andere kleine of minder duidelijke foutoplossingen. [!DNL Workfront] Ondersteuning geeft een melding wanneer een probleem dat u hebt verzonden, is opgelost.
 
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
+
+## Updates in juli 2023
+
++++**Onderhoudsupdate op 13 juli 2023**
+
+**Tijdlijn wordt niet opnieuw berekend**
+
+_Projecten/taken/problemen_
+
+Wanneer een even gebeurtenis optreedt die een tijdlijnberekening zou moeten activeren, wordt de tijdlijn niet opnieuw berekend. Dit beïnvloedt herberekeningen die op veranderingen voorkomen, en geplande herberekeningen. Dit kan van invloed zijn op de nauwkeurigheid van de werklastverdeling.
+
+**Vergrendelde proefdrukgoedkeuringen worden nog steeds weergegeven in de werklijst**
+
+_Proefdrukken_
+
+Goedkeuringen met bewijzen die hun deadline hebben overschreden en zijn vergrendeld, worden nog steeds weergegeven op de thuiswerklijst van de fiatteur in plaats van de lijst af te sluiten wanneer de deadline is verstreken.
+
+**Het gebruiksrapport wordt niet geladen**
+
+_Rapporten_
+
+Wanneer een klant probeert om een gebruiksrapport te bekijken, ziet de gebruiker een het draaien ladingsindicator, maar het rapport laadt niet. Het rapport heeft een fout van 500 geretourneerd, maar de gebruiker ziet geen aanwijzing dat het rapport is mislukt.
+
+**Gebruikerspagina bewerken is leeg**
+
+<!--no article-->
+
+_Gebruikers_
+
+Wanneer een gebruiker probeert een andere gebruiker te bewerken, is de pagina Gebruiker bewerken leeg en kan de gebruiker de andere gebruiker niet bewerken.
+
++++
 
 ## Updates in juni 2023
 
