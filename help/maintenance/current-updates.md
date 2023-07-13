@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 45e4dc8ef13db59dd9f578c63f190d0249bc7def
+source-git-commit: 7fd6a2604bf2e5b9e4bb69b1e3f242ebf761f180
 workflow-type: tm+mt
-source-wordcount: '4034'
+source-wordcount: '4000'
 ht-degree: 0%
 
 ---
@@ -48,12 +48,6 @@ Wanneer een klant probeert om een gebruiksrapport te bekijken, ziet de gebruiker
 _Gebruikers_
 
 Wanneer een gebruiker probeert een andere gebruiker te bewerken, is de pagina Gebruiker bewerken leeg en kan de gebruiker de andere gebruiker niet bewerken.
-
-**Uren onverwacht opnieuw verdelen**
-
-_Werklastverdeling_
-
-Wanneer er uurtoewijzingen worden gemaakt voor specifieke taken, kunnen die uren onverwacht opnieuw worden berekend en verdeeld. Dit kan gebeuren nadat u van de Tab-toets tussen datums of pagina&#39;s hebt gewisseld of nadat u de pagina hebt vernieuwd.
 
 +++
 

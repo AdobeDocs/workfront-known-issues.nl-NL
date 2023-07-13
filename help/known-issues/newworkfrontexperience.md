@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: f532612231727185f457a86250e1e80ce519cc63
+source-git-commit: 7fd6a2604bf2e5b9e4bb69b1e3f242ebf761f180
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '513'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,6 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
 | [Borden: Horizontale schuifbalk is niet aanwezig](known-issues-workfront/wf-board-no-scrollbar.md) | 28 juni 2023 |
-| [Projecten/taken/problemen: Tijdlijn wordt niet opnieuw berekend](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md) | 27 juni 2023 |
 | [[!UICONTROL Home]: Items worden niet weergegeven in [!UICONTROL Home Work List]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 12 juni 2023 |
 
 {style="table-layout:auto"}
@@ -38,10 +37,8 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | -----------------------------------------------------------------| ----------------- |
 | [Instellen: Kan kosten/uren of facturering/uur van functie niet bewerken](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 10 juli 2023 |
 | [Filters: &quot;[!UICONTROL Enable system-wide]&quot; en &quot;[!UICONTROL View system-wide]&quot; Andere functionaliteit vertegenwoordigen](known-issues-workfront/wf-filters-enable-system-wide.md) | 27 juni 2023 |
-| [Rapporten: Het gebruiksrapport wordt niet geladen](known-issues-workfront/wf-reports-utilization-report-does-not-load.md) | 26 juni 2023 |
 | [Proefdrukken: Goedkeuringsopties worden niet weergegeven in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 26 juni 2023 |
 | [Werklastverdeling: Uren onverwacht opnieuw verdelen](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 11 mei 2023 |
-| [Proefdrukken: Vergrendelde proefdrukgoedkeuringen worden nog steeds weergegeven in de werklijst](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4 mei 2023 |
 | [Projecten: [!UICONTROL Home Group] aangepaste statussen zijn niet beschikbaar wanneer u een project maakt op basis van een sjabloon](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 maart 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] steungeval op Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augustus 2022 |
 
