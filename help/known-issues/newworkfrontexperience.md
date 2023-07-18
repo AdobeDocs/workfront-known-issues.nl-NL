@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 69a7b0a82ac5a13a851ed7f2b889ff0758d60e17
+source-git-commit: c9922bb751562c56aae4c049732ee18e280026f3
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '527'
 ht-degree: 0%
 
 ---
@@ -51,6 +51,7 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documentintegratie: Kan niet alle mappen weergeven in [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md) | 18 juli 2023 |
 | [Proefdrukken: Proefdrukken worden langzaam gemaakt in de voorvertoningsomgeving](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 8 juni 2023 |
 | [Aangepaste formulieren: &quot;[!UICONTROL Whoops]&quot; fout bij het instellen van een berekend veld](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 5 mei 2023 |
 | [Documenten: [!UICONTROL Proofing Activities] opties leiden tot aanmeldingspagina](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 21 april 2023 |
