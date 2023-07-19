@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 69a7b0a82ac5a13a851ed7f2b889ff0758d60e17
+source-git-commit: 52db6449599843d31e6fcb6e0b664801fbf978a5
 workflow-type: tm+mt
-source-wordcount: '4026'
+source-wordcount: '4064'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,11 @@ Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-mai
 
 +++**(Gepland) Onderhoudsupdate op 20 juli 2023**
 
-Deze update bevat alleen kleine of minder belangrijke opgeloste problemen. [!DNL Workfront] Ondersteuning geeft een melding wanneer een probleem dat u hebt verzonden, is opgelost.
+**Geplande uren instellen voor terugkerende taken van kinderen met [!UICONTROL Simple] type duur zonder toewijzingen**
+
+_Taken_
+
+Nu, wanneer u Geplande Uren op een nieuwe ouder terugkomende taak met een plaatst [!UICONTROL Simple] Het type Duur en geen toewijzingen worden de uren ook toegevoegd aan de afzonderlijke herhalingen. Voorafgaand aan deze wijziging werden de uren niet opgeslagen voor de herhalingen toen de bovenliggende taken niet werden toegewezen.
 
 +++
 
