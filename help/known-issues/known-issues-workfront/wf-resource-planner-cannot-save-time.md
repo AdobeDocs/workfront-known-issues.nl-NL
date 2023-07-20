@@ -3,7 +3,8 @@ title: 'Bronnen: Kan niet opslaan na toevoegen van tijd'''
 description: Wanneer een gebruiker in de [!UICONTROL Resource Planner] voegt tijd toe en probeert dan sparen, [!UICONTROL Save] reageert niet. Als de gebruiker klikt [!UICONTROL Cancel], wordt een bericht over niet-opgeslagen wijzigingen weergegeven.
 hidefromtoc: true
 exl-id: a5e2aefb-e1f6-48dc-9fe8-e03c0c157274
-source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
+feature: Resource Management
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%

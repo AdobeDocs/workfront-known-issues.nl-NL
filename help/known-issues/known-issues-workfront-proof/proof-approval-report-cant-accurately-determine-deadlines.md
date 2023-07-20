@@ -3,7 +3,8 @@ title: "Proofs: Het rapport van de Goedkeuring van het Bewijs kan geen termijnen
 description: Wanneer een gebruiker een [!UICONTROL Proof Approval] een rapport met de datum van de proefdatum, de in het rapport weergegeven data zijn onjuist, wat leidt tot onjuiste berekeningen en onjuiste informatie in de resultaten.
 exl-id: 1f636a74-9522-4f2b-8e91-4f0facf1cdbc
 hidefromtoc: true
-source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
+feature: Workfront Proof
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%

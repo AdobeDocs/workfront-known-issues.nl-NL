@@ -3,7 +3,8 @@ title: '''Werklastverdeling: Onnauwkeurige resultaten wanneer meerdere filters t
 description: Wanneer een gebruiker de werklastbalans weergeeft en meerdere filters tegelijk gebruikt, zijn de resultaten niet nauwkeurig. Een resultaat dat bijvoorbeeld wordt weergegeven bij gebruik van filter A en bij gebruik van filter B, wordt niet weergegeven wanneer zowel filter A als filter B tegelijkertijd worden gebruikt.
 hidefromtoc: true
 exl-id: 4e708a5c-c0db-4395-a6ac-e947c7368494
-source-git-commit: 207dd6e09e40f58ee13f790aa9ddcaf2277c93dc
+feature: Resource Management
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%

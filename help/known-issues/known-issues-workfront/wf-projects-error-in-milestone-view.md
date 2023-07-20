@@ -2,7 +2,8 @@
 title: "Projecten: Fout bij het gebruik van de Mijlsteenweergave"
 description: "Wanneer een gebruiker een projectlijst bekijkt en probeert om de mening van de Mijlpaal te gebruiken, laadt de mening niet en de gebruiker ziet een fout."
 hidefromtoc: true
-source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
+feature: Projects
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%

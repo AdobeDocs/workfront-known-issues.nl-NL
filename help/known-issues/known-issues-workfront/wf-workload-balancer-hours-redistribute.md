@@ -2,7 +2,8 @@
 title: "Werklastverdeling: Uren onverwacht opnieuw verdelen"
 description: "Wanneer er uurtoewijzingen worden gedaan voor specifieke taken, kunnen die uren onverwacht opnieuw worden berekend en verdeeld. Dit kan gebeuren nadat u van de Tab-toets tussen datums of pagina's hebt gewisseld of nadat u de pagina hebt vernieuwd."
 hidefromtoc: true
-source-git-commit: 45e4dc8ef13db59dd9f578c63f190d0249bc7def
+feature: Resource Management
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%

@@ -2,8 +2,9 @@
 title: '"Taken: Uren worden niet opgeslagen bij het invoeren van uren in de taak [!UICONTROL Summary panel]'''
 description: "Wanneer een gebruiker uren voor een taak in het Summiere paneel van die taak probeert in te gaan, sparen de uren niet. Dit gebeurt wanneer de gebruiker de cursor in het vierkant verlaat waar hij uren heeft ingevoerd en door de [!UICONTROL Summary panel]. "
 hidefromtoc: true
+feature: Tasks, Timesheets
 exl-id: edf5ea1f-a75f-4df4-987a-53d2d3563579
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%

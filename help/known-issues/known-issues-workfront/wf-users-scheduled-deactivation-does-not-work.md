@@ -1,14 +1,15 @@
 ---
-title: "Gebruikers: Geplande deactivering deactiveert gebruiker niet"
-description: "Wanneer een gebruiker volgens de planning moet worden gedeactiveerd en de geplande datum en tijd verstrijken, wordt de gebruiker niet gedeactiveerd."
+title: 'Gebruikers: De geplande deactivering deactiveert de gebruiker niet'
+description: Wanneer een gebruiker volgens de planning moet worden gedeactiveerd en de geplande datum en tijd verstrijken, wordt de gebruiker niet gedeactiveerd.
 hidefromtoc: true
-source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
+exl-id: 4d024570-6861-4e46-a537-f4f754aa775b
+feature: People Teams and Groups
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
 
 ---
-
 
 # Gebruikers: Geplande deactivering deactiveert gebruiker niet
 
@@ -19,4 +20,3 @@ ht-degree: 0%
 Wanneer een gebruiker volgens de planning moet worden gedeactiveerd en de geplande datum en tijd verstrijken, wordt de gebruiker niet gedeactiveerd.
 
 _Voor het eerst gerapporteerd op 18 januari 2023._
-

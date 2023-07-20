@@ -2,7 +2,8 @@
 title: Workfront-onderhoudsupdates voor 2021
 description: Historie van 2021 onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
-source-git-commit: 65b26c28f83d32aa44e23ca5820bb9a8d8267935
+feature: Get Started with Workfront
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
 workflow-type: tm+mt
 source-wordcount: '8963'
 ht-degree: 0%
@@ -1383,7 +1384,7 @@ Wanneer een gebruiker een proef probeert tot stand te brengen, wordt de proef ni
 
 **Overbodige verzameling of verwijzingsveld verwijderd uit deelvenster voor toewijzing**
 
-_[!DNL Workfront Fusion]2,0_
+_[!DNL Workfront Fusion]2.0_
 
 Wanneer een gebruiker een term uit de [!DNL Workfront] API om een verzameling of verwijzingsveld te selecteren dat moet worden opgenomen in de uitvoer van een [!DNL Workfront] in de uitvoer van die module wordt dat veld met een dubbele punt weergegeven (bijvoorbeeld [!UICONTROL owner:name]) en ook in de kenmerken (naam is een veld onder eigenaar). Het veld met een dubbele punt bevat geen gegevens en bevat onjuiste gegevens als deze later in het scenario aan een module worden toegewezen.
 
@@ -1393,7 +1394,7 @@ Wanneer een gebruiker een term uit de [!DNL Workfront] API om een verzameling of
 
 **De sjablooninstellingen voor projecten zijn nu van toepassing op projecten die zijn gemaakt via [!DNL Workfront Fusion] 2,0**
 
-_[!DNL Workfront Fusion]2,0_
+_[!DNL Workfront Fusion]2.0_
 
 Wanneer u een project maakt op basis van een sjabloon [!DNL Workfront Fusion] 2.0, worden de malplaatjemontages toegepast op het nieuwe project. Dit gedrag is het zelfde wanneer het creëren van een project van een malplaatje in [!DNL Workfront] toepassing.
 

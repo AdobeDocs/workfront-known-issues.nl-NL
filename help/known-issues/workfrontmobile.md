@@ -3,7 +3,8 @@ title: Bekende problemen in [!DNL Adobe Workfront] Mobiele app
 description: Bekende problemen gemeld voor [!DNL Adobe Workfront] Mobiele app
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
-source-git-commit: ea7b66fa2ef7d3a93250c7fe3b3ae804cad3bfb5
+feature: Work Management
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%

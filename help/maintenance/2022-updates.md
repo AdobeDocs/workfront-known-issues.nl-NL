@@ -1,7 +1,9 @@
 ---
 title: Workfront-onderhoudsupdates in 2022
 description: 2022 Onderhoudsupdates voor [!DNL Adobe Workfront]
-source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
+exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
+feature: Get Started with Workfront
+source-git-commit: 6f245f70ca00bef3db833a891cc4c7d822761c37
 workflow-type: tm+mt
 source-wordcount: '15283'
 ht-degree: 0%
@@ -247,7 +249,7 @@ De volgende problemen zijn gemeld met betrekking tot kwesties die aan een herhal
 * Sommige subtaken van een taak die aan een herhaling is toegevoegd, worden niet weergegeven op de knop [!UICONTROL Iteration] pagina.
 * Wanneer een gebruiker een ontbrekende taak aan de herhaling probeert toe te voegen, wordt de taak niet toegevoegd en ziet de gebruiker het volgende bericht:
 
-   &quot;[!UICONTROL The following error occurred: None of the selected items could be moved, because they are not assigned to an agile team or are not agile items]&quot;
+  &quot;[!UICONTROL The following error occurred: None of the selected items could be moved, because they are not assigned to an agile team or are not agile items]&quot;
 
 **Taken die via bulkbewerking zijn toegewezen, worden niet weergegeven op de achterstand van het team**
 
@@ -911,7 +913,7 @@ Wanneer een gebruiker een sjabloon koppelt en aanpast, wordt hem gevraagd de sel
 Om de functie van &quot;[!UICONTROL Locale]&quot; velden zijn duidelijker , we hebben hun labels bijgewerkt .
 
 * De &quot;[!UICONTROL Locale]&quot; in het gebruikersprofiel is nu gelabeld &quot;[!UICONTROL Email Locale]&quot;
-* De &quot;[!UICONTROL Locale]&quot; in het veld [!UICONTROL Setup] >[!UICONTROL System] >[!UICONTROL Customer Info] gebied is nu gelabeld &quot;[!UICONTROL Default Email Locale]&quot;
+* De &quot;[!UICONTROL Locale]&quot; veld gevonden in het dialoogvenster [!UICONTROL Setup] >[!UICONTROL System] >[!UICONTROL Customer Info] gebied is nu gelabeld &quot;[!UICONTROL Default Email Locale]&quot;
 
 De functionaliteit van deze velden is niet gewijzigd.
 

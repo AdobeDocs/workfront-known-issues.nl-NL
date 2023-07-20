@@ -2,7 +2,8 @@
 title: "Workfront Proof: 500-fout bij toegang tot Workfront Proof via API of Workfront Fusion"
 description: "Wanneer een gebruiker toegang krijgt tot de actie Proef API getAllProofs, retourneert de Workfront Proof-server het bericht: 500 Interne serverfout"
 hidefromtoc: true
-source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
+feature: Workfront Proof
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%

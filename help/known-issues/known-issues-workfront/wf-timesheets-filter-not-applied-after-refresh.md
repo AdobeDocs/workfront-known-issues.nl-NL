@@ -2,10 +2,11 @@
 title: '"Timesheets: Filter wordt niet toegepast wanneer de pagina wordt vernieuwd.'''
 description: Wanneer een gebruiker een lijst met tijdbladen weergeeft met een filter en de pagina en achtergrond vernieuwt of verder navigeert, wordt het filter niet toegepast. Het filter lijkt te zijn geselecteerd in de filterlijst.
 hidefromtoc: true
+feature: Timesheets
 exl-id: 4ec51957-448a-42ac-8c19-dbdc221901b8
-source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---

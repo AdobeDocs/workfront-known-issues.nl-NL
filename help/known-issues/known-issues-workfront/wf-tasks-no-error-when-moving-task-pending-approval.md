@@ -2,7 +2,8 @@
 title: "Taken: Geen foutbericht bij opnieuw ordenen van taak in goedkeuringsstatus in behandeling"
 description: "Wanneer een gebruiker een taak in een takenlijst probeert opnieuw te ordenen en de taak binnen is [!UICONTROL Pending approval] status, lijkt de taak in de takenlijst te bewegen. Na vernieuwen ziet de gebruiker dat het item niet is verplaatst. Het item kan niet worden verplaatst omdat het zich in [!UICONTROL Pending approval] status, maar er is geen bericht om de gebruiker te laten weten dat het item niet kan worden verplaatst, wat tot verwarring kan leiden."
 hidefromtoc: true
-source-git-commit: 3c0433fb5c690346ccd474ec72c27ace056abd03
+feature: Tasks
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%

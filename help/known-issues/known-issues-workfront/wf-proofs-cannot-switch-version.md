@@ -3,7 +3,8 @@ title: 'Proefdrukken: Kan proefdrukversie niet wisselen bij weergave van proefdr
 description: Wanneer een gebruiker een proefdruk weergeeft in het dialoogvenster [!UICONTROL Proofing Viewer]en overschakelt naar een andere versie, wordt de vervolgkeuzelijst uitgeschakeld en kan de gebruiker niet terugschakelen naar de oorspronkelijke versie die hij of zij bekeek, of naar een andere versie van de proefdruk.
 hidefromtoc: true
 exl-id: 2ee55109-47c0-4e85-8b91-a56d677303ef
-source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%

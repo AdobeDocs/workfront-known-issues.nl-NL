@@ -3,9 +3,10 @@ title: 'Proefdrukken: Het tabblad Proefactiviteit opent Proefdetails.'''
 description: Wanneer een gebruiker een proefdruk weergeeft en op het tabblad Proefactiviteit klikt, wordt het tabblad Proefdetails geopend. Dit gebeurt wanneer een proefdrukwerkgebied handmatig aan de workflow is toegevoegd.
 hidefromtoc: true
 exl-id: 153a7289-d1e3-4894-bb0d-5baafebb7dac
-source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---

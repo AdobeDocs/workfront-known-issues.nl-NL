@@ -2,7 +2,8 @@
 title: "WF Proof Integrated Accounts - Proof dependency rules not allowed the selection multichoice fields"
 description: "Alleen lijsten en aangepaste veldtypen voor keuzerondjes kunnen worden geselecteerd voor afhankelijkheidsregels binnen [!DNL Workfront] en [!DNL Workfront Proof] geïntegreerde instanties. Dit is een beperkte functionaliteit in vergelijking met verouderde ProofHQ-accounts."
 hidefromtoc: true
-source-git-commit: c28d7e157d8abb140c79503c91ce2a049fa3c7b6
+feature: Workfront Proof
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%

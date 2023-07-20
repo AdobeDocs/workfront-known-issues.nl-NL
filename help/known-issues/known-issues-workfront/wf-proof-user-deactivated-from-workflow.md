@@ -3,7 +3,8 @@ title: 'Proefdrukken: Gebruiker is gedeactiveerd vanuit de proefdrukworkflow en 
 description: Wanneer een gebruiker probeert toegang te krijgen tot een bewijs dat hij of zij aan een werkstroom is toegewezen, ziet hij of zij een bericht Toegang niet toegestaan.
 hidefromtoc: true
 exl-id: af7d70af-3d4c-40a8-a8c4-429f38e62d34
-source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%

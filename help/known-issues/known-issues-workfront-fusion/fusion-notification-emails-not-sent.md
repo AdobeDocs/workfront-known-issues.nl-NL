@@ -2,9 +2,10 @@
 title: "Workfront Fusion: E-mails met meldingen worden niet verzonden"
 description: "Wanneer een gebeurtenis in Workfront Fusion plaatsvindt die een bericht-e-mail (zoals voor scenario's die een fout ontmoeten) zou moeten teweegbrengen, wordt e-mail niet verzonden."
 hidefromtoc: true
-source-git-commit: 69b4c330df59957b56a79f9e6aa1c02c60f45e23
+feature: Workfront Fusion
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---

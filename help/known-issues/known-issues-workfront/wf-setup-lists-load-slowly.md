@@ -3,7 +3,8 @@ title: '''Instellen: Lijsten worden langzaam in Setup geladen'
 description: Wanneer een gebruiker zich in het gebied van de Opstelling bevindt en probeert om een lijst te laden, laadt de lijst zeer langzaam. Dit is gemeld op diverse gebieden door Opstelling.
 hidefromtoc: true
 exl-id: 4b48b101-9c38-416a-a45b-203cf8f6eefc
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
+feature: System Setup and Administration
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%

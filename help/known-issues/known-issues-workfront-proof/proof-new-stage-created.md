@@ -2,8 +2,9 @@
 title: 'Proefdrukken: Nieuwe fase gemaakt omdat deadline niet overeenkomt met deadline van bestaand werkgebied.'''
 description: Wanneer nieuwe proefdrukken worden gemaakt, kan de deadline worden ingesteld in stappen van 15 minuten (10:00, 10:15, 10:30, 20:45, enz.). Wanneer een gebruiker echter aan een bewijs wordt toegevoegd nadat de proefdruk is gemaakt, kan de deadline alleen worden ingesteld in stappen van 30 minuten (10:00, 10:30, 11:00, enz.).
 hidefromtoc: true
+feature: Workfront Proof
 exl-id: dc0725f4-d31b-4f55-a3ea-24486ce73ebf
-source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
