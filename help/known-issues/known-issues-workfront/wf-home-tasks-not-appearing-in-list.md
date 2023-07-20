@@ -1,8 +1,9 @@
 ---
 title: "Startpagina: Items worden niet weergegeven in de lijst Home Work"
 description: "Wanneer een gebruiker zijn lijst van het Werk van het Huis bekijkt, zijn de punten die in de Lijst van het Werk zouden moeten verschijnen niet aanwezig. Bijvoorbeeld, kan een gebruiker naar een project gaan en zien dat zij taken in het project worden toegewezen, maar deze taken verschijnen niet op de Lijst van het Werk van het Huis van de gebruiker."
+feature: Get Started with Workfront
 hidefromtoc: true
-source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%

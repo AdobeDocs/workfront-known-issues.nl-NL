@@ -3,9 +3,10 @@ title: 'Startpagina: Samenvattingsproblemen bij het gebruik van andere browsers 
 description: Wanneer een gebruiker zijn startpagina weergeeft en een andere browser dan Chrome gebruikt, kunnen de verschillende problemen worden weergegeven.
 exl-id: 7e1935e4-2814-4527-a65a-301f4b9a9669
 hidefromtoc: true
-source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
+feature: Get Started with Workfront
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

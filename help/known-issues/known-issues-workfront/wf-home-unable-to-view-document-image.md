@@ -3,9 +3,10 @@ title: 'Startpagina: Kan de documentafbeelding niet weergeven in de werklijst.'
 description: Wanneer een gebruiker op een .docx-miniatuur klikt om een voorvertoning van het document weer te geven, wordt een videospeler geopend die het document niet kan zien.
 exl-id: 63b02355-0857-4da2-98d4-190ed4219b89
 hidefromtoc: true
-source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
+feature: Get Started with Workfront, Digital Content and Documents
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

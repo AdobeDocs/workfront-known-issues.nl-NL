@@ -1,10 +1,11 @@
 ---
 title: "Documentintegratie: Kan niet alle mappen weergeven in OneDrive"
 description: "Wanneer een gebruiker via de OneDrive-integratie in Workfront toegang probeert te krijgen tot een document, kan de gebruiker niet alle OneDrive-mappen zien en heeft hij geen toegang tot documenten in de ontbrekende mappen."
+feature: Digital Content and Documents
 hidefromtoc: true
-source-git-commit: c9922bb751562c56aae4c049732ee18e280026f3
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

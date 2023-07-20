@@ -1,14 +1,15 @@
 ---
-title: "Aangepaste formulieren: Problemen in aangepaste vervolgkeuzelijsten"
-description: "Aangepaste vervolgkeuzelijsten die zijn ingeschakeld als multiselect-velden, kunnen de problemen weergeven."
+title: 'Aangepaste formulieren: Problemen in aangepaste vervolgkeuzelijsten'
+description: Aangepaste vervolgkeuzelijsten die zijn ingeschakeld als multiselect-velden, kunnen de problemen weergeven.
 hidefromtoc: true
-source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
+feature: Custom Forms
+exl-id: 9dbada55-672a-4afa-b4a5-2b9cda9c0e86
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
 
 ---
-
 
 # Aangepaste formulieren: Problemen in aangepaste vervolgkeuzelijsten
 
@@ -29,4 +30,3 @@ Voer een van de volgende handelingen uit:
 * Stel een standaardwaarde in.
 
 _Voor het eerst gerapporteerd op 30 maart 2023._
-

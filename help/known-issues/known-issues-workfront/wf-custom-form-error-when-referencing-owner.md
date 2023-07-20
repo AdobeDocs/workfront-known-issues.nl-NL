@@ -2,8 +2,9 @@
 title: 'Aangepaste formulieren: Ongeldig aangepast expressiebericht bij verwijzing naar eigenaar in een berekend veld.'
 description: '"Wanneer een gebruiker een berekend gebied aan een uitgave-vlakke douaneformulier toevoegt en probeert om het even welke verwijzing naar een eigenaar (zoals ` ownerID'') toe te voegen, slaat het gebied niet op, en de gebruiker ziet het volgende bericht: Dit is een ongeldige klantuitdrukking, gelieve te proberen opnieuw.'''
 hidefromtoc: true
+feature: Custom Forms
 exl-id: 254f1fae-0784-4332-99a1-cc1895c50896
-source-git-commit: d6935a9ad66633d64083f227def3b027349645b1
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%

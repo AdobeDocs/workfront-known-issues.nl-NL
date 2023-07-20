@@ -2,9 +2,10 @@
 title: "Startpagina: De thuiswerklijst is leeg/langzaam te laden."
 description: "Wanneer een gebruiker zijn thuiswerklijst probeert weer te geven, wordt de pagina gedurende langere tijd leeg weergegeven terwijl de pagina wordt geladen. Het laden kan enkele minuten in beslag nemen, waarbij de werklijst leeg is."
 hidefromtoc: true
-source-git-commit: 69a7b0a82ac5a13a851ed7f2b889ff0758d60e17
+feature: Get Started with Workfront
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

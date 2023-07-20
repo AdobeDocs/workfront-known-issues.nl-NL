@@ -6,9 +6,10 @@ type: Troubleshooting
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/workfront-known-issues.nl-NL
 index: true
-source-git-commit: 88aad8bbf8fb7beaaefefa4b0e86dfd081289d50
+feature-set: Workfront
+source-git-commit: e758575bf35ef5e54b79472ec9611b237e7456a5
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

@@ -1,9 +1,10 @@
 ---
 title: "E-mailmeldingen: Ik ben toegewezen aan een kwestie het plaatsen toont"
 description: In de [!UICONTROL Setup] in de sectie, wordt de instelling voor E-mailmeldingen "Ik ben toegewezen aan een uitgave" weergegeven voor gebruikers met Revisie- en aanvraaglicenties. Deze instelling is niet beschikbaar voor deze typen licenties en als u deze instelling inschakelt, worden geen e-mailmeldingen voor deze gebeurtenis geactiveerd.
+feature: Updates and Notifications
 exl-id: 2b8843e3-5f56-4a25-ba5f-2a8a503a1950
 hidefromtoc: true
-source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%

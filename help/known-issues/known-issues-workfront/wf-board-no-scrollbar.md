@@ -1,8 +1,9 @@
 ---
 title: "Borden: Horizontale schuifbalk is niet aanwezig"
 description: "Wanneer een gebruiker een board weergeeft en probeert horizontaal te schuiven, is de schuifbalk niet aanwezig en kan de gebruiker niet horizontaal schuiven."
+feature: Agile
 hidefromtoc: true
-source-git-commit: f15168bdb9a7ae0f3b675cf44cfe4cfbf47fd313
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
