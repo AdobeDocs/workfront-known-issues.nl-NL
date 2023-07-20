@@ -1,9 +1,10 @@
 ---
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
-source-git-commit: c9922bb751562c56aae4c049732ee18e280026f3
+role: User
+source-git-commit: 9020228b1e68a5f40b20b2dcd4f70413a99bba82
 workflow-type: tm+mt
-source-wordcount: '1203'
+source-wordcount: '1220'
 ht-degree: 0%
 
 ---
@@ -16,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Proefdrukken: Proefdrukken worden niet weergegeven in goedgekeurde rapporten](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
+      + [Proefdrukken: Bericht &quot;Geen afbeelding&quot; wanneer u op een proefdruk klikt](known-issues-workfront/wf-proofs-no-image-on-comment.md)
       + [Documentintegratie: Kan niet alle mappen weergeven in [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
       + [[!UICONTROL Home]: [!UICONTROL Home Work List] is leeg/langzaam te laden](known-issues-workfront/wf-home-blank-slow-to-load.md)
       + [Instellen: Kan kosten/uren of facturering/uur van functie niet bewerken](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)

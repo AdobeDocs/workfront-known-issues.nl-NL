@@ -2,9 +2,9 @@
 title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 52db6449599843d31e6fcb6e0b664801fbf978a5
+source-git-commit: 9020228b1e68a5f40b20b2dcd4f70413a99bba82
 workflow-type: tm+mt
-source-wordcount: '4064'
+source-wordcount: '4063'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-mai
 
 ## Updates in juli 2023
 
-+++**(Gepland) Onderhoudsupdate op 20 juli 2023**
++++**Onderhoudsupdate op 20 juli 2023**
 
 **Geplande uren instellen voor terugkerende taken van kinderen met [!UICONTROL Simple] type duur zonder toewijzingen**
 

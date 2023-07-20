@@ -3,9 +3,9 @@ title: Bekende problemen in nieuwe [!DNL Adobe Workfront] Ervaring
 description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervaring
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: c9922bb751562c56aae4c049732ee18e280026f3
+source-git-commit: 9020228b1e68a5f40b20b2dcd4f70413a99bba82
 workflow-type: tm+mt
-source-wordcount: '527'
+source-wordcount: '546'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,8 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proefdrukken: Proefdrukken worden niet weergegeven in goedgekeurde rapporten](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 20 juli 2023 |
+| [Proefdrukken: Bericht &quot;Geen afbeelding&quot; wanneer u op een proefdruk klikt](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 20 juli 2023 |
 | [[!UICONTROL Home]: [!UICONTROL Home Work List] is leeg/langzaam te laden](known-issues-workfront/wf-home-blank-slow-to-load.md) | 18 juli 2023 |
 | [Borden: Horizontale schuifbalk is niet aanwezig](known-issues-workfront/wf-board-no-scrollbar.md) | 28 juni 2023 |
 | [[!UICONTROL Home]: Items worden niet weergegeven in [!UICONTROL Home Work List]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 12 juni 2023 |

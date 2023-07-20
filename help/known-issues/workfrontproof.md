@@ -3,9 +3,9 @@ title: Bekende problemen in [!DNL Adobe Workfront Proof]
 description: Bekende problemen gemeld voor [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 7fd6a2604bf2e5b9e4bb69b1e3f242ebf761f180
+source-git-commit: 9020228b1e68a5f40b20b2dcd4f70413a99bba82
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,8 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| Geen |  |
+| [Proefdrukken: Proefdrukken worden niet weergegeven in goedgekeurde rapporten](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 20 juli 2023 |
+| [Proefdrukken: Bericht &quot;Geen afbeelding&quot; wanneer u op een proefdruk klikt](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 20 juli 2023 |
 
 {style="table-layout:auto"}
 
