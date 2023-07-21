@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: a4840412420ca7987b68c73a5e876837267cc3ba
+source-git-commit: 3d2c392fdb9cdf2eb7ea46cd4444895bc45a5b7d
 workflow-type: tm+mt
-source-wordcount: '1224'
+source-wordcount: '1237'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Documenten: XML-fout tijdens downloaden](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
+      + [Projecten/problemen: Project lost probleem niet correct op](known-issues-workfront/wf-projects-resolving-issue.md)
       + [[!UICONTROL Setup]: Kan auditlogs niet exporteren](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
       + [Proefdrukken: Proefdrukken worden niet weergegeven in goedgekeurde rapporten](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
       + [Proefdrukken: Bericht &quot;Geen afbeelding&quot; wanneer u op een proefdruk klikt](known-issues-workfront/wf-proofs-no-image-on-comment.md)
