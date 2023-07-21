@@ -3,15 +3,19 @@ title: "Werklastverdeling: Uren onverwacht opnieuw verdelen"
 description: "Wanneer er uurtoewijzingen worden gedaan voor specifieke taken, kunnen die uren onverwacht opnieuw worden berekend en verdeeld. Dit kan gebeuren nadat u van de Tab-toets tussen datums of pagina's hebt gewisseld of nadat u de pagina hebt vernieuwd."
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
 
 
 # Werklastverdeling: Uren onverwacht opnieuw verdelen
+
+>[!NOTE]
+>
+>Dit probleem is op 17 juli 2023 opgelost.
 
 Wanneer er uurtoewijzingen worden gemaakt voor specifieke taken, kunnen die uren onverwacht opnieuw worden berekend en verdeeld. Dit kan gebeuren nadat u van de Tab-toets tussen datums of pagina&#39;s hebt gewisseld of nadat u de pagina hebt vernieuwd.
 
