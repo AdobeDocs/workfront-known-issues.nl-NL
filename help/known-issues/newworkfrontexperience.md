@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: eba288c8fdd9e08c29b419e7e76d85719ff732c3
+source-git-commit: 8cc9f5313f20b38afc618f2c657995715b4d4f09
 workflow-type: tm+mt
-source-wordcount: '581'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documenten: Documentgoedkeuringen worden niet weergegeven in het gebied Goedkeuringen](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 juli 2023 |
+| [Documenten: Documentgoedkeuringen worden niet weergegeven in [!UICONTROL Approvals] gebied](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 juli 2023 |
 | [Documenten: XML-fout tijdens downloaden](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 21 juli 2023 |
 | [Projecten/problemen: Project lost probleem niet correct op](known-issues-workfront/wf-projects-resolving-issue.md) | 21 juli 2023 |
 | [Proefdrukken: Proefdrukken worden niet weergegeven in goedgekeurde rapporten](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 20 juli 2023 |
