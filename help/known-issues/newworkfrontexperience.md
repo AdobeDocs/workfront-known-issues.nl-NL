@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a87ecf052ae1949f636b43c5a84de20df430e0b3
+source-git-commit: 882402acd54423e20d28c2294f5aeeae9fc8fa9a
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '563'
 ht-degree: 0%
 
 ---
@@ -27,10 +27,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | -----------------------------------------------------------------| ----------------- |
 | [Taken/problemen: toegewezen gebruiker krijgt geen toegang tot object](known-issues-workfront/wf-access-assigned-user-not-getting-access.md) | 27 juli 2023 |
 | [Documenten: goedkeuringen voor documenten worden niet weergegeven in [!UICONTROL Approvals] gebied](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 juli 2023 |
-| [Documenten: XML-fout bij downloaden](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 21 juli 2023 |
-| [Projecten/problemen: het probleem wordt niet correct opgelost met het project](known-issues-workfront/wf-projects-resolving-issue.md) | 21 juli 2023 |
-| [Proefdrukken: proefdrukken worden niet weergegeven in goedgekeurde rapporten](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 20 juli 2023 |
-| [Proefdrukken: &quot;Geen afbeelding&quot; wanneer u op een proefdruk klikt](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 20 juli 2023 |
+| s | [Proefdrukken: &quot;Geen afbeelding&quot; wanneer u op een proefdruk klikt](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 20 juli 2023 |
 | [Borden: horizontale schuifbalk is niet aanwezig](known-issues-workfront/wf-board-no-scrollbar.md) | 28 juni 2023 |
 
 {style="table-layout:auto"}
@@ -41,10 +38,9 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documenten: EPS-bestanden worden momenteel niet ondersteund](known-issues-workfront/wf-documents-not-supporting-eps.md) | 21 juli 2023 |
+| [Projecten/problemen: het probleem wordt niet correct opgelost met het project](known-issues-workfront/wf-projects-resolving-issue.md) | 27 juli 2023 |
 | [Proefdrukken: vergrendelde proefdrukgoedkeuringen worden nog steeds weergegeven in de werklijst](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 21 juli 2023 |
 | [[!UICONTROL Home]: Items worden niet weergegeven in [!UICONTROL Home Work List]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 21 juli 2023 |
-| [Filters: &quot;[!UICONTROL Enable system-wide]&quot; en &quot;[!UICONTROL View system-wide]&quot; Andere functionaliteit vertegenwoordigen](known-issues-workfront/wf-filters-enable-system-wide.md) | 27 juni 2023 |
 | [Proefdrukken: goedkeuringsopties worden niet weergegeven in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 26 juni 2023 |
 | [Projecten: [!UICONTROL Home Group] aangepaste statussen zijn niet beschikbaar wanneer u een project maakt op basis van een sjabloon](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 maart 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] steungeval op Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augustus 2022 |
