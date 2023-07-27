@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: eba288c8fdd9e08c29b419e7e76d85719ff732c3
+source-git-commit: a87ecf052ae1949f636b43c5a84de20df430e0b3
 workflow-type: tm+mt
-source-wordcount: '4098'
+source-wordcount: '4097'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-mai
 
 ## Updates in juli 2023
 
-+++**(Gepland) Onderhoudsupdate op 27 juli 2023**
++++**Onderhoudsupdate op 27 juli 2023**
 
 **&quot;[!UICONTROL Enable system-wide]&quot; en &quot;[!UICONTROL View system-wide]&quot; Andere functionaliteit vertegenwoordigen**
 
@@ -181,7 +181,7 @@ Dit lijkt zich voor te doen als aan alle volgende voorwaarden is voldaan:
 
 _Proefdrukken_
 
-Wanneer een gebruiker een proefdruk weergeeft in het dialoogvenster [!UICONTROL Proofing Viewer]en overschakelt naar een andere versie, wordt het vervolgkeuzemenu uitgeschakeld en kan de gebruiker niet terugschakelen naar de oorspronkelijke versie die hij of zij bekeek, of naar een andere versie van de proefdruk.
+Wanneer een gebruiker een proef in bekijkt [!UICONTROL Proofing Viewer]en overschakelt naar een andere versie, wordt het vervolgkeuzemenu uitgeschakeld en kan de gebruiker niet terugschakelen naar de oorspronkelijke versie die hij of zij bekeek, of naar een andere versie van de proefdruk.
 
 **[!DNL Workfront]Zoektijden uit**
 
@@ -189,7 +189,7 @@ _Zoeken_
 
 [!DNL Workfront] zoekactie is time-out. De zoekopdracht kan een paar resultaten opleveren, of helemaal geen.
 
-Deze kwestie beïnvloedt ook de functionaliteit van [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL Search] module.
+Deze kwestie beïnvloedt ook de functionaliteit van [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL Search] -module.
 
 +++
 
@@ -207,7 +207,7 @@ _Zoeken_
 
 [!DNL Workfront] zoekactie is time-out. De zoekopdracht kan een paar resultaten opleveren, of helemaal geen.
 
-Deze kwestie beïnvloedt ook de functionaliteit van [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL Search] module.
+Deze kwestie beïnvloedt ook de functionaliteit van [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL Search] -module.
 
 +++
 
@@ -239,7 +239,7 @@ Wanneer een gebruiker een sjabloon probeert te selecteren in het menu Handelinge
 
 _Proefdrukken_
 
-Wanneer een gebruiker een proefdruk weergeeft in het dialoogvenster [!UICONTROL Proofing Viewer]en schakelt u over naar een andere proefdruk. De knop voor de proefdruk van de switch reageert dan niet. De gebruiker kan niet terugschakelen naar de oorspronkelijke proefdruk die hij of zij bekeek of naar een andere proefdruk.
+Wanneer een gebruiker een proef in bekijkt [!UICONTROL Proofing Viewer]en schakelt u over naar een andere proefdruk. De knop voor de proefdruk van de switch reageert dan niet. De gebruiker kan niet terugschakelen naar de oorspronkelijke proefdruk die hij of zij bekeek of naar een andere proefdruk.
 
 **Gekoppelde afbeeldingen bewerken tijdens het bewerken van een opmerking**
 
@@ -255,7 +255,7 @@ U kunt de afbeelding die aan een opmerking is gekoppeld nu bewerken wanneer u ee
 
 _[!DNL Workfront Fusion]_
 
-Wanneer een gebruiker een proefdruk weergeeft in het dialoogvenster [!UICONTROL Proofing Viewer]en schakelt u over naar een andere proefdruk. De knop voor de proefdruk van de switch reageert dan niet. De gebruiker kan niet terugschakelen naar de oorspronkelijke proefdruk die hij of zij bekeek of naar een andere proefdruk.
+Wanneer een gebruiker een proef in bekijkt [!UICONTROL Proofing Viewer]en schakelt u over naar een andere proefdruk. De knop voor de proefdruk van de switch reageert dan niet. De gebruiker kan niet terugschakelen naar de oorspronkelijke proefdruk die hij of zij bekeek of naar een andere proefdruk.
 
 +++
 
@@ -312,7 +312,7 @@ Het toegangsniveau van een gebruiker kan onvoorspelbaar door het systeem worden 
 
 +++**Onderhoudsupdate op 17 april 2023**
 
-**Nieuwe opmerkingen buiten het zichtbare schermgebied in het dialoogvenster weergeven [!UICONTROL Updates] een gedeelte met problemen (nieuwe bètaervaring met opmerkingen) en[!UICONTROL Goals]**
+**Nieuwe opmerkingen buiten het zichtbare schermgebied in het dialoogvenster weergeven [!UICONTROL Updates] een gedeelte met problemen (nieuwe ervaringen met bèta-opmerkingen) en[!UICONTROL Goals]**
 
 _Updates_
 
@@ -342,7 +342,7 @@ Wanneer een beheerder een gebruiker bewerkt en probeert een [!UICONTROL Default 
 
 _Proefdrukken_
 
-Wanneer een gebruiker een andere gebruiker toevoegt aan een proefdruk in het dialoogvenster [!UICONTROL Proofing Viewer], de[!UICONTROL Proof role]&quot; en &quot;[!UICONTROL Email alerts]&quot;-dropdowns kunnen niet worden geopend. De gebruiker kan geen proefdrukscherm of e-mailwaarschuwing toewijzen. Dit kan voorkomen wanneer het toevoegen van een gebruiker door een commentaar, of wanneer het delen van de proef met de gebruiker.
+Wanneer een gebruiker een andere gebruiker toevoegt aan een proefdruk in het dialoogvenster [!UICONTROL Proofing Viewer], de &quot;[!UICONTROL Proof role]&quot; en &quot;[!UICONTROL Email alerts]&quot;-dropdowns kunnen niet worden geopend. De gebruiker kan geen proefdrukscherm of e-mailwaarschuwing toewijzen. Dit kan voorkomen wanneer het toevoegen van een gebruiker door een commentaar, of wanneer het delen van de proef met de gebruiker.
 
 +++
 
@@ -354,7 +354,7 @@ Wanneer een gebruiker een andere gebruiker toevoegt aan een proefdruk in het dia
 
 _Proefdrukken_
 
-Wanneer een gebruiker een proefdruk weergeeft in het dialoogvenster [!UICONTROL Proofing Viewer]en overschakelt naar een andere versie, wordt het vervolgkeuzemenu uitgeschakeld en kan de gebruiker niet terugschakelen naar de oorspronkelijke versie die hij of zij bekeek, of naar een andere versie van de proefdruk.
+Wanneer een gebruiker een proef in bekijkt [!UICONTROL Proofing Viewer]en overschakelt naar een andere versie, wordt het vervolgkeuzemenu uitgeschakeld en kan de gebruiker niet terugschakelen naar de oorspronkelijke versie die hij of zij bekeek, of naar een andere versie van de proefdruk.
 
 **504-fout bij het exporteren van rapporten**
 
@@ -372,7 +372,7 @@ Wanneer een beheerder als gebruiker wordt aangemeld en een opmerking maakt, word
 
 +++**Onderhoudsupdate op 23 maart 2023**
 
-**[!UICONTROL Summary]paneelinhoud is te breed voor het paneel**
+**[!UICONTROL Summary]de inhoud van het deelvenster is te breed voor het deelvenster**
 
 _Documenten_
 
@@ -388,8 +388,8 @@ Gebruikers die al beschikken over de [!UICONTROL Desktop Proofing Viewer] deze u
 
 Gebruikers kunnen ook handmatig de nieuwste versie verkleinen. Zie voor meer informatie [Installeer de [!UICONTROL Desktop Proofing Viewer]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html).
 
-* Vorige versie: 2.1.22.
-* Nieuwe versie: 2.1.23.
+* Vorige versie: 2.1.22
+* Nieuwe versie: 2.1.23
 
 +++
 
@@ -427,7 +427,7 @@ Wanneer een gebruiker een gedeactiveerde gebruiker opnieuw activeert en deze een
 
 _[!DNL Workfront Goals]_
 
-Wanneer u nu weg navigeert van de [!UICONTROL Updates] pagina van een doel terwijl in het midden van het samenstellen van een bericht, wordt het bericht bewaard wanneer u terug navigeert. Vóór deze update zou de niet-verzonden opmerking zijn verwijderd.
+Nu, wanneer u vanaf [!UICONTROL Updates] pagina van een doel terwijl in het midden van het samenstellen van een bericht, wordt het bericht bewaard wanneer u terug navigeert. Vóór deze update zou de niet-verzonden opmerking zijn verwijderd.
 
 +++
 
@@ -448,7 +448,7 @@ _Borden_
 Hoewel het kolombeleid wordt toegepast op status, verschijnen de nieuwe verbonden kaarten in de uiterst linkse kolom en niet in de kolom die aan hun status beantwoordt.
 
 
-**Koppeling naar een opmerking doorsturen naar [!UICONTROL Details] page**
+**Koppeling maken naar een opmerking omleidt naar [!UICONTROL Details] page**
 
 _Updates_
 
@@ -468,7 +468,7 @@ Wanneer een gebruiker de pagina Afdrukoverzicht probeert te laden, lijkt de pagi
 
 +++**Onderhoudsupdate op 23 februari 2023**
 
-**Koppeling naar een opmerking doorsturen naar [!UICONTROL Details] page**
+**Koppeling maken naar een opmerking omleidt naar [!UICONTROL Details] page**
 
 _Updates_
 
@@ -508,7 +508,7 @@ Wanneer een gebruiker volgens de planning moet worden gedeactiveerd en de geplan
 
 +++**Onderhoudsupdate op 9 februari 2023**
 
-**[!UICONTROL Story Points]veld toegevoegd aan taak- en uitgavelijsten en -rapporten**
+**[!UICONTROL Story Points]veld toegevoegd aan lijst en rapporten met taken en uitgaven**
 
 _Rapporten_
 
@@ -573,7 +573,7 @@ _Timesheets_
 Er zijn verschillende informatiepictogrammen toegevoegd aan de volgende instellingen:
 
 * &quot;[!UICONTROL Can edit time]&quot; checkbox wanneer het creëren van of het uitgeven van een timesheet of een timesheet profiel om erop te wijzen dat wanneer toegelaten, de fiatteurs, timesheet ook kunnen voorleggen opnieuw openen of uitgeven, tenzij uw beheerder deze acties in beperkt [!UICONTROL Timesheet Preferences] gebied van [!UICONTROL Setup].
-* &quot;[!UICONTROL Restrict timesheet editing to owners and admins]&quot; in de [!UICONTROL Timesheet & Hour Preferences] gebied van [!UICONTROL Setup] om aan te geven dat de volgende gebruikers, wanneer deze optie is uitgeschakeld, ook de tijdbladen kunnen bewerken: gebruikers met administratieve toegang tot timesheets en uren, beoordelaars van tijdbladen die tijd mogen uitgeven, en de managers van timesheet eigenaars.
+* &quot;[!UICONTROL Restrict timesheet editing to owners and admins]&quot; in de [!UICONTROL Timesheet & Hour Preferences] gebied van [!UICONTROL Setup] om erop te wijzen dat wanneer gehandicapt, de volgende gebruikers de timesheets kunnen ook uitgeven: gebruikers met administratieve toegang tot timesheets en uren, toegelaten fiatteurs timesheet om tijd uit te geven, en de managers van timesheet eigenaars.
 
 De functionaliteit van deze instellingen is niet gewijzigd en alleen de informatiepictogrammen zijn toegevoegd om het bereik van de instellingen helderder te maken.
 
@@ -599,8 +599,8 @@ We hebben een nieuwe versie van de Desktop Proofing Viewer geïmplementeerd om e
 
 Gebruikers kunnen ook handmatig de nieuwste versie verkleinen. Zie voor meer informatie [De Desktop Proofing Viewer installeren](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=en).
 
-* Vorige versie: 2.1.19.
-* Nieuwe versie: 2.1.20.
+* Vorige versie: 2.1.19
+* Nieuwe versie: 2.1.20
 
 **Gebruiker kan zijn eigen gebruikersinstelling niet bewerken**
 
@@ -622,7 +622,7 @@ Wanneer de inlaatkolomfunctie naar Boards is uitgebracht, konden de filters voor
 
 _Navigatie_
 
-De volgende functies zijn nu beschikbaar in het dialoogvenster [!UICONTROL More] menu voor spelden in de productieomgeving:
+De volgende functies zijn nu beschikbaar in de [!UICONTROL More] menu voor spelden in de productieomgeving:
 
 * Naam punten wijzigen
 * Punten opnieuw ordenen binnen de [!UICONTROL More] menu
@@ -708,7 +708,7 @@ Wanneer een gebruiker een takenlijst bekijkt en een taak inspringt, keert de taa
 
 _Navigatie_
 
-De volgende functies zijn nu beschikbaar in het dialoogvenster [!UICONTROL More] menu voor punten, alleen in de voorvertoningsomgeving:
+De volgende functies zijn nu beschikbaar in de [!UICONTROL More] menu voor punten, alleen in de voorvertoningsomgeving:
 
 * Naam punten wijzigen
 * Punten opnieuw ordenen binnen de [!UICONTROL More] menu
@@ -731,7 +731,7 @@ _Workfront_
 Er zijn verschillende informatiepictogrammen toegevoegd aan de volgende instellingen:
 
 * &quot;Kan tijd&quot;checkbox uitgeven wanneer het creëren van of het uitgeven van een timesheet of een timesheet profiel om erop te wijzen dat wanneer toegelaten, de fiatteurs ook kunnen voorleggen, opnieuw openen, of uitgeven timesheet, tenzij uw beheerder deze acties in het gebied van de Voorkeur van de Chronologie van Opstelling beperkt.
-* &quot;Beperk het uitgeven van timesheet tot eigenaars en beheerders&quot;in het gebied van de Voorkeur van de Tijdopmaak &amp; van het Uur van Opstelling om erop te wijzen dat wanneer gehandicapt, de volgende gebruikers de timesheets kunnen ook uitgeven: gebruikers met administratieve toegang tot timesheets en uren, beoordelaars van tijdbladen die tijd mogen uitgeven, en de managers van timesheet eigenaars.
+* &quot;Beperk timesheet uitgeven tot eigenaars en beheerders&quot;in het gebied van de Voorkeur van de Tijdopmaak &amp; van het Uur van Opstelling om erop te wijzen dat wanneer gehandicapt, de volgende gebruikers ook timesheets kunnen uitgeven: gebruikers met administratieve toegang tot timesheets en uren, timeesheet fiatteurs toegestaan om tijd uit te geven, en de managers van timesheet eigenaars.
 
 De functionaliteit van deze instellingen is niet gewijzigd en alleen de informatiepictogrammen zijn toegevoegd om het bereik van de instellingen helderder te maken.
 
