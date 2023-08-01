@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e2c846da9bd52f1232b41c81c8876cbfc4060f4d
+source-git-commit: 188e8a34947a51e62116e2a166aeeedaa5dc71c8
 workflow-type: tm+mt
-source-wordcount: '4186'
+source-wordcount: '4227'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,9 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
-## Updates in juli 2023
+## Updates in augustus 2023
 
-+++**(Geplande) onderhoudsupdate op 27 juli 2023**
++++**(Geplande) onderhoudsupdate op 3 augustus 2023**
 
 **Project lost probleem niet correct op**
 
@@ -45,6 +45,12 @@ Dit is gemeld voor gebruikers in EMEA.
 ## Updates in juli 2023
 
 +++**Onderhoudsupdate op 27 juli 2023**
+
+**Labels en controlelijstitems werken niet correct in de weergave van het projectbord**
+
+_Borden_
+
+Labels en controlelijstitems zijn verwijderd uit de weergave aan boord van projecten, omdat ze geen deel uitmaken van de Workfront-taken en niet kunnen worden gedeeld tussen gebruikers.
 
 **&quot;[!UICONTROL Enable system-wide]&quot; en &quot;[!UICONTROL View system-wide]&quot; Andere functionaliteit vertegenwoordigen**
 
