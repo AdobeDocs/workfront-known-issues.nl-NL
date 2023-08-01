@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: a87ecf052ae1949f636b43c5a84de20df430e0b3
+source-git-commit: e2c846da9bd52f1232b41c81c8876cbfc4060f4d
 workflow-type: tm+mt
-source-wordcount: '4097'
+source-wordcount: '4186'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,28 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 >Deze updates bevatten ook andere kleine of minder duidelijke foutoplossingen. [!DNL Workfront] Ondersteuning geeft een melding wanneer een probleem dat u hebt verzonden, is opgelost.
 
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
+
+## Updates in juli 2023
+
++++**(Geplande) onderhoudsupdate op 27 juli 2023**
+
+**Project lost probleem niet correct op**
+
+_Projecten/problemen_
+
+Wanneer een gebruiker de status wijzigt van een project dat het oplossende object voor een uitgave is, wordt de status van de uitgave gewijzigd in een status die niet overeenkomt met dezelfde sleutel als de status van het project.
+
+**Fout in matrix-rapporten met de fout &quot;Wiops&quot;**
+
+_Rapporten_
+
+Wanneer een gebruiker probeert om een matrixrapport te bekijken, laadt het rapport niet, en de gebruiker ziet de volgende fout:
+
+&quot;[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]&quot;
+
+Dit is gemeld voor gebruikers in EMEA.
+
++++
 
 ## Updates in juli 2023
 
