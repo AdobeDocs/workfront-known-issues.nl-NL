@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: acb47f82aed4e45286be006d9106278802e38d6d
+source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
 workflow-type: tm+mt
-source-wordcount: '899'
+source-wordcount: '939'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,11 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Proefdrukken: als u een nieuwe proefversie maakt, worden alle proefversies verwijderd](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md)
+      + [Bewijzen: De goedgekeurde bewijzen blijven op de fiatteur [!UICONTROL Home Work List]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md)
+      + [Proefdrukken: proefdrukweergave met afgesneden bovenzijde](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md)
+      + [Home: kan niet verwijderen [!UICONTROL To-do] object in nieuw [!UICONTROL Home] ervaring](known-issues-workfront/wf-home-cannot-delete-todo.md)
+      + [Proefdrukken: Kan geen tekst selecteren in lijsten of opsommingstekens](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md)
       + [Taken/problemen: toegewezen gebruiker krijgt geen toegang tot object](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
       + [Documenten: goedkeuringen voor documenten worden niet weergegeven in [!UICONTROL Approvals] gebied](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
       + [Documenten: EPS-bestanden worden momenteel niet ondersteund](known-issues-workfront/wf-documents-not-supporting-eps.md)

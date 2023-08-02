@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 188e8a34947a51e62116e2a166aeeedaa5dc71c8
+source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
 workflow-type: tm+mt
-source-wordcount: '4227'
+source-wordcount: '4285'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,24 @@ Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-mai
 ## Updates in augustus 2023
 
 +++**(Geplande) onderhoudsupdate op 3 augustus 2023**
+
+**Probleem met items in inlaatkolom vinden**
+
+_Borden_
+
+De inlaatkolom op een board werd eerder gesorteerd op de prioriteit die op taken en kwesties werd bepaald, die het moeilijk maakten om van specifieke punten de plaats te bepalen.
+
+De standaardvolgorde is nu als volgt:
+
+Taken:
+
+* Primaire bestelling: Projectnaam
+* Secundaire volgorde: structuur van werkverdeling
+
+Problemen
+
+* Primaire bestelling: Projectnaam
+* Secundaire volgorde: Referentienummer
 
 **Project lost probleem niet correct op**
 

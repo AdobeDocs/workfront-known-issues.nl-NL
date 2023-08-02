@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 882402acd54423e20d28c2294f5aeeae9fc8fa9a
+source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,9 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bewijzen: De goedgekeurde bewijzen blijven op de fiatteur [!UICONTROL Home Work List]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 2 augustus 2023 |
+| [Proefdrukken: proefdrukweergave met afgesneden bovenzijde](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2 augustus 2023 |
+| [Proefdrukken: Kan geen tekst selecteren in lijsten of opsommingstekens](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2 augustus 2023 |
 | [Documenten: goedkeuringen voor documenten worden niet weergegeven in [!UICONTROL Approvals] gebied](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 juli 2023 |
 | [Proefdrukken: proefdrukken worden niet weergegeven in goedgekeurde rapporten](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 20 juli 2023 |
 | [Proefdrukken: &quot;Geen afbeelding&quot; wanneer u op een proefdruk klikt](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 20 juli 2023 |
