@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
+source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '353'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proefdrukken: proefdrukken genereren mislukt](known-issues-workfront/wf-proofs-fail-to-generate.md) | 3 augustus 2023 |
 | [Bewijzen: De goedgekeurde bewijzen blijven op de fiatteur [!UICONTROL Home Work List]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 2 augustus 2023 |
 | [Proefdrukken: proefdrukweergave met afgesneden bovenzijde](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2 augustus 2023 |
 | [Proefdrukken: Kan geen tekst selecteren in lijsten of opsommingstekens](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2 augustus 2023 |
@@ -40,6 +41,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proefdrukken: kan proefdrukmarkeringen niet aanpassen](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3 augustus 2023 |
 | [Proefdrukken: vergrendelde proefdrukgoedkeuringen worden nog steeds weergegeven in de werklijst](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 21 juli 2023 |
 | [Proefdrukken: goedkeuringsopties worden niet weergegeven in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 26 juni 2023 |
 

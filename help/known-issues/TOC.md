@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
+source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
 workflow-type: tm+mt
-source-wordcount: '939'
+source-wordcount: '959'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Proefdrukken: kan proefdrukmarkeringen niet aanpassen](known-issues-workfront/wf-proof-markup-tools-not-working.md)
+      + [Proefdrukken: proefdrukken genereren mislukt](known-issues-workfront/wf-proofs-fail-to-generate.md)
       + [Proefdrukken: als u een nieuwe proefversie maakt, worden alle proefversies verwijderd](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md)
       + [Bewijzen: De goedgekeurde bewijzen blijven op de fiatteur [!UICONTROL Home Work List]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md)
       + [Proefdrukken: proefdrukweergave met afgesneden bovenzijde](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md)
@@ -137,6 +139,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Bekende problemen in Workfront Fusion](workfrontfusion.md)
    + Huidige problemen in [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Workfront Fusion]: Slaapmodule zorgt ervoor dat scenario&#39;s vastlopen](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
+      + [[!DNL Workfront Fusion]: Scenario mislukt met &quot;[!UICONTROL read ECONNRESET]&quot;-fout](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
       + [[!DNL Workfront Fusion]: Kan waarde niet invoeren in [!DNL Workfront] > [!UICONTROL Watch Events] filter](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
       + [[!DNL Workfront Fusion]: &quot;[!UICONTROL cannot execute UPDATE]&quot;-fout](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
       + [[!DNL Workfront Fusion]: e-mails met meldingen worden niet verzonden](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)

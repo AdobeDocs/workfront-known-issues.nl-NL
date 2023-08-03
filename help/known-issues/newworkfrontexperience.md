@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f2ac5034ba97c996e84b94caac80d7686a924c36
+source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '611'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proefdrukken: proefdrukken genereren mislukt](known-issues-workfront/wf-proofs-fail-to-generate.md) | 3 augustus 2023 |
 | [Bewijzen: De goedgekeurde bewijzen blijven op de fiatteur [!UICONTROL Home Work List]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 2 augustus 2023 |
 | [Proefdrukken: proefdrukweergave met afgesneden bovenzijde](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2 augustus 2023 |
 | [Proefdrukken: Kan geen tekst selecteren in lijsten of opsommingstekens](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2 augustus 2023 |
@@ -41,6 +42,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proefdrukken: kan proefdrukmarkeringen niet aanpassen](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3 augustus 2023 |
 | [Proefdrukken: als u een nieuwe proefversie maakt, worden alle proefversies verwijderd](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2 augustus 2023 |
 | [Home: kan niet verwijderen [!UICONTROL To-do] object in nieuw [!UICONTROL Home] ervaring](known-issues-workfront/wf-home-cannot-delete-todo.md) | 2 augustus 2023 |
 | [Proefdrukken: vergrendelde proefdrukgoedkeuringen worden nog steeds weergegeven in de werklijst](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 21 juli 2023 |

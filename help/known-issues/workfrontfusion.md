@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor [!DNL Adobe Workfront Fusion]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 36860fdb7880db3891aab46fbbeb604c54b2aa2c
+source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,8 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| Geen |  |
+| [[!DNL Workfront Fusion]: Slaapmodule zorgt ervoor dat scenario&#39;s vastlopen](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md) | 3 augustus 2023 |
+| [[!DNL Workfront Fusion]: Scenario mislukt met &quot;[!UICONTROL read ECONNRESET]&quot;-fout](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md) | 3 augustus 2023 |
 
 {style="table-layout:auto"}
 
