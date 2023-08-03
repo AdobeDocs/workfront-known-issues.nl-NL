@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
+source-git-commit: f2ac5034ba97c996e84b94caac80d7686a924c36
 workflow-type: tm+mt
-source-wordcount: '4285'
+source-wordcount: '4284'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-mai
 
 ## Updates in augustus 2023
 
-+++**(Geplande) onderhoudsupdate op 3 augustus 2023**
++++**Onderhoudsupdate op 3 augustus 2023**
 
 **Probleem met items in inlaatkolom vinden**
 

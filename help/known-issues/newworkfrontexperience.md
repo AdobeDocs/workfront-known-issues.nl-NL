@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
+source-git-commit: f2ac5034ba97c996e84b94caac80d7686a924c36
 workflow-type: tm+mt
-source-wordcount: '608'
+source-wordcount: '599'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | -----------------------------------------------------------------| ----------------- |
 | [Proefdrukken: als u een nieuwe proefversie maakt, worden alle proefversies verwijderd](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2 augustus 2023 |
 | [Home: kan niet verwijderen [!UICONTROL To-do] object in nieuw [!UICONTROL Home] ervaring](known-issues-workfront/wf-home-cannot-delete-todo.md) | 2 augustus 2023 |
-| [Projecten/problemen: het probleem wordt niet correct opgelost met het project](known-issues-workfront/wf-projects-resolving-issue.md) | 27 juli 2023 |
 | [Proefdrukken: vergrendelde proefdrukgoedkeuringen worden nog steeds weergegeven in de werklijst](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 21 juli 2023 |
 | [[!UICONTROL Home]: Items worden niet weergegeven in [!UICONTROL Home Work List]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 21 juli 2023 |
 | [Proefdrukken: goedkeuringsopties worden niet weergegeven in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 26 juni 2023 |
