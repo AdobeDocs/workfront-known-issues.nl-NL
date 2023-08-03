@@ -1,23 +1,27 @@
 ---
-title: "Borden: Horizontale schuifbalk is niet aanwezig"
+title: "Borden: horizontale schuifbalk is niet aanwezig"
 description: "Wanneer een gebruiker een board weergeeft en probeert horizontaal te schuiven, is de schuifbalk niet aanwezig en kan de gebruiker niet horizontaal schuiven."
 feature: Agile
 hidefromtoc: true
-source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
 
-# Borden: Horizontale schuifbalk is niet aanwezig
+# Borden: horizontale schuifbalk is niet aanwezig
+
+>[!NOTE]
+>
+>Dit probleem is op 13 juli 2023 opgelost.
 
 Wanneer een gebruiker een board weergeeft en probeert horizontaal te schuiven, is de schuifbalk niet aanwezig en kan de gebruiker niet horizontaal schuiven.
 
 **Workaround**
 
-Klik op het toetsenbord en gebruik de rechter- en linkerpijlen om te schuiven
+Klik op het bord en schuif met de rechter- en linkerpijltoets
 
 _Voor het eerst gerapporteerd op 26 juni 2023._
 
