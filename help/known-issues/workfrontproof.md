@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
+source-git-commit: 60bfb4f3d7183b2e5110d896a3668991718fbb01
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,8 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proefdrukken: overlappende tekst op een proefdruk](known-issues-workfront/wf-proofs-overlapping-text.md) | 8 augustus 2023 |
+| [Proofs: &quot;[!UICONTROL Disable proof email notifications]&quot; instelling wordt onjuist weergegeven](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 8 augustus 2023 |
 | [Proefdrukken: &quot;Geen afbeelding&quot; wanneer u op een proefdruk klikt](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 3 augustus 2023 |
 | [Proefdrukken: kan proefdrukmarkeringen niet aanpassen](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3 augustus 2023 |
 

@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
+source-git-commit: 60bfb4f3d7183b2e5110d896a3668991718fbb01
 workflow-type: tm+mt
-source-wordcount: '984'
+source-wordcount: '1000'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Rapporten: problemen bij het laden van Matrix-rapporten](known-issues-workfront/wf-reports-matrix-report-not-loading.md)
+      + [Proefdrukken: overlappende tekst op een proefdruk](known-issues-workfront/wf-proofs-overlapping-text.md)
+      + [Proofs: &quot;[!UICONTROL Disable proof email notifications]&quot; instelling wordt onjuist weergegeven](known-issues-workfront/wf-proofs-disable-email-inaccurate.md)
       + [Projecten: kan niet navigeren aan project met URL die gebruikt [!UICONTROL Reference ID]](known-issues-workfront/wf-projects-unable-to-construct-url.md)
       + [Borden: Problemen bij het laden van een bord](known-issues-workfront/wf-boards-issues-with-loading.md)
       + [Projecten: vastgezet project geeft geen informatie in sommige kolommen weer](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
