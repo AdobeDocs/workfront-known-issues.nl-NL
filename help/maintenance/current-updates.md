@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f2ac5034ba97c996e84b94caac80d7686a924c36
+source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
 workflow-type: tm+mt
-source-wordcount: '4284'
+source-wordcount: '4412'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,32 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in augustus 2023
+
++++**(Geplande) onderhoudsupdate op 10 augustus 2023**
+
+**Kan niet verwijderen [!UICONTROL To-do] object in nieuw [!UICONTROL Home] ervaring**
+
+_Home_
+
+Wanneer een gebruiker in de nieuwe [!UICONTROL Home] ervaring probeert een item te verwijderen uit het dialoogvenster [!UICONTROL To-do] widget, het item wordt niet verwijderd en de gebruiker ziet de volgende fout:
+
+&quot;[!UICONTROL There was a problem removing your to-do, please try again soon.]&quot;
+
+Dit kan voorkomen wanneer er uren aan het programma worden geregistreerd [!UICONTROL To-do] item.
+
+**Vastgezet project toont geen informatie in sommige kolommen**
+
+_Projecten_
+
+Wanneer een gebruiker naar een vastgezet project navigeert gebruikend het punt, kunnen de objecten lijsten (zoals de taaklijst) lege kolommen tonen. Een [!UICONTROL Assignments] in de kolom kunnen geen toewijzingen worden weergegeven, ook al zijn er toewijzingen gemaakt.
+
+**Slaapmodule zorgt ervoor dat scenario&#39;s hangen**
+
+_[!DNL Workfront Fusion]_
+
+De [!UICONTROL Tools] > [!UICONTROL Sleep] de module in een scenario kan een scenario uitvoeren om te hangen. Deze uitvoeringen tonen een status van Running in [!UICONTROL Scenario History]en niet voltooien.
+
++++
 
 +++**Onderhoudsupdate op 3 augustus 2023**
 

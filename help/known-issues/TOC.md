@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 1f039e819f8a65af18d2dbc24b95b85607b947be
+source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
 workflow-type: tm+mt
-source-wordcount: '975'
+source-wordcount: '984'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Projecten: kan niet navigeren aan project met URL die gebruikt [!UICONTROL Reference ID]](known-issues-workfront/wf-projects-unable-to-construct-url.md)
       + [Borden: Problemen bij het laden van een bord](known-issues-workfront/wf-boards-issues-with-loading.md)
       + [Projecten: vastgezet project geeft geen informatie in sommige kolommen weer](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
       + [Proefdrukken: kan proefdrukmarkeringen niet aanpassen](known-issues-workfront/wf-proof-markup-tools-not-working.md)

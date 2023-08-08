@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1f039e819f8a65af18d2dbc24b95b85607b947be
+source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
 workflow-type: tm+mt
-source-wordcount: '613'
+source-wordcount: '623'
 ht-degree: 0%
 
 ---
@@ -41,6 +41,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Projecten: kan niet navigeren aan project met URL die gebruikt [!UICONTROL Reference ID]](known-issues-workfront/wf-projects-unable-to-construct-url.md) | 8 augustus 2023 |
 | [Projecten: vastgezet project geeft geen informatie in sommige kolommen weer](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md) | 4 augustus 2023 |
 | [Proefdrukken: &quot;Geen afbeelding&quot; wanneer u op een proefdruk klikt](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 3 augustus 2023 |
 | [Proefdrukken: kan proefdrukmarkeringen niet aanpassen](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3 augustus 2023 |
