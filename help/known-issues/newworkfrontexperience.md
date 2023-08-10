@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d5388a80680879a2dbb6ae35625a18baa29c0a62
+source-git-commit: 3676106501c4b2a54e1aa2716b8f68bb7977e27b
 workflow-type: tm+mt
-source-wordcount: '649'
+source-wordcount: '630'
 ht-degree: 0%
 
 ---
@@ -46,11 +46,9 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | [Proefdrukken: overlappende tekst op een proefdruk](known-issues-workfront/wf-proofs-overlapping-text.md) | 8 augustus 2023 |
 | [Proofs: &quot;[!UICONTROL Disable proof email notifications]&quot; instelling wordt onjuist weergegeven](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 8 augustus 2023 |
 | [Projecten: kan niet navigeren aan project met URL die gebruikt [!UICONTROL Reference ID]](known-issues-workfront/wf-projects-unable-to-construct-url.md) | 8 augustus 2023 |
-| [Projecten: vastgezet project geeft geen informatie in sommige kolommen weer](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md) | 4 augustus 2023 |
 | [Proefdrukken: &quot;Geen afbeelding&quot; wanneer u op een proefdruk klikt](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 3 augustus 2023 |
 | [Proefdrukken: kan proefdrukmarkeringen niet aanpassen](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3 augustus 2023 |
 | [Proefdrukken: als u een nieuwe proefversie maakt, worden alle proefversies verwijderd](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2 augustus 2023 |
-| [Home: kan niet verwijderen [!UICONTROL To-do] object in nieuw [!UICONTROL Home] ervaring](known-issues-workfront/wf-home-cannot-delete-todo.md) | 2 augustus 2023 |
 | [[!UICONTROL Home]: Items worden niet weergegeven in [!UICONTROL Home Work List]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 21 juli 2023 |
 | [Projecten: [!UICONTROL Home Group] aangepaste statussen zijn niet beschikbaar wanneer u een project maakt op basis van een sjabloon](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 maart 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] steungeval op Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augustus 2022 |
