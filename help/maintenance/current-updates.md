@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
+source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
 workflow-type: tm+mt
-source-wordcount: '4412'
+source-wordcount: '4540'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,29 @@ Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-mai
 
 ## Updates in augustus 2023
 
-+++**(Geplande) onderhoudsupdate op 10 augustus 2023**
++++**Onderhoudsupdate op 17 augustus 2023**
+
+**Kan niet navigeren naar project met URL die gebruikt[!UICONTROL Reference ID]**
+
+_Projecten_
+
+Wanneer een gebruiker naar een project probeert te navigeren met een URL die een [!UICONTROL Reference ID] -nummer, worden ze doorgestuurd naar een pagina met een foutbericht. Navigeren naar een taak met behulp van een URL met een [!UICONTROL Reference ID] werkt zoals verwacht.
+
+**&quot;[!UICONTROL Disable proof email notifications]&quot; instelling wordt onjuist weergegeven**
+
+_Proefdrukken_
+
+Wanneer een gebruiker proefdrukinstellingen weergeeft in [!DNL Workfront], de &quot;[!UICONTROL Disable proof email notifications]&quot; het selectievakje geeft de juiste huidige instelling niet correct weer. Als dit selectievakje is ingeschakeld, worden e-mailmeldingen met een proefdruk uitgeschakeld. De meldingen worden nu daadwerkelijk ingeschakeld. Het tegendeel is ook waar.
+
+**Kan proefdrukmarkeringen niet aanpassen**
+
+_Proefdrukken_
+
+Wanneer een gebruiker een opmerking maakt in de drukproefviewer en een markering maakt op de proefdruk en vervolgens wegklikt, kan de gebruiker de markering niet meer aanpassen.
+
++++
+
++++**Onderhoudsupdate op 10 augustus 2023**
 
 **Kan niet verwijderen [!UICONTROL To-do] object in nieuw [!UICONTROL Home] ervaring**
 
