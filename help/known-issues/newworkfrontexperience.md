@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8d14d8195c42a226a454882e20d1ff7fabd91410
+source-git-commit: 045e2bd200aa2fffaf2e763a73eb8729517be197
 workflow-type: tm+mt
-source-wordcount: '652'
+source-wordcount: '661'
 ht-degree: 0%
 
 ---
@@ -62,6 +62,7 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Lay-outsjablonen: Lay-outsjablonen veroorzaken inconsistenties in rapporten](known-issues-workfront/wf-layout-templates-classic.md) | 21 augustus 2023 |
 | [Proefdrukken: goedkeuringsopties worden niet weergegeven in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 10 augustus 2023 |
 | [Proefdrukken: proefdrukken worden niet weergegeven in goedgekeurde rapporten](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 3 augustus 2023 |
 | [Instellen: kan kosten/uren of facturering/uur van taak niet bewerken](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 21 juli 2023 |
