@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
+source-git-commit: 1c3330160603619726529e903e917653bda64f93
 workflow-type: tm+mt
-source-wordcount: '636'
+source-wordcount: '652'
 ht-degree: 0%
 
 ---
@@ -41,6 +41,8 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Resource Planner]: De planner wordt niet geladen wanneer het filter wordt toegepast](known-issues-workfront/wf-resource-planning-cannot-load.md) | 21 augustus 2023 |
+| [Proefdrukken: kan geen proefdruk maken van PDF](known-issues-workfront/wf-proofs-cannot-generate-from-PDF.md) | 21 augustus 2023 |
 | [Proefdrukken: proefdrukweergave met afgesneden bovenzijde](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 10 augustus 2023 |
 | [Bewijzen: De goedgekeurde bewijzen blijven op de fiatteur [!UICONTROL Home Work List]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 10 augustus 2023 |
 | [Proefdrukken: proefdrukken genereren mislukt](known-issues-workfront/wf-proofs-fail-to-generate.md) | 10 augustus 2023 |
