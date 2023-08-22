@@ -3,9 +3,9 @@ title: "Home: Kan taak niet verwijderen uit nieuwe ervaring in startpagina"
 description: "Wanneer een gebruiker in de nieuwe ervaring van het Huis probeert om een punt van te doen widget te schrappen, schrapt het punt niet, en de gebruiker ziet een fout."
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 3676106501c4b2a54e1aa2716b8f68bb7977e27b
+source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,11 @@ ht-degree: 0%
 
 # Home: kan niet verwijderen [!UICONTROL To-do] object in nieuw [!UICONTROL Home] ervaring
 
+<!--
 >[!NOTE]
 >
->Dit probleem is opgelost op 10 augustus 2023.
+>This issue was resolved on August 10, 2023.
+-->
 
 Wanneer een gebruiker in de nieuwe [!UICONTROL Home] ervaring probeert een item te verwijderen uit het dialoogvenster [!UICONTROL To-do] widget, het item wordt niet verwijderd en de gebruiker ziet de volgende fout:
 

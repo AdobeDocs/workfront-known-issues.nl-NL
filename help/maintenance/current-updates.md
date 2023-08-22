@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
+source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
 workflow-type: tm+mt
-source-wordcount: '4540'
+source-wordcount: '4655'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,22 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in augustus 2023
+
++++**(Geplande) onderhoudsupdate op 24 augustus 2023**
+
+**Kan geen tekst selecteren in lijsten of opsommingstekens**
+
+_Proefdrukken_
+
+Wanneer een gebruiker een proef in de het proefdrukken kijker bekijkt en probeert om tekst te selecteren die in een lijst of een kogelpunt is, is het hulpmiddel van de tekstselectie inefficiënt, en de tekst kan niet worden geselecteerd.
+
+**Als u een nieuwe proefversie maakt, worden alle proefversies verwijderd**
+
+_Proefdrukken_
+
+Wanneer een gebruiker een proefdruk maakt op basis van een document, wordt de proefdruk gemaakt. Als een gebruiker echter een andere versie van de proefdruk maakt, worden zowel de oude als de nieuwe versie verwijderd. Er is een [!UICONTROL Create Proof] en de proefversies vindt u in het [!UICONTROL Trash] gebied van de [!UICONTROL Proofing] gebied in [!DNL Workfront].
+
++++
 
 +++**Onderhoudsupdate op 17 augustus 2023**
 

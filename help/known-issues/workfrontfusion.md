@@ -4,7 +4,7 @@ description: Bekende problemen gemeld voor [!DNL Adobe Workfront Fusion]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
+source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: Scenario mislukt met &quot;[!UICONTROL read ECONNRESET]&quot;-fout](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md) | 3 augustus 2023 |
+| Geen |  |
 
 {style="table-layout:auto"}
 
@@ -36,7 +36,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| Geen |  |
+| [[!DNL Workfront Fusion]: Scenario mislukt met &quot;[!UICONTROL read ECONNRESET]&quot;-fout](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md) | 3 augustus 2023 |
 
 {style="table-layout:auto"}
 
