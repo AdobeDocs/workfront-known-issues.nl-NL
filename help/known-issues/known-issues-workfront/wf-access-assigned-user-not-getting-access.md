@@ -3,15 +3,19 @@ title: "Taken/problemen: toegewezen gebruiker krijgt geen toegang tot object"
 description: "Wanneer een gebruiker aan een werkobject wordt toegewezen, krijgt de gebruiker mogelijk geen toegang tot het object en kan de toewijzing niet worden voltooid. De gebruiker kan om toegang verzoeken, maar dit voegt tijd en ingewikkeldheid aan de voltooiing van het het werkpunt toe."
 hidefromtoc: true
 feature: Tasks
-source-git-commit: a87ecf052ae1949f636b43c5a84de20df430e0b3
+source-git-commit: 03ca95f99860333e125ed41a1c6853e48dd741e8
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
 
 
 # Taken/problemen: toegewezen gebruiker krijgt geen toegang tot object
+
+>[!NOTE]
+>
+>Deze kwestie is gesloten.
 
 Wanneer een gebruiker aan een werkobject wordt toegewezen, krijgt de gebruiker mogelijk geen toegang tot het object en kan de toewijzing niet worden voltooid. De gebruiker kan om toegang verzoeken, maar dit voegt tijd en ingewikkeldheid aan de voltooiing van het het werkpunt toe.
 
