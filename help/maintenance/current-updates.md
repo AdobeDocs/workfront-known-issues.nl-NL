@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 5edee4bcf02453bdb4e84f24024ab87a6efe2f8b
+source-git-commit: e229c944f8e428080fb30ff852455d37e5eef56b
 workflow-type: tm+mt
-source-wordcount: '4654'
+source-wordcount: '4779'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,35 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in augustus 2023
+
++++**(Geplande) onderhoudsupdate op 31 augustus 2023**
+
+**Filters zijn niet van toepassing op widgets in de nieuwe [!UICONTROL Home] ervaring**
+
+_[!UICONTROL Home]_
+
+Wanneer een gebruiker een filter toepast op een widget in de nieuwe [!UICONTROL Home] In de widget worden items weergegeven die door het filter moeten worden uitgesloten.
+
+Dit is gemeld in de aangepaste sandbox-omgeving. Dezelfde widgets filteren in de voorvertoning- en productieomgevingen als u had verwacht.
+
+**Problemen bij het laden van Matrix-rapporten**
+
+_Rapporten_
+
+Wanneer een gebruiker probeert om een rapport van de Matrijs als grafiek te laden, één van het volgende kan voorkomen:
+
+* Bepaalde informatie in het rapport wordt niet geladen
+* Het rapport geeft de fout &quot;[!UICONTROL Unable to load content from the server]&quot;
+
+**De Planner wordt niet geladen wanneer het filter wordt toegepast**
+
+_[!UICONTROL Resource Planner]_
+
+Wanneer een gebruiker probeert de [!UICONTROL Resource Planner], wordt de planner niet geladen en ziet de gebruiker het volgende foutbericht:
+
+&quot;[!UICONTROL The following error occurred: Something went wrong while connecting to WorkPerDay service]&quot;
+
++++
 
 +++**Onderhoudsupdate op 24 augustus 2023**
 
