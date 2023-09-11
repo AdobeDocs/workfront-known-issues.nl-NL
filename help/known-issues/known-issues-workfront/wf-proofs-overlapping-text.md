@@ -3,15 +3,19 @@ title: "Proofs: Overlappende tekst op een proefdruk"
 description: "Wanneer een gebruiker een proef in de het proefdrukken kijker bekijkt, merken zij overlappende tekst, alhoewel de tekst niet op het originele document overlapt. "
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 60bfb4f3d7183b2e5110d896a3668991718fbb01
+source-git-commit: ae8e1dab69ba6ef16ea7dc056345f140b80ebc9e
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
 
 # Proefdrukken: overlappende tekst op een proefdruk
+
+>[!NOTE]
+>
+>Deze kwestie is gesloten.
 
 Wanneer een gebruiker een proef in de het proefdrukken kijker bekijkt, merken zij overlappende tekst, alhoewel de tekst niet op het originele document overlapt.
 

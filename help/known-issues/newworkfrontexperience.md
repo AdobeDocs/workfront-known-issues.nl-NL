@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 03ca95f99860333e125ed41a1c6853e48dd741e8
+source-git-commit: 938d1692208c857b9e7e57666df9f95dd3e44559
 workflow-type: tm+mt
-source-wordcount: '612'
+source-wordcount: '587'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,10 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Home]: [!UICONTROL Requests] widget geeft niet alle toegewezen teams weer](known-issues-workfront/wf-home-request-shows-one-team.md) | 7 september 2023 |
+| [Documenten: XML-fout bij downloaden](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 1 september 2023 |
+| [Proefdrukken: tekstopmaak in statische proefdrukken komt niet overeen met opmaak in website](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 1 september 2023 |
+| [Projecten: project is leeg wanneer het wordt geladen uit nieuwe [!UICONTROL Home] ervaring](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md) | 1 september 2023 |
 | [[!UICONTROL Home]: &quot;[!UICONTROL Mentions]&quot;-widget in nieuw [!UICONTROL Home] is niet beperkt tot berichten waarin de gebruiker een tag heeft](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 10 augustus 2023 |
 
 {style="table-layout:auto"}
@@ -35,18 +39,10 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL Home]: Filters zijn niet van toepassing op widgets in de nieuwe [!UICONTROL Home] ervaring](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md) | 25 augustus 2023 |
-| [Rapporten: problemen bij het laden van Matrix-rapporten](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 25 augustus 2023 |
+| [[!UICONTROL Resource Planner]: De planner wordt niet geladen wanneer het filter wordt toegepast](known-issues-workfront/wf-resource-planning-cannot-load.md) | 7 september 2023 |
+| [Aangepaste formulieren: kan aangepast veld niet verwijderen](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md) | 1 september 2023 |
 | [[!UICONTROL Workload Balancer]: [!UICONTROL Total Hours] komt niet overeen met de som van [!UICONTROL Planned Hours]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 22 augustus 2023 |
-| [Proefdrukken: proefdrukken van kleuren worden onjuist weergegeven](known-issues-workfront/wf-proof-inaccurate-colors.md) | 23 augustus 2023 |
-| [Home: kan niet verwijderen [!UICONTROL To-do] object in nieuw [!UICONTROL Home] ervaring](known-issues-workfront/wf-boards-issues-with-loading.md) | 22 augustus 2023 |
 | [Borden: Problemen bij het laden van een bord](known-issues-workfront/wf-boards-issues-with-loading.md) | 22 augustus 2023 |
-| [Proefdrukken: kan geen proefdruk maken van PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 21 augustus 2023 |
-| [[!UICONTROL Resource Planner]: De planner wordt niet geladen wanneer het filter wordt toegepast](known-issues-workfront/wf-resource-planning-cannot-load.md) | 21 augustus 2023 |
-| [Proefdrukken: proefdrukweergave met afgesneden bovenzijde](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 10 augustus 2023 |
-| [Proefdrukken: proefdrukken genereren mislukt](known-issues-workfront/wf-proofs-fail-to-generate.md) | 10 augustus 2023 |
-| [Documenten: goedkeuringen voor documenten worden niet weergegeven in [!UICONTROL Approvals] gebied](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 10 augustus 2023 |
-| [Proefdrukken: overlappende tekst op een proefdruk](known-issues-workfront/wf-proofs-overlapping-text.md) | 8 augustus 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] steungeval op Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augustus 2022 |
 
 {style="table-layout:auto"}
@@ -57,10 +53,10 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Home]: Nieuw [!UICONTROL Home] widgetvoorvertoning geeft de juiste naam van het object niet weer](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 7 september 2023 |
 | [Lay-outsjablonen: Lay-outsjablonen veroorzaken inconsistenties in rapporten](known-issues-workfront/wf-layout-templates-classic.md) | 21 augustus 2023 |
 | [Proefdrukken: goedkeuringsopties worden niet weergegeven in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 10 augustus 2023 |
 | [Proefdrukken: proefdrukken worden niet weergegeven in goedgekeurde rapporten](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 3 augustus 2023 |
-| [Instellen: kan kosten/uren of facturering/uur van taak niet bewerken](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 21 juli 2023 |
 | [[!UICONTROL Setup]: Kan auditlogs niet exporteren](known-issues-workfront/wf-setup-cannot-export-audit-logs.md) | 20 juli 2023 |
 | [Documentintegratie: niet alle mappen in [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md) | 18 juli 2023 |
 | [Proefdrukken: proefdrukken worden langzaam gemaakt in de voorvertoningsomgeving](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 8 juni 2023 |

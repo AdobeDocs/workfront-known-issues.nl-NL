@@ -1,9 +1,9 @@
 ---
-title: "Agile: Kanban board is leeg bij het bewerken van kaarten"
+title: "Gelijk: Kanban board gaat leeg wanneer het uitgeven van kaarten"
 description: "Wanneer een gebruiker iets wijzigt over een kaart op de [!UICONTROL Kanban] de [!UICONTROL Kanban] Het bord wordt leeg weergegeven in plaats van te vernieuwen met de wijziging. Als de gebruiker de pagina handmatig vernieuwt, [!UICONTROL Kanban] boardgeretourneerde gegevens, met de juiste wijziging."
 feature: Agile
 hidefromtoc: true
-source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+source-git-commit: ec999273c30f4d0fad244f1977a50af1e68b5638
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -29,4 +29,7 @@ Dit is gemeld in de volgende omstandigheden:
 Vernieuw de pagina.
 
 _Voor het eerst gerapporteerd op 14 mei 2023._
+
+
+
 

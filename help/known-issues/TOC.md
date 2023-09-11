@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 97bb61f9fe3e5455e245a377bc805292b7fb6b21
+source-git-commit: 938d1692208c857b9e7e57666df9f95dd3e44559
 workflow-type: tm+mt
-source-wordcount: '1055'
+source-wordcount: '1105'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,12 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Home]: Nieuw [!UICONTROL Home] widgetvoorvertoning geeft de juiste naam van het object niet weer](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
+      + [[!UICONTROL Home]: [!UICONTROL Requests] widget geeft niet alle toegewezen teams weer](known-issues-workfront/wf-home-request-shows-one-team.md)
+      + [Aangepaste formulieren: kan aangepast veld niet verwijderen](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md)
+      + [[!UICONTROL Home]: Zoekfunctionaliteit werkt niet in verouderde versie [!UICONTROL Home Work List]](known-issues-workfront/wf-home-search-not-working-legacy.md)
+      + [Proefdrukken: tekstopmaak in statische proefdrukken komt niet overeen met opmaak in website](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md)
+      + [Projecten: project is leeg wanneer het wordt geladen uit nieuwe [!UICONTROL Home] ervaring](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md)
       + [[!UICONTROL Home]: Filters zijn niet van toepassing op widgets in de nieuwe [!UICONTROL Home] ervaring](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md)
       + [Lay-outsjablonen: Lay-outsjablonen veroorzaken inconsistenties in rapporten](known-issues-workfront/wf-layout-templates-classic.md)
       + [Proefdrukken: kan geen proefdruk maken van PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)

@@ -1,23 +1,23 @@
 ---
-title: "Instellen: Kan kosten/uren of facturering/uur van taak niet bewerken"
+title: "Instellen: kan kosten/uren of facturering/uur van de functie niet bewerken"
 description: "Wanneer een gebruiker een Rol van de Baan uitgeeft en probeert om de Kosten/Uur of het Factureren/Uren gebieden uit te geven, zijn de gebieden leeg, en de gebruiker kan hen niet uitgeven."
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
+source-git-commit: ae8e1dab69ba6ef16ea7dc056345f140b80ebc9e
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
 
-# Instellen: Kan kosten/uren of facturering/uur van functie niet bewerken
+# Instellen: kan kosten/uren of facturering/uur van taak niet bewerken
 
 
 
 >[!NOTE]
 >
->Het team van het Product evalueert momenteel deze probleemoplossing, die productverbeteringen kan vereisen. De verbeteringen van het product worden meegedeeld in de Mededelingen van het Product en niet met de Updates van het Onderhoud.
+>Dit probleem is opgelost op 24 augustus 2023
 
 Wanneer een gebruiker een Rol van de Baan uitgeeft en probeert om de Kosten/Uur of het Factureren/Uren gebieden uit te geven, zijn de gebieden leeg, en de gebruiker kan hen niet uitgeven.
 

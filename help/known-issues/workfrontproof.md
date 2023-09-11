@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 03ca95f99860333e125ed41a1c6853e48dd741e8
+source-git-commit: 84a71f664ead2441ee92118f4f7111e5b7ff8ed1
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,8 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documenten: goedkeuringen voor documenten worden niet weergegeven in [!UICONTROL Approvals] gebied](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 juli 2023 |
+| [Documenten: XML-fout bij downloaden](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 1 september 2023 |
+| [Proefdrukken: tekstopmaak in statische proefdrukken komt niet overeen met opmaak in website](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 1 september 2023 |
 
 {style="table-layout:auto"}
 
@@ -35,11 +36,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [Proefdrukken: proefdrukken van kleuren worden onjuist weergegeven](known-issues-workfront/wf-proof-inaccurate-colors.md) | 22 augustus 2023 |
-| [Proefdrukken: kan geen proefdruk maken van PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 21 augustus 2023 |
-| [Proefdrukken: proefdrukweergave met afgesneden bovenzijde](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 10 augustus 2023 |
-| [Proefdrukken: proefdrukken genereren mislukt](known-issues-workfront/wf-proofs-fail-to-generate.md) | 10 augustus 2023 |
-| [Proefdrukken: overlappende tekst op een proefdruk](known-issues-workfront/wf-proofs-overlapping-text.md) | 8 augustus 2023 |
 | [Proofs: &quot;[!UICONTROL Disable proof email notifications]&quot; instelling wordt onjuist weergegeven](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 8 augustus 2023 |
 | [Proefdrukken: kan proefdrukmarkeringen niet aanpassen](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3 augustus 2023 |
 
