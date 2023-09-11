@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e229c944f8e428080fb30ff852455d37e5eef56b
+source-git-commit: ea865862f3e81214f2ab27e0c651f30ceeb1f89f
 workflow-type: tm+mt
-source-wordcount: '4779'
+source-wordcount: '4896'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,35 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
+## Updates in september 2023
+
++++**Onderhoudsupdate op 11 september 2023**&#39;
+
+**Persoonlijke taken worden niet weergegeven in timesheets**
+
+_Timesheets_
+
+De persoonlijke taken tonen niet meer op timesheet door gebrek. De persoonlijke taken tonen op timesheet wanneer zij worden vastgezet of uren het programma worden geopend. Voorafgaand aan deze verandering, persoonlijke taken die op timesheets door gebrek worden getoond.
+
++++
+
++++**Onderhoudsupdate op 7 september 2023**
+
+**Project is leeg wanneer het uit nieuw wordt geladen [!UICONTROL Home] ervaring**
+
+_Projecten_
+
+Wanneer een gebruiker op een project van hun klikt [!UICONTROL Home] pagina in de nieuwe ervaring van het Huis, kan de pagina van het project niet laden.
+
+Dit komt voor wanneer de gebruiker als een andere gebruiker heeft het programma geopend, dan het programma geopend als andere gebruiker en aan hun teruggekeerd [!UICONTROL Home] pagina.
+
++++
+
+**Filters zijn niet van toepassing op widgets in de nieuwe [!UICONTROL Home] ervaring**
+
 ## Updates in augustus 2023
 
-+++**(Geplande) onderhoudsupdate op 31 augustus 2023**
++++**Onderhoudsupdate op 31 augustus 2023**
 
 **Filters zijn niet van toepassing op widgets in de nieuwe [!UICONTROL Home] ervaring**
 
