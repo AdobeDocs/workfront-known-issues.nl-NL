@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 94acc80b555e5e8e3660cde321291686410c002c
+source-git-commit: bbb231090314a54754d43a3956544a9063dfd88a
 workflow-type: tm+mt
-source-wordcount: '4896'
+source-wordcount: '4966'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,28 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in september 2023
+
++++**(Geplande) onderhoudsupdate op 14 september 2023**
+
+**&quot;[!UICONTROL No factory]&quot; fout bij het toevoegen van een document**
+
+_Documenten_
+
+Wanneer een gebruiker een document uit een externe bron probeert toe te voegen, [!DNL Workfront] heeft geen toegang tot de bron en de gebruiker ziet de volgende fout:
+
+&quot;[!UICONTROL The following error occurred: No factory found for authentication type null]&quot;
+
+**Fout in matrix-rapporten met de fout &quot;Wiops&quot;**
+
+_Rapporten_
+
+Wanneer een gebruiker probeert om een matrixrapport te bekijken, laadt het rapport niet, en de gebruiker ziet de volgende fout:
+
+&quot;[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]&quot;
+
+Dit komt voor wanneer het groeperen van een rapport door datumwaaiers.
+
++++
 
 +++**Onderhoudsupdate op 11 september 2023**
 
