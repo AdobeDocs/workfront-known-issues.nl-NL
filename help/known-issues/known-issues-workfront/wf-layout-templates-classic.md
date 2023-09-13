@@ -3,9 +3,9 @@ title: "Lay-outsjablonen: lay-outsjablonen die inconsistenties in rapporten vero
 description: "Layoutsjablonen uit de klassieke Workfront-ervaring zijn niet meer beschikbaar in de Workfront-interface, maar zijn mogelijk nog wel van invloed op Workfront-gegevens. Dit kan inconsistenties veroorzaken in velden die worden beïnvloed door lay-outsjablonen (zoals Gedeeld met) in rapporten of dashboards."
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 045e2bd200aa2fffaf2e763a73eb8729517be197
+source-git-commit: 3845794a0b1b610d821f5653c06d0cce77d58f2e
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Lay-outsjablonen: Lay-outsjablonen veroorzaken inconsistenties in rapporten
 
-Layoutsjablonen uit de klassieke Workfront-ervaring zijn niet meer beschikbaar in de Workfront-interface, maar kunnen nog steeds van invloed zijn op Workfront-gegevens. Dit kan inconsistenties veroorzaken in velden die worden beïnvloed door lay-outsjablonen (zoals Gedeeld met) in rapporten of dashboards.
+Lay-outsjablonen vanuit de klassieke [!DNL Workfront] de ervaring is niet meer beschikbaar in de [!DNL Workfront] interface, maar kan nog beïnvloeden [!DNL Workfront] gegevens. Dit kan inconsistenties veroorzaken in velden die worden beïnvloed door lay-outsjablonen (zoals [!UICONTROL Shared with]) op rapporten of dashboards.
 
 **Workaround**
 
