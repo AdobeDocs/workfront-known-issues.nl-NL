@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 938d1692208c857b9e7e57666df9f95dd3e44559
+source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
 workflow-type: tm+mt
-source-wordcount: '1105'
+source-wordcount: '1159'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,12 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Documenten: kan document niet naar een andere map verplaatsen](known-issues-workfront/wf-documents-cannot-move-to-folder.md)
+      + [Proefdrukken: proefdrukken worden weergegeven zonder verzadiging of bijgesneden](known-issues-workfront/wf-proofs-desaturated-and-cropped.md)
+      + [Updates: Opmerkingen die zijn gemaakt in nieuwe ervaringen met opmerkingen zijn niet zichtbaar in een oudere ervaring](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md)
+      + [Updates: Opmerking wordt weergegeven zoals deze door de onjuiste gebruiker is verzonden](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md)
+      + [Borden: Kan geen gebruiker toewijzen aan een board op een werkstroom](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md)
+      + [Filters: knoppen met het label &quot;[!UICONTROL DEPRECATED]&quot; wanneer u een filter deelt](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md)
       + [[!UICONTROL Home]: Nieuw [!UICONTROL Home] widgetvoorvertoning geeft de juiste naam van het object niet weer](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
       + [[!UICONTROL Home]: [!UICONTROL Requests] widget geeft niet alle toegewezen teams weer](known-issues-workfront/wf-home-request-shows-one-team.md)
       + [Aangepaste formulieren: kan aangepast veld niet verwijderen](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md)

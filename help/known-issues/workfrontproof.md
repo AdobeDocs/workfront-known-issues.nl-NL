@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 9cc11511730a2088460274def57f5d54defa4579
+source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,8 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documenten: kan document niet naar een andere map verplaatsen](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 15 september 2023 |
+| [Proefdrukken: proefdrukken worden weergegeven zonder verzadiging of bijgesneden](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 15 september 2023 |
 | [Documenten: XML-fout bij downloaden](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 14 september 2023 |
 | [Proefdrukken: tekstopmaak in statische proefdrukken komt niet overeen met opmaak in website](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 14 september 2023 |
 | [Proofs: &quot;[!UICONTROL Disable proof email notifications]&quot; instelling wordt onjuist weergegeven](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 8 augustus 2023 |

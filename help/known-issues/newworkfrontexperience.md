@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9cc11511730a2088460274def57f5d54defa4579
+source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
 workflow-type: tm+mt
-source-wordcount: '587'
+source-wordcount: '647'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Filters: knoppen met het label &quot;[!UICONTROL DEPRECATED]&quot; wanneer u een filter deelt](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md) | 15 september 2023 |
 | [[!UICONTROL Home]: [!UICONTROL Requests] widget geeft niet alle toegewezen teams weer](known-issues-workfront/wf-home-request-shows-one-team.md) | 7 september 2023 |
 | [Projecten: project is leeg wanneer het wordt geladen uit nieuwe [!UICONTROL Home] ervaring](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md) | 1 september 2023 |
 | [[!UICONTROL Home]: &quot;[!UICONTROL Mentions]&quot;-widget in nieuw [!UICONTROL Home] is niet beperkt tot berichten waarin de gebruiker een tag heeft](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 10 augustus 2023 |
@@ -37,6 +38,11 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documenten: kan document niet naar een andere map verplaatsen](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 15 september 2023 |
+| [Proefdrukken: proefdrukken worden weergegeven zonder verzadiging of bijgesneden](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 15 september 2023 |
+| [Updates: Opmerkingen die zijn gemaakt in nieuwe ervaringen met opmerkingen zijn niet zichtbaar in een oudere ervaring](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 15 september 2023 |
+| [Borden: Kan geen gebruiker toewijzen aan een board op een werkstroom](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md) | 15 september 2023 |
+| [Updates: Opmerking wordt weergegeven zoals deze door de onjuiste gebruiker is verzonden](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md) | 15 september 2023 |
 | [Documenten: XML-fout bij downloaden](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 14 september 2023 |
 | [Proefdrukken: tekstopmaak in statische proefdrukken komt niet overeen met opmaak in website](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 14 september 2023 |
 | [[!UICONTROL Resource Planner]: De planner wordt niet geladen wanneer het filter wordt toegepast](known-issues-workfront/wf-resource-planning-cannot-load.md) | 7 september 2023 |
