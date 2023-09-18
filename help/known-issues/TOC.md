@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
+source-git-commit: d07a0053faaecd977c5a7a4ea19dc6bfdfaf7792
 workflow-type: tm+mt
-source-wordcount: '1159'
+source-wordcount: '1174'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Borden: Kaarten zonder titel worden weergegeven en worden weergegeven op de achtergrond](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md)
+      + [Proefdrukken: het genereren van proefdrukken duurt te lang](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md)
       + [Documenten: kan document niet naar een andere map verplaatsen](known-issues-workfront/wf-documents-cannot-move-to-folder.md)
       + [Proefdrukken: proefdrukken worden weergegeven zonder verzadiging of bijgesneden](known-issues-workfront/wf-proofs-desaturated-and-cropped.md)
       + [Updates: Opmerkingen die zijn gemaakt in nieuwe ervaringen met opmerkingen zijn niet zichtbaar in een oudere ervaring](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md)
