@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d07a0053faaecd977c5a7a4ea19dc6bfdfaf7792
+source-git-commit: a9f4736853dbc1b6dcc03127998775f823429f1e
 workflow-type: tm+mt
-source-wordcount: '664'
+source-wordcount: '676'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bewijs: extra, lege opmerking bij het maken van een opmerking over een proefdruk](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 19 september 2023 |
 | [Borden: Kaarten zonder titel worden weergegeven en worden weergegeven op de achtergrond](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md) | 15 september 2023 |
 | [Filters: knoppen met het label &quot;[!UICONTROL DEPRECATED]&quot; wanneer u een filter deelt](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md) | 15 september 2023 |
 | [[!UICONTROL Home]: [!UICONTROL Requests] widget geeft niet alle toegewezen teams weer](known-issues-workfront/wf-home-request-shows-one-team.md) | 7 september 2023 |
