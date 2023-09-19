@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4adc896e53b46ea6dfcb99f3050c5bfe275de72c
+source-git-commit: 2abcb617a2462f5e2a3231b35b0153add23d6969
 workflow-type: tm+mt
-source-wordcount: '4965'
+source-wordcount: '5240'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,63 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in september 2023
+
++++**(Geplande) onderhoudsupdate op 21 september 2023**
+
+**Kan geen gebruiker toewijzen aan een board op een werkstroom**
+
+_Borden_
+
+Wanneer een gebruiker probeert een andere gebruiker aan een taak van een raad toe te wijzen die deel van een werkstroom uitmaakt, en de naam van de gebruiker begint te typen, verschijnt de gebruiker niet op de drop-down lijst van beschikbare gebruikers. Dit gebeurt zelfs wanneer de gebruiker actief is en een lid van zowel de raad als de werkstroom.
+
+Het kan ook voorkomen dat gedeactiveerde gebruikers in de vervolgkeuzelijst worden weergegeven.
+
+**Aangepaste formulieren worden langzaam geladen**
+
+_Aangepaste formulieren_
+
+Wanneer een gebruiker een aangepast formulier probeert te laden, wordt het aangepaste formulier langzaam geladen.
+
+**Kan document niet naar een andere map verplaatsen**
+
+_Documenten_
+
+Wanneer een gebruiker een document naar een objectmap verplaatst, kan hij of zij het object niet naar een andere map verplaatsen.
+
+**XML-fout tijdens downloaden**
+
+_Documenten_
+
+Wanneer een gebruiker een document probeert te downloaden, wordt het document niet gedownload en ziet de gebruiker een pagina met het volgende bericht gevolgd door XML-tekst.
+
+&quot;[!UICONTROL The XML file does not appear to have any style information associated with it. The document tree is below.]&quot;
+
+**Kan geen documenten downloaden uit een voorvertoning-/sandbox-omgeving**
+
+_Documenten_
+
+Wanneer een gebruiker een document probeert te downloaden vanuit een andere omgeving dan productie, wordt het document niet gedownload en ziet de gebruiker de volgende fout:
+
+&quot;[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]&quot;
+
+**Proefdrukken worden weergegeven zonder verzadiging of bijgesneden**
+
+_Proefdrukken_
+
+De volgende problemen zijn gemeld bij het maken van een proef via een URL.
+
+* De proefdruk lijkt te zijn verzadigd of te zijn gewassen.
+* De proefdruk wordt bijgesneden.
+
+Dit kan ertoe leiden dat de bewijsvoering moeilijk is, omdat de bewijsvoering niet correct wordt weergegeven.
+
+**Het genereren van proefdrukken duurt te lang**
+
+_Proefdrukken_
+
+Wanneer een gebruiker een bewijs probeert te produceren, vergt het bewijs een buitensporige hoeveelheid tijd om te produceren. De proefproductie kan enkele dagen duren.
+
++++
 
 +++**Onderhoudsupdate op 14 september 2023**
 
