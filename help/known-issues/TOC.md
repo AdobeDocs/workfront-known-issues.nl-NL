@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: d07a0053faaecd977c5a7a4ea19dc6bfdfaf7792
+source-git-commit: 69236df0167ef6eb14ee4e646a5e142533f13dfd
 workflow-type: tm+mt
-source-wordcount: '1174'
+source-wordcount: '1188'
 ht-degree: 0%
 
 ---
@@ -144,6 +144,8 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [Bekende problemen in [!DNL Workfront Proof]](workfrontproof.md)
    + Huidige problemen in [!DNL Workfront Proof] {#proof-current}
+      + [Workfront Proof: dashboardgegevens zijn niet altijd nauwkeurig](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
+      + [Workfront Proof: zoekgegevens zijn niet altijd correct](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
       + [Proefdrukken: proefdrukken worden langzaam gemaakt in de voorvertoningsomgeving](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
       + [[!DNL Workfront Proof]: 500 fout bij toegang [!DNL Workfront Proof] via API of [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof]: Zoekopdracht retourneert geen resultaten](known-issues-workfront-proof/proof-search-returns-no-results.md)

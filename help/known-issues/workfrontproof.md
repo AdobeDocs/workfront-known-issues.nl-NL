@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: d07a0053faaecd977c5a7a4ea19dc6bfdfaf7792
+source-git-commit: 69236df0167ef6eb14ee4e646a5e142533f13dfd
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
@@ -51,6 +51,8 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Proof: dashboardgegevens zijn niet altijd nauwkeurig](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 19 september 2023 |
+| [Workfront Proof: zoekgegevens zijn niet altijd correct](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | 19 september 2023 |
 | [Proefdrukken: proefdrukken worden niet weergegeven in goedgekeurde rapporten](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 3 augustus 2023 |
 | [Proefdrukken: proefdrukken worden langzaam gemaakt in de voorvertoningsomgeving](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 9 juni 2023 |
 | [Proefdrukken: proefdrukken worden langzaam gemaakt in de voorvertoningsomgeving](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 8 juni 2023 |
