@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
+source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '641'
 ht-degree: 0%
 
 ---
@@ -41,13 +41,8 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!DNL Workfront]: Op objectpagina ontbreken elementen](known-issues-workfront/wf-workfront-work-item-missing-elements.md) | 20 september 2023 |
-| [Proefdrukken: het genereren van proefdrukken duurt te lang](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md) | 18 september 2023 |
-| [Documenten: kan document niet naar een andere map verplaatsen](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 15 september 2023 |
-| [Proefdrukken: proefdrukken worden weergegeven zonder verzadiging of bijgesneden](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 15 september 2023 |
 | [Updates: Opmerkingen die zijn gemaakt in nieuwe ervaringen met opmerkingen zijn niet zichtbaar in een oudere ervaring](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 15 september 2023 |
-| [Borden: Kan geen gebruiker toewijzen aan een board op een werkstroom](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md) | 15 september 2023 |
 | [Updates: Opmerking wordt weergegeven zoals deze door de onjuiste gebruiker is verzonden](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md) | 15 september 2023 |
-| [Documenten: XML-fout bij downloaden](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 14 september 2023 |
 | [Proefdrukken: tekstopmaak in statische proefdrukken komt niet overeen met opmaak in website](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 14 september 2023 |
 | [[!UICONTROL Resource Planner]: De planner wordt niet geladen wanneer het filter wordt toegepast](known-issues-workfront/wf-resource-planning-cannot-load.md) | 7 september 2023 |
 | [Aangepaste formulieren: kan aangepast veld niet verwijderen](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md) | 1 september 2023 |

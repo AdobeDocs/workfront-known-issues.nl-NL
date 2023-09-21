@@ -3,15 +3,19 @@ title: "Proefdrukken: proefdrukken worden weergegeven als onverzadigd of bijgesn
 description: "Deze problemen zijn gemeld bij het maken van een proef via een URL."
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
+source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
 
 # Proefdrukken: proefdrukken worden weergegeven zonder verzadiging of bijgesneden
+
+>[!NOTE]
+>
+>Dit probleem is op 21 september 2023 opgelost.
 
 De volgende problemen zijn gemeld bij het maken van een proef via een URL.
 

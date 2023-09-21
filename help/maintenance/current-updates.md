@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2abcb617a2462f5e2a3231b35b0153add23d6969
+source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
 workflow-type: tm+mt
-source-wordcount: '5240'
+source-wordcount: '5269'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-mai
 
 ## Updates in september 2023
 
-+++**(Geplande) onderhoudsupdate op 21 september 2023**
++++**Onderhoudsupdate op 21 september 2023**
 
 **Kan geen gebruiker toewijzen aan een board op een werkstroom**
 
@@ -31,6 +31,12 @@ _Borden_
 Wanneer een gebruiker probeert een andere gebruiker aan een taak van een raad toe te wijzen die deel van een werkstroom uitmaakt, en de naam van de gebruiker begint te typen, verschijnt de gebruiker niet op de drop-down lijst van beschikbare gebruikers. Dit gebeurt zelfs wanneer de gebruiker actief is en een lid van zowel de raad als de werkstroom.
 
 Het kan ook voorkomen dat gedeactiveerde gebruikers in de vervolgkeuzelijst worden weergegeven.
+
+**Kan item van checklist niet verwijderen**
+
+_Borden_
+
+Wanneer een gebruiker een controlelijstitem probeert te verwijderen van een kaart op een board, wordt [!UICONTROL Delete] De knop reageert niet en het item wordt niet verwijderd.
 
 **Aangepaste formulieren worden langzaam geladen**
 

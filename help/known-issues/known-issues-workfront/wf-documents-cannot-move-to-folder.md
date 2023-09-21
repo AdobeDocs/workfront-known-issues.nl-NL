@@ -3,15 +3,19 @@ title: "Documenten: kan document niet naar een andere map verplaatsen"
 description: "Wanneer een gebruiker een document naar een objectmap verplaatst, kan hij of zij het object niet naar een andere map verplaatsen."
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
+source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
 
 # Documenten: kan document niet naar een andere map verplaatsen
+
+>[!NOTE]
+>
+>Dit probleem is op 30 september 2023 opgelost.
 
 Wanneer een gebruiker een document naar een objectmap verplaatst, kan hij of zij het object niet naar een andere map verplaatsen.
 
