@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
+source-git-commit: 917038bf522f2115c1078a96206ed0a0554cdd6a
 workflow-type: tm+mt
-source-wordcount: '1204'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Werklastbalans: gebruiker geeft weer dat de toewijzing te hoog is vanwege een onjuiste capaciteit](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md)
       + [[!DNL Workfront]: Op objectpagina ontbreken elementen](known-issues-workfront/wf-workfront-work-item-missing-elements.md)
       + [Bewijs: extra, lege opmerking bij het maken van een opmerking over een proefdruk](known-issues-workfront/wf-proofs-extra-blank-comment.md)
       + [Borden: Kaarten zonder titel worden weergegeven en worden weergegeven op de achtergrond](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md)

@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 534ea87f86e27f0211c8ce12e266dc1310af5501
+source-git-commit: 917038bf522f2115c1078a96206ed0a0554cdd6a
 workflow-type: tm+mt
-source-wordcount: '610'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,8 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Borden: horizontale schuifbalk is niet aanwezig](known-issues-workfront/wf-board-no-scrollbar.md) | 26 september 2023 |
 | [[!UICONTROL Home]: [!UICONTROL Requests] widget geeft niet alle toegewezen teams weer](known-issues-workfront/wf-home-request-shows-one-team.md) | 7 september 2023 |
-| [Projecten: project is leeg wanneer het wordt geladen uit nieuwe [!UICONTROL Home] ervaring](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md) | 1 september 2023 |
-| [[!UICONTROL Home]: &quot;[!UICONTROL Mentions]&quot;-widget in nieuw [!UICONTROL Home] is niet beperkt tot berichten waarin de gebruiker een tag heeft](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 10 augustus 2023 |
 
 {style="table-layout:auto"}
 
@@ -37,13 +36,11 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Werklastbalans: gebruiker geeft weer dat de toewijzing te hoog is vanwege een onjuiste capaciteit](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 26 september 2023 |
 | [Bewijs: extra, lege opmerking bij het maken van een opmerking over een proefdruk](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 19 september 2023 |
-| [Borden: Kaarten zonder titel worden weergegeven en worden weergegeven op de achtergrond](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md) | 21 september 2023 |
 | [[!DNL Workfront]: Op objectpagina ontbreken elementen](known-issues-workfront/wf-workfront-work-item-missing-elements.md) | 20 september 2023 |
 | [Updates: Opmerkingen die zijn gemaakt in nieuwe ervaringen met opmerkingen zijn niet zichtbaar in een oudere ervaring](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 15 september 2023 |
-| [Updates: Opmerking wordt weergegeven zoals deze door de onjuiste gebruiker is verzonden](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md) | 15 september 2023 |
 | [Aangepaste formulieren: kan aangepast veld niet verwijderen](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md) | 1 september 2023 |
-| [[!UICONTROL Workload Balancer]: [!UICONTROL Total Hours] komt niet overeen met de som van [!UICONTROL Planned Hours]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 22 augustus 2023 |
 | [Borden: Problemen bij het laden van een bord](known-issues-workfront/wf-boards-issues-with-loading.md) | 22 augustus 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] steungeval op Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augustus 2022 |
 
@@ -55,6 +52,7 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Home]: &quot;[!UICONTROL Mentions]&quot;-widget in nieuw [!UICONTROL Home] is niet beperkt tot berichten waarin de gebruiker een tag heeft](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 25 september 2023 |
 | [[!UICONTROL Home]: Nieuw [!UICONTROL Home] widgetvoorvertoning geeft de juiste naam van het object niet weer](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 7 september 2023 |
 | [Lay-outsjablonen: Lay-outsjablonen veroorzaken inconsistenties in rapporten](known-issues-workfront/wf-layout-templates-classic.md) | 21 augustus 2023 |
 | [Proefdrukken: goedkeuringsopties worden niet weergegeven in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 10 augustus 2023 |
