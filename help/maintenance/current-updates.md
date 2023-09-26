@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
+source-git-commit: f7d0e60769397fbd7e946476f3b84220720bb047
 workflow-type: tm+mt
-source-wordcount: '5269'
+source-wordcount: '5408'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,32 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in september 2023
+
++++**(Geplande) onderhoudsupdate op 28 september 2023**
+
+**Kan aangepast veld niet verwijderen**
+
+_Aangepaste formulieren_
+
+Wanneer een gebruiker een aangepast veld probeert te verwijderen, kan het niet worden verwijderd en wordt het bericht &quot;[!UICONTROL Database error due to constraint violation].&quot;
+
+**Opmerkingen die zijn gemaakt in een nieuwe opmerkingervaring zijn niet zichtbaar in een oudere ervaring**
+
+_Updates_
+
+Wanneer een gebruiker een opmerking maakt in de nieuwe opmerkingervaring en die opmerking wordt weergegeven in het gebied Opmerkingen van de nieuwe ervaring, wordt dezelfde opmerking mogelijk niet weergegeven in de oudere opmerkingervaring. Dit kan ertoe leiden dat gebruikers die de oudere ervaring gebruiken opmerkingen vergeten.
+
+**Objectpagina bevat ontbrekende elementen**
+
+_Workfront_
+
+Wanneer een gebruiker naar een aangepaste sectie op een object navigeert in [!DNL Workfront]Er ontbreken wellicht enkele elementen op de pagina die wordt geladen. Deze elementen kunnen het volgende omvatten:
+
+* Het linkernavigatievenster
+* De naam van het object waartoe de aangepaste sectie behoort
+* Velden en informatie in de koptekst
+
++++
 
 +++**Onderhoudsupdate op 21 september 2023**
 
