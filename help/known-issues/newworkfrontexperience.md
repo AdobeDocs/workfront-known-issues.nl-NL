@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: fa52023b015488a05b0f8b2b09bf3e07f1edf1ed
+source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '574'
 ht-degree: 0%
 
 ---
@@ -37,12 +37,9 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Resource Planner]: De planner wordt niet geladen wanneer het filter wordt toegepast](known-issues-workfront/wf-resource-planning-cannot-load.md) | 28 september 2023 |
 | [Werklastbalans: gebruiker geeft weer dat de toewijzing te hoog is vanwege een onjuiste capaciteit](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 26 september 2023 |
 | [Bewijs: extra, lege opmerking bij het maken van een opmerking over een proefdruk](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 19 september 2023 |
-| [[!DNL Workfront]: Op objectpagina ontbreken elementen](known-issues-workfront/wf-workfront-work-item-missing-elements.md) | 20 september 2023 |
-| [Updates: Opmerkingen die zijn gemaakt in nieuwe ervaringen met opmerkingen zijn niet zichtbaar in een oudere ervaring](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 15 september 2023 |
-| [Aangepaste formulieren: kan aangepast veld niet verwijderen](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md) | 1 september 2023 |
-| [Borden: Problemen bij het laden van een bord](known-issues-workfront/wf-boards-issues-with-loading.md) | 22 augustus 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] steungeval op Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augustus 2022 |
 
 {style="table-layout:auto"}

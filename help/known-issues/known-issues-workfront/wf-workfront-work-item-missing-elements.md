@@ -3,15 +3,19 @@ title: "[!DNL Workfront]: Op objectpagina ontbreken elementen"
 description: "Wanneer een gebruiker in [!DNL Workfront], bevat de pagina die wordt geladen wellicht enkele elementen."
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 402424b48ce4de8c6907803ede4c60fcf1014e53
+source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
 
 # [!DNL Workfront]: Op objectpagina ontbreken elementen
+
+>[!NOTE]
+>
+>Dit probleem is op 28 september 2023 opgelost.
 
 Wanneer een gebruiker naar een aangepaste sectie op een object navigeert in [!DNL Workfront]Er ontbreken wellicht enkele elementen op de pagina die wordt geladen. Deze elementen kunnen het volgende omvatten:
 

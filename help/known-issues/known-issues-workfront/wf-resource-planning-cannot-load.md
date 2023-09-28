@@ -3,19 +3,15 @@ title: "Resource Planner: Planner wordt niet geladen wanneer filter wordt toegep
 description: "Wanneer een gebruiker probeert om de Planner van het Middel te laden, laadt de planner niet, en de gebruiker ziet een foutenmelding."
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: 534ea87f86e27f0211c8ce12e266dc1310af5501
+source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
 
 # [!UICONTROL Resource Planner]: De planner wordt niet geladen wanneer het filter wordt toegepast
-
->[!NOTE]
->
->Dit probleem is op 21 september 2023 opgelost.
 
 Wanneer een gebruiker probeert de [!UICONTROL Resource Planner], wordt de planner niet geladen en ziet de gebruiker het volgende foutbericht:
 
