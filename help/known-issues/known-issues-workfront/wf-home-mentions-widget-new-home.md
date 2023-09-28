@@ -1,17 +1,23 @@
 ---
-title: "Home: De widget voor herinneringen in new Home is niet beperkt tot berichten waaraan de gebruiker is gelabeld."
-description: "Wanneer een gebruiker de widget Notities in de nieuwe Home-ervaring weergeeft, ziet hij of zij opmerkingen die niet van tags zijn voorzien of in zijn of haar naam zijn vermeld."
+title: 'Home: de widget voor herinneringen in new Home is niet beperkt tot berichten waaraan de gebruiker is gelabeld.'
+description: Wanneer een gebruiker de widget Onthoudingen weergeeft in de nieuwe Home-ervaring, ziet hij of zij opmerkingen die niet van tags zijn voorzien of in worden genoemd.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
+exl-id: 116b2005-7064-4efe-924f-d181e2fff26b
+source-git-commit: 935d1f4733e5f5d2179e707725ba90699bc0dab5
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
 
-
 # [!UICONTROL Home]: &quot;[!UICONTROL Mentions]&quot;-widget in nieuw [!UICONTROL Home] is niet beperkt tot berichten waarin de gebruiker een tag heeft
+
+<!--Requested article, won't fix-->
+
+>[!NOTE]
+>
+>Deze kwestie is gesloten omdat het zoals ontworpen werkt.
 
 Wanneer een gebruiker &quot;[!UICONTROL Mentions]&quot;-widget in de nieuwe [!UICONTROL Home] ervaren, zien zij commentaren dat zij niet worden geëtiketteerd of in vermeld. De widget bevat opmerkingen waarin:
 
@@ -21,4 +27,3 @@ Wanneer een gebruiker &quot;[!UICONTROL Mentions]&quot;-widget in de nieuwe [!UI
 * De gebruiker is de primaire contactpersoon voor de taak of uitgave
 
 _Voor het eerst gemeld op 1 augustus 2023._
-
