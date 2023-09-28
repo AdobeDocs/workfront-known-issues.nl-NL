@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: e1d9736c45250c347965cc52edd43755d5b76809
+source-git-commit: ccf3009d99f381b6c0895bf3a209ab848c09aaa2
 workflow-type: tm+mt
-source-wordcount: '1246'
+source-wordcount: '1254'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Meldingen: e-mails met automatische herinnering worden niet verzonden](known-issues-workfront/wf-notifications-overdue-error.md)
       + [Documentintegratie: fout bij het slepen van middelen naar een map in een Experience Manager Assets-integratie](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md)
       + [Gebruikers: foutbericht wordt onjuist weergegeven wanneer de gebruiker wordt herinnerd aan de registratie](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md)
       + [Delen: Fout bij delen van object](known-issues-workfront/wf-sharing-user-cannot-share-object.md)

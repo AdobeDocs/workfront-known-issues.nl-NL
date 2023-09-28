@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e1d9736c45250c347965cc52edd43755d5b76809
+source-git-commit: ccf3009d99f381b6c0895bf3a209ab848c09aaa2
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: '611'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Meldingen: e-mails met automatische herinnering worden niet verzonden](known-issues-workfront/wf-notifications-overdue-error.md) | 28 september 2023 |
 | [Documentintegratie: fout bij het slepen van middelen naar een map in een Experience Manager Assets-integratie](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | 28 september 2023 |
 | [Delen: Fout bij delen van object](known-issues-workfront/wf-sharing-user-cannot-share-object.md) | 27 september 2023 |
 | [Borden: horizontale schuifbalk is niet aanwezig](known-issues-workfront/wf-board-no-scrollbar.md) | 26 september 2023 |
