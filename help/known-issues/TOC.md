@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 6facca06aba9eeb16ecb2a79142c22265dbafea2
+source-git-commit: bd007abf526c98f00562e520afc34a17b1df653d
 workflow-type: tm+mt
-source-wordcount: '1264'
+source-wordcount: '1272'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Borden: Het bord wordt langzaam geladen](known-issues-workfront/wf-boards-board-loads-slowly.md)
+      + [Borden: Kan kaarten niet verplaatsen](known-issues-workfront/wf-boards-can-not-move-cards.md)
       + [Boeken: op kaarten wordt niet het juiste aantal controlelijstitems weergegeven](known-issues-workfront/wf-boards-checklist-item-count.md)
       + [Meldingen: e-mails met automatische herinnering worden niet verzonden](known-issues-workfront/wf-notifications-overdue-error.md)
       + [Documentintegratie: fout bij het slepen van middelen naar een map in een Experience Manager Assets-integratie](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md)

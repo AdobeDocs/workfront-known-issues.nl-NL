@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 6facca06aba9eeb16ecb2a79142c22265dbafea2
+source-git-commit: bd007abf526c98f00562e520afc34a17b1df653d
 workflow-type: tm+mt
-source-wordcount: '622'
+source-wordcount: '632'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,8 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Borden: Het bord wordt langzaam geladen](known-issues-workfront/wf-boards-board-loads-slowly.md) | 2 oktober 2023 |
+| [Borden: Kan kaarten niet verplaatsen](known-issues-workfront/wf-boards-can-not-move-cards.md) | 2 oktober 2023 |
 | [Gebruikers: foutbericht wordt onjuist weergegeven wanneer de gebruiker wordt herinnerd aan de registratie](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | 28 september 2023 |
 | [[!UICONTROL Resource Planner]: De planner wordt niet geladen wanneer het filter wordt toegepast](known-issues-workfront/wf-resource-planning-cannot-load.md) | 28 september 2023 |
 | [Werklastbalans: gebruiker geeft weer dat de toewijzing te hoog is vanwege een onjuiste capaciteit](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 26 september 2023 |
