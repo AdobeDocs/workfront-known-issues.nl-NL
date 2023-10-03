@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f7d0e60769397fbd7e946476f3b84220720bb047
+source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
 workflow-type: tm+mt
-source-wordcount: '5408'
+source-wordcount: '5434'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,21 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
+## Updates in oktober 2023
+
++++**(Geplande) onderhoudsupdate op 5 oktober 2023**
+
+**E-mails met automatische herinnering worden niet verzonden**
+
+_Meldingen_
+
+Automatische e-mailherinneringen worden niet verzonden. Dit begon op 14 september 2023.
+
++++
+
 ## Updates in september 2023
 
-+++**(Geplande) onderhoudsupdate op 28 september 2023**
++++**Onderhoudsupdate op 28 september 2023**
 
 **Kan aangepast veld niet verwijderen**
 

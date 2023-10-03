@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: bd007abf526c98f00562e520afc34a17b1df653d
+source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '678'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,8 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proefdrukken: fout bij het delen van proefdrukken via e-mailkoppeling](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 3 oktober 2023 |
+| [Aanmelden: Er wordt een fout weergegeven bij het opnieuw instellen van het wachtwoord, hoewel de handeling is voltooid](known-issues-workfront/wf-login-whoops-resetting-password.md) | 3 oktober 2023 |
 | [Boeken: op kaarten wordt niet het juiste aantal controlelijstitems weergegeven](known-issues-workfront/wf-boards-checklist-item-count.md) | 29 september 2023 |
 | [Meldingen: e-mails met automatische herinnering worden niet verzonden](known-issues-workfront/wf-notifications-overdue-error.md) | 28 september 2023 |
 | [Documentintegratie: fout bij het slepen van middelen naar een map in een Experience Manager Assets-integratie](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | 28 september 2023 |
@@ -40,6 +42,8 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Werklastbalans: handmatige wijzigingen in uren zijn niet nauwkeurig nadat pagina is vernieuwd](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 3 oktober 2023 |
+| [Home: Gedelegeerde taken worden niet gedeeld en komen niet voor in de lijst Home Work](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 3 oktober 2023 |
 | [Borden: Het bord wordt langzaam geladen](known-issues-workfront/wf-boards-board-loads-slowly.md) | 2 oktober 2023 |
 | [Borden: Kan kaarten niet verplaatsen](known-issues-workfront/wf-boards-can-not-move-cards.md) | 2 oktober 2023 |
 | [Gebruikers: foutbericht wordt onjuist weergegeven wanneer de gebruiker wordt herinnerd aan de registratie](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | 28 september 2023 |

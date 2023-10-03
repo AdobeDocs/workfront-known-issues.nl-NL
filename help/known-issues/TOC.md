@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: bd007abf526c98f00562e520afc34a17b1df653d
+source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
 workflow-type: tm+mt
-source-wordcount: '1272'
+source-wordcount: '1314'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Werklastbalans: handmatige wijzigingen in uren zijn niet nauwkeurig nadat pagina is vernieuwd](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
+      + [Home: Gedelegeerde taken worden niet gedeeld en komen niet voor in de lijst Home Work](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
+      + [Proefdrukken: fout bij het delen van proefdrukken via e-mailkoppeling](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)
+      + [Aanmelden: Er wordt een fout weergegeven bij het opnieuw instellen van het wachtwoord, hoewel de handeling is voltooid](known-issues-workfront/wf-login-whoops-resetting-password.md)
       + [Borden: Het bord wordt langzaam geladen](known-issues-workfront/wf-boards-board-loads-slowly.md)
       + [Borden: Kan kaarten niet verplaatsen](known-issues-workfront/wf-boards-can-not-move-cards.md)
       + [Boeken: op kaarten wordt niet het juiste aantal controlelijstitems weergegeven](known-issues-workfront/wf-boards-checklist-item-count.md)
