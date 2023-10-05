@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: bb14df1c2326830d02c7db71b5affeb92651fd19
+source-git-commit: f55aca778701e1319eaa7a7eb6ce8f3d0cd2b8c5
 workflow-type: tm+mt
-source-wordcount: '5424'
+source-wordcount: '5562'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,37 @@ Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-mai
 
 ## Updates in oktober 2023
 
-+++**(Geplande) onderhoudsupdate op 5 oktober 2023**
++++**Onderhoudsupdate op 5 oktober 2023**
+
+**Startladingen langzaam**
+
+_Borden_
+
+Wanneer een gebruiker een board laadt, wordt het board uiterst langzaam geladen. Dit kan gebeuren, ook al heeft het bord een klein aantal kaarten.
+
+Gearchiveerde kaarten hadden, zelfs als ze niet worden weergegeven, invloed op de laadtijd van het bord.
+
+**Kan kaarten niet verplaatsen tussen kolommen**
+
+_Borden_
+
+Wanneer een gebruiker een kaart op een bord probeert te verplaatsen, wordt de kaart niet verplaatst. Dit gebeurt in de volgende omstandigheden:
+
+* Slepen en slepen
+* Optie Verplaatsen op kaart
+* De kaart bewerken
+
+**Kan kaarten niet uit de inlaatkolom verplaatsen**
+
+_Borden_
+
+De gebruiker kan een kaart uit de inlaatkolom naar een andere kolom op het bord slepen, maar de volgende kaarten kunnen niet uit de inlaatkolom worden verplaatst.
+
+**Groeperen naar prestaties op het bord**
+
+_Borden_
+
+Wanneer de gebruiker de kaarten probeert te groeperen door middel van toewijzingen of tags, worden de prestaties van het toetsenbord zeer traag.
 
 **E-mails met automatische herinnering worden niet verzonden**
 

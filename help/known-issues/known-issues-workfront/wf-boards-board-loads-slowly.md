@@ -1,17 +1,21 @@
 ---
-title: "Borden: Het bord wordt langzaam geladen"
-description: "Wanneer een gebruiker een bord laadt, wordt het bord uiterst langzaam geladen. Dit kan gebeuren, ook al heeft het bord een klein aantal kaarten."
+title: 'Borden: ladingen op het bord traag'
+description: Wanneer een gebruiker een board laadt, wordt het board uiterst langzaam geladen. Dit kan gebeuren, ook al heeft het bord een klein aantal kaarten.
 hidefromtoc: true
 feature: Agile
-source-git-commit: bd007abf526c98f00562e520afc34a17b1df653d
+exl-id: 4253189f-4554-47fe-9812-cd3103cf235e
+source-git-commit: f55aca778701e1319eaa7a7eb6ce8f3d0cd2b8c5
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
 
-
 # Borden: Het bord wordt langzaam geladen
+
+>[!NOTE]
+>
+>Dit probleem is op 5 oktober 2023 opgelost.
 
 Wanneer een gebruiker een board laadt, wordt het board uiterst langzaam geladen. Dit kan gebeuren, ook al heeft het bord een klein aantal kaarten.
 
