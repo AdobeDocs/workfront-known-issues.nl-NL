@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
+source-git-commit: 3148dfe741ca27262b947e3123fd7fb2df1b3556
 workflow-type: tm+mt
-source-wordcount: '1314'
+source-wordcount: '1320'
 ht-degree: 0%
 
 ---
@@ -182,6 +182,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Bekende problemen in Workfront Fusion](workfrontfusion.md)
    + Huidige problemen in [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Workfront Fusion]: Fout bij verzenden van uitnodiging met [!DNL Workfront] > [!UICONTROL Misc actions] module](known-issues-workfront-fusion/fusion-send-invite-error.md)
       + [[!DNL Workfront Fusion]: Slaapmodule zorgt ervoor dat scenario&#39;s vastlopen](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
       + [[!DNL Workfront Fusion]: Scenario mislukt met &quot;[!UICONTROL read ECONNRESET]&quot;-fout](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
       + [[!DNL Workfront Fusion]: Kan waarde niet invoeren in [!DNL Workfront] > [!UICONTROL Watch Events] filter](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)

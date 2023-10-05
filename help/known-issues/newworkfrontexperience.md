@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 79ffdc10539219598ce2cc888c319414806c1054
+source-git-commit: 3148dfe741ca27262b947e3123fd7fb2df1b3556
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '652'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] module](known-issues-workfront-fusion/fusion-send-invite-error.md) | 5 oktober 2023 |
 | [Proefdrukken: fout bij het delen van proefdrukken via e-mailkoppeling](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 3 oktober 2023 |
 | [Aanmelden: Er wordt een fout weergegeven bij het opnieuw instellen van het wachtwoord, hoewel de handeling is voltooid](known-issues-workfront/wf-login-whoops-resetting-password.md) | 3 oktober 2023 |
 | [Boeken: op kaarten wordt niet het juiste aantal controlelijstitems weergegeven](known-issues-workfront/wf-boards-checklist-item-count.md) | 29 september 2023 |
