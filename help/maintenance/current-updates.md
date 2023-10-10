@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f55aca778701e1319eaa7a7eb6ce8f3d0cd2b8c5
+source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
 workflow-type: tm+mt
-source-wordcount: '5562'
+source-wordcount: '5652'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,26 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in oktober 2023
+
++++**(Geplande) onderhoudsupdate op 12 oktober 2023**
+
+**Berekende velden behouden geen waarde wanneer uitgave wordt omgezet in taak**
+
+_Aangepaste formulieren_
+
+Berekende velden die zelf naar verwijzen, behouden hun waarden niet wanneer een uitgave wordt omgezet in een taak.
+
+Wanneer u de uitgave omzet in een taak, wordt de gewenste waarde correct weergegeven in het bewerkingsvenster. Nadat de conversie is voltooid, wordt in het berekende veld echter de waarde &quot;N.v.t.&quot; weergegeven.
+
+**Fout bij wijzigen van filters in[!UICONTROL Home]**
+
+_Home_
+
+Wanneer een gebruiker de filters op [!UICONTROL Home]de [!UICONTROL Home] wordt niet geladen en de gebruiker ziet de volgende fout:
+
+&quot;[!UICONTROL An error has occurred and we are working to resolve the issue. To continue with your work, try refreshing this browser page.]&quot;
+
++++
 
 +++**Onderhoudsupdate op 5 oktober 2023**
 
