@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
+source-git-commit: 392bc185c5549300b05299751af260df1d161009
 workflow-type: tm+mt
-source-wordcount: '695'
+source-wordcount: '668'
 ht-degree: 0%
 
 ---
@@ -27,15 +27,10 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | -----------------------------------------------------------------| ----------------- |
 | [Proefdrukken: voltooide proefdrukken blijven ingeschakeld [!UICONTROL Awaiting My Approval] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 9 oktober 2023 |
 | [Proefdrukken: kan geen nieuwe versie van een proefdruk maken](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 9 oktober 2023 |
-| [[!UICONTROL Workload Balancer]: [!UICONTROL Total Hours] komt niet overeen met de som van [!UICONTROL Planned Hours]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 6 oktober 2023 |
-| [Rapporten: persoonlijke updates worden weergegeven in velden voor waardeexpressies](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 6 oktober 2023 |
 | [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] module](known-issues-workfront-fusion/fusion-send-invite-error.md) | 5 oktober 2023 |
 | [Proefdrukken: fout bij het delen van proefdrukken via e-mailkoppeling](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 3 oktober 2023 |
-| [Aanmelden: Er wordt een fout weergegeven bij het opnieuw instellen van het wachtwoord, hoewel de handeling is voltooid](known-issues-workfront/wf-login-whoops-resetting-password.md) | 3 oktober 2023 |
 | [Boeken: op kaarten wordt niet het juiste aantal controlelijstitems weergegeven](known-issues-workfront/wf-boards-checklist-item-count.md) | 29 september 2023 |
-| [Documentintegratie: fout bij het slepen van middelen naar een map in een Experience Manager Assets-integratie](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | 28 september 2023 |
 | [Delen: Fout bij delen van object](known-issues-workfront/wf-sharing-user-cannot-share-object.md) | 27 september 2023 |
-| [Borden: horizontale schuifbalk is niet aanwezig](known-issues-workfront/wf-board-no-scrollbar.md) | 26 september 2023 |
 | [[!UICONTROL Home]: [!UICONTROL Requests] widget geeft niet alle toegewezen teams weer](known-issues-workfront/wf-home-request-shows-one-team.md) | 7 september 2023 |
 
 {style="table-layout:auto"}
@@ -46,11 +41,13 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Taken: [!UICONTROL Planned Hours] worden opnieuw toegewezen wanneer een extra gebruiker aan een taak wordt toegewezen](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md) | 12 oktober 2023 |
+| [[!UICONTROL Workload Balancer]: [!UICONTROL Total Hours] komt niet overeen met de som van [!UICONTROL Planned Hours]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 12 oktober 2023 |
+| [Aanmelden: Er wordt een fout weergegeven bij het opnieuw instellen van het wachtwoord, hoewel de handeling is voltooid](known-issues-workfront/wf-login-whoops-resetting-password.md) | 12 oktober 2023 |
+| [Rapporten: persoonlijke updates worden weergegeven in velden voor waardeexpressies](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 12 oktober 2023 |
 | [Tijdschema&#39;s: Persoonlijke taak wordt weergegeven op het tijdblad](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 10 oktober 2023 |
-| [Proefdrukken: kan geen proefdruk genereren](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 9 oktober 2023 |
 | [Werklastbalans: handmatige wijzigingen in uren zijn niet nauwkeurig nadat pagina is vernieuwd](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 3 oktober 2023 |
 | [Home: Gedelegeerde taken worden niet gedeeld en komen niet voor in de lijst Home Work](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 3 oktober 2023 |
-| [Gebruikers: foutbericht wordt onjuist weergegeven wanneer de gebruiker wordt herinnerd aan de registratie](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | 28 september 2023 |
 | [Werklastbalans: gebruiker geeft weer dat de toewijzing te hoog is vanwege een onjuiste capaciteit](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 26 september 2023 |
 | [Bewijs: extra, lege opmerking bij het maken van een opmerking over een proefdruk](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 19 september 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] steungeval op Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augustus 2022 |

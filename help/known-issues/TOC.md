@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
+source-git-commit: 392bc185c5549300b05299751af260df1d161009
 workflow-type: tm+mt
-source-wordcount: '1351'
+source-wordcount: '1363'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Taken: [!UICONTROL Planned Hours] worden opnieuw toegewezen wanneer een extra gebruiker aan een taak wordt toegewezen](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
       + [Tijdschema&#39;s: Persoonlijke taak wordt weergegeven op het tijdblad](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
       + [Proefdrukken: kan geen proefdruk genereren](known-issues-workfront/wf-proofs-cannot-generate-proof.md)
       + [Proefdrukken: voltooide proefdrukken blijven ingeschakeld [!UICONTROL Awaiting My Approval] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
