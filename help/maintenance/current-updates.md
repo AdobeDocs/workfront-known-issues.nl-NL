@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
+source-git-commit: e15a384697a60f4f6b909ebb44749cf554e6f9c4
 workflow-type: tm+mt
-source-wordcount: '5652'
+source-wordcount: '5691'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,13 @@ Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-mai
 
 ## Updates in oktober 2023
 
-+++**(Geplande) onderhoudsupdate op 12 oktober 2023**
++++**Onderhoudsupdate op 12 oktober 2023**
+
+**Workstreams verwijderd voor accounts die deze niet gebruiken**
+
+_Borden_
+
+Voor accounts die nog nooit een werkstroom hebben gemaakt in de toepassing Boards, is het gebied Workstreams verwijderd van het dashboard Boards. Accounts die wel werkstromen gebruiken, hebben nog steeds toegang tot deze accounts.
 
 **Berekende velden behouden geen waarde wanneer uitgave wordt omgezet in taak**
 
