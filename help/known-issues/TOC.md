@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 392bc185c5549300b05299751af260df1d161009
+source-git-commit: c4656bcfbaa69fffae814aa83c2212223f032778
 workflow-type: tm+mt
-source-wordcount: '1363'
+source-wordcount: '1198'
 ht-degree: 0%
 
 ---
@@ -87,39 +87,23 @@ ht-degree: 0%
       + [Filters: &quot;[!UICONTROL Enable system-wide]&quot; en &quot;[!UICONTROL View system-wide]&quot; Andere functionaliteit vertegenwoordigen](known-issues-workfront/wf-filters-enable-system-wide.md)
       + [Rapporten: gebruiksrapport wordt niet geladen](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
       + [Proefdrukken: goedkeuringsopties worden niet weergegeven in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
-      + [Timesheets: Fouten bij het registreren van uren op een timesheet](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
       + [[!UICONTROL Home]: Items worden niet weergegeven in [!UICONTROL Home Work List]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
-      + [Rapporten: &quot;[!UICONTROL Whoops]&quot;-fout bij weergeven van matrixrapport](known-issues-workfront/wf-reports-error-matrix-report.md)
-      + [Proefdrukken: proefdrukken worden langzaam gemaakt in de voorvertoningsomgeving](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
       + [Proefdrukken: proefdrukken worden langzaam gemaakt in de voorvertoningsomgeving](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
-      + [Aangepaste formulieren: logica voor weergave gaat verloren wanneer een aangepast formulier wordt bewerkt in een nieuwe formulierontwerper (bèta)](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
-      + [Stijl: [!UICONTROL Kanban] board wordt leeg gebruikt bij het bewerken van kaarten](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
       + [Rapporten: rapport sorteert niet correct wanneer het sorteren door om het even welk gebied](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
       + [Werklastverdeling: uren worden onverwacht opnieuw verdeeld](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [Aangepaste formulieren: &quot;[!UICONTROL Whoops]&quot; fout bij het instellen van een berekend veld](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
-      + [Rapporten: sorteren op kolomkop keert terug naar vorige sortering](known-issues-workfront/wf-reports-sorting-not-applied.md)
-      + [Projecten: fout bij gebruik [!UICONTROL Milestone] weergave](known-issues-workfront/wf-projects-error-in-milestone-view.md)
-      + [Taken: er wordt geen foutbericht weergegeven wanneer de taak opnieuw wordt geordend in [!UICONTROL Pending approval] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
-      + [Timesheets: filter wordt niet toegepast wanneer de pagina wordt vernieuwd](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
       + [Proefdrukken: vergrendelde proefdrukgoedkeuringen worden nog steeds weergegeven in de werklijst](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
       + [Proefdrukken: [!UICONTROL Proof Activity] tab wordt geopend [!UICONTROL Proof Details]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
-      + [Sjablonen: kan geen sjabloon selecteren vanuit [!UICONTROL Favorite templates]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [Filters: kan geen filter delen uit een rapport op een dashboard](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
       + [Projecten: [!UICONTROL Home Group] aangepaste statussen zijn niet beschikbaar wanneer u een project maakt op basis van een sjabloon](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
       + [Proefdrukken: gereedschap Meten accepteert geen decimale punten](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
-      + [Zoeken: [!DNL Workfront] Zoektijden uit](known-issues-workfront/wf-search-search-times-out.md)
-      + [Proefdrukken: kan proefdrukversie niet wisselen bij weergave proefdrukproef](known-issues-workfront/wf-proofs-cannot-switch-version.md)
-      + [Proefdrukken: de gebruiker is gedeactiveerd vanuit de proefdrukworkflow en krijgt &quot;[!UICONTROL Access not permitted]&quot; wanneer u een proefdruk opent](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
       + [Documenten: problemen met de documentlijst](known-issues-workfront/wf-documents-list-missing-elements.md)
-      + [Proefdrukken: het proefgebied wordt niet geactiveerd wanneer de deadline van de vorige fase verstrijkt](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
       + [Documenten: 404 fout bij toegang tot document dat is gekoppeld via [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)
       + [Documenten: [!UICONTROL Proofing Activities] opties leiden tot aanmeldingspagina](known-issues-workfront/wf-documents-taken-to-login-screen.md)
-      + [Filters: filter wordt niet toegepast wanneer de pagina wordt vernieuwd](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md)
       + [[!UICONTROL Workload Balancer]: Uren worden niet aangepast om rekening te houden met vrije tijd](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [[!UICONTROL Updates]: Kan de tijd voor het aanmelden van de huidige dag in het dialoogvenster [!UICONTROL Updates] gebied](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
       + [Documenten: machtigingen worden niet overgeërfd wanneer een document naar een nieuw project wordt verplaatst](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
       + [Werklastbalans: onjuiste resultaten bij gebruik van meerdere filters tegelijk](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
-      + [Projecten: het project dat van uitgave wordt omgezet erft geen toestemmingen van portefeuille of programma](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
       + [Documenten: Fout bij het uploaden van een groot bestand](known-issues-workfront/wf-documents-large-uploads-fail.md)
       + [Documenten: kan geen documenten toevoegen van [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
       + [Documenten: documentmachtigingen worden niet overgeërfd wanneer de bovenliggende uitgave wordt omgezet in een project](known-issues-workfront/wf-documents-permissions-not-inherited.md)
@@ -144,7 +128,6 @@ ht-degree: 0%
       + [[!UICONTROL Home]: [!UICONTROL Home] samenvattingsproblemen bij het gebruik van andere browsers dan [!DNL Chrome]](known-issues-workfront/wf-home-summary-issues-when-not-using-chrome.md)
       + [[!UICONTROL Home]: Nieuwe taakoptie met gedeactiveerde gebruikers in [!UICONTROL Assign To] field](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md)
       + [Updates: teamnaam wordt niet weergegeven in @notify](known-issues-workfront/wf-updates-team-name-not-in-mention.md)
-      + [Kalenders: problemen met [!UICONTROL Time Off] kalender](known-issues-workfront/wf-calendars-issue-time-off.md)
       + [Agile: Discrepantie bij [!UICONTROL Completed Points] voor een herhaling](known-issues-workfront/wf-agile-discrepancy-in-completed-points.md)
       + [E-mailmeldingen: &quot;[!UICONTROL I'm assigned to an issue]&quot; instelling wordt weergegeven](known-issues-workfront/wf-email-notif-im-assigned-to-issue-displaying.md)
       + [E-mailmeldingen: de gebruiker wordt niet omgeleid naar een commentaarthread](known-issues-workfront/wf-email-notif-user-not-directed-to-thread.md)
@@ -168,7 +151,6 @@ ht-degree: 0%
       + [Workfront Proof: zoekgegevens zijn niet altijd correct](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
       + [Proefdrukken: proefdrukken worden langzaam gemaakt in de voorvertoningsomgeving](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
       + [[!DNL Workfront Proof]: 500 fout bij toegang [!DNL Workfront Proof] via API of [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
-      + [[!DNL Workfront Proof]: Zoekopdracht retourneert geen resultaten](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [[!DNL Workfront Proof]: Lijsten worden niet correct gesorteerd](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [[!DNL Workfront Proof]: [!UICONTROL Reports] gebied wordt niet meer ondersteund](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [Proefdrukken: de gebruiker ontvangt geen e-mail wanneer deze is gelabeld in een proefdrukopmerking](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
@@ -192,10 +174,6 @@ ht-degree: 0%
       + [[!DNL Workfront Fusion]: Slaapmodule zorgt ervoor dat scenario&#39;s vastlopen](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
       + [[!DNL Workfront Fusion]: Scenario mislukt met &quot;[!UICONTROL read ECONNRESET]&quot;-fout](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
       + [[!DNL Workfront Fusion]: Kan waarde niet invoeren in [!DNL Workfront] > [!UICONTROL Watch Events] filter](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
-      + [[!DNL Workfront Fusion]: &quot;[!UICONTROL cannot execute UPDATE]&quot;-fout](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
-      + [[!DNL Workfront Fusion]: e-mails met meldingen worden niet verzonden](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
-      + [[!DNL Workfront Fusion]: Uitvoeringen zijn vastgelopen of vertraagd](known-issues-workfront-fusion/fusion-stuck-executions.md)
-      + [[!DNL Adobe Workfront Fusion]: Time-outfouten in Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md)
       + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Custom API Call] 404- of 422-fouten retourneren](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: Fout: &quot;Kan verbinding niet verifiëren&quot;](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: [!DNL Fusion] module retourneert een fout van 404 zonder meer informatie](known-issues-workfront-fusion/fusion-404-error-no-description.md)
