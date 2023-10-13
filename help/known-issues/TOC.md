@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 7d6e95c610ea991695e553b065f3b0847f4125e0
+source-git-commit: f3b70e2fa79597e9d9c9dea463a7ca19af0a3020
 workflow-type: tm+mt
-source-wordcount: '1203'
+source-wordcount: '1228'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Meldingen: gebruikers worden niet op de hoogte gesteld van antwoorden op een commentaarthread](known-issues-workfront/wf-notifications-reply-notif-not-received.md)
+      + [[!DNL Workfront]: Branding wordt niet toegepast](known-issues-workfront/wf-workfront-branding-not-applied.md)
+      + [Borden: Bordeweergave in [!UICONTROL Tasks] projectgebied wordt niet geladen](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md)
       + [Proefdrukken: [!UICONTROL Proof activity] tab is niet geopend](known-issues-workfront/wf-proof-activities-tab-not-working.md)
       + [Taken: [!UICONTROL Planned Hours] worden opnieuw toegewezen wanneer een extra gebruiker aan een taak wordt toegewezen](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
       + [Tijdschema&#39;s: Persoonlijke taak wordt weergegeven op het tijdblad](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
