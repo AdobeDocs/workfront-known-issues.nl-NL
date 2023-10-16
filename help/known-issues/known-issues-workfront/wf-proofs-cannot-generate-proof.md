@@ -4,22 +4,20 @@ description: Wanneer een gebruiker een proef probeert te produceren, wordt de pr
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 9fcbbd6d-0f63-451f-ac5c-54eb7ce649b3
-source-git-commit: 392bc185c5549300b05299751af260df1d161009
+source-git-commit: bf9a5b15db59d8b9ed59fedc8233272c7385bb81
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
 
 # Proefdrukken: kan geen proefdruk genereren
 
->[!NOTE]
->
->Dit probleem is op 12 oktober 2023 opgelost.
-
 Wanneer een gebruiker een proef probeert te produceren, wordt de proef niet gecreeerd, en de gebruiker ziet de volgende fout:
 
 &quot;[!UICONTROL Error generating proof]&quot;
+
+Dit komt voor wanneer het de toegangsniveau plaatsen van de gebruiker[!UICONTROL  View Contact Info] is ingesteld op Uitgeschakeld.
 
 **Workaround**
 
