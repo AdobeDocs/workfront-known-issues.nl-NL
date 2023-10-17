@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e15a384697a60f4f6b909ebb44749cf554e6f9c4
+source-git-commit: c4f48d5eee70b0cdcd913466f4ca25b1bc75d5ae
 workflow-type: tm+mt
-source-wordcount: '5691'
+source-wordcount: '5813'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,30 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in oktober 2023
+
++++**(Geplande) onderhoudsupdate op 19 oktober 2023**
+
+Gebruikers worden niet op de hoogte gesteld van reacties op een commentaarthread
+
+_Meldingen_
+
+Wanneer een gebruiker op een opmerking reageert, ontvangen andere gebruikers die berichten voor het antwoord moeten ontvangen, deze niet. Sommige gebruikers ontvangen de melding, andere niet.
+
+**Extra, lege opmerking bij het maken van een opmerking bij een proefdruk**
+
+_Proefdrukken_
+
+Wanneer een gebruiker een opmerking maakt over een proefdruk, geeft de proefdruk ook een andere opmerking, die leeg is.
+
+Dit is gemeld op videoproefdrukken.
+
+**[!UICONTROL Planned Hours]worden opnieuw toegewezen wanneer een extra gebruiker aan een taak wordt toegewezen**
+
+_Taken_
+
+Wanneer een gebruiker aan een taak wordt toegewezen die heeft [!UICONTROL Planned Hours] die aan andere deelnemers aan de taak worden toegewezen, [!UICONTROL Planned Hours] gelijkmatig over alle betrokkenen worden verdeeld.
+
++++
 
 +++**Onderhoudsupdate op 12 oktober 2023**
 
