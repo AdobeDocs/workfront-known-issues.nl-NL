@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c4f48d5eee70b0cdcd913466f4ca25b1bc75d5ae
+source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
 workflow-type: tm+mt
-source-wordcount: '5813'
+source-wordcount: '5892'
 ht-degree: 0%
 
 ---
@@ -38,11 +38,23 @@ Wanneer een gebruiker een opmerking maakt over een proefdruk, geeft de proefdruk
 
 Dit is gemeld op videoproefdrukken.
 
+**[!UICONTROL Proof activity]tab is niet geopend**
+
+_Proefdrukken_
+
+Wanneer een gebruiker een proef bekijkt en klikt [!UICONTROL Proof activity] tab, retourneert de tab de gebruiker naar de [!UICONTROL Proof details] tab.
+
 **[!UICONTROL Planned Hours]worden opnieuw toegewezen wanneer een extra gebruiker aan een taak wordt toegewezen**
 
 _Taken_
 
 Wanneer een gebruiker aan een taak wordt toegewezen die heeft [!UICONTROL Planned Hours] die aan andere deelnemers aan de taak worden toegewezen, [!UICONTROL Planned Hours] gelijkmatig over alle betrokkenen worden verdeeld.
+
+**&quot;[!UICONTROL Deleted]&quot; wordt weergegeven als naam van de gebruiker in systeemupdates wanneer het probleem wordt omgezet in een taak**
+
+_Updates_
+
+Wanneer een gebruiker die als een andere gebruiker het programma wordt geopend een kwestie in een taak omzet, en de kwestie aan een team wordt toegewezen, tonen de systeemupdates &quot;[!UICONTROL Deleted]&quot; als de gebruiker die om het teamwerk aan de taak vroeg.
 
 +++
 

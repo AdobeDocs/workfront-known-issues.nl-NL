@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 392bc185c5549300b05299751af260df1d161009
+source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '322'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [Bewijs: extra, lege opmerking bij het maken van een opmerking over een proefdruk](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 19 september 2023 |
+| Geen |  |
 
 {style="table-layout:auto"}
 
