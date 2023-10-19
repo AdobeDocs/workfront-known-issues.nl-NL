@@ -3,15 +3,19 @@ title: "Borden: de mening van de raad op het gebied van Taken van project laadt 
 description: "Wanneer een gebruiker de taken in een project in een boardweergave probeert te laden, worden de taken niet geladen. De lijstweergave wordt naar behoren geladen."
 hidefromtoc: true
 feature: Agile
-source-git-commit: f3b70e2fa79597e9d9c9dea463a7ca19af0a3020
+source-git-commit: aabbd74ae558555e79a3cc1bc96583878cd413b3
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
 
 
 # Borden: Bordeweergave in [!UICONTROL Tasks] projectgebied wordt niet geladen
+
+>[!NOTE]
+>
+>Dit probleem is op 12 oktober 2023 opgelost.
 
 Wanneer een gebruiker de taken in een project in een boardweergave probeert te laden, worden de taken niet geladen. De lijstweergave wordt naar behoren geladen.
 
