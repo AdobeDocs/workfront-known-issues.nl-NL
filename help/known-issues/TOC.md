@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: c176d4192b0248250cf1afa6e9c09ba88ac12942
+source-git-commit: bbb284cd791d40f1e98ebd5827d3ee7abce261da
 workflow-type: tm+mt
-source-wordcount: '1251'
+source-wordcount: '1265'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Documenten: de knop Delen werkt niet](known-issues-workfront/wf-documents-share-button-not-working.md)
+      + [Documenten: &quot;[!UICONTROL Send to]Met de optie &quot; wordt een lege pagina en een foutbericht weergegeven](known-issues-workfront/wf-documents-sent-to-goes-blank.md)
       + [Updates: &quot;[!UICONTROL Deleted]&quot; wordt weergegeven als naam van de gebruiker in systeemupdates wanneer het probleem wordt omgezet in een taak](known-issues-workfront/wf-updates-deleted-requested-team.md)
       + [Aanmelden: aanmeldingspagina wordt omgeleid naar bestemmingspagina voor aanmelding](known-issues-workfront/wf-login-redirects-to-logout-page.md)
       + [Meldingen: gebruikers worden niet op de hoogte gesteld van antwoorden op een commentaarthread](known-issues-workfront/wf-notifications-reply-notif-not-received.md)
