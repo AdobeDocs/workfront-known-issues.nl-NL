@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 43f1e13d83c1dd56f38e889679455d57677bcfb0
+source-git-commit: ddbf7c294a044ba84f35cf32bdae6bba09d96600
 workflow-type: tm+mt
-source-wordcount: '654'
+source-wordcount: '677'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,9 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Borden: Zoeken werkt niet](known-issues-workfront/wf-boards-search-not-working.md) | 20 oktober 2023 |
+| [Borden: Verwachte kaarten worden niet aan boord weergegeven](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 20 oktober 2023 |
+| [Home: Projecten en taken die niet in Home worden geladen](known-issues-workfront/wf-home-my-projects-tasks-widget.md) | 20 oktober 2023 |
 | [Documenten: de knop Delen werkt niet](known-issues-workfront/wf-documents-share-button-not-working.md) | 19 oktober 2023 |
 | [Documenten: &quot;[!UICONTROL Send to]Met de optie &quot; wordt een lege pagina en een foutbericht weergegeven](known-issues-workfront/wf-documents-sent-to-goes-blank.md) | 19 oktober 2023 |
 | [[!DNL Workfront]: Branding wordt niet toegepast](known-issues-workfront/wf-workfront-branding-not-applied.md) | 13 oktober 2023 |

@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: bbb284cd791d40f1e98ebd5827d3ee7abce261da
+source-git-commit: ddbf7c294a044ba84f35cf32bdae6bba09d96600
 workflow-type: tm+mt
-source-wordcount: '1265'
+source-wordcount: '1285'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Borden: Zoeken werkt niet](known-issues-workfront/wf-boards-search-not-working.md)
+      + [Borden: Verwachte kaarten worden niet aan boord weergegeven](known-issues-workfront/wf-boards-expected-cards-not-displaying.md)
+      + [Home: Projecten en taken die niet in Home worden geladen](known-issues-workfront/wf-home-my-projects-tasks-widget.md)
       + [Documenten: de knop Delen werkt niet](known-issues-workfront/wf-documents-share-button-not-working.md)
       + [Documenten: &quot;[!UICONTROL Send to]Met de optie &quot; wordt een lege pagina en een foutbericht weergegeven](known-issues-workfront/wf-documents-sent-to-goes-blank.md)
       + [Updates: &quot;[!UICONTROL Deleted]&quot; wordt weergegeven als naam van de gebruiker in systeemupdates wanneer het probleem wordt omgezet in een taak](known-issues-workfront/wf-updates-deleted-requested-team.md)
