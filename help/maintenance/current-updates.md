@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
+source-git-commit: 19307601e90dec8fc442051f60b600e8e2f58ba1
 workflow-type: tm+mt
-source-wordcount: '5892'
+source-wordcount: '6041'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,34 @@ Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-mai
 
 ## Updates in oktober 2023
 
-+++**(Geplande) onderhoudsupdate op 19 oktober 2023**
++++**(Geplande) onderhoudsupdate op 26 oktober 2023**
+
+**Zoeken werkt niet**
+
+_Borden_
+
+Wanneer een gebruiker aan onderzoeksraad probeert, keert het onderzoek niet alle kaarten terug die aan de onderzoekscriteria voldoen.
+
+**Kan interactieve proefdruk niet weergeven in webviewer**
+
+_Proefdrukken_
+
+Wanneer een gebruiker een proefdruk probeert weer te geven in de webproefdrukviewer, wordt de proefdruk niet weergegeven en ziet de gebruiker de volgende fout:
+
+&quot;[!UICONTROL Missing Key-Pair-Id query parameter or cookie value]&quot;
+
+
+**Gebruiker wordt gedupliceerd tijdens het delen van een aanvraag**
+
+_Verzoeken_
+
+Wanneer het delen van een verzoek, als het toegangsniveau van een gebruiker die het verzoek wordt gedeeld met wordt gewijzigd, wordt de gebruiker net boven die gebruiker in de lijst die gebruiker.
+
+Bijvoorbeeld, als het verzoek met Gebruiker A en Gebruiker B wordt gedeeld, en de toegang van Gebruiker B wordt gewijzigd, verandert Gebruiker A in Gebruiker B, en er zijn nu twee Bs van de Gebruiker in de lijst. Bovendien is alleen de toegang van de bovenste gebruiker B gewijzigd.
+
++++
+
++++**Onderhoudsupdate op 19 oktober 2023**
 
 Gebruikers worden niet op de hoogte gesteld van reacties op een commentaarthread
 
