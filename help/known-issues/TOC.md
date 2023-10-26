@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 4f6b2f8b2cd2bb5dee2197dc088b1e89f27fddd3
+source-git-commit: e24f394c40d48f2aa5b71c8f00c461a1537e4ebe
 workflow-type: tm+mt
-source-wordcount: '1293'
+source-wordcount: '1311'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Taken: &quot;[!UICONTROL Whoops]&quot; fout in taakkoptekst](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md)
+      + [Aanmelden: Foutbericht bij aanmelden](known-issues-workfront/wf-login-error-when-logging-in.md)
       + [Borden: Zoeken werkt niet](known-issues-workfront/wf-boards-search-not-working.md)
       + [Borden: Verwachte kaarten worden niet aan boord weergegeven](known-issues-workfront/wf-boards-expected-cards-not-displaying.md)
       + [Home: Projecten en taken die niet in Home worden geladen](known-issues-workfront/wf-home-my-projects-tasks-widget.md)
@@ -158,6 +160,8 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [Bekende problemen in [!DNL Workfront Proof]](workfrontproof.md)
    + Huidige problemen in [!DNL Workfront Proof] {#proof-current}
+      + [[!UICONTROL Workfront Proof]: Vertraagde e-mails en meldingen](known-issues-workfront-proof/proof-delayed-notification.md)
+      + [[!DNL Workfront Proof]: Kan werkstroom niet uitvouwen](known-issues-workfront-proof/proof-cannot-view-workflow.md)
       + [Workfront Proof: dashboardgegevens zijn niet altijd nauwkeurig](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
       + [Workfront Proof: zoekgegevens zijn niet altijd correct](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
       + [Proefdrukken: proefdrukken worden langzaam gemaakt in de voorvertoningsomgeving](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
