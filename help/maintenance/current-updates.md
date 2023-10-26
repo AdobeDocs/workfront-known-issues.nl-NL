@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 19307601e90dec8fc442051f60b600e8e2f58ba1
+source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
 workflow-type: tm+mt
-source-wordcount: '6041'
+source-wordcount: '6102'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,13 @@ Wanneer een gebruiker een proefdruk probeert weer te geven in de webproefdrukvie
 
 &quot;[!UICONTROL Missing Key-Pair-Id query parameter or cookie value]&quot;
 
+**Kan geen nieuwe versie van een proefdruk maken**
+
+_Proefdrukken_
+
+Wanneer een gebruiker een nieuwe versie van een proefdruk probeert te maken, wordt de nieuwe versie niet gemaakt en ziet de gebruiker het volgende foutbericht:
+
+&quot;[!UICONTROL Error generating proof]&quot;
 
 **Gebruiker wordt gedupliceerd tijdens het delen van een aanvraag**
 
@@ -46,6 +53,14 @@ _Verzoeken_
 Wanneer het delen van een verzoek, als het toegangsniveau van een gebruiker die het verzoek wordt gedeeld met wordt gewijzigd, wordt de gebruiker net boven die gebruiker in de lijst die gebruiker.
 
 Bijvoorbeeld, als het verzoek met Gebruiker A en Gebruiker B wordt gedeeld, en de toegang van Gebruiker B wordt gewijzigd, verandert Gebruiker A in Gebruiker B, en er zijn nu twee Bs van de Gebruiker in de lijst. Bovendien is alleen de toegang van de bovenste gebruiker B gewijzigd.
+
+**&quot;[!UICONTROL Whoops]&quot; fout in taakkoptekst**
+
+_Taken_
+
+Wanneer een gebruiker een taak bekijkt, bevat de taakkoptekst geen informatie. In plaats daarvan ziet de gebruiker het volgende foutbericht:
+
+&quot;[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]&quot;
 
 +++
 
