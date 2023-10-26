@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
+source-git-commit: 97630935e3291c31114232cdd196ee0041a00609
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '682'
 ht-degree: 0%
 
 ---
@@ -26,13 +26,9 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
 | [Workfront Fusion: dubbele projecten gemaakt van één module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 24 oktober 2023 |
-| [Borden: Verwachte kaarten worden niet aan boord weergegeven](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 20 oktober 2023 |
-| [Home: Projecten en taken die niet in Home worden geladen](known-issues-workfront/wf-home-my-projects-tasks-widget.md) | 20 oktober 2023 |
-| [Documenten: de knop Delen werkt niet](known-issues-workfront/wf-documents-share-button-not-working.md) | 19 oktober 2023 |
+| [Borden: Zoeken werkt niet](known-issues-workfront/wf-boards-search-not-working.md) | 20 oktober 2023 |
 | [Documenten: &quot;[!UICONTROL Send to]Met de optie &quot; wordt een lege pagina en een foutbericht weergegeven](known-issues-workfront/wf-documents-sent-to-goes-blank.md) | 19 oktober 2023 |
-| [[!DNL Workfront]: Branding wordt niet toegepast](known-issues-workfront/wf-workfront-branding-not-applied.md) | 13 oktober 2023 |
 | [Delen: Fout bij delen van object](known-issues-workfront/wf-sharing-user-cannot-share-object.md) | 27 september 2023 |
-| [[!UICONTROL Home]: [!UICONTROL Requests] widget geeft niet alle toegewezen teams weer](known-issues-workfront/wf-home-request-shows-one-team.md) | 7 september 2023 |
 
 {style="table-layout:auto"}
 
@@ -42,10 +38,13 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
-| [Aanmelden: Foutbericht bij aanmelden](known-issues-workfront/wf-login-error-when-logging-in.md) | 25 oktober 2023 |
+| [Proefdrukken: fout bij het delen van proefdrukken via e-mailkoppeling](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 oktober 2023 |
+| [Documenten: de knop Delen werkt niet](known-issues-workfront/wf-documents-share-button-not-working.md) | 26 oktober 2023 |
+| [Borden: Verwachte kaarten worden niet aan boord weergegeven](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 26 oktober 2023 |
+| [Taken: &quot;[!UICONTROL Whoops]&quot; fout in taakkoptekst](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 25 oktober 2023 |
 | [Proefdrukken: voltooide proefdrukken blijven ingeschakeld [!UICONTROL Awaiting My Approval] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 19 oktober 2023 |
 | [Proefdrukken: kan geen proefdruk genereren](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19 oktober 2023 |
-| [Proefdrukken: fout bij het delen van proefdrukken via e-mailkoppeling](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 19 oktober 2023 |
+| [Proefdrukken: kan geen nieuwe versie van een proefdruk maken](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 19 oktober 2023 |
 | [Aanmelden: aanmeldingspagina wordt omgeleid naar bestemmingspagina voor aanmelding](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 18 oktober 2023 |
 | [[!UICONTROL Workload Balancer]: [!UICONTROL Total Hours] komt niet overeen met de som van [!UICONTROL Planned Hours]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 12 oktober 2023 |
 | [Rapporten: persoonlijke updates worden weergegeven in velden voor waardeexpressies](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 12 oktober 2023 |
@@ -63,6 +62,7 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Home]: [!UICONTROL Requests] widget geeft niet alle toegewezen teams weer](known-issues-workfront/wf-home-request-shows-one-team.md) | 26 oktober 2023 |
 | [[!DNL Workfront Proof]: Kan werkstroom niet uitvouwen](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25 oktober 2023 |
 | [[!UICONTROL Home]: &quot;[!UICONTROL Mentions]&quot;-widget in nieuw [!UICONTROL Home] is niet beperkt tot berichten waarin de gebruiker een tag heeft](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 25 september 2023 |
 | [[!UICONTROL Home]: Nieuw [!UICONTROL Home] widgetvoorvertoning geeft de juiste naam van het object niet weer](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 7 september 2023 |

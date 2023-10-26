@@ -3,15 +3,19 @@ title: "Home: Projecten en taken die niet in Home worden geladen"
 description: "Projecten en taken die niet in Home worden geladen"
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: ddbf7c294a044ba84f35cf32bdae6bba09d96600
+source-git-commit: 97630935e3291c31114232cdd196ee0041a00609
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
 
 # Home: Projecten en taken die niet in Home worden geladen
+
+>[!NOTE]
+>
+>Deze kwestie is vastgesteld op 20 oktober 2023.
 
 Het volgende gedrag is gemeld met betrekking tot projecten en taken die in Home worden geladen:
 
