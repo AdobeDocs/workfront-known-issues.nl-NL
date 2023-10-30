@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9e32c28c4428077057a194a2015ea1613a9656a4
+source-git-commit: d08d0daaf949f45c829d72811fa46535f1263638
 workflow-type: tm+mt
-source-wordcount: '691'
+source-wordcount: '721'
 ht-degree: 0%
 
 ---
@@ -39,6 +39,9 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [Aanvragen: Onjuiste aangepaste valuta weergegeven op pagina Nieuwe aanvraag](known-issues-workfront/wf-requests-custom-currency.md) | 30 oktober 2023 |
+| [Rapporten: de begrote uren in het gebruiksrapport komen niet overeen met de begrote uren die via de API zijn gerapporteerd](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 30 oktober 2023 |
+| [Dashboards: de gebruiker heeft geen toegang tot [!UICONTROL Canvas Dashboards]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md) | 30 oktober 2023 |
 | [[!DNL Workfront Proof]: Onnauwkeurige tijdstempel ingeschakeld [!UICONTROL Proof Summary]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 27 oktober 2023 |
 | [Proefdrukken: fout bij het delen van proefdrukken via e-mailkoppeling](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 oktober 2023 |
 | [Documenten: de knop Delen werkt niet](known-issues-workfront/wf-documents-share-button-not-working.md) | 26 oktober 2023 |

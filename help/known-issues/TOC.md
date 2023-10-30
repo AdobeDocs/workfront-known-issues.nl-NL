@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9e32c28c4428077057a194a2015ea1613a9656a4
+source-git-commit: d08d0daaf949f45c829d72811fa46535f1263638
 workflow-type: tm+mt
-source-wordcount: '1314'
+source-wordcount: '1341'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Aanvragen: Onjuiste aangepaste valuta weergegeven op pagina Nieuwe aanvraag](known-issues-workfront/wf-requests-custom-currency.md)
+      + [Rapporten: de begrote uren in het gebruiksrapport komen niet overeen met de begrote uren die via de API zijn gerapporteerd](known-issues-workfront/wf-reports-incorrect-rpbghr.md)
+      + [Dashboards: de gebruiker heeft geen toegang tot [!UICONTROL Canvas Dashboards]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md)
       + [Taken: &quot;[!UICONTROL Whoops]&quot; fout in taakkoptekst](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md)
       + [Aanmelden: Foutbericht bij aanmelden](known-issues-workfront/wf-login-error-when-logging-in.md)
       + [Borden: Zoeken werkt niet](known-issues-workfront/wf-boards-search-not-working.md)
