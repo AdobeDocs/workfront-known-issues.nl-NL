@@ -3,7 +3,7 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 130c3555bab741a58b06c81a5324b0103756caab
+source-git-commit: 7f35ea55ec3088bc138da2615ebc61c658e1def7
 workflow-type: tm+mt
 source-wordcount: '6203'
 ht-degree: 0%
@@ -24,11 +24,11 @@ Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-mai
 
 +++**(Geplande) onderhoudsupdate op 2 november 2023**
 
-**Persoonlijke updates worden weergegeven in velden voor waardeexpressie **
+**Persoonlijke updates worden weergegeven in velden voor waardering**
+
 _Rapporten_
 
 Wanneer een rapportgebied een waardeuitdrukking omvat die verwijzingen een privé update, gebruikers die niet inbegrepen in de privé update zijn kan het in het rapport zien.
-
 
 **Weergaven van gebruiker als oververdeeld vanwege onnauwkeurige capaciteit**
 
