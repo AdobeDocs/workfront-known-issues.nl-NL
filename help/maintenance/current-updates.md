@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
+source-git-commit: 130c3555bab741a58b06c81a5324b0103756caab
 workflow-type: tm+mt
-source-wordcount: '6102'
+source-wordcount: '6203'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,29 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
+## Updates in november 2023
+
++++**(Geplande) onderhoudsupdate op 2 november 2023**
+
+**Persoonlijke updates worden weergegeven in velden voor waardeexpressie **
+_Rapporten_
+
+Wanneer een rapportgebied een waardeuitdrukking omvat die verwijzingen een privé update, gebruikers die niet inbegrepen in de privé update zijn kan het in het rapport zien.
+
+
+**Weergaven van gebruiker als oververdeeld vanwege onnauwkeurige capaciteit**
+
+_Werklastverdeling_
+
+Een gebruiker kan in de Workload Balancer tonen dat deze is oververdeeld. Als een gebruiker de overtoewijzing aanwijst, ziet hij of zij dat de capaciteit van de gebruiker op 0 is ingesteld.
+
+Als de gebruiker het datumbereik wijzigt, is de toewijzing correct. Als de gebruiker de pagina echter vernieuwt, is de capaciteit mogelijk weer onjuist.
+
++++
+
 ## Updates in oktober 2023
 
-+++**(Geplande) onderhoudsupdate op 26 oktober 2023**
++++**Onderhoudsupdate op 26 oktober 2023**
 
 **Zoeken werkt niet**
 
