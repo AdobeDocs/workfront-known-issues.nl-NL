@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: fa4fbd97d128930cce0698f789538854a5f9a866
+source-git-commit: bf9935f1482712d2835e3e9e4a7a9b68275dcf1a
 workflow-type: tm+mt
-source-wordcount: '724'
+source-wordcount: '743'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,8 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Updates: opmerkingen die zijn gekoppeld aan systeemupdates worden niet weergegeven](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | 1 november 2023 |
+| [Borden: Fout in de sectie Opmerkingen van een kaart](known-issues-workfront/wf-boards-comment-section-error.md) | 1 november 2023 |
 | [[!UICONTROL Workfront Proof]: Vertraagde e-mails en meldingen](known-issues-workfront-proof/proof-delayed-notification.md) | 26 oktober 2023 |
 | [Workfront Fusion: dubbele projecten gemaakt van één module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 24 oktober 2023 |
 | [Borden: Zoeken werkt niet](known-issues-workfront/wf-boards-search-not-working.md) | 20 oktober 2023 |
