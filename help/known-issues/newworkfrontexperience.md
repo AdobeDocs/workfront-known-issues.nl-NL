@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: bf9935f1482712d2835e3e9e4a7a9b68275dcf1a
+source-git-commit: b1c93c06b2c3a787438aa2a598aada93a04e0c38
 workflow-type: tm+mt
-source-wordcount: '743'
+source-wordcount: '727'
 ht-degree: 0%
 
 ---
@@ -55,12 +55,10 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | [Proefdrukken: kan geen nieuwe versie van een proefdruk maken](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 19 oktober 2023 |
 | [Aanmelden: aanmeldingspagina wordt omgeleid naar bestemmingspagina voor aanmelding](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 18 oktober 2023 |
 | [[!UICONTROL Workload Balancer]: [!UICONTROL Total Hours] komt niet overeen met de som van [!UICONTROL Planned Hours]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 12 oktober 2023 |
-| [Rapporten: persoonlijke updates worden weergegeven in velden voor waardeexpressies](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 12 oktober 2023 |
 | [Tijdschema&#39;s: Persoonlijke taak wordt weergegeven op het tijdblad](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 10 oktober 2023 |
 | [Werklastbalans: handmatige wijzigingen in uren zijn niet nauwkeurig nadat pagina is vernieuwd](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 3 oktober 2023 |
 | [Home: Gedelegeerde taken worden niet gedeeld en komen niet voor in de lijst Home Work](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 3 oktober 2023 |
-| [Werklastbalans: gebruiker geeft weer dat de toewijzing te hoog is vanwege een onjuiste capaciteit](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 26 september 2023 |
-| [[!DNL Workfront]: Issues submitting a [!DNL Workfront] steungeval op Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augustus 2022 |
+| [[!DNL Workfront]: Kwesties die een [!DNL Workfront] steungeval op Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augustus 2022 |
 
 {style="table-layout:auto"}
 
