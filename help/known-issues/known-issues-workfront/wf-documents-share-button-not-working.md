@@ -1,17 +1,21 @@
 ---
-title: "Documenten: de knop Delen werkt niet"
-description: "Wanneer een gebruiker een document probeert te delen vanaf de pagina Documentdetails, reageert de knop Delen niet."
+title: 'Documenten: de knop Delen werkt niet'
+description: Wanneer een gebruiker een document probeert te delen vanaf de pagina Documentdetails, reageert de knop Delen niet.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: bbb284cd791d40f1e98ebd5827d3ee7abce261da
+exl-id: 3838fef2-1e08-4ebd-9b7b-43ce96d75ed6
+source-git-commit: 4f656ad6456070d9faa691654386db936ea32362
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
 
-
 # Documenten: de knop Delen werkt niet
+
+>[!NOTE]
+>
+>Dit probleem is op 2 november 2023 opgelost.
 
 Wanneer een gebruiker een document probeert te delen vanaf de pagina Documentdetails, reageert de knop Delen niet.
 
