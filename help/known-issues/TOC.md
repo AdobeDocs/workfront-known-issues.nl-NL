@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 54fda0aa30beb0bfcf9e6359e12f58d03dffac1e
+source-git-commit: 359264a4697b783f79ef8df000216d259106d96d
 workflow-type: tm+mt
-source-wordcount: '1435'
+source-wordcount: '1444'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Dashboard: grote lege marge bij afdrukken van dashboard naar PDF](known-issues-workfront/wf-dashboard-blank-area-when-printing.md)
       + [Home: De taken in projecten met Goedgekeurde of de status van de Planning zijn niet inbegrepen in Mijn Taken of de Lijst van het Werk van het Huis](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
       + [Sjablonen: onderliggende taken worden buiten werking gesteld wanneer deze onder een bovenliggende taak worden geplaatst](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
       + [Home: Goedkeuring vastgehouden op [!UICONTROL Awaiting my approval] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)

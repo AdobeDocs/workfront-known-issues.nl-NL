@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 54fda0aa30beb0bfcf9e6359e12f58d03dffac1e
+source-git-commit: 359264a4697b783f79ef8df000216d259106d96d
 workflow-type: tm+mt
-source-wordcount: '767'
+source-wordcount: '777'
 ht-degree: 0%
 
 ---
@@ -70,6 +70,7 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Dashboard: grote lege marge bij afdrukken van dashboard naar PDF](known-issues-workfront/wf-dashboard-blank-area-when-printing.md) | 7 november 2023 |
 | [[!UICONTROL Home]: [!UICONTROL Requests] widget geeft niet alle toegewezen teams weer](known-issues-workfront/wf-home-request-shows-one-team.md) | 26 oktober 2023 |
 | [[!DNL Workfront Proof]: Kan werkstroom niet uitvouwen](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25 oktober 2023 |
 | [[!UICONTROL Home]: &quot;[!UICONTROL Mentions]&quot;-widget in nieuw [!UICONTROL Home] is niet beperkt tot berichten waarin de gebruiker een tag heeft](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 25 september 2023 |
