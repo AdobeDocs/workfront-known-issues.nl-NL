@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3a6d56930cb2861c68111c9c960963b71ec213d4
+source-git-commit: 7a783d0c55d368c63e41d58a5343e44e54442e7d
 workflow-type: tm+mt
-source-wordcount: '6202'
+source-wordcount: '6387'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,38 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in november 2023
+
++++**(Geplande) onderhoudsupdate op 9 november 2023**
+
+**Mijn werkwidget heeft ontbrekende objecten als deze zich niet boven op de pagina bevindt**
+
+_Home_
+
+Als de widget Mijn werk zich boven aan de nieuwe startpagina bevindt, worden alle verwachte objecten opgehaald. Als deze widget zich echter onder andere widgets op de pagina bevindt, worden slechts tien objecten opgehaald.
+
+**Kan geen proefdruk maken**
+
+_Proefdrukken_
+
+Wanneer een gebruiker een proef probeert te produceren, wordt de proef niet gecreeerd, en de gebruiker ziet de volgende fout:
+
+&quot;[!UICONTROL Error generating proof]&quot;
+
+Dit komt voor wanneer het de toegangsniveau plaatsen van de gebruiker[!UICONTROL  View Contact Info] is ingesteld op Uitgeschakeld.
+
+**Velden worden gewist wanneer een document aan een aanvraag wordt toegevoegd**
+
+_Verzoeken_
+
+Wanneer een gebruiker een aanvraag maakt, velden in een formulier invult en vervolgens een document toevoegt of verwijdert, worden sommige velden in het formulier gewist en moeten de velden door de gebruiker opnieuw worden ingevuld voordat de aanvraag wordt verzonden.
+
+**De persoonlijke taak verschijnt op timesheet**
+
+_Timesheets_
+
+Wanneer een gebruiker een taak maakt op het tabblad [!UICONTROL Todo] widget van de nieuwe [!UICONTROL Home] verschijnt die taak op het tijdspagina van de gebruiker. Dit komt zelfs voor als de taak geen het programma geopende uren heeft, en het persoonlijke project niet wordt vastgezet.
+
++++
 
 +++**Onderhoudsupdate op 2 november 2023**
 
