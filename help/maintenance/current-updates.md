@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 7a783d0c55d368c63e41d58a5343e44e54442e7d
+source-git-commit: 83c161ac5cc06b67a67464ab75be50903c379118
 workflow-type: tm+mt
-source-wordcount: '6387'
+source-wordcount: '6461'
 ht-degree: 0%
 
 ---
@@ -51,6 +51,16 @@ Wanneer een gebruiker een aanvraag maakt, velden in een formulier invult en verv
 _Timesheets_
 
 Wanneer een gebruiker een taak maakt op het tabblad [!UICONTROL Todo] widget van de nieuwe [!UICONTROL Home] verschijnt die taak op het tijdspagina van de gebruiker. Dit komt zelfs voor als de taak geen het programma geopende uren heeft, en het persoonlijke project niet wordt vastgezet.
+
++++
+
++++**Onderhoudsupdate (Hot Fix) op 3 november 2023**
+
+**De taken van het kind verschijnen uit orde wanneer bewogen onder oudertaak**
+
+_Sjablonen_
+
+Wanneer een gebruiker taken op een malplaatje creeert, en dan die taken onder een oudertaak beweegt, verschijnen de aantallen die aan de kindtaken worden toegewezen niet in de verwachte orde. Daarom wanneer de pagina wordt verfrist, worden de kindtaken gesorteerd door de onverwachte taakaantallen, en de kindtaken zijn daarom uit orde.
 
 +++
 

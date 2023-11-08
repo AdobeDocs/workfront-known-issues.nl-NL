@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 359264a4697b783f79ef8df000216d259106d96d
+source-git-commit: 83c161ac5cc06b67a67464ab75be50903c379118
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '764'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
 | [Home: De taken in projecten met Goedgekeurde of de status van de Planning zijn niet inbegrepen in Mijn Taken of de Lijst van het Werk van het Huis](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6 november 2023 |
-| [Sjablonen: onderliggende taken worden buiten werking gesteld wanneer deze onder een bovenliggende taak worden geplaatst](known-issues-workfront/wf-templates-children-tasks-out-of-order.md) | 6 november 2023 |
 | [Home: Goedkeuring vastgehouden op [!UICONTROL Awaiting my approval] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 3 november 2023 |
 | [Proofs: problemen met activering van werkgebied](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 3 november 2023 |
 | [Proefdrukken: Fout bij het openen van proefdrukken via e-mailkoppeling](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 november 2023 |
