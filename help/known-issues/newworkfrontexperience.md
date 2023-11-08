@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 83c161ac5cc06b67a67464ab75be50903c379118
+source-git-commit: ac2775f96a3ea4c69046d4bb29f311b31f85c843
 workflow-type: tm+mt
-source-wordcount: '764'
+source-wordcount: '771'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Borden: problemen bij het weergeven van de status van een subtaak](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 8 november 2023 |
 | [Verzoeken: velden worden gewist wanneer een document wordt toegevoegd aan een aanvraag](known-issues-workfront/wf-requests-fields-blank-when-doc-added.md) | 3 november 2023 |
 | [Updates: opmerkingen die zijn gekoppeld aan systeemupdates worden niet weergegeven](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | 1 november 2023 |
 | [Borden: Fout in de sectie Opmerkingen van een kaart](known-issues-workfront/wf-boards-comment-section-error.md) | 1 november 2023 |
