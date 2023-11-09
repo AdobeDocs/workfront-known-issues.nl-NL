@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ac2775f96a3ea4c69046d4bb29f311b31f85c843
+source-git-commit: 2b2b4e9162dea84170a7e6db049b8191fa69c58a
 workflow-type: tm+mt
-source-wordcount: '771'
+source-wordcount: '784'
 ht-degree: 0%
 
 ---
@@ -41,6 +41,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [Meldingen: e-mailbericht niet ontvangen wanneer een gebruiker een opmerking heeft toegevoegd](known-issues-workfront/wf-notif-email-not-received.md) | 8 november 2023 |
 | [Home: De taken in projecten met Goedgekeurde of de status van de Planning zijn niet inbegrepen in Mijn Taken of de Lijst van het Werk van het Huis](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6 november 2023 |
 | [Home: Goedkeuring vastgehouden op [!UICONTROL Awaiting my approval] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 3 november 2023 |
 | [Proofs: problemen met activering van werkgebied](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 3 november 2023 |

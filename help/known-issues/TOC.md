@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: ac2775f96a3ea4c69046d4bb29f311b31f85c843
+source-git-commit: 2b2b4e9162dea84170a7e6db049b8191fa69c58a
 workflow-type: tm+mt
-source-wordcount: '1450'
+source-wordcount: '1462'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Meldingen: e-mailbericht niet ontvangen wanneer een gebruiker een opmerking heeft toegevoegd](known-issues-workfront/wf-notif-email-not-received.md)
       + [Borden: problemen bij het weergeven van de status van een subtaak](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
       + [Dashboard: grote lege marge bij afdrukken van dashboard naar PDF](known-issues-workfront/wf-dashboard-blank-area-when-printing.md)
       + [Home: De taken in projecten met Goedgekeurde of de status van de Planning zijn niet inbegrepen in Mijn Taken of de Lijst van het Werk van het Huis](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
