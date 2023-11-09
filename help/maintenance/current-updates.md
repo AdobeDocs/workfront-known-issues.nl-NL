@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 83c161ac5cc06b67a67464ab75be50903c379118
+source-git-commit: 6d6d3c180a739413f28f132a23b4d91ad1b80c72
 workflow-type: tm+mt
-source-wordcount: '6461'
+source-wordcount: '6460'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-mai
 
 ## Updates in november 2023
 
-+++**(Geplande) onderhoudsupdate op 9 november 2023**
++++**Onderhoudsupdate op 9 november 2023**
 
 **Mijn werkwidget heeft ontbrekende objecten als deze zich niet boven op de pagina bevindt**
 

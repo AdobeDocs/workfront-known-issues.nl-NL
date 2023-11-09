@@ -1,17 +1,21 @@
 ---
-title: "Tijdschema's: persoonlijke taak wordt weergegeven op tijdsplaat"
-description: "Wanneer een gebruiker een taak op de Todo widget van de nieuwe ervaring van het Huis creeert, verschijnt die taak op timesheet van de gebruiker. Dit komt zelfs voor als de taak geen het programma geopende uren heeft, en het persoonlijke project niet wordt vastgezet."
+title: "Tijdschema's: persoonlijke taak wordt weergegeven op het tijdsplaat"
+description: Wanneer een gebruiker een taak op de Todo widget van de nieuwe ervaring van het Huis creeert, verschijnt die taak op timesheet van de gebruiker. Dit komt zelfs voor als de taak geen het programma geopende uren heeft, en het persoonlijke project niet wordt vastgezet.
 hidefromtoc: true
 feature: Timesheets
-source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
+exl-id: fd75ae65-726c-4301-bded-297cc82566b8
+source-git-commit: 6d6d3c180a739413f28f132a23b4d91ad1b80c72
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
 
-
 # Tijdschema&#39;s: Persoonlijke taak wordt weergegeven op het tijdblad
+
+>[!NOTE]
+>
+>Dit probleem is op 9 november 2023 opgelost.
 
 Wanneer een gebruiker een taak maakt op het tabblad [!UICONTROL Todo] widget van de nieuwe [!UICONTROL Home] verschijnt die taak op het tijdspagina van de gebruiker. Dit komt zelfs voor als de taak geen het programma geopende uren heeft, en het persoonlijke project niet wordt vastgezet.
 

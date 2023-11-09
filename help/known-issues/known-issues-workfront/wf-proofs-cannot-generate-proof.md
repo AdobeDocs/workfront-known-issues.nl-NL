@@ -4,14 +4,18 @@ description: Wanneer een gebruiker een proef probeert te produceren, wordt de pr
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 9fcbbd6d-0f63-451f-ac5c-54eb7ce649b3
-source-git-commit: bf9a5b15db59d8b9ed59fedc8233272c7385bb81
+source-git-commit: 6d6d3c180a739413f28f132a23b4d91ad1b80c72
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
 # Proefdrukken: kan geen proefdruk genereren
+
+>[!NOTE]
+>
+>Dit probleem is op 9 november 2023 opgelost.
 
 Wanneer een gebruiker een proef probeert te produceren, wordt de proef niet gecreeerd, en de gebruiker ziet de volgende fout:
 

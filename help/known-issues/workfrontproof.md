@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 4f656ad6456070d9faa691654386db936ea32362
+source-git-commit: d2d39c5c08d605ebe252eab33b3fae3d9f16ac8f
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | [Proefdrukken: Fout bij het openen van proefdrukken via e-mailkoppeling](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 november 2023 |
 | [[!DNL Workfront Proof]: Onnauwkeurige tijdstempel ingeschakeld [!UICONTROL Proof Summary]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 27 oktober 2023 |
 | [Proefdrukken: fout bij het delen van proefdrukken via e-mailkoppeling](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 oktober 2023 |
-| [Proefdrukken: voltooide proefdrukken blijven ingeschakeld [!UICONTROL Awaiting My Approval] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 19 oktober 2023 |
 | [Proefdrukken: kan geen proefdruk genereren](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19 oktober 2023 |
 | [Proefdrukken: fout bij het delen van proefdrukken via e-mailkoppeling](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 19 oktober 2023 |
 
@@ -78,3 +77,4 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 | [Documenten: Proefwerkstroompictogram wordt niet weergegeven](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 5 maart 2021 |
 
 {style="table-layout:auto"}
+

@@ -3,15 +3,19 @@ title: "Verzoeken: velden worden gewist wanneer een document aan een aanvraag wo
 description: "Wanneer een gebruiker een aanvraag maakt, velden in een formulier invult en vervolgens een document toevoegt of verwijdert, worden sommige velden in het formulier gewist en moeten de velden door de gebruiker opnieuw worden ingevuld voordat de aanvraag wordt verzonden."
 hidefromtoc: true
 feature: Requests
-source-git-commit: a6d3a340e7452f45cb568ee4383ab7bfb55c5c34
+source-git-commit: 6d6d3c180a739413f28f132a23b4d91ad1b80c72
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
 
 
 # Verzoeken: velden worden gewist wanneer een document wordt toegevoegd aan een aanvraag
+
+>[!NOTE]
+>
+>Dit probleem is op 11 november 2023 opgelost.
 
 Wanneer een gebruiker een aanvraag maakt, velden in een formulier invult en vervolgens een document toevoegt of verwijdert, worden sommige velden in het formulier gewist en moeten de velden door de gebruiker opnieuw worden ingevuld voordat de aanvraag wordt verzonden.
 
