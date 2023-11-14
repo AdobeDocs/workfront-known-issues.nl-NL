@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 6d6d3c180a739413f28f132a23b4d91ad1b80c72
+source-git-commit: 1aa3bc3a748e6fbde7616dd5a0408dfd5fb1006e
 workflow-type: tm+mt
-source-wordcount: '6460'
+source-wordcount: '6644'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,32 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in november 2023
+
++++**(Geplande) onderhoudsupdate op 16 november 2023**
+
+**De begrote uren in het gebruiksrapport komen niet overeen met de begrote uren die via de API zijn gerapporteerd**
+
+_Rapporten_
+
+Wanneer een gebruiker een API vraag aan het voorwerp RPBGHR voor een bepaald project maakt, en de resultaten van die vraag aan het gebruiksrapport voor dat project vergelijkt, passen de resultaten niet aan.
+
+**Onjuiste aangepaste valuta weergegeven op pagina Nieuwe aanvraag**
+
+_Verzoeken_
+
+Wanneer een gebruiker een verzoek indient en een selectie maakt die veranderingen vertoningslogica op het verzoekformulier tonen, keert de getoonde munt terug naar de standaardmunt eerder dan de douanevaluta die op het project wordt geplaatst dat de verzoekrij vertegenwoordigt.
+
+Wanneer de gebruiker zijn verzoek indient, wordt de valuta weergegeven als de juiste aangepaste valuta voor het project dat de aanvraagwachtrij vertegenwoordigt
+
+**Extra regels voor opmerkingen die zijn gemaakt via API of[!DNL Workfront Fusion]**
+
+_Updates_
+
+Wanneer een gebruiker een opmerking verzendt via de API of via [!DNL Workfront Fusion]bevat de opmerking die wordt weergegeven in het gedeelte Updates extra regels. Soms zijn er zoveel regels dat de gebruiker omlaag moet schuiven om de inhoud van de opmerking te zien.
+
+Dit is gemeld in de nieuwe ervaringen met opmerkingen.
+
++++
 
 +++**Onderhoudsupdate op 9 november 2023**
 
