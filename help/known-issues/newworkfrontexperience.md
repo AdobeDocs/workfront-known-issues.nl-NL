@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e9ef61fab8a1c433ead6b9c49a6f60eb81bca628
+source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
 workflow-type: tm+mt
-source-wordcount: '769'
+source-wordcount: '734'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | [Home: Goedkeuring vastgehouden op [!UICONTROL Awaiting my approval] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 3 november 2023 |
 | [Proofs: problemen met activering van werkgebied](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 3 november 2023 |
 | [Proefdrukken: Fout bij het openen van proefdrukken via e-mailkoppeling](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 november 2023 |
-| [Updates: extra regels in opmerkingen die zijn gemaakt via API of [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) | 2 november 2023 |
-| [Aanvragen: Onjuiste aangepaste valuta weergegeven op pagina Nieuwe aanvraag](known-issues-workfront/wf-requests-custom-currency.md) | 30 oktober 2023 |
-| [Rapporten: de begrote uren in het gebruiksrapport komen niet overeen met de begrote uren die via de API zijn gerapporteerd](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 30 oktober 2023 |
 | [[!DNL Workfront Proof]: Onnauwkeurige tijdstempel ingeschakeld [!UICONTROL Proof Summary]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 27 oktober 2023 |
 | [Proefdrukken: fout bij het delen van proefdrukken via e-mailkoppeling](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 oktober 2023 |
 | [Borden: Verwachte kaarten worden niet aan boord weergegeven](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 26 oktober 2023 |

@@ -3,15 +3,19 @@ title: '"Rapporten: de begrote uren in het gebruiksrapport komen niet overeen me
 description: "Wanneer een gebruiker een API vraag aan het voorwerp RPBGHR voor een bepaald project maakt, en de resultaten van die vraag aan het gebruiksrapport voor dat project vergelijkt, passen de resultaten niet aan. "
 hidefromtoc: true
 feature: Reports and Dashboards, Workfront API
-source-git-commit: d08d0daaf949f45c829d72811fa46535f1263638
+source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
 
 # Rapporten: de begrote uren in het gebruiksrapport komen niet overeen met de begrote uren die via de API zijn gerapporteerd
+
+>[!NOTE]
+>
+>Dit probleem is op 16 november 2023 opgelost.
 
 Wanneer een gebruiker een API vraag aan het voorwerp RPBGHR voor een bepaald project maakt, en de resultaten van die vraag aan het gebruiksrapport voor dat project vergelijkt, passen de resultaten niet aan.
 

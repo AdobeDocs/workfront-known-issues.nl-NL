@@ -3,15 +3,19 @@ title: "Updates: extra regels in opmerkingen die zijn gemaakt via API of Workfro
 description: "Wanneer een gebruiker een opmerking verzendt via de API of via Workfront Fusion, worden extra regels weergegeven voor de opmerking die wordt weergegeven in het gedeelte Updates. Soms zijn er zo veel regels dat de gebruiker omlaag moet schuiven om de inhoud van de opmerking te zien."
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 1854e4a003722f1398c703dfba7bc23ef534f81f
+source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
 
 # Updates: extra regels in opmerkingen die zijn gemaakt via API of [!DNL Workfront Fusion]
+
+>[!NOTE]
+>
+>Dit probleem is op 16 november 2023 opgelost.
 
 Wanneer een gebruiker een opmerking verzendt via de API of via [!DNL Workfront Fusion]bevat de opmerking die wordt weergegeven in het gedeelte Updates extra regels. Soms zijn er zoveel regels dat de gebruiker omlaag moet schuiven om de inhoud van de opmerking te zien.
 
