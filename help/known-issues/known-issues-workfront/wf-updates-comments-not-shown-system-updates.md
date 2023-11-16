@@ -3,9 +3,9 @@ title: "Updates: opmerkingen die zijn gekoppeld aan systeemupdates worden niet w
 description: "Wanneer een gebruiker een opmerking maakt over een systeemactie (zoals statuswijziging), wordt die opmerking niet weergegeven in het gedeelte Updates. "
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: bf9935f1482712d2835e3e9e4a7a9b68275dcf1a
+source-git-commit: 80cd493b72fb2732234e78b683afe071f8bd9545
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,10 @@ ht-degree: 0%
 >This issue has been closed because it is working as designed.
 
 -->
+
+>[!NOTE]
+>
+>Deze kwestie is gesloten omdat het zoals ontworpen werkt.
 
 Wanneer een gebruiker een opmerking maakt over een systeemactie (zoals een statuswijziging), wordt die opmerking niet weergegeven in het gedeelte Updates.
 
