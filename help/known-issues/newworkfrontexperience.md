@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1ccf659018a55914f8d8842f497d2a12599ead67
+source-git-commit: 93ea563ee9bae7911c043e4ac94bf12cc8cffbbd
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '761'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Taken: taken dupliceren leidt ertoe dat taken in verkeerde volgorde worden weergegeven](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 28 november 2023 |
 | [Documenten: heeft geen toegang [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27 november 2023 |
 | [Kaarten: kaart verschijnt op meerdere sproten](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21 november 2023 |
 | [Sjablonen: kan geen sjabloon selecteren vanuit [!UICONTROL Favorites] list](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 16 november 2023 |

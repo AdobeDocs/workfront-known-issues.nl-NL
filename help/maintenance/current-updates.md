@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
+source-git-commit: 93ea563ee9bae7911c043e4ac94bf12cc8cffbbd
 workflow-type: tm+mt
-source-wordcount: '6643'
+source-wordcount: '6776'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,34 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in november 2023
+
++++**(Geplande) onderhoudsupdate op 30 november 2023**
+
+**Taken worden niet weergegeven in [!UICONTROL My Work] widget**
+
+_[!UICONTROL Home]_
+
+Wanneer een gebruiker hun [!UICONTROL My Work] widget in [!UICONTROL Home]Sommige taken waaraan ze zijn toegewezen, worden niet weergegeven in de widget. Bijvoorbeeld, kan een gebruiker naar een project gaan en zien dat zij taken in het project worden toegewezen, maar deze taken verschijnen niet op de gebruiker [!UICONTROL My Work] widget.
+
+**Pagina voor aanmelding wordt omgeleid naar bestemmingspagina voor afmelden**
+
+_Aanmelden_
+
+Wanneer een gebruiker zich aanmeldt bij [!DNL Workfront]In plaats van de aanmeldingspagina worden ze doorgestuurd naar de pagina waarop ze zouden landen als ze zich zouden afmelden.
+
+**500 fout bij het exporteren van een rapport**
+
+_Rapporten_
+
+Wanneer een gebruiker een rapport probeert te exporteren, mislukt het exporteren met de volgende fout:
+
+```
+500: Cannot invoke "Object.getClass()" because "parentObj" is null /attask/api-internal/report/export
+```
+
+Dit is gemeld in meldingen die een `valueexpression` de `lastNote` notitietekst.
+
++++
 
 +++**Onderhoudsupdate op 16 november 2023**
 
@@ -48,7 +76,7 @@ Dit is gemeld in de nieuwe ervaringen met opmerkingen.
 
 +++
 
-    ++**Onderhoudsupdate op 9 november 2023**
++++**Onderhoudsupdate op 9 november 2023**
 
 **Mijn werkwidget heeft ontbrekende objecten als deze zich niet boven op de pagina bevindt**
 
