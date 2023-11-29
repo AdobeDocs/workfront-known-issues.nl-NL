@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 93ea563ee9bae7911c043e4ac94bf12cc8cffbbd
+source-git-commit: 8ccc1d7bc0d1d4fabc7e775713d44f5b5db43867
 workflow-type: tm+mt
-source-wordcount: '1528'
+source-wordcount: '1539'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Proefdrukken: proefdrukken die in afwachting zijn van goedkeuring, worden niet weergegeven in rapporten](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
       + [Taken: taken dupliceren leidt ertoe dat taken in verkeerde volgorde worden weergegeven](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)
       + [Documenten: heeft geen toegang [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md)
       + [Aangepaste formulieren: kan geen grote hoeveelheden toevoegen of verwijderen van aangepaste formulieren voor sjabloontaken](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md)

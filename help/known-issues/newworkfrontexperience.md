@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 93ea563ee9bae7911c043e4ac94bf12cc8cffbbd
+source-git-commit: 8ccc1d7bc0d1d4fabc7e775713d44f5b5db43867
 workflow-type: tm+mt
-source-wordcount: '761'
+source-wordcount: '773'
 ht-degree: 0%
 
 ---
@@ -43,6 +43,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [Proefdrukken: proefdrukken die in afwachting zijn van goedkeuring, worden niet weergegeven in rapporten](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md) | 29 november 2023 |
 | [Aangepaste formulieren: kan geen grote hoeveelheden toevoegen of verwijderen van aangepaste formulieren voor sjabloontaken](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 21 november 2023 |
 | [Rapporten: 500 fouten bij het exporteren van een rapport](known-issues-workfront/wf-reports-500-error-when-exporting.md) | 20 november 2023 |
 | [Taken: Taakdatums worden gedurende langere tijd grijs weergegeven wanneer de tijdlijn opnieuw wordt berekend](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 10 november 2023 |
