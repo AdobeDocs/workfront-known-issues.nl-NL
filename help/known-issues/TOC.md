@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8ccc1d7bc0d1d4fabc7e775713d44f5b5db43867
+source-git-commit: d68bec64be9bd02478787a52c28dba14502d6635
 workflow-type: tm+mt
-source-wordcount: '1539'
+source-wordcount: '1551'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Kaarten: kaarten die na het vernieuwen naar een kolom zijn verplaatst, worden teruggezet naar de oorspronkelijke kolom](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md)
       + [Proefdrukken: proefdrukken die in afwachting zijn van goedkeuring, worden niet weergegeven in rapporten](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
       + [Taken: taken dupliceren leidt ertoe dat taken in verkeerde volgorde worden weergegeven](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)
       + [Documenten: heeft geen toegang [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md)

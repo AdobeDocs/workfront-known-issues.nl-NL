@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8ccc1d7bc0d1d4fabc7e775713d44f5b5db43867
+source-git-commit: d68bec64be9bd02478787a52c28dba14502d6635
 workflow-type: tm+mt
-source-wordcount: '773'
+source-wordcount: '786'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Kaarten: kaarten die na het vernieuwen naar een kolom zijn verplaatst, worden teruggezet naar de oorspronkelijke kolom](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | 29 november 2023 |
 | [Taken: taken dupliceren leidt ertoe dat taken in verkeerde volgorde worden weergegeven](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 28 november 2023 |
 | [Documenten: heeft geen toegang [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27 november 2023 |
 | [Kaarten: kaart verschijnt op meerdere sproten](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21 november 2023 |
