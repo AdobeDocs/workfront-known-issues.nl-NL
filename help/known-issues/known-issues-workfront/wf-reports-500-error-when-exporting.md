@@ -1,17 +1,21 @@
 ---
-title: "Rapporten: 500 fout bij het exporteren van een rapport"
-description: "Wanneer een gebruiker een rapport probeert te exporteren, mislukt het exporteren met een fout van 500."
+title: 'Rapporten: 500 fouten bij het exporteren van een rapport'
+description: Wanneer een gebruiker probeert om een rapport uit te voeren, ontbreekt de uitvoer met een fout 500.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 8fcd13b3586664d7540e64fb855f7f84e6e7cdc7
+exl-id: 5275a4f4-4786-4a87-970f-774dcd526a39
+source-git-commit: 88126bda7f7c51895ae512bb5f7686119febd32f
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
-
 # Rapporten: 500 fouten bij het exporteren van een rapport
+
+>[!NOTE]
+>
+>Dit probleem is op 30 november 2023 opgelost.
 
 Wanneer een gebruiker een rapport probeert te exporteren, mislukt het exporteren met de volgende fout:
 
