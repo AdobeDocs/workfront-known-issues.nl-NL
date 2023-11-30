@@ -1,17 +1,21 @@
 ---
-title: "Workfront Proof: Vertraagde e-mails en meldingen"
-description: "Wanneer een gebeurtenis plaatsvindt in Workfront Proof die een bericht of e-mail zou moeten teweegbrengen, ontvangt de gebruiker het bericht of e-mail voor verscheidene uren niet. Dit kan leiden tot verwarring of vertragingen in de werkprocessen."
+title: 'Workfront Proof: vertraagde e-mails en meldingen'
+description: Wanneer een gebeurtenis plaatsvindt in Workfront Proof die een bericht of e-mail zou moeten teweegbrengen, ontvangt de gebruiker het bericht of e-mail niet voor enige uren. Dit kan leiden tot verwarring of vertragingen in de werkprocessen.
 hidefromtoc: true
 feature: Digital Content and Documents, Updates and Notifications
-source-git-commit: e24f394c40d48f2aa5b71c8f00c461a1537e4ebe
+exl-id: ce44dca5-5bd8-4d05-9af5-a53be13dcd20
+source-git-commit: 7023e66db369b0281df644fae9cf9902ffd59c3b
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-
 # [!UICONTROL Workfront Proof]: Vertraagde e-mails en meldingen
+
+>[!NOTE]
+>
+>Deze kwestie is gesloten.
 
 <!--WF and WFP TOCs-->
 
