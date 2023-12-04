@@ -1,11 +1,11 @@
 ---
 title: "Taken: Door taken te dupliceren worden taken in verkeerde volgorde weergegeven"
-description: "Wanneer een gebruiker veelvoudige taken op een taaklijst selecteert en hen dupliceert, toont de taaklijst dan de taken in de verkeerde orde volgens het aantal van de taakorde. De taken zijn correct genummerd, maar ze worden in de verkeerde volgorde weergegeven. Er is een oplossing beschikbaar."
+description: "Wanneer een gebruiker een of meer taken in een takenlijst selecteert en deze dupliceert, worden de taken in de takenlijst vervolgens in de verkeerde volgorde weergegeven volgens het taakordernummer. De taken zijn correct genummerd, maar ze worden in de verkeerde volgorde weergegeven. Er is een oplossing beschikbaar."
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 93ea563ee9bae7911c043e4ac94bf12cc8cffbbd
+source-git-commit: c1551f44eebd810017b035334a21819afe1e8638
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Taken: taken dupliceren leidt ertoe dat taken in verkeerde volgorde worden weergegeven
 
-Wanneer een gebruiker meerdere taken in een takenlijst selecteert en deze dupliceert, worden de taken in de takenlijst vervolgens in de verkeerde volgorde weergegeven volgens het nummer van de taakvolgorde. De taken zijn correct genummerd, maar ze worden in de verkeerde volgorde weergegeven.
+Wanneer een gebruiker een of meer taken in een takenlijst selecteert en deze dupliceert, worden de taken in de takenlijst vervolgens in de verkeerde volgorde weergegeven volgens het nummer van de taakvolgorde. De taken zijn correct genummerd, maar ze worden in de verkeerde volgorde weergegeven.
 
 **Workaround**
 
