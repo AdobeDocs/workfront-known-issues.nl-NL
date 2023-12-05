@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 88126bda7f7c51895ae512bb5f7686119febd32f
+source-git-commit: eac66ce9ed7466d6fafd1075cf306825bbf7c07f
 workflow-type: tm+mt
-source-wordcount: '6775'
+source-wordcount: '6944'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,29 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 >Deze updates bevatten ook andere kleine of minder duidelijke foutoplossingen. [!DNL Workfront] Ondersteuning geeft een melding wanneer een probleem dat u hebt verzonden, is opgelost.
 
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
+
+## Updates in december 2023
+
++++**Onderhoudsupdate op 7 december 2023**
+
+**Goedkeuring vastgezet op [!UICONTROL Awaiting my approval] widget**
+
+_Home_
+
+Wanneer een nieuwe versie van een document wordt geüpload en de vorige versie een goedkeuring heeft die niet volledig is, blijft de oude versie van het document vastzitten op de goedkeuring van de fiatteur [!UICONTROL Awaiting my approval] widget. De goedkeuring kan niet worden goedgekeurd omdat er een nieuwe versie is en deze kan niet uit de widget worden verwijderd.
+
+**Problemen bij het toevoegen van werkposten in de mening van de Raad van taken of kwesties**
+
+_Taken/problemen_
+
+Wanneer een gebruiker de mening van de Raad van de Taken of het gebied van Kwesties in een project bekijkt en probeert om een taak of kwestie toe te voegen, kan het volgende voorkomen:
+
+* Het pop-upvenster wisselt heen en weer tussen twee verschillende vensterstijlen
+* De gebruiker kan het pop-upvenster niet sluiten
+
+Dit is gemeld wanneer een gebruiker een gebied selecteert in de linkernavigatie van het pop-upvenster voordat hij gegevens invoert.
+
++++
 
 ## Updates in november 2023
 
