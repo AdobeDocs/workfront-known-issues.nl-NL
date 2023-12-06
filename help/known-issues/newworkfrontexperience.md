@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a15e739c797f3b0c4e01db4396509979e19babc3
+source-git-commit: ca99d991b9b27b1149c15145786d5f773451c7d7
 workflow-type: tm+mt
-source-wordcount: '817'
+source-wordcount: '823'
 ht-degree: 0%
 
 ---
@@ -41,6 +41,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [Status: [!UICONTROL Whoops] fout bij verbergen van status](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | 6 december 2023 |
 | [Updates: sommige updates ontbreken in de nieuwe opmerkingervaring](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | 6 december 2023 |
 | [Taken/Problemen: Problemen bij het toevoegen van werkposten in de interneratingweergave van taken of kwesties](known-issues-workfront/wf-tasks-issues-board-view.md) | 1 december 2023 |
 | [Tijdschema&#39;s: Persoonlijke taak wordt weergegeven op het tijdblad](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 30 november 2023 |

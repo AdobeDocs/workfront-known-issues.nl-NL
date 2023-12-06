@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: a15e739c797f3b0c4e01db4396509979e19babc3
+source-git-commit: 3696ef02bf7a80584e0d927b348e11d0b98d9991
 workflow-type: tm+mt
-source-wordcount: '1597'
+source-wordcount: '1602'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Status: [!UICONTROL Whoops] fout bij verbergen van status](known-issues-workfront/wf-setup-whoops-when-hiding-status.md)
       + [Updates: sommige updates ontbreken in de nieuwe opmerkingervaring](known-issues-workfront/wf-updates-not-visible-in-new-experience.md)
       + [Taken/Problemen: Problemen bij het toevoegen van werkposten in de interneratingweergave van taken of kwesties](known-issues-workfront/wf-tasks-issues-board-view.md)
       + [Boeken: Fout in [!UICONTROL Comments] deel kaarten](known-issues-workfront/wf-boards-comments-section-error.md)
