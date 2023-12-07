@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ca99d991b9b27b1149c15145786d5f773451c7d7
+source-git-commit: 9c3e2faa41af9dc6475323467a0592ab9d14d783
 workflow-type: tm+mt
-source-wordcount: '823'
+source-wordcount: '802'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 |----------------------------------| ----------------- |
 | [Status: [!UICONTROL Whoops] fout bij verbergen van status](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | 6 december 2023 |
 | [Updates: sommige updates ontbreken in de nieuwe opmerkingervaring](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | 6 december 2023 |
-| [Taken/Problemen: Problemen bij het toevoegen van werkposten in de interneratingweergave van taken of kwesties](known-issues-workfront/wf-tasks-issues-board-view.md) | 1 december 2023 |
 | [Tijdschema&#39;s: Persoonlijke taak wordt weergegeven op het tijdblad](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 30 november 2023 |
 | [Rapporten: de begrote uren in het gebruiksrapport komen niet overeen met de begrote uren die via de API zijn gerapporteerd](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 30 november 2023 |
 | [Taken: taken dupliceren leidt ertoe dat taken in verkeerde volgorde worden weergegeven](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 30 november 2023 |
@@ -52,7 +51,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | [Taken: Taakdatums worden gedurende langere tijd grijs weergegeven wanneer de tijdlijn opnieuw wordt berekend](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 10 november 2023 |
 | [Meldingen: e-mailbericht niet ontvangen wanneer een gebruiker een opmerking heeft toegevoegd](known-issues-workfront/wf-notif-email-not-received.md) | 8 november 2023 |
 | [Home: De taken in projecten met Goedgekeurde of de status van de Planning zijn niet inbegrepen in Mijn Taken of de Lijst van het Werk van het Huis](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6 november 2023 |
-| [Home: Goedkeuring vastgehouden op [!UICONTROL Awaiting my approval] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 3 november 2023 |
 | [Proofs: problemen met activering van werkgebied](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 3 november 2023 |
 | [Taken: &quot;[!UICONTROL Whoops]&quot; fout in taakkoptekst](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 25 oktober 2023 |
 | [Proefdrukken: kan geen proefdruk genereren](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19 oktober 2023 |
