@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9c3e2faa41af9dc6475323467a0592ab9d14d783
+source-git-commit: a30ff5443dfb9f3f71a08de28670f44990899863
 workflow-type: tm+mt
-source-wordcount: '802'
+source-wordcount: '838'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,8 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Instellen: er ontbreken standaarduitgiftestatussen in bepaalde typen problemen in Setup](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | 7 december 2023 |
+| [Kaarten: Kaarten worden niet naar de juiste kolom verplaatst wanneer de status wordt gewijzigd](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 7 december 2023 |
 | [Boeken: Fout in [!UICONTROL Comments] deel kaarten](known-issues-workfront/wf-boards-comments-section-error.md) | 1 december 2023 |
 | [Kaarten: kaarten die na het vernieuwen naar een kolom zijn verplaatst, worden teruggezet naar de oorspronkelijke kolom](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | 29 november 2023 |
 | [Documenten: heeft geen toegang [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27 november 2023 |
@@ -41,6 +43,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [Home: Mijn projecten en Mijn taken widgets geven slechts 25 items weer](known-issues-workfront/wf-home-widgets-show-25-items.md) | 7 december 2023 |
 | [Status: [!UICONTROL Whoops] fout bij verbergen van status](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | 6 december 2023 |
 | [Updates: sommige updates ontbreken in de nieuwe opmerkingervaring](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | 6 december 2023 |
 | [Tijdschema&#39;s: Persoonlijke taak wordt weergegeven op het tijdblad](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 30 november 2023 |

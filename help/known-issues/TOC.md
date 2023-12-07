@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 3696ef02bf7a80584e0d927b348e11d0b98d9991
+source-git-commit: b7f1508544cfd7e9613474c946e05d58d38fa5dc
 workflow-type: tm+mt
-source-wordcount: '1602'
+source-wordcount: '1635'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Instellen: er ontbreken standaarduitgiftestatussen in bepaalde typen problemen in Setup](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
+      + [Kaarten: Kaarten worden niet naar de juiste kolom verplaatst wanneer de status wordt gewijzigd](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
+      + [Home: Mijn projecten en Mijn taken widgets geven slechts 25 items weer](known-issues-workfront/wf-home-widgets-show-25-items.md)
       + [Status: [!UICONTROL Whoops] fout bij verbergen van status](known-issues-workfront/wf-setup-whoops-when-hiding-status.md)
       + [Updates: sommige updates ontbreken in de nieuwe opmerkingervaring](known-issues-workfront/wf-updates-not-visible-in-new-experience.md)
       + [Taken/Problemen: Problemen bij het toevoegen van werkposten in de interneratingweergave van taken of kwesties](known-issues-workfront/wf-tasks-issues-board-view.md)
