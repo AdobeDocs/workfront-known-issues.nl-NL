@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: eac66ce9ed7466d6fafd1075cf306825bbf7c07f
+source-git-commit: 26c2a3cb7fad72442064ded1bc368967e89176b0
 workflow-type: tm+mt
-source-wordcount: '6944'
+source-wordcount: '6978'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,15 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in december 2023
+
++++**Onderhoudsupdate op 14 december 2023**
+
+**Proefdrukken die in afwachting zijn van goedkeuring, worden niet weergegeven in rapporten**
+
+_Proefdrukken_
+
+Wanneer een gebruiker een rapport bekijkt voor proefversies die in behandeling zijn, verschijnen sommige goedkeuringen die in behandeling zijn niet in het rapport.
++++
 
 +++**Onderhoudsupdate op 7 december 2023**
 
