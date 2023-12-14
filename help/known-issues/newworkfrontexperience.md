@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 83cd4de3865bc0c1d2f462571ecccb7c13a257a6
+source-git-commit: 796999dfce705a18d07ee126e2fb072d706c0df7
 workflow-type: tm+mt
-source-wordcount: '789'
+source-wordcount: '801'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Rapporten: Rapport over een begroot uur wordt niet per uur bijgewerkt](known-issues-workfront/wf-reports-report-not-updating.md) | 14 december 2023 |
 | [Kaarten: Kaarten worden niet naar de juiste kolom verplaatst wanneer de status wordt gewijzigd](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 7 december 2023 |
 | [Boeken: Fout in [!UICONTROL Comments] deel kaarten](known-issues-workfront/wf-boards-comments-section-error.md) | 1 december 2023 |
 | [Kaarten: kaarten die na het vernieuwen naar een kolom zijn verplaatst, worden teruggezet naar de oorspronkelijke kolom](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | 29 november 2023 |
@@ -42,13 +43,13 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [Updates: Opmerkingen die zijn gemaakt in nieuwe ervaringen met opmerkingen zijn niet zichtbaar in een oudere ervaring](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 14 december 2023 |
 | [Instellen: er ontbreken standaarduitgiftestatussen in bepaalde typen problemen in Setup](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | 7 december 2023 |
 | [Home: Mijn projecten en Mijn taken widgets geven slechts 25 items weer](known-issues-workfront/wf-home-widgets-show-25-items.md) | 7 december 2023 |
 | [Status: [!UICONTROL Whoops] fout bij verbergen van status](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | 6 december 2023 |
 | [Updates: sommige updates ontbreken in de nieuwe opmerkingervaring](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | 6 december 2023 |
 | [Tijdschema&#39;s: Persoonlijke taak wordt weergegeven op het tijdblad](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 30 november 2023 |
 | [Taken: taken dupliceren leidt ertoe dat taken in verkeerde volgorde worden weergegeven](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 30 november 2023 |
-| [Proefdrukken: proefdrukken die in afwachting zijn van goedkeuring, worden niet weergegeven in rapporten](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md) | 29 november 2023 |
 | [Aangepaste formulieren: kan geen grote hoeveelheden toevoegen of verwijderen van aangepaste formulieren voor sjabloontaken](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 21 november 2023 |
 | [Taken: Taakdatums worden gedurende langere tijd grijs weergegeven wanneer de tijdlijn opnieuw wordt berekend](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 10 november 2023 |
 | [Home: De taken in projecten met Goedgekeurde of de status van de Planning zijn niet inbegrepen in Mijn Taken of de Lijst van het Werk van het Huis](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6 november 2023 |

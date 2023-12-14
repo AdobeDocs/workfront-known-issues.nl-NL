@@ -1,17 +1,21 @@
 ---
-title: "Proofs: proefdrukken die in afwachting zijn van goedkeuring, worden niet weergegeven in rapporten"
-description: ""
+title: 'Proofs: proefdrukken die in afwachting zijn van goedkeuring, worden niet weergegeven in rapporten'
+description: ''
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: ac43b9e35e7f5e67dcbc5139be06b8d06378fbda
+exl-id: e324848f-0278-4bbd-ba9b-870fde37a23d
+source-git-commit: 796999dfce705a18d07ee126e2fb072d706c0df7
 workflow-type: tm+mt
-source-wordcount: '45'
+source-wordcount: '51'
 ht-degree: 0%
 
 ---
 
-
 # Proefdrukken: proefdrukken die in afwachting zijn van goedkeuring, worden niet weergegeven in rapporten
+
+>[!NOTE]
+>
+>Dit probleem is op 14 december 2023 opgelost.
 
 <!--WF and WFP-->
 
