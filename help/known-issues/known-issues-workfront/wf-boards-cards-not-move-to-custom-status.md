@@ -1,17 +1,21 @@
 ---
-title: "Kaarten: kaarten die naar een kolom zijn verplaatst en na het vernieuwen terugkeren naar de oorspronkelijke kolom"
-description: "Wanneer een gebruiker een kaart naar een andere kolom verplaatst en deze vervolgens vernieuwt of terugkeert naar de kaart, is de kaart teruggegaan naar de oorspronkelijke kolom."
+title: 'Kaarten: kaarten die naar een kolom zijn verplaatst en na het vernieuwen terugkeren naar de oorspronkelijke kolom'
+description: Wanneer een gebruiker een kaart naar een andere kolom verplaatst en deze vervolgens vernieuwt of terugkeert naar het bord, is de kaart teruggegaan naar de oorspronkelijke kolom.
 hidefromtoc: true
 feature: Agile
-source-git-commit: d68bec64be9bd02478787a52c28dba14502d6635
+exl-id: fd92be4b-a87b-4b99-9d19-fd69c4fa5afb
+source-git-commit: 85bb62f8752bba167a6633af8d9e58ff25283573
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
-
 # Kaarten: kaarten die na het vernieuwen naar een kolom zijn verplaatst, worden teruggezet naar de oorspronkelijke kolom
+
+>[!NOTE]
+>
+>Deze kwestie is gesloten omdat het zoals ontworpen werkt.
 
 Wanneer een gebruiker een kaart naar een andere kolom verplaatst en deze vervolgens vernieuwt of terugkeert naar het bord, is de kaart teruggegaan naar de oorspronkelijke kolom.
 
