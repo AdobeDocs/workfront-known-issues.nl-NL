@@ -1,9 +1,9 @@
 ---
 title: "Proofs: problemen bij het verwerken van statische bestanden"
-description: "Workfront heeft onlangs zijn proefverwerkingsprogramma van een derde leverancier gewijzigd in een interne oplossing en heeft enkele discrepanties ontdekt in de mogelijkheden van beide systemen. Deze verschillen kunnen problemen veroorzaken bij het verwerken van statische bestanden, met name PDF-, Word- en PPT-bestanden. Een oplossing is beschikbaar."
+description: "Workfront heeft onlangs zijn proefverwerkingsprogramma van een derde leverancier gewijzigd in een interne oplossing en heeft enkele discrepanties ontdekt in de mogelijkheden van beide systemen. Deze verschillen kunnen problemen veroorzaken bij het verwerken van statische bestanden, met name PDF-, Word- en PPT-bestanden. Er is een oplossing beschikbaar."
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 494e8c83c0bc1f6f9cb8abdf7b147a78add6f699
+source-git-commit: d07005982af8484714e574ee54034f438def6cc7
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
