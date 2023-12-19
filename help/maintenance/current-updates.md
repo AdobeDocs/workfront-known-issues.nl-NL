@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 26c2a3cb7fad72442064ded1bc368967e89176b0
+source-git-commit: 39b1716195e2081597970b9d1e7091013e959416
 workflow-type: tm+mt
-source-wordcount: '6978'
+source-wordcount: '7240'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,51 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in december 2023
+
++++**(Geplande) onderhoudsupdate op 21 december 2023**
+
+**Problemen tijdens weergeven van status van subtaak**
+
+_Borden_
+
+De volgende problemen zijn gemeld met betrekking tot het weergeven van de status van een subtaak op een kaart in de raden van bestuur:
+
+* De status wordt weergegeven als &quot;Status selecteren&quot;, zelfs als de taak al een status heeft. Deze status is zichtbaar wanneer u de taak rechtstreeks bekijkt.
+* Als de gebruiker een status probeert te selecteren, gaat het scherm leeg en moet het worden vernieuwd.
+
+**Kan een document niet aan een kaart koppelen**
+
+_Borden_
+
+Wanneer een gebruiker een document probeert te koppelen aan een aangesloten kaart, kan de gebruiker het document selecteren dat u wilt bijvoegen, maar het document wordt niet weergegeven in het documentgebied van de kaart en het document is niet gekoppeld aan het object waarmee de kaart is verbonden.
+
+Dit is gemeld bij kaarten die verband houden met emissies.
+
+**Kan sjabloon niet selecteren vanuit [!UICONTROL Favorites] list**
+
+_Sjablonen_
+
+Wanneer een gebruiker een sjabloon probeert te selecteren in het menu [!UICONTROL Favorites] verdwijnt de lijst als de gebruiker de muis naar de lijst verplaatst en de gebruiker geen sjabloon kan selecteren.
+
+**Sommige updates ontbreken in de nieuwe opmerkingervaring**
+
+_Updates_
+
+Wanneer een gebruiker updates in de nieuwe opmerkingervaring bekijkt, worden sommige commentaren die zouden moeten worden getoond niet getoond. Als de gebruiker overschakelt naar de oudere opmerkingervaring, worden alle opmerkingen weergegeven.
+
++++
+
++++**(Geplant) [!DNL Adobe Workfront Fusion] Onderhoudsupdate op 21 december 2023**
+
+Het openen van het moduleveld duurt te lang
+
+_[!DNL Workfront Fusion]_
+
+<!--no article-->
+
+Wanneer een gebruiker een module vormt en de module gegevens van de verbonden rekening (zoals voor het selecteren van een verslag) vereist, kan de module niet de gegevens terugwinnen, en het verzoek om gegevenstijden uit.
+
++++
 
 +++**Onderhoudsupdate op 14 december 2023**
 
