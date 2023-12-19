@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ab89dd0dc09dd4c465e2e0f7b83a90686df123c4
+source-git-commit: be8a81c0d5b1735c2e8a8c8fb2cd2629202875f6
 workflow-type: tm+mt
-source-wordcount: '808'
+source-wordcount: '829'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,8 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proefdrukken: proefdrukken die zijn gemaakt op basis van Word-documenten bevatten geen opmerkingen of markeringen](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 19 december 2023 |
+| [Taken: het venster wordt gesloten wanneer het creëren van nieuwe taak](known-issues-workfront/wf-tasks-new-window-closes.md) | 19 december 2023 |
 | [Sjablonen: fout bij het koppelen van een sjabloon aan een project](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | 15 december 2023 |
 | [Rapporten: Rapport over een begroot uur wordt niet per uur bijgewerkt](known-issues-workfront/wf-reports-report-not-updating.md) | 14 december 2023 |
 | [Documenten: heeft geen toegang [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27 november 2023 |

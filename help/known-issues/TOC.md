@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: ab89dd0dc09dd4c465e2e0f7b83a90686df123c4
+source-git-commit: be8a81c0d5b1735c2e8a8c8fb2cd2629202875f6
 workflow-type: tm+mt
-source-wordcount: '1673'
+source-wordcount: '1692'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Proefdrukken: proefdrukken die zijn gemaakt op basis van Word-documenten bevatten geen opmerkingen of markeringen](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)
+      + [Taken: het venster wordt gesloten wanneer het creëren van nieuwe taak](known-issues-workfront/wf-tasks-new-window-closes.md)
       + [Taken: De gebruiker wordt niet toegewezen aan een of meer taken](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)
       + [Borden: Kan geen document aan een kaart koppelen](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md)
       + [Proofs: problemen bij het verwerken van statische bestanden](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md)
