@@ -1,19 +1,19 @@
 ---
-title: "Lay-outsjablonen: lay-outsjablonen die inconsistenties in rapporten veroorzaken"
-description: "Layoutsjablonen uit de klassieke Workfront-ervaring zijn niet meer beschikbaar in de Workfront-interface, maar zijn mogelijk nog wel van invloed op Workfront-gegevens. Dit kan inconsistenties veroorzaken in velden die worden beïnvloed door lay-outsjablonen (zoals Gedeeld met) in rapporten of dashboards."
+title: 'Lay-outsjablonen: lay-outsjablonen die inconsistenties in rapporten veroorzaken'
+description: Layoutsjablonen uit de klassieke Workfront-ervaring zijn niet meer beschikbaar in de Workfront-interface, maar kunnen nog steeds van invloed zijn op Workfront-gegevens. Dit kan inconsistenties veroorzaken in velden die worden beïnvloed door lay-outsjablonen (zoals Gedeeld met) in rapporten of dashboards.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 3845794a0b1b610d821f5653c06d0cce77d58f2e
+exl-id: 1542291f-4797-477e-83b8-0706ac6801ae
+source-git-commit: 10507904c2e6d6a8adc182551f6425b78aab4fce
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
 
-
 # Lay-outsjablonen: Lay-outsjablonen veroorzaken inconsistenties in rapporten
 
-Lay-outsjablonen vanuit de klassieke [!DNL Workfront] de ervaring is niet meer beschikbaar in de [!DNL Workfront] interface, maar kan nog beïnvloeden [!DNL Workfront] gegevens. Dit kan inconsistenties veroorzaken in velden die worden beïnvloed door lay-outsjablonen (zoals [!UICONTROL Shared with]) op rapporten of dashboards.
+Lay-outsjablonen vanuit de klassieke [!DNL Workfront] de ervaring is niet meer beschikbaar in het dialoogvenster [!DNL Workfront] interface, maar kan nog beïnvloeden [!DNL Workfront] gegevens. Dit kan inconsistenties veroorzaken in velden die worden beïnvloed door lay-outsjablonen (zoals [!UICONTROL Shared with]) op rapporten of dashboards.
 
 **Workaround**
 
@@ -38,4 +38,3 @@ Verwijder de klassieke lay-outsjablonen met een API-aanroep. U moet zijn aangeme
 1. Plak de API-aanroep vanuit stap 4 in de URL-balk van uw browser en druk op Enter.
 
    Hiermee verwijdert u de lay-outsjabloon.
-
