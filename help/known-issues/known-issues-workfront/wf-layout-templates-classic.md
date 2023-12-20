@@ -1,10 +1,10 @@
 ---
 title: 'Lay-outsjablonen: lay-outsjablonen die inconsistenties in rapporten veroorzaken'
-description: Layoutsjablonen uit de klassieke Workfront-ervaring zijn niet meer beschikbaar in de Workfront-interface, maar kunnen nog steeds van invloed zijn op Workfront-gegevens. Dit kan inconsistenties veroorzaken in velden die worden beïnvloed door lay-outsjablonen (zoals Gedeeld met) in rapporten of dashboards.
+description: Layoutsjablonen uit de klassieke Workfront-ervaring zijn niet meer beschikbaar in de Workfront-interface, maar zijn mogelijk nog wel van invloed op Workfront-gegevens. Dit kan inconsistenties veroorzaken in velden die worden beïnvloed door lay-outsjablonen (zoals Gedeeld met) in rapporten of dashboards.
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 1542291f-4797-477e-83b8-0706ac6801ae
-source-git-commit: 10507904c2e6d6a8adc182551f6425b78aab4fce
+source-git-commit: d00617f597b21bf28234fc7ffeed5183e029af92
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
