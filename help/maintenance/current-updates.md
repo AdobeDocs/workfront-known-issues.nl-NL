@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 39b1716195e2081597970b9d1e7091013e959416
+source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
 workflow-type: tm+mt
-source-wordcount: '7240'
+source-wordcount: '7238'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-mai
 
 ## Updates in december 2023
 
-+++**(Geplande) onderhoudsupdate op 21 december 2023**
++++**Onderhoudsupdate op 21 december 2023**
 
 **Problemen tijdens weergeven van status van subtaak**
 
@@ -55,7 +55,7 @@ Wanneer een gebruiker updates in de nieuwe opmerkingervaring bekijkt, worden som
 
 +++
 
-+++**(Geplant) [!DNL Adobe Workfront Fusion] Onderhoudsupdate op 21 december 2023**
++++**[!DNL Adobe Workfront Fusion]Onderhoudsupdate op 21 december 2023**
 
 Het openen van het moduleveld duurt te lang
 

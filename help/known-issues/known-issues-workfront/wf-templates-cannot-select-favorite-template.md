@@ -3,15 +3,19 @@ title: "Sjablonen: kan geen sjabloon selecteren vanuit [!UICONTROL Favorites] li
 description: "Wanneer een gebruiker een sjabloon probeert te selecteren in het menu [!UICONTROL Favorites] verdwijnt de lijst als de gebruiker de muis naar de lijst verplaatst en de gebruiker geen sjabloon kan selecteren."
 hidefromtoc: true
 feature: Projects
-source-git-commit: 6a29302c5a3b9e593f9cc9adf2948a6928bfd291
+source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
 
 
 # Sjablonen: kan geen sjabloon selecteren vanuit [!UICONTROL Favorites] list
+
+>[!NOTE]
+>
+>Deze kwestie is op 21 december 2023 vastgesteld.
 
 Wanneer een gebruiker een sjabloon probeert te selecteren in het menu [!UICONTROL Favorites] verdwijnt de lijst als de gebruiker de muis naar de lijst verplaatst en de gebruiker geen sjabloon kan selecteren.
 

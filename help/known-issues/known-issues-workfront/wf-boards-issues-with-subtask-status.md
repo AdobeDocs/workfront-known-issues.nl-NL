@@ -1,17 +1,21 @@
 ---
-title: "Boards: problemen bij het weergeven van de status van een subtaak"
-description: "Er zijn problemen gemeld met betrekking tot het weergeven van de status van een subtaak op een kaart in de raden."
+title: 'Boards: problemen bij het bekijken van de status van een subtaak'
+description: Er zijn problemen gemeld met betrekking tot het weergeven van de status van een subtaak op een kaart in de raden van bestuur.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 2fa805dcacc58ce19ddacd32dc51c3139a9432e4
+exl-id: e7ae6c43-57b5-4ed5-bd61-3c1dc4c6784c
+source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
 
-
 # Borden: problemen bij het weergeven van de status van een subtaak
+
+>[!NOTE]
+>
+>Deze kwestie is op 21 december 2023 vastgesteld.
 
 De volgende problemen zijn gemeld met betrekking tot het weergeven van de status van een subtaak op een kaart in de raden van bestuur:
 
