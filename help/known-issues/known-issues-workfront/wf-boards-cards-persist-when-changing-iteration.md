@@ -1,0 +1,18 @@
+---
+title: "Borden: Kaarten blijven bestaan wanneer u de iteratie wijzigt"
+description: "Wanneer een gebruiker een herhaling op een board bekijkt en dan de herhaling verandert, zijn de kaarten die voor de nieuwe herhaling worden getoond de kaarten van een herhaling de gebruiker eerder bekeken."
+hidefromtoc: true
+feature: Agile
+source-git-commit: f6c0defc4fbc54687057558c5debf9ed80fa7908
+workflow-type: tm+mt
+source-wordcount: '82'
+ht-degree: 0%
+
+---
+
+
+# Kaarten: kaarten blijven behouden wanneer u herhaling wijzigt
+
+Wanneer een gebruiker een herhaling op een board bekijkt en dan de herhaling verandert, zijn de kaarten die voor de nieuwe herhaling tonen de kaarten van een herhaling de gebruiker eerder bekeken.
+
+_Voor het eerst gerapporteerd op 14 december 2023._
