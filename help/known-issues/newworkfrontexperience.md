@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f6c0defc4fbc54687057558c5debf9ed80fa7908
+source-git-commit: 008f8efcf3a21211f0e058051a56dd619e88eb31
 workflow-type: tm+mt
-source-wordcount: '831'
+source-wordcount: '804'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,6 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [Proefdrukken: proefdrukken die zijn gemaakt op basis van Word-documenten bevatten geen opmerkingen of markeringen](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 19 december 2023 |
-| [Taken: het venster wordt gesloten wanneer het creëren van nieuwe taak](known-issues-workfront/wf-tasks-new-window-closes.md) | 19 december 2023 |
-| [Sjablonen: fout bij het koppelen van een sjabloon aan een project](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | 15 december 2023 |
-| [Rapporten: Rapport over een begroot uur wordt niet per uur bijgewerkt](known-issues-workfront/wf-reports-report-not-updating.md) | 14 december 2023 |
-| [Documenten: heeft geen toegang [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27 november 2023 |
 | [Kaarten: kaart verschijnt op meerdere sproten](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21 november 2023 |
 | [Borden: Zoeken werkt niet](known-issues-workfront/wf-boards-search-not-working.md) | 20 oktober 2023 |
 
@@ -41,6 +36,13 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [Proefdrukken: proefdrukken die zijn gemaakt op basis van Word-documenten bevatten geen opmerkingen of markeringen](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 4 januari 2024 |
+| [Sjablonen: fout bij het koppelen van een sjabloon aan een project](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | 4 januari 2024 |
+| [Taken: het venster wordt gesloten wanneer het creëren van nieuwe taak](known-issues-workfront/wf-tasks-new-window-closes.md) | 4 januari 2024 |
+| [Sjablonen: kan geen sjabloon selecteren vanuit [!UICONTROL Favorites] list](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 4 januari 2024 |
+| [Borden: Kan geen document aan een kaart koppelen](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md) | 4 januari 2024 |
+| [Borden: problemen bij het weergeven van de status van een subtaak](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 4 januari 2024 |
+| [Home: Goedkeuring vastgehouden op [!UICONTROL Awaiting my approval] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 4 januari 2024 |
 | [Nieuw [!UICONTROL Home]: Standaardwaarden voor widgetfilter en -groepering volgen niet de lay-outsjabloon](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 4 januari 2024 |
 | [Kaarten: kaarten blijven behouden wanneer u herhaling wijzigt](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | 4 januari 2024 |
 | [Borden: &quot;[!UICONTROL You have no access]&quot; als u opmerkingen op een kaart weergeeft](known-issues-workfront/wf-boards-no-access-to-view-comments.md) | 2 januari 2024 |
@@ -48,11 +50,8 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | [Taken: De gebruiker wordt niet toegewezen aan een of meer taken](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 18 december 2023 |
 | [Proofs: problemen bij het verwerken van statische bestanden](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 15 december 2023 |
 | [Boeken: Fout in [!UICONTROL Comments] deel kaarten](known-issues-workfront/wf-boards-comments-section-error.md) | 14 december 2023 |
-| [Rapporten: de begrote uren in het gebruiksrapport komen niet overeen met de begrote uren die via de API zijn gerapporteerd](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 14 december 2023 |
 | [Kaarten: Kaarten worden niet naar de juiste kolom verplaatst wanneer de status wordt gewijzigd](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 14 december 2023 |
-| [Updates: Opmerkingen die zijn gemaakt in nieuwe ervaringen met opmerkingen zijn niet zichtbaar in een oudere ervaring](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 14 december 2023 |
 | [Instellen: er ontbreken standaarduitgiftestatussen in bepaalde typen problemen in Setup](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | 7 december 2023 |
-| [Status: [!UICONTROL Whoops] fout bij verbergen van status](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | 6 december 2023 |
 | [Taken: taken dupliceren leidt ertoe dat taken in verkeerde volgorde worden weergegeven](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 30 november 2023 |
 | [Aangepaste formulieren: kan geen grote hoeveelheden toevoegen of verwijderen van aangepaste formulieren voor sjabloontaken](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 21 november 2023 |
 | [Taken: Taakdatums worden gedurende langere tijd grijs weergegeven wanneer de tijdlijn opnieuw wordt berekend](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 10 november 2023 |
@@ -60,7 +59,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | [Taken: &quot;[!UICONTROL Whoops]&quot; fout in taakkoptekst](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 25 oktober 2023 |
 | [Proefdrukken: kan geen proefdruk genereren](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19 oktober 2023 |
 | [Proefdrukken: kan geen nieuwe versie van een proefdruk maken](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 19 oktober 2023 |
-| [[!UICONTROL Workload Balancer]: [!UICONTROL Total Hours] komt niet overeen met de som van [!UICONTROL Planned Hours]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 12 oktober 2023 |
 | [[!DNL Workfront]: Kwesties die een [!DNL Workfront] steungeval op Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augustus 2022 |
 
 {style="table-layout:auto"}

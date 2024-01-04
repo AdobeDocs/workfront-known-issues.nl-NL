@@ -4,20 +4,18 @@ description: Wanneer een gebruiker een opmerking maakt in de nieuwe opmerkingerv
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 2056f5eb-e365-4431-a6df-11112df6ad82
-source-git-commit: 796999dfce705a18d07ee126e2fb072d706c0df7
+source-git-commit: 008f8efcf3a21211f0e058051a56dd619e88eb31
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
 # Updates: Opmerkingen die zijn gemaakt in nieuwe ervaringen met opmerkingen zijn niet zichtbaar in een oudere ervaring
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on September 28 2023.
--->
+>Dit probleem is opgelost.
 
 Wanneer een gebruiker een opmerking maakt in de nieuwe opmerkingervaring en die opmerking wordt weergegeven in het gebied Opmerkingen van de nieuwe ervaring, wordt dezelfde opmerking mogelijk niet weergegeven in de oudere opmerkingervaring. Dit kan ertoe leiden dat gebruikers die de oudere ervaring gebruiken opmerkingen vergeten.
 

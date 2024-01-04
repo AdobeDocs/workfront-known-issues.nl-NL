@@ -3,15 +3,19 @@ title: "Status: Er is een fout in het kader van het verbergen van de status"
 description: "Wanneer een gebruiker een status probeert te verbergen, is de status niet verborgen en ziet de gebruiker de fout."
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: ca99d991b9b27b1149c15145786d5f773451c7d7
+source-git-commit: 008f8efcf3a21211f0e058051a56dd619e88eb31
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
 
 # Status: [!UICONTROL Whoops] fout bij verbergen van status
+
+>[!NOTE]
+>
+>Deze kwestie is op 21 december 2023 vastgesteld.
 
 Wanneer een gebruiker een status probeert te verbergen, is de status niet verborgen en ziet de gebruiker de volgende fout:
 
