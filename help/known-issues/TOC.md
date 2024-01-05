@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: f6c0defc4fbc54687057558c5debf9ed80fa7908
+source-git-commit: 2d0e05921904f246c13cfa341e1039c85f1f2b1f
 workflow-type: tm+mt
-source-wordcount: '1724'
+source-wordcount: '1734'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Problemen: tijdvelden besparen onjuiste tijd bij problemen met bulkbewerking](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
       + [Nieuw [!UICONTROL Home]: Standaardwaarden voor widgetfilter en -groepering volgen niet de lay-outsjabloon](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
       + [Kaarten: kaarten blijven behouden wanneer u herhaling wijzigt](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md)
       + [Borden: &quot;[!UICONTROL You have no access]&quot; als u opmerkingen op een kaart weergeeft](known-issues-workfront/wf-boards-no-access-to-view-comments.md)
