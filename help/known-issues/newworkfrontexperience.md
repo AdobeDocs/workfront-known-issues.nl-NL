@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2d0e05921904f246c13cfa341e1039c85f1f2b1f
+source-git-commit: 39ffb4c5e61019b444eb0bdc13b57c75da9e876d
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '827'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [Borden: De kaart wordt niet gesloten wanneer het gebruiken van de mening van Borden in een Project](known-issues-workfront/wf-boards-cannot-close-card-on-project-board.md) | 8 januari 2024 |
 | [Problemen: tijdvelden besparen onjuiste tijd bij problemen met bulkbewerking](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | 5 januari 2024 |
 | [Proefdrukken: proefdrukken die zijn gemaakt op basis van Word-documenten bevatten geen opmerkingen of markeringen](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 4 januari 2024 |
 | [Sjablonen: fout bij het koppelen van een sjabloon aan een project](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | 4 januari 2024 |
