@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 39ffb4c5e61019b444eb0bdc13b57c75da9e876d
+source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
 workflow-type: tm+mt
-source-wordcount: '1745'
+source-wordcount: '1751'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Proefdrukken: gezipte proefdrukken worden niet gegenereerd](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
       + [Borden: De kaart wordt niet gesloten wanneer het gebruiken van de mening van Borden in een Project](known-issues-workfront/wf-boards-cannot-close-card-on-project-board.md)
       + [Problemen: tijdvelden besparen onjuiste tijd bij problemen met bulkbewerking](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
       + [Nieuw [!UICONTROL Home]: Standaardwaarden voor widgetfilter en -groepering volgen niet de lay-outsjabloon](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
