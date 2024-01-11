@@ -1,16 +1,16 @@
 ---
-title: Workfront-onderhoudsupdates in 2022
+title: Workfront Maintenance Updates in 2022
 description: 2022 Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 feature: Get Started with Workfront
-source-git-commit: 6f245f70ca00bef3db833a891cc4c7d822761c37
+source-git-commit: 8dc177a194ae32bcb135910badc7fdb2c42e530d
 workflow-type: tm+mt
-source-wordcount: '15283'
+source-wordcount: '15336'
 ht-degree: 0%
 
 ---
 
-# [!DNL Workfront] Onderhoudsupdates
+# [!DNL Workfront] Onderhoudsupdates in 2022
 
 De volgende onderhoudsupdates zijn uitgevoerd in 2022.
 
@@ -57,7 +57,7 @@ Wanneer een gebruiker probeert om een project van een malplaatje tot stand te br
 
 *Rapporten*
 
-Wanneer een gebruiker een combinatieschema weergeeft, wordt in het diagram tweemaal één waarde weergegeven in plaats van twee waardensets te vergelijken. De juiste waardensets vindt u in de rapportdetails.
+Wanneer een gebruiker een combinatieschema bekijkt, wordt in het diagram tweemaal één waardenset weergegeven in plaats van twee waardensets te vergelijken. De juiste waardensets vindt u in de rapportdetails.
 
 **Knopinfo die voor gedimde uurcellen in timesheets wordt toegevoegd**
 
@@ -73,7 +73,7 @@ Wanneer een gebruiker een timesheet maakt en een fiatteur probeert toe te wijzen
 
 &quot;[!UICONTROL Error. Sorry! Only users with Plan license can approve or reject timesheets. Please contact your system administrator.]&quot;
 
-Aangezien de gedeactiveerde gebruiker niet kan worden toegewezen, moet de gebruiker een geactiveerde gebruiker selecteren. De tijdpagina werkt daarom zoals verwacht, maar de gedeactiveerde gebruikers in de lijst kunnen verwarring of ongemak veroorzaken voor de gebruiker.
+Aangezien de gedeactiveerde gebruiker niet kan worden toegewezen, moet de gebruiker een geactiveerde gebruiker selecteren. De tijdpagina functioneert daarom zoals verwacht, maar de gedeactiveerde gebruikers in de lijst kunnen verwarring of ongemak veroorzaken voor de gebruiker.
 
 **Kan tijd niet invoeren op tijdblad**
 
@@ -91,7 +91,7 @@ Wanneer een gebruiker probeert om tijd aan een timesheet toe te voegen, zien zij
 
 We hebben de manier verbeterd waarop gebruikers deze weergeven wanneer u ze toevoegt aan de [!UICONTROL Approvers] gebied van een nieuwe goedkeuring.
 
-Nu, wanneer u een gebruiker aan toevoegt [!UICONTROL Approvers] in het veld van een goedkeuring op systeemniveau of voor eenmalig gebruik, naast hun naam en avatar, ook hun primaire rol en hun e-mailadres. Zo kunt u beter onderscheid maken tussen meerdere gebruikers met dezelfde of vergelijkbare namen.
+Wanneer u nu een gebruiker aan de [!UICONTROL Approvers] in het veld van een goedkeuring op systeemniveau of voor eenmalig gebruik, naast hun naam en avatar, ook hun primaire rol en hun e-mailadres. Zo kunt u beter onderscheid maken tussen meerdere gebruikers met dezelfde of vergelijkbare namen.
 
 **Projectstatus volgt niet de projectvoorkeuren voor groepen**
 
@@ -128,8 +128,8 @@ Wanneer een gebruiker een object inline bewerkt en een fout maakt die een foutbe
 
 Dit is gemeld voor de volgende situaties:
 
-* Voorgangers: Er wordt een voorganger-lus gemaakt, zoals het toewijzen van een taak aan zichzelf
-* Datums: Er wordt een onmogelijke datum ingesteld, zoals een voltooiingsdatum die voor de begindatum ligt of die na de projectuitvoeringsdatum valt
+* Voorgangers: er wordt een voorganger gemaakt, bijvoorbeeld een taak aan zichzelf toewijzen
+* Datums: er wordt een onmogelijke datum ingesteld, zoals een voltooiingsdatum die voor de begindatum ligt of die na de projectuitvoeringsdatum ligt
 
 **De optie &quot;Verplaatsen naar&quot; is niet beschikbaar in rapporten over problemen**
 
@@ -172,7 +172,7 @@ Dit gebeurt zelfs wanneer de expressie geldig is.
 De volgende elementen zijn momenteel niet toegankelijk in het dialoogvenster [!DNL Workfront for Jira] integratie voor [!DNL Jira Cloud]:
 
 * De [!UICONTROL Configuration] page
-* De &quot;[!UICONTROL Open Workfront]&quot; op een knop op een [!DNL Jira] kwestie
+* De &quot;[!UICONTROL Open Workfront]&quot; op een knop [!DNL Jira] kwestie
 
 **Aangepast bericht toevoegen veroorzaakt probleem in de proefdrukviewer**
 
@@ -180,7 +180,7 @@ De volgende elementen zijn momenteel niet toegankelijk in het dialoogvenster [!D
 
 Wanneer een gebruiker een proef deelt en probeert om een douanebericht toe te voegen, komt het volgende voor:
 
-* In de proefdrukviewer wordt ingezoomd op de proefdruk.
+* In de proefdrukviewer wordt ingezoomd.
 * De gebieden in de linkernavigatie reageren niet meer.
 
 **Gedetailleerde gebruikers beschikbaar bij het selecteren van de fiatteur van het tijdblad**
@@ -191,9 +191,9 @@ Wanneer een gebruiker een timesheet maakt en een fiatteur probeert toe te wijzen
 
 &quot;[!UICONTROL Error. Sorry! Only users with Plan license can approve or reject timesheets. Please contact your system administrator.]&quot;
 
-Aangezien de gedeactiveerde gebruiker niet kan worden toegewezen, moet de gebruiker een geactiveerde gebruiker selecteren. De tijdpagina werkt daarom zoals verwacht, maar de gedeactiveerde gebruikers in de lijst kunnen verwarring of ongemak veroorzaken voor de gebruiker.
+Aangezien de gedeactiveerde gebruiker niet kan worden toegewezen, moet de gebruiker een geactiveerde gebruiker selecteren. De tijdpagina functioneert daarom zoals verwacht, maar de gedeactiveerde gebruikers in de lijst kunnen verwarring of ongemak veroorzaken voor de gebruiker.
 
-**Tijdschema is niet gegenereerd**
+**Timesheet is niet gegenereerd**
 
 *Timesheets*
 
@@ -263,7 +263,7 @@ Deze kwestie heeft geen gevolgen voor Kanbanteams.
 
 *Proefdrukken*
 
-Wanneer een gebruiker een proefdruk weergeeft en de proefdruk probeert te delen via de [!UICONTROL Sharing] tab, de &quot;[!UICONTROL New proof reciepients]&quot; het tekstvak is erg klein. De gebruiker kan een naam typen, maar omdat het vak zo klein is, loopt de tekst om op een manier die moeilijk leesbaar is.
+Wanneer een gebruiker een proefdruk weergeeft en de proefdruk probeert te delen via de [!UICONTROL Sharing] tab, de[!UICONTROL New proof reciepients]&quot; het tekstvak is erg klein. De gebruiker kan een naam typen, maar omdat het vak zo klein is, loopt de tekst om op een manier die moeilijk leesbaar is.
 
 **Gebruiksgegevens van rapport worden niet bijgewerkt**
 
@@ -348,7 +348,7 @@ Dit is gemeld op de volgende gebieden:
 Er zijn verschillende informatiepictogrammen toegevoegd aan de volgende instellingen:
 
 * &quot;Kan tijd&quot;checkbox uitgeven wanneer het creëren van of het uitgeven van een timesheet of een timesheet profiel om erop te wijzen dat wanneer toegelaten, de fiatteurs ook kunnen voorleggen, opnieuw openen, of uitgeven timesheet, tenzij uw beheerder deze acties in het gebied van de Voorkeur van de Chronologie van Opstelling beperkt.
-* &quot;Beperk het uitgeven van timesheet tot eigenaars en beheerders&quot;in het gebied van de Voorkeur van de Tijdopmaak &amp; van het Uur van Opstelling om erop te wijzen dat wanneer gehandicapt, de volgende gebruikers de timesheets kunnen ook uitgeven: gebruikers met administratieve toegang tot timesheets en uren, beoordelaars van tijdbladen die tijd mogen uitgeven, en de managers van timesheet eigenaars.
+* &quot;Beperk timesheet uitgeven tot eigenaars en beheerders&quot;in het gebied van de Voorkeur van de Tijdopmaak &amp; van het Uur van Opstelling om erop te wijzen dat wanneer gehandicapt, de volgende gebruikers ook timesheets kunnen uitgeven: gebruikers met administratieve toegang tot timesheets en uren, timeesheet fiatteurs toegestaan om tijd uit te geven, en de managers van timesheet eigenaars.
 
 De functionaliteit van deze instellingen is niet gewijzigd en alleen de informatiepictogrammen zijn toegevoegd om het bereik van de instellingen helderder te maken.
 
@@ -368,7 +368,7 @@ Wanneer een berekend veld de [!UICONTROL HOUR] de functie waarden retourneert op
 
 *Lijsten*
 
-Wanneer een gebruiker de opdracht [!UICONTROL Quick filter] in een lijst om naar een team te zoeken, keert het ingaan van de naam van het team geen resultaten terug, zelfs wanneer het team in de lijst (zoals in [!UICONTROL Assigned to] veld). Het woord &quot;[!UICONTROL team]&quot; retourneert ook geen resultaten.
+Wanneer een gebruiker de opdracht [!UICONTROL Quick filter] in een lijst om naar een team te zoeken, keert het ingaan van de naam van het team geen resultaten terug, zelfs wanneer het team in de lijst (zoals in [!UICONTROL Assigned to] veld). Zoeken naar het woord &quot;[!UICONTROL team]&quot; retourneert ook geen resultaten.
 
 **Kan een pagina niet opnieuw vastzetten nadat het punt is verwijderd**
 
@@ -386,7 +386,7 @@ Als een gebruiker de pagina opnieuw vastzet door naar de pagina te gaan en deze 
 
 *[!UICONTROL Workload Balancer]*
 
-Wanneer een gebruiker een deelbare koppeling naar de [!UICONTROL Workload Balancer] tijdens het gebruik van een [!DNL Safari] browser, zien zij alle gebruikers eerder dan enkel de leden van het vermelde team.
+Wanneer een gebruiker een deelbare koppeling naar de [!UICONTROL Workload Balancer] terwijl u een [!DNL Safari] browser, zien zij alle gebruikers eerder dan enkel de leden van het vermelde team.
 
 +++
 
@@ -404,7 +404,7 @@ Wanneer een gebruiker in bulk bewerkingstaken of kwesties is en een team toewijs
 
 *Documenten*
 
-Wanneer een gebruiker een bestand probeert te uploaden naar de [!UICONTROL Documents] gebied, wordt het bestand niet geüpload en de gebruiker ziet de fout &quot;[!UICONTROL Failed to upload file].&quot;
+Wanneer een gebruiker een bestand probeert te uploaden naar [!UICONTROL Documents] gebied, wordt het bestand niet geüpload en de gebruiker ziet de fout &quot;[!UICONTROL Failed to upload file].&quot;
 
 Dit is gemeld bij pogingen om MP4-bestanden te uploaden.
 
@@ -453,7 +453,7 @@ Gebruikers met [!UICONTROL Contribute] Als u toegang hebt tot een taak of uitgav
 
 *[!DNL Workfront Proof]*
 
-Wanneer een gebruiker aan een proef als Revisor of een Aanvrager wordt toegevoegd, krijgen zij &quot;[!UICONTROL Visitor]&quot; machtigingenprofiel, dat geen [!DNL Workfront Proof] licentie. Wanneer de gebruiker echter wordt toegevoegd, wordt het aantal gebruikte [!DNL Workfront Proof] de licenties stijgen.
+Wanneer een gebruiker aan een proef als Revisor of Aanvrager wordt toegevoegd, krijgen zij &quot;[!UICONTROL Visitor]&quot; machtigingenprofiel, dat geen gebruik mag maken van een [!DNL Workfront Proof] licentie. Wanneer de gebruiker echter wordt toegevoegd, wordt het aantal gebruikte [!DNL Workfront Proof] de licenties stijgen.
 
 +++
 
@@ -544,7 +544,7 @@ Als een baanrol waarvoor u tijd registreerde is veranderd en [!UICONTROL Assign 
 
 *Proefdrukken*
 
-Wanneer een gebruiker die een proef bekijkt binnen [!DNL Workfront] Sluit de proefdruk af, omdat ze de pagina waarop ze stonden niet retourneren voordat ze de proefdruk opende. In plaats daarvan worden ze doorgestuurd naar een andere pagina in [!DNL Workfront].
+Wanneer een gebruiker die een proefdruk weergeeft binnen [!DNL Workfront] Sluit de proefdruk af, omdat ze de pagina waarop ze stonden niet retourneren voordat ze de proefdruk opende. In plaats daarvan worden ze doorgestuurd naar een andere pagina in [!DNL Workfront].
 
 **Kan proef niet openen in[!DNL Workfront]**
 
@@ -623,7 +623,7 @@ De toewijzingsvelden waarvan de naam vorige week tijdelijk is gewijzigd, zijn te
 * [!UICONTROL Assignment Users]
 * [!UICONTROL Assignment Roles]
 
-**Fout bij het verwijderen van de eigenaar van het project uit de koptekst**
+**Fout bij het verwijderen van de projecteigenaar uit de koptekst**
 
 *Projecten*
 
@@ -697,7 +697,7 @@ Nu worden alleen onvolledige items waarvan de data overeenkomen met de data van 
 
 Metagegevens worden automatisch geactiveerd wanneer u middelen aan een gekoppelde map toevoegt.
 
-Eerder werden metagegevens alleen &#39;push&#39; weergegeven wanneer u een element toevoegt met het gereedschap [!UICONTROL Add new] vervolgkeuzemenu.
+Eerder werden metagegevens alleen &#39;push&#39; weergegeven wanneer u een element toevoegt met het gereedschap [!UICONTROL Add new] vervolgkeuzelijst.
 
 **Kan uren in een uitgave niet goedkeuren of afwijzen**
 
@@ -768,7 +768,7 @@ Nu, toont de Balancer van de Werkbelasting de toegewezen punten van de gebruiker
 
 *Rapporten*
 
-Wanneer een gebruiker een lijst van taken in een rapport bekijkt en opent [!UICONTROL More] (met drie punten), de[!UICONTROL Add to Iteration]&quot; en &quot;[!UICONTROL Add to Kanban Board]&quot;-opties zijn niet beschikbaar in het vervolgkeuzemenu. Als het rapport wordt weergegeven op een dashboard, wordt &quot;[!UICONTROL Add to Iteration]&quot; en &quot;[!UICONTROL Add to Kanban Board]&quot;-opties zijn beschikbaar in het vervolgkeuzemenu.
+Wanneer een gebruiker een lijst van taken in een rapport bekijkt en opent [!UICONTROL More] (met drie punten), de[!UICONTROL Add to Iteration]&quot; en &quot;[!UICONTROL Add to Kanban Board]&quot;-opties zijn niet beschikbaar in de vervolgkeuzelijst. Als het rapport wordt weergegeven op een dashboard, wordt &quot;[!UICONTROL Add to Iteration]&quot; en &quot;[!UICONTROL Add to Kanban Board]De opties &quot; zijn beschikbaar in de vervolgkeuzelijst.
 
 **Matrixrapporten worden onjuist weergegeven wanneer er wordt geschoven**
 
@@ -786,7 +786,7 @@ De [!UICONTROL Milestone] de mening is verwijderd uit de timesheet projectlijst 
 
 *[!DNL Workfront Proof]*
 
-Wanneer een gebruiker een interactieve proef bekijkt en op een verbinding of een knoop klikt die een verbinding bevat, wordt de gebruiker niet genomen aan de pagina die de verbinding of de knoop verbindt.
+Wanneer een gebruiker een interactieve proef bekijkt en op een verbinding of een knoop klikt die een verbinding bevat, wordt de gebruiker niet genomen aan de pagina die de verbinding of de knoop verbindt met.
 
 **Ontbrekende tekstvelden van nieuwe proefpagina**
 
@@ -820,9 +820,9 @@ Wanneer u een nieuw veld toevoegt aan een aanpasbare koptekst, wordt het veld nu
 
 Wanneer een gebruiker een aangepast formulier probeert te bewerken en dat aangepaste formulier een [!UICONTROL Descriptive text] in een veld dat momenteel meer dan 512 tekens bevat, kan de gebruiker de bewerkingen niet opslaan in het aangepaste formulier. De volgende fout wordt weergegeven:
 
-&quot;De volgende velden zijn ongeldig: (Veld) is te lang, max. 512 inch
+&quot;De volgende velden zijn ongeldig: (Veld) is te lang, max. 512&quot;
 
-Dit is [!UICONTROL Descriptive text] velden die eerder goed hebben gewerkt, ondanks meer dan 512 tekens.
+Dit heeft invloed op [!UICONTROL Descriptive text] velden die eerder goed hebben gewerkt, ondanks meer dan 512 tekens.
 
 **Gegevens in velden die door sectie-einde worden verborgen, blijven niet behouden wanneer u een uitgave omzet in een project**
 
@@ -862,7 +862,7 @@ Deze kwesties zijn alleen in het nieuwe [!DNL Workfront] ervaring.
 
 Alles [!DNL Workfront Classic] Deze functie is verwijderd op 14 juli 2022.
 
-**Fout bij het wijzigen van de Geplande Voltooiingsdatum in de koptekst van een taak of uitgave**
+**Fout bij het wijzigen van de geplande afsluitdatum in de koptekst van een taak of uitgave**
 
 *Taken en problemen*
 
@@ -884,7 +884,7 @@ Alles [!DNL Workfront Classic] Deze functie is verwijderd op 14 juli 2022.
 
 *[!UICONTROL Home]*
 
-Wanneer een gebruiker een item op zijn [!UICONTROL Home Work List], het item wordt niet geopend en de gebruiker ziet het volgende bericht:
+Wanneer een gebruiker een item op zijn/haar [!UICONTROL Home Work List], het item wordt niet geopend en de gebruiker ziet het volgende bericht:
 
 &quot;[!UICONTROL An error has occurred and we are working to resolve the issue. To continue with your work try refreshing this browser page.]&quot;
 
@@ -913,7 +913,7 @@ Wanneer een gebruiker een sjabloon koppelt en aanpast, wordt hem gevraagd de sel
 Om de functie van &quot;[!UICONTROL Locale]&quot; velden zijn duidelijker , we hebben hun labels bijgewerkt .
 
 * De &quot;[!UICONTROL Locale]&quot; in het gebruikersprofiel is nu gelabeld &quot;[!UICONTROL Email Locale]&quot;
-* De &quot;[!UICONTROL Locale]&quot; veld gevonden in het dialoogvenster [!UICONTROL Setup] >[!UICONTROL System] >[!UICONTROL Customer Info] gebied is nu gelabeld &quot;[!UICONTROL Default Email Locale]&quot;
+* De &quot;[!UICONTROL Locale]&quot; in het veld [!UICONTROL Setup] >[!UICONTROL System] >[!UICONTROL Customer Info] gebied is nu gelabeld &quot;[!UICONTROL Default Email Locale]&quot;
 
 De functionaliteit van deze velden is niet gewijzigd.
 
@@ -968,7 +968,7 @@ Alles [!DNL Workfront Classic] Deze functie is verwijderd op 14 juli 2022.
 
 **Afwijzingsstatus die aan een goedkeuring is gekoppeld, voldoet aan de goedkeuringswerkstroom**
 
-**OPMERKING: Deze functionaliteit is uitgebracht op 22 juli 2022.**
+**OPMERKING: deze functionaliteit is uitgebracht op 22 juli 2022.**
 
 *Goedkeuringen*
 
@@ -981,7 +981,7 @@ Vóór deze update heeft het object het goedkeuringsproces voor de afwijzingssta
 *[!UICONTROL Main Menu]*
 
 Als uw organisatie een aangepaste interne helpsite heeft, kunt u de [!UICONTROL Main Menu] [!UICONTROL Help] pictogram om naar die site te gaan. Dit is handig als de Help-site informatie bevat over het gebruik van uw organisatie [!DNL Workfront].
-Deze aangepaste URL heeft geen invloed op de hoofdkoppeling van de Help in het bovenste gebied van [!DNL Workfront], noch de contextgevoelige hulpverbindingen door [!DNL Workfront], die gebruikers naar de [!DNL Workfront] Help-site.
+Deze aangepaste URL heeft geen invloed op de hoofdkoppeling van de Help in het bovenste gebied van [!DNL Workfront], noch de contextgevoelige hulpverbindingen door [!DNL Workfront], die de gebruikers naar de [!DNL Workfront] Help-site.
 
 **Kan Verstreken tijd niet selecteren bij inline bewerken[!UICONTROL Task Duration]**
 
@@ -999,7 +999,7 @@ Wanneer een gebruiker een takenlijst weergeeft en probeert de [!UICONTROL Task D
 
 *Updates*
 
-Wanneer een gebruiker probeert hun [!UICONTROL My Updates] pagina, wordt de pagina niet geladen. De gebruiker kan alleen de [!DNL Workfront] navigatiekop.
+Wanneer een gebruiker probeert hun [!UICONTROL My Updates] pagina wordt niet geladen. De gebruiker kan alleen de [!DNL Workfront] navigatiekop.
 
 **&quot;[!UICONTROL Only Allow SAML 2.0 Authentication]&quot;-instelling ontbreekt bij het kopiëren van een gebruiker**
 
@@ -1120,7 +1120,7 @@ Op basis van de feedback die we van veel klanten hebben ontvangen, hebben we nu 
 
 *[!UICONTROL Workload Balancer]*
 
-OPMERKING: Deze update bestaat alleen in de voorvertoningsomgeving. De functionaliteit die aan deze update is gekoppeld, is beschikbaar in Production met de release 22.3.
+OPMERKING: deze update bestaat alleen in de voorvertoningsomgeving. De functionaliteit die aan deze update is gekoppeld, is beschikbaar in Production met de release 22.3.
 
 U kunt de afgevaardigden van een taak of een kwestie van de Balancer van de Werkbelasting nu bekijken. Wanneer u een taak of een probleem toewijst vanuit Workload Balancer, kunt u een lijst met toewijzingen en een lijst met afgevaardigden voor de taak of kwestie weergeven als deze momenteel zijn gedelegeerd.
 
@@ -1175,7 +1175,7 @@ Wanneer een gebruiker een dashboard op een project bekijkt en een nieuw verzoek 
 
 *[!UICONTROL Home]*
 
-Wanneer een gebruiker hun [!UICONTROL Home Work List] en klikt u op een item in het dialoogvenster [!UICONTROL Approvals I've Submitted] op de pagina wordt de volgende fout weergegeven:
+Wanneer een gebruiker zijn of haar [!UICONTROL Home Work List] en klikt u op een item in het dialoogvenster [!UICONTROL Approvals I've Submitted] op de pagina wordt de volgende fout weergegeven:
 
 &quot;[!UICONTROL An error has occurred and we are working to resolve the issue. To continue with your work, try refreshing this browser page.]&quot;
 
@@ -1254,7 +1254,7 @@ Als de gebruiker een nieuw kwartaal toevoegt, klikt u op [!UICONTROL Save], ontv
 
 *Teams*
 
-OPMERKING: Dit probleem doet zich alleen voor in de voorvertoningsomgeving.
+OPMERKING: dit probleem bestaat alleen in de voorvertoningsomgeving.
 
 Wanneer een gebruiker de opdracht [!UICONTROL Work Requests] op een teampagina is de pagina leeg. De gebruiker kan de bovenste navigatiebalk zien, maar geen pagina-inhoud.
 
@@ -1264,7 +1264,7 @@ Wanneer een gebruiker de opdracht [!UICONTROL Work Requests] op een teampagina i
 
 **Kan objecten niet selecteren waarin moet worden gefilterd [!UICONTROL Portfolio Optimizer] voorkeuren**
 
-*Portfolio*
+*Portfolio&#39;s*
 
 Wanneer een gebruiker zich in de [!UICONTROL Portfolio Optimizer] en geeft de [!UICONTROL Project Filters] in de [!UICONTROL Preferences] zijn de selectievakjes naast de objecten niet beschikbaar. De gebruiker kan selectievakjes niet in- of uitschakelen en kan daarom geen objecten selecteren om te filteren.
 
@@ -1312,7 +1312,7 @@ Wanneer een gebruiker de uitvoeringshistorie van een scenario bekijkt en naar be
 
 **[!UICONTROL Portfolio Optimizer]toont een score van 0 wanneer het gebruiken van andere taal dan het Engels**
 
-*Portfolio*
+*Portfolio&#39;s*
 
 Wanneer een gebruiker [!DNL Workfront] in een andere taal dan het Engels en wordt de [!UICONTROL Portfolio Optimizer]De score wordt weergegeven als 0. Dit kan zelfs gebeuren wanneer de bedrijfscase niet volledig is.
 
@@ -1334,7 +1334,7 @@ Wanneer een gebruiker probeert te bewerken [!UICONTROL Conditions] in de [!UICON
 
 >[!NOTE]
 >
->Deze update is alleen van toepassing op de voorvertoningsomgeving.
+>Deze update geldt alleen voor de voorvertoningsomgeving.
 
 Om de prestaties van het gebied van Updates te verbeteren, hebben wij een nieuwe grens aan het aantal karakters geïntroduceerd die u in een update of een antwoord op een bestaande update kunt ingaan. De nieuwe limiet is 15.000 tekens. Deze update heeft het toegestane aantal tekens voor het gebruik van de API niet gewijzigd. De API-tekenlimiet voor updates is 4.000. Updates voor aangepaste velden voor Type Typehead in Workload Balancer-filters
 
@@ -1382,7 +1382,7 @@ De PDF omvat lege ruimten tussen de kolomkopballen en de eerste rij van het rapp
 
 **[!DNL Portfolio Optimizer]toont een score van 0 wanneer het gebruiken van andere taal dan het Engels**
 
-*Portfolio*
+*Portfolio&#39;s*
 
 Wanneer een gebruiker [!DNL Workfront] in een andere taal dan het Engels en wordt de [!UICONTROL Portfolio Optimizer]De score wordt weergegeven als 0. Dit kan zelfs gebeuren wanneer de bedrijfscase niet volledig is.
 
@@ -1396,23 +1396,23 @@ Wanneer een gebruiker de aangepaste formulieren op een sjabloon probeert te bewe
 
 *[!UICONTROL Workload Balancer]*
 
-Wanneer een gebruiker de [!UICONTROL Workload Balancer] met behulp van een gedeelde koppeling [!DNL Workload Balancer] include [!UICONTROL Assigned Work] in de [!UICONTROL Unassigned Work] sectie. [!UICONTROL Assigned Work] heeft geen aparte sectie. Wanneer de gebruiker de [!UICONTROL Workload Balancer] zonder gebruik te maken van de gedeelde koppeling, [!UICONTROL Assigned Work] worden weergegeven zoals verwacht.
+Wanneer een gebruiker de [!UICONTROL Workload Balancer] met behulp van een gedeelde koppeling [!DNL Workload Balancer] include [!UICONTROL Assigned Work] in de [!UICONTROL Unassigned Work] sectie. [!UICONTROL Assigned Work] heeft geen aparte sectie. Wanneer de gebruiker de [!UICONTROL Workload Balancer] zonder de gedeelde koppeling te gebruiken, [!UICONTROL Assigned Work] worden weergegeven zoals verwacht.
 
 +++
 
 +++**Onderhoudsupdate op 19 mei 2022**
 
-**Kan geen proefdruk maken van een[!DNL PowerPoint]**
+**Kan geen proefdruk maken op basis van een[!DNL PowerPoint]**
 
 *[!DNL Workfront Proof]*
 
-Wanneer een gebruiker een proef probeert tot stand te brengen van een [!DNL PowerPoint] dat een grafiek bevat, mislukt het maken van de proefdruk.
+Wanneer een gebruiker een proef probeert te creëren van een [!DNL PowerPoint] dat een grafiek bevat, mislukt het maken van de proefdruk.
 
-**Kan geen proefdruk maken van een [!UICONTROL Word] document**
+**Kan geen proefdruk maken op basis van een [!UICONTROL Word] document**
 
 *[!DNL Workfront Proof]*
 
-Wanneer een gebruiker een proef probeert tot stand te brengen van een [!DNL Word] In een document met een grafiek kan de proefdruk niet worden gemaakt.
+Wanneer een gebruiker een proef probeert te creëren van een [!DNL Word] In een document dat een grafiek bevat, mislukt het maken van de proefdruk.
 
 **Kan geen aangepast bericht toevoegen tijdens het delen van een proefdruk**
 
@@ -1488,7 +1488,7 @@ Wanneer een gebruiker een veld in een rapport probeert te bewerken en dat veld u
 
 *[!DNL Workfront Proof]*
 
-OPMERKING: Dit probleem doet zich alleen voor in de voorvertoningsomgeving.
+OPMERKING: dit probleem bestaat alleen in de voorvertoningsomgeving.
 
 Wanneer een gebruiker een proef probeert te creëren, is de tekst niet zichtbaar voor opties of knopen. Daarom weet de gebruiker niet wat elke optie of knoop vertegenwoordigt, en kan niet de proef vormen.
 
@@ -1530,7 +1530,7 @@ Wanneer een gebruiker die aan een toegangsniveau wordt toegewezen dat omvat [!UI
 
 *Groepen*
 
-Wanneer een gebruiker een status van een aangepaste groep probeert te verwijderen uit het dialoogvenster [!UICONTROL Group] pagina, wordt de pagina leeg gelaten en wordt de status niet verwijderd.
+Wanneer een gebruiker een status van een aangepaste groep probeert te verwijderen uit de [!UICONTROL Group] pagina, wordt de pagina leeg gelaten en wordt de status niet verwijderd.
 
 **De instellingen voor e-mailwaarschuwingen in het gedeelte Contacten en in Gebruikersdetails zijn inconsistent**
 
@@ -1552,7 +1552,7 @@ Wanneer een gebruiker een opmerking maakt over een proefdruk en probeert het dia
 
 We zijn bezig met het aanpassen van de manier waarop e-mailmeldingen met proefdrukken worden verzonden. Meldingen gaan nu naar het primaire e-mailadres van de gebruiker in plaats van naar het alias-e-mailadres dat door het systeem wordt gegenereerd.
 
-Voor meer informatie over waarom het systeem alias e-mails produceert, zie de synchronisatie van de Gebruiker tussen Adobe [!DNL Workfront] en [!DNL Workfront Proof].
+Voor meer informatie over waarom het systeem alias-e-mails produceert, zie Gebruikerssynchronisatie tussen Adobe [!DNL Workfront] en [!DNL Workfront Proof].
 
 +++
 
@@ -1564,7 +1564,7 @@ Voor meer informatie over waarom het systeem alias e-mails produceert, zie de sy
 
 *Timesheets*
 
-Wanneer een gebruiker een tijdpagina bewerkt, kan hij of zij niet ver genoeg schuiven om de [!UICONTROL Save] en kan daarom de tijdpagina niet bewerken.
+Wanneer een gebruiker een tijdpagina bewerkt, kan hij of zij het bewerkingsvenster niet ver genoeg schuiven om de [!UICONTROL Save] en kan daarom de tijdpagina niet bewerken.
 
 **Elektronische handtekening controleert nu de federatie-id**
 
@@ -1578,7 +1578,7 @@ Eerder controleerde het systeem alleen uw e-mail in Workfront.
 
 +++**Onderhoudsupdate (Hot Fix) op 25 april 2022**
 
-**[!UICONTROL Workload Balancer]niet laden**
+**[!UICONTROL Workload Balancer]wordt niet geladen**
 
 *[!UICONTROL Workload Balancer]*
 
@@ -1598,19 +1598,19 @@ Wanneer een gebruiker een taak toevoegt onder een bestaande taak in een lijst, s
 
 *Proefdrukken*
 
-Als een gebruiker aan een werkgebied in de werkstroom van een proefdruk wordt toegevoegd, wordt de gebruiker niet toegevoegd aan het delen van het Document en krijgt geen toestemmingen aan het het werkpunt van de proef in [!DNL Workfront]. Wanneer de gebruiker zich [!DNL Workfront] en pogingen om het het werkpunt te openen de proef aan wordt vastgemaakt, zien zij het volgende bericht:
+Als een gebruiker aan een werkgebied in de werkstroom van een proefdruk wordt toegevoegd, wordt de gebruiker niet toegevoegd aan het delen van het Document en krijgt geen toestemmingen aan het het werkpunt van de proef in [!DNL Workfront]. Wanneer de gebruiker zich in [!DNL Workfront] en pogingen om het het werkpunt te openen de proef aan wordt vastgemaakt, zien zij het volgende bericht:
 
 &quot;[!UICONTROL You do not have sufficient access to view this (object)]&quot;
 
 Deze kwestie is specifiek voor reeds gecreeerd proefdrukken en gebruikers die na het feit worden toegevoegd. Gebruikers aan de workflow toevoegen voordat het maken van proefdrukken werkt zoals u had verwacht.
 
-**Kan geen e-mail voor opnieuw instellen van wachtwoord verzenden vanuit[!DNL Workfront]**
+**Kan geen e-mail voor opnieuw instellen van wachtwoord verzenden[!DNL Workfront]**
 
 *Gebruikers*
 
 Wanneer een gebruiker een e-mail probeert te verzenden om het wachtwoord opnieuw in te stellen vanuit een gebruikerslijst in [!DNL Workfront], is de optie om de e-mail te verzenden niet beschikbaar.
 
-**Knoppenweergave &quot;[!UICONTROL Start Issue]in plaats van &quot;[!UICONTROL Start Request]&quot;**
+**Knoppenweergave &quot;[!UICONTROL Start Issue]&quot; in plaats van &quot;[!UICONTROL Start Request]&quot;**
 
 *Verzoeken*
 
@@ -1634,23 +1634,23 @@ Wanneer een gebruiker een rapport weergeeft en de optie [!UICONTROL Milestone] I
 
 Wanneer een gebruiker een rapport in een dashboard bekijkt, is de valuta die in het rapport wordt gebruikt onjuist. Wanneer de gebruiker het rapport buiten het dashboard bekijkt, is de valuta correct.
 
-**Voltooid filter geeft het voltooide werkitem niet weer**&#x200B; s
+**Voltooid filter geeft geen voltooid werkitem weer**&#x200B; s
 
 *[!UICONTROL Home]*
 
 Wanneer een gebruiker hun [!UICONTROL Home Work List] met de [!UICONTROL Completed] geselecteerde, voltooide werkitems worden niet weergegeven in de lijst. Wanneer de [!UICONTROL All] is geselecteerd. Voltooide items worden in de lijst opgenomen en tonen aan dat de voltooide items bestaan.
 
-**[!DNL Workfront]niet laden**
+**[!DNL Workfront]wordt niet geladen**
 
 *[!DNL Workfront]*
 
-Wanneer een gebruiker zich aanmeldt [!DNL Workfront], lijkt de pagina vast te zitten in een lus van omleidingen of vernieuwingen en wordt niet geladen.
+Wanneer een gebruiker zich aanmeldt [!DNL Workfront], lijkt de pagina vast te zitten in een lus van omleidingen of vernieuwingen, en wordt niet geladen.
 
 +++
 
 +++**Onderhoudsupdate op 14 april 2022**
 
-**Kan geen taak van een rapport over een douanesectie op een taak toevoegen**
+**Kan geen taak toevoegen uit een rapport over een aangepaste sectie over een taak**
 
 *Taken*
 
@@ -1698,7 +1698,7 @@ Wanneer een gebruiker een andere gebruiker aan een proef toevoegt, wordt de rol 
 
 *Gebruikers*
 
-Wanneer een gebruiker een wachtwoordinstelling naar een andere gebruiker probeert te verzenden, ziet hij of zij dat de instelling [!UICONTROL Send Forgot Password Email] is niet beschikbaar in het dialoogvenster [!UICONTROL More] -menu.
+Wanneer een gebruiker een wachtwoord opnieuw probeert in te stellen op een andere gebruiker, zien de gebruikers dat de [!UICONTROL Send Forgot Password Email] is niet beschikbaar in het dialoogvenster [!UICONTROL More] -menu.
 
 **[!UICONTROL Update All]verzendt updates naar gebruikersprofielen in plaats van project**
 
@@ -1739,7 +1739,7 @@ Wanneer een gebruiker een rapport bekijkt dat informatie betreffende de laatste 
 
 *[!UICONTROL Home]*
 
-Wanneer een gebruiker hun [!UICONTROL Home Work List], zien zij Volledige taken in de lijst, zelfs wanneer de optie om Voltooide taken te tonen niet wordt geselecteerd.
+Wanneer een gebruiker zijn of haar [!UICONTROL Home Work List], zien zij Volledige taken in de lijst, zelfs wanneer de optie om Voltooide taken te tonen niet wordt geselecteerd.
 
 **De knop Schema is niet zichtbaar om Sandbox te vernieuwen**
 
@@ -1846,7 +1846,7 @@ Als een gebruiker handmatig een berekening invoert in een berekeningsveld in de 
 
 Als een gebruiker een berekening invoert in een berekeningsveld in de Aangepaste formulierbuilder door de dropdowns te gebruiken en het formulier op te slaan, wordt die waarde opgeslagen. Als de gebruiker het aangepaste formulier echter opnieuw opent, kan hij of zij dit veld niet bewerken of de waarde handmatig of met het vervolgkeuzemenu verwijderen.
 
-OPMERKING: Dit probleem is opgelost met extra functionaliteit. Wanneer u nu begint te typen in een berekend veld, worden mogelijke expressies of berekeningen weergegeven in een vervolgkeuzelijst hieronder, net als in de Rekeningeditor. Klik op een item in het vervolgkeuzemenu om het toe te voegen aan het berekende veld.
+OPMERKING: deze probleemoplossing bevatte extra functionaliteit. Wanneer u nu begint te typen in een berekend veld, worden mogelijke expressies of berekeningen weergegeven in een vervolgkeuzelijst hieronder, net als in de Rekeningeditor. Klik op een item in het vervolgkeuzemenu om het toe te voegen aan het berekende veld.
 
 +++
 
@@ -1862,7 +1862,7 @@ Wanneer het profiel van een gebruiker is ingesteld op een specifieke tijdzone in
 
 *Projecten*
 
-Wanneer gebruikers een sjabloon met vereiste aangepaste velden koppelen aan een project waarvan het veld al bestaat en is ingevuld, wordt de volgende fout weergegeven: &quot;[!UICONTROL There are incomplete fields. Enter values for required fields before you can continue.]&quot; Klik op &quot;[!UICONTROL Take me there]&quot; staat hen toe om te zien dat de gebieden worden ingevuld en zij kunnen het malplaatje met succes vastmaken.
+Wanneer gebruikers een sjabloon met de vereiste aangepaste velden koppelen aan een project waarvan het veld al bestaat en is ingevuld, wordt de volgende fout weergegeven: &quot;[!UICONTROL There are incomplete fields. Enter values for required fields before you can continue.]&quot; Klik op &quot;[!UICONTROL Take me there]&quot; staat hen toe om te zien dat de gebieden worden ingevuld en zij kunnen het malplaatje met succes vastmaken.
 
 **De [!UICONTROL Workload Balancer] knippert als u schakelt tussen datums**
 
@@ -1874,7 +1874,7 @@ Het bijwerken van het filter lijkt de weergave te herstellen. Als u echter achte
 
 **Aangepaste terminologie is inconsistent**
 
-*Lay-outsjablonen*
+*Layoutsjablonen*
 
 De gebruikers melden dat wanneer [!DNL Workfront] De beheerder past de terminologie voor sommige voorwerpen aan gebruikend een Malplaatje van de Lay-out, de nieuwe objecten naam toont inconsistent in de interface.
 
@@ -1904,7 +1904,7 @@ Wanneer een gebruiker een bulktoewijzing maakt in het dialoogvenster [!UICONTROL
 
 Wanneer een gebruiker op een kolom klikt om er op te sorteren, lijkt de sortering te werken, maar direct keren de resultaten terug naar de oorspronkelijke sortering zoals deze werd weergegeven voordat op de kolom werd geklikt. De sortering op een kolom blijft niet behouden.
 
-**Selecteren &quot;[!UICONTROL Nothing]&quot; terugkeren naar de [!UICONTROL Report Default] groeperen**
+**Selecteren &quot;[!UICONTROL Nothing]&quot; wordt teruggezet naar de [!UICONTROL Report Default] groeperen**
 
 *Rapporten*
 
@@ -1914,7 +1914,7 @@ Wanneer een rapport een ingebouwde groep heeft en de gebruiker &quot;[!UICONTROL
 
 *Blauwdrukken*
 
-OPMERKING: Dit probleem doet zich alleen voor in de voorvertoningsomgeving.
+OPMERKING: dit probleem bestaat alleen in de voorvertoningsomgeving.
 
 De [!UICONTROL Blueprints access] is verwijderd uit de modaal voorkeurenvenster Vervagen. Er is geen functionaliteit verwijderd uit de voorkeuren voor blauwdrukken.
 
@@ -1936,7 +1936,7 @@ Wanneer het tonen van een projectrapport gebruikend [!UICONTROL Milestone] Gebru
 
 **Aangepaste terminologie is inconsistent**
 
-*Lay-outsjablonen*
+*Layoutsjablonen*
 
 De gebruikers melden dat wanneer [!DNL Workfront] De beheerder past de terminologie voor sommige voorwerpen aan gebruikend een Malplaatje van de Lay-out, de nieuwe objecten naam toont inconsistent in de interface.
 
@@ -1978,7 +1978,7 @@ Wanneer een gebruiker zijn wachtwoord opnieuw probeert in te stellen, wordt de f
 
 *Projecten*
 
-Wanneer een gebruiker probeert om project te bekijken [!UICONTROL Project Details] , aangepaste formulieren die na een vertraging van 15 seconden of meer aan het project zijn gekoppeld. De [!UICONTROL Add custom forms] deze vertraging heeft ook gevolgen voor deze optie .
+Wanneer een gebruiker probeert om een project te bekijken [!UICONTROL Project Details] , aangepaste formulieren die na een vertraging van 15 seconden of meer aan het project zijn gekoppeld. De [!UICONTROL Add custom forms] deze vertraging heeft ook gevolgen voor deze optie .
 
 **Aangepaste waarden voor formuliervelden worden niet opgeslagen in het deelvenster voor documentoverzicht**
 
@@ -2004,7 +2004,7 @@ Wanneer een gebruiker een nieuwe versie van een document probeert te uploaden ui
 
 *Projecten*
 
-Wanneer een gebruiker een factureringssnelheid probeert te bewerken op de knop [!UICONTROL Billing Rates] tabblad van een project, klikken op de knop [!UICONTROL Edit] de knop opent de knop [!UICONTROL Edit] wordt kort gesloten, maar de gebruiker kan de factureringssnelheid nog niet bewerken. Als u nogmaals op de knop klikt, wordt het bewerkingsvenster niet geopend.
+Wanneer een gebruiker een factureringssnelheid probeert te bewerken op de knop [!UICONTROL Billing Rates] tabblad van een project, klikken op de knop [!UICONTROL Edit] de knop opent [!UICONTROL Edit] wordt kort gesloten, maar de gebruiker kan de factureringssnelheid nog niet bewerken. Als u nogmaals op de knop klikt, wordt het bewerkingsvenster niet geopend.
 
 **Openbare koppeling voor document leidt tot een lege pagina**
 
@@ -2032,7 +2032,7 @@ Als u de status van een project, taak of uitgave wijzigt en onmiddellijk een upd
 
 Wanneer een gebruiker een andere gebruiker aan een proef toevoegt, wordt de rol van die gebruiker op de proef geplaatst als &quot;[!UICONTROL Read-only]&quot; ondanks de feitelijke proefdrukrol van de gebruiker.
 
-Oplossing: Stel de proefdrukrol van de gebruiker in hun profiel in op iets anders en stel vervolgens de juiste rol in.
+Oplossing: stel de proefdrukrol van de gebruiker in het profiel in op iets anders en stel vervolgens de juiste rol in.
 
 **Het aangepaste formulier wordt niet geladen wanneer u een uitgave naar een project converteert met een sjabloon**
 
@@ -2054,9 +2054,9 @@ Wanneer een gebruiker een uitgave van gealigneerd toevoegt en er een douanemenin
 
 *Taken*
 
-U kunt nu een taak naar een andere taak in een project verplaatsen of kopiëren zonder toestemmingen te hebben om taken aan het bestemmingsproject toe te voegen. U moet toestemmingen hebben om taken aan minstens één van de taken van het bestemmingsproject toe te voegen. Voorafgaand aan deze update moest u machtigingen hebben om taken aan het project toe te voegen om een taak naar het project of naar een van de taken te verplaatsen of te kopiëren.  Deze update is nu beschikbaar in de productieomgeving. Het is beschikbaar in de Voorvertoningsomgeving vanaf de onderhoudsupdate van 24 maart 2022.
+U kunt nu een taak naar een andere taak in een project verplaatsen of kopiëren zonder toestemmingen te hebben om taken aan het bestemmingsproject toe te voegen. U moet toestemmingen hebben om taken aan minstens één van de taken van het bestemmingsproject toe te voegen. Voorafgaand aan deze update, moest u toestemmingen hebben om taken aan het project toe te voegen om een taak naar het project of aan om het even welk van zijn taken te bewegen of te kopiëren.  Deze update is nu beschikbaar in de productieomgeving. Het is beschikbaar in de Voorvertoningsomgeving vanaf de onderhoudsupdate van 24 maart 2022.
 
-OPMERKING: Deze update is beschikbaar in de productieomgeving wanneer u problemen kopieert of verplaatst na de productieversie 22.2. Ga voor meer informatie over de huidige release naar workfront.com/release.
+OPMERKING: deze update is beschikbaar in de productieomgeving wanneer problemen na de productievrijgave 22.2 worden gekopieerd of verplaatst. Ga voor meer informatie over de huidige release naar workfront.com/release.
 
 **Vervolgkeuzemenu Vragen is afgesloten**
 
@@ -2068,7 +2068,7 @@ Wanneer het gebruiken van een herinnering in een rapport, worden de drop-down me
 
 *Updates*
 
-Wanneer een gebruiker de status van een tijdelijk item in de koptekst wijzigt, wordt de status niet bijgewerkt in het dialoogvenster [!UICONTROL Update] gebied. Als de gebruiker dan een update uitvoert, toont dropdown nog de vorige status. Wanneer de update wordt opgeslagen, overschrijft deze vorige, onjuiste status de status die in de header is ingesteld.
+Wanneer een gebruiker de status van een tijdelijk item in de koptekst wijzigt, wordt de status niet bijgewerkt in het dialoogvenster [!UICONTROL Update] gebied. Als de gebruiker dan een update uitvoert, toont dropdown nog de vorige status. Wanneer de update wordt opgeslagen, overschrijft deze vorige, onjuiste status de status die in de koptekst is ingesteld.
 
 +++
 
@@ -2116,9 +2116,9 @@ Wanneer een beheerder de uitgave omzet, worden de gegevens gedragen naar het nie
 
 Om een beveiligingsprobleem op te lossen, hebben we de maximale bestandsgrootte voor [!DNL XLS] en [!DNL XLSX] bestanden naar 100 MB als u een proefdruk maakt.
 
-OPMERKING: Deze update vond plaats in de Preview-omgeving op 24 februari en zal op 3 maart in de Production-omgeving worden uitgevoerd.
+OPMERKING: deze update bevond zich op 24 februari in de voorvertoningsomgeving en bevindt zich op 3 maart in de productieomgeving.
 
-**Bijwerken naar Workfront Search**
+**Bijwerken naar Workfront-zoekopdracht**
 
 Zoeken
 
@@ -2175,7 +2175,7 @@ Wanneer een gebruiker een aangepast formulier invult als onderdeel van de conver
 
 *Goedkeuringen*
 
-Wanneer een gebruiker een goedkeuringsproces maakt of bewerkt in het dialoogvenster [!UICONTROL Setup] gebied, de[!UICONTROL This approval process can be used by...]&quot; veld ontbreekt. Dit kan voorkomen wanneer het creëren van een goedkeuringsproces of wanneer het uitgeven van bestaande.
+Wanneer een gebruiker een goedkeuringsproces in het dialoogvenster [!UICONTROL Setup] gebied, de[!UICONTROL This approval process can be used by...]&quot; veld ontbreekt. Dit kan voorkomen wanneer het creëren van een goedkeuringsproces of wanneer het uitgeven van bestaande.
 
 **Systeembeheerder kan gebruikers niet opnieuw toewijzen wanneer een groep wordt verwijderd**
 
@@ -2191,7 +2191,7 @@ Wanneer een gebruiker een uitgave in een project probeert om te zetten gebruiken
 
 [!UICONTROL Whoops! Something went wrong. Please contact [!DNL Workfront] so we can figure out what went wrong and fix it.]
 
-**Kan bewijs niet openen; pagina vernieuwt**
+**Kan proef niet openen; pagina vernieuwt**
 
 *Proefdrukken*
 
@@ -2203,7 +2203,7 @@ Wanneer een gebruiker een proef probeert te openen, kan de proef niet openen. Ui
 
 Om een beveiligingsprobleem op te lossen, hebben we de maximale bestandsgrootte voor [!DNL XLS] en [!DNL XLSX] bestanden naar 100 MB als u een proefdruk maakt.
 
-OPMERKING: Deze update vindt plaats in de voorbeeldomgeving op 24 februari en in de productieomgeving op 3 maart.
+OPMERKING: deze update vindt plaats in de voorbeeldomgeving op 24 februari en in de productieomgeving op 3 maart.
 
 **De toestemmingen om taken of kwesties aan een project toe te voegen worden niet vereist om een taak of een kwestie aan het project te bewegen of te kopiëren**
 
@@ -2211,9 +2211,9 @@ OPMERKING: Deze update vindt plaats in de voorbeeldomgeving op 24 februari en in
 
 U kunt nu een taak of een kwestie aan een andere taak in een project bewegen of kopiëren zonder het hebben toestemmingen om taken of kwesties aan het bestemmingsproject toe te voegen. U moet toestemmingen hebben om taken of kwesties aan minstens één van de taken van het bestemmingsproject toe te voegen. Voorafgaand aan deze update moest u machtigingen hebben om taken of problemen aan het project toe te voegen om een taak of een uitgave naar het project of een van de taken te verplaatsen of te kopiëren. Deze update is alleen beschikbaar in de voorvertoningsomgeving.
 
-OPMERKING: Deze update is beschikbaar in de productieomgeving wanneer taken op 10 maart worden uitgevoerd of verplaatst. Deze update is beschikbaar in de productieomgeving wanneer u problemen kopieert of verplaatst met de 22.2 Production release. Ga voor meer informatie over de huidige release naar workfront.com/release.
+OPMERKING: deze update is beschikbaar in de productieomgeving wanneer taken op 10 maart worden uitgevoerd of verplaatst. Deze update is beschikbaar in de productieomgeving wanneer u problemen kopieert of verplaatst met de 22.2 Production release. Ga voor meer informatie over de huidige release naar workfront.com/release.
 
-**Bijwerken naar Workfront Search**
+**Bijwerken naar Workfront-zoekopdracht**
 
 *Zoeken*
 
@@ -2261,7 +2261,7 @@ Wanneer een gebruiker een rapport op een dashboard bekijkt, zien ze dat het groe
 
 *Documenten*
 
-Wanneer een gebruiker een document of proef op een [!DNL Workfront Classic] documentlijst en klik vervolgens op &quot;[!UICONTROL More],&quot; kunnen zij een van de volgende problemen zien: De knop reageert niet. Alle opties onder de knop hebben het label &quot;[!UICONTROL object Object]&quot; en kan niet worden gebruikt.
+Wanneer een gebruiker een document of proef op een [!DNL Workfront Classic] documentlijst en klik vervolgens op &quot;[!UICONTROL More],&quot; wordt mogelijk een van de volgende problemen weergegeven: De knop reageert niet. Alle opties onder de knop hebben het label &quot;[!UICONTROL object Object]&quot; en kan niet worden gebruikt.
 
 **&quot;U moet een systeem admin&quot;fout zijn wanneer het creëren van een project**
 
@@ -2435,7 +2435,7 @@ Wanneer een gebruiker een taak in een lijst probeert te bewegen door het te slep
 
 *[!DNL Workfront Fusion]*
 
-Als ten minste één veld in het veld [!DNL Workfront] [!UICONTROL Create] of [!UICONTROL Update] de modules heeft kaart toegelaten en een gebruiker selecteert een nieuw gebied om in kaart te brengen, verliezen de eerder in kaart gebrachte gebieden die kaart toegelaten kaartwaarden worden toegelaten.
+Als ten minste één veld in het veld [!DNL Workfront] [!UICONTROL Create] of [!UICONTROL Update] de modules heeft kaart toegelaten en een gebruiker selecteert een nieuw gebied om in kaart te brengen, verliezen de eerder in kaart gebrachte gebieden die kaart toegelaten kaartwaarden.
 
 +++
 
@@ -2445,7 +2445,7 @@ Als ten minste één veld in het veld [!DNL Workfront] [!UICONTROL Create] of [!
 
 *Taken*
 
-Wanneer een gebruiker in het overzichtsvenster van een taak een opmerking maakt en probeert een hyperlink naar de opmerking toe te voegen, wordt het hyperlinkkader geopend, maar zodra de gebruiker in het venster klikt, wordt het gesloten en kan de gebruiker geen hyperlink toevoegen. Als een gebruiker met Tab naar het venster gaat, kan hij of zij een koppeling in het veld typen of plakken, maar de hyperlink slaat niet op. In beide gevallen wordt de taak uitgeschakeld.
+Wanneer een gebruiker in het overzichtsvenster van een taak een opmerking maakt en probeert een hyperlink naar de opmerking toe te voegen, wordt het hyperlinkkader geopend, maar zodra de gebruiker in het venster klikt, wordt het gesloten en kan de gebruiker geen hyperlink toevoegen. Als een gebruiker met Tab naar het venster gaat, kan hij een koppeling in het veld typen of plakken, maar de hyperlink slaat niet op. In beide gevallen wordt de taak uitgeschakeld.
 
 **De pagina Team bewerken wordt niet gesloten**
 
@@ -2465,7 +2465,7 @@ Wanneer een gebeurtenis die een bericht zou moeten teweegbrengen voorkomt, wordt
 
 Wanneer een gebruiker hun [!UICONTROL My Work] en de lay-outsjabloon voor hun [!UICONTROL My Work] list bevat een numerieke waarde, zoals [!UICONTROL Percent Complete]de [!UICONTROL My Work] wordt niet weergegeven.
 
-**[!UICONTROL Percent Complete]en [!UICONTROL Hours Complete] kan niet worden gewijzigd in de raad van bestuur**
+**[!UICONTROL Percent Complete]en [!UICONTROL Hours Complete] kan niet worden gewijzigd in het bestuur van Agile**
 
 *Agile*
 
@@ -2491,7 +2491,7 @@ Wanneer een gebruiker een proefdruk weergeeft in het dialoogvenster [!UICONTROL 
 
 *[!UICONTROL Workload Balancer]*
 
-Als een gebruiker ziet als oververdeeld in het dialoogvenster [!UICONTROL Workload Balancer] omdat een taak de tijd van de gebruiker overlapt en een andere gebruiker de overtoewijzing bekijkt, wordt &quot;[!UICONTROL Capacity]&quot; het gebied van de overtoewijzingsinformatie wordt weergegeven &quot;[!UICONTROL ?[object Object]?]&quot; in plaats van de werkelijke capaciteit van de gebruiker.
+Als een gebruiker ziet als oververdeeld in de [!UICONTROL Workload Balancer] omdat een taak de tijd van de gebruiker overlapt en een andere gebruiker de overtoewijzing bekijkt, wordt &quot;[!UICONTROL Capacity]&quot; het gebied van de overtoewijzingsinformatie wordt weergegeven &quot;[!UICONTROL ?[object Object]?]&quot; in plaats van de werkelijke capaciteit van de gebruiker.
 
 +++
 
