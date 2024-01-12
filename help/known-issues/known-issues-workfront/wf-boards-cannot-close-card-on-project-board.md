@@ -3,9 +3,9 @@ title: "Borden: Kaart wordt niet gesloten wanneer het gebruiken van de mening va
 description: "Wanneer een gebruiker de mening van Boeken op een taaklijst in een project bekijkt, en een kaart creeert, sluit of bewaart de kaart niet. Dit verhindert de gebruiker aan het project terug te keren."
 hidefromtoc: true
 feature: Agile, Tasks, Projects
-source-git-commit: 8dc177a194ae32bcb135910badc7fdb2c42e530d
+source-git-commit: 3a5bf0ed6b1a7a6d61c9f3f074c551bf6e3b2d44
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,10 @@ ht-degree: 0%
 
 # Borden: De kaart wordt niet gesloten wanneer het gebruiken van de mening van Borden in een Project
 
+<!--
 >[!NOTE]
 >
->Dit probleem is op 12 januari 2024 opgelost.
+>This issue was fixed on January 12, 2024.-->
 
 Wanneer een gebruiker de mening van Borden op een taaklijst in een project bekijkt, en een kaart creeert, sluit of bewaart de kaart niet. Dit verhindert de gebruiker aan het project terug te keren.
 

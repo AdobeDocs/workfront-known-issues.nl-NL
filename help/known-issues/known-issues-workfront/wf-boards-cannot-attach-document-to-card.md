@@ -3,9 +3,9 @@ title: "Borden: Kan geen document aan een kaart koppelen"
 description: "Wanneer een gebruiker een document probeert te koppelen aan een aangesloten kaart, kan de gebruiker het document selecteren dat u wilt bijvoegen, maar het document wordt niet weergegeven in het documentgebied van de kaart en het document is niet gekoppeld aan het object waarmee de kaart is verbonden."
 hidefromtoc: true
 feature: Agile
-source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
+source-git-commit: 3a5bf0ed6b1a7a6d61c9f3f074c551bf6e3b2d44
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,10 @@ ht-degree: 0%
 
 # Borden: Kan geen document aan een kaart koppelen
 
+<!--
 >[!NOTE]
 >
->Dit probleem is op 12 januari 2024 opgelost.
+>This issue was fixed on January 12, 2024.-->
 
 <!--WF and WFP TOCs-->
 

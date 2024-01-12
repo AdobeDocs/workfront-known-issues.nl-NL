@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
+source-git-commit: 9a5ef8462f839ebd4bfaafb65a0b5cd2bffbedcf
 workflow-type: tm+mt
-source-wordcount: '507'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -22,54 +22,58 @@ Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-mai
 
 ## Updates in januari 2024
 
-+++**Onderhoudsupdate op 12 januari 2024**
+<!--
 
-### Onderhoudsupdate op 12 januari 2024
++++**Maintenance Update on January 12, 2024**
 
-#### Borden
+### Maintenance Update on January 12, 2024
 
-**Kan een document niet aan een kaart koppelen**
+#### Boards
 
-Wanneer een gebruiker een document probeert te koppelen aan een aangesloten kaart, kan de gebruiker het document selecteren dat u wilt bijvoegen, maar het document wordt niet weergegeven in het documentgebied van de kaart en het document is niet gekoppeld aan het object waarmee de kaart is verbonden.
+**Cannot attach a document to a card**
 
-Dit is gemeld bij kaarten die verband houden met emissies.
+When a user attempts to attach a document to a connected card, the user can select the document to attach, but the document does not appear in the document area of the card, and the document is not attached to the object that the card is connected to.
 
-**Kaart wordt weergegeven op meerdere veren**
+This has been reported in cards connected to issues.
 
-Wanneer een gebruiker een sprint op Borden bekijkt, verschijnen kaarten die in verschillende sprot zijn op het bord. Dit is een periodiek probleem.
+**Card appears on multiple sprints**
 
-**De kaart wordt niet gesloten wanneer de mening van Borden in een Project wordt gebruikt**
+When a user is viewing a sprint on Boards, cards that are in different sprints appear on the board. This issue is intermittent.
 
-Wanneer een gebruiker de mening van Borden op een taaklijst in een project bekijkt, en een kaart creeert, sluit of bewaart de kaart niet. Dit verhindert de gebruiker aan het project terug te keren.
+**Card doesn't close when using Boards view in a Project**
 
-Om de kaart te sluiten, moet de gebruiker de URL bewerken om &quot;board&quot; en alles rechts van &quot;board&quot; te verwijderen.
+When a user is viewing the Boards view on a task list in a project, and creates a card, the card does not close or save. This prevents the user from returning to the project.
 
-**Kaarten blijven bestaan wanneer u de iteratie wijzigt**
+To close the card, the user must edit the URL to remove "board" and anything to the right of "board."
 
-Wanneer een gebruiker een herhaling op een board bekijkt en dan de herhaling verandert, zijn de kaarten die voor de nieuwe herhaling tonen de kaarten van een herhaling de gebruiker eerder bekeken.
+**Cards persist when changing iteration**
 
-**Fout in [!UICONTROL Comments] deel kaarten**
+When a user is viewing an iteration on a board and then changes the iteration, the cards displaying for the new iteration are the cards from an iteration the user was viewing previously. 
 
-Wanneer een gebruiker een kaart weergeeft en naar de [!UICONTROL Comments], sectie, opmerkingen worden niet weergegeven en de gebruiker ziet de volgende fout:
+**Error in [!UICONTROL Comments] section of cards**
 
-&quot;[!UICONTROL Something went wrong. Please try again later.]&quot;
+When a user is viewing a card and scrolls to the [!UICONTROL Comments], section, comments are not displayed, and the user sees the following error:
 
-**Problemen tijdens weergeven van status van subtaak**
+"[!UICONTROL Something went wrong. Please try again later.]"
 
-De volgende problemen zijn gemeld met betrekking tot het weergeven van de status van een subtaak op een kaart in de raden van bestuur:
+**Issues when viewing subtask status**
 
-* De status wordt weergegeven als &quot;Status selecteren&quot;, zelfs als de taak al een status heeft. Deze status is zichtbaar wanneer u de taak rechtstreeks bekijkt.
-* Als de gebruiker een status probeert te selecteren, gaat het scherm leeg en moet het worden vernieuwd.
+The following issues have been reported regarding viewing subtask status on a card in Boards:
 
-**&quot;[!UICONTROL You have no access]&quot; als u opmerkingen op een kaart weergeeft**
+* The status is shown as "Select status" even when the task already has a status. This status can be seen when viewing the task directly.
+* If the user attempts to select a status, the screen goes blank and must be refreshed.
 
-Wanneer een gebruiker opmerkingen probeert weer te geven op een kaart die niet is verbonden met een [!DNL Workfront] , wordt het volgende bericht weergegeven:
+**"[!UICONTROL You have no access]" when viewing comments on a card**
 
-&quot;[!UICONTROL You have no access to view comments on this object]&quot;
+When a user attempts to view comments on a card that is not connected to a [!DNL Workfront] object, they see the following message: 
 
-Dit kan zelfs gebeuren als de gebruiker eerder opmerkingen op de kaart kon zien.
+"[!UICONTROL You have no access to view comments on this object]"
+
+This may occur even when the user could previously see comments on the card.
 
 +++
+
+-->
 
 +++**Onderhoudsupdate op 11 januari 2023**
 
