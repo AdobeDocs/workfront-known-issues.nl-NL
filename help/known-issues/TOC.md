@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
+source-git-commit: 6fd1ee82b2b9f2cb4ee88d8cd2b769114cec1524
 workflow-type: tm+mt
-source-wordcount: '1751'
+source-wordcount: '1761'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Setup]: Kan optionele statussen niet verbergen](known-issues-workfront/wf-setup-cannot-hide-optional-statuses.md)
+      + [Documenten: problemen bij het weergeven van documentlijsten](known-issues-workfront/wf-documents-list-not-loading.md)
       + [Proefdrukken: gezipte proefdrukken worden niet gegenereerd](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
       + [Borden: De kaart wordt niet gesloten wanneer het gebruiken van de mening van Borden in een Project](known-issues-workfront/wf-boards-cannot-close-card-on-project-board.md)
       + [Problemen: tijdvelden besparen onjuiste tijd bij problemen met bulkbewerking](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
