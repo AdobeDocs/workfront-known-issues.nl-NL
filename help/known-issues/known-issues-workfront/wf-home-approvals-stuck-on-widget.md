@@ -4,14 +4,18 @@ description: Wanneer een nieuwe versie van een document wordt geüpload en de vo
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 313476de-2fe0-4c4d-b704-9280dcbc901c
-source-git-commit: 0cf5c033463ac76999a18d97fbea54af8033c238
+source-git-commit: 71fb0341742bc74eee3c96f3c357198dd84aed20
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
 
 # Home: Goedkeuring vastgehouden op [!UICONTROL Awaiting my approval] widget
+
+>[!NOTE]
+>
+>Dit probleem is op 18 januari 2024 opgelost.
 
 <!--on WF and WFP TOCs-->
 

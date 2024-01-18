@@ -3,15 +3,19 @@ title: "Proofs: proefdrukken die zijn gemaakt op basis van Word-documenten bevat
 description: "Wanneer een gebruiker een proef van een document van Word creeert dat prijsverhoging of ingebedde commentaren omvat, omvat de proef niet de commentaren of de prijsverhoging. Dit kan zich voordoen ook al bevatten eerdere versies van de proefdruk wel de opmerkingen of markeringen."
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: be8a81c0d5b1735c2e8a8c8fb2cd2629202875f6
+source-git-commit: 71fb0341742bc74eee3c96f3c357198dd84aed20
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
 
 # Proefdrukken: proefdrukken die zijn gemaakt op basis van Word-documenten bevatten geen opmerkingen of markeringen
+
+>[!NOTE]
+>
+>Dit probleem is opgelost op 11 januari 2024.
 
 <!--WF and EFP TOCs-->
 

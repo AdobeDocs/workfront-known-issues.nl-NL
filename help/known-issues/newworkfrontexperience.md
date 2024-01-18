@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
+source-git-commit: 71fb0341742bc74eee3c96f3c357198dd84aed20
 workflow-type: tm+mt
-source-wordcount: '729'
+source-wordcount: '710'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,6 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documenten: problemen bij het weergeven van documentlijsten](known-issues-workfront/wf-documents-list-not-loading.md) | 16 januari 2024 |
 | [Proefdrukken: gezipte proefdrukken worden niet gegenereerd](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 9 januari 2023 |
 | [Borden: Zoeken werkt niet](known-issues-workfront/wf-boards-search-not-working.md) | 20 oktober 2023 |
 
@@ -37,11 +36,10 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [Documenten: problemen bij het weergeven van documentlijsten](known-issues-workfront/wf-documents-list-not-loading.md) | 18 januari 2024 |
 | [Problemen: tijdvelden besparen onjuiste tijd bij problemen met bulkbewerking](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | 5 januari 2024 |
-| [Proefdrukken: proefdrukken die zijn gemaakt op basis van Word-documenten bevatten geen opmerkingen of markeringen](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 4 januari 2024 |
 | [Taken: het venster wordt gesloten wanneer het creëren van nieuwe taak](known-issues-workfront/wf-tasks-new-window-closes.md) | 4 januari 2024 |
 | [Sjablonen: kan geen sjabloon selecteren vanuit [!UICONTROL Favorites] list](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 4 januari 2024 |
-| [Home: Goedkeuring vastgehouden op [!UICONTROL Awaiting my approval] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 4 januari 2024 |
 | [Nieuw [!UICONTROL Home]: Standaardwaarden voor widgetfilter en -groepering volgen niet de lay-outsjabloon](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 4 januari 2024 |
 | [Taken: De gebruiker wordt niet toegewezen aan een of meer taken](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 18 december 2023 |
 | [Proofs: problemen bij het verwerken van statische bestanden](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 15 december 2023 |
