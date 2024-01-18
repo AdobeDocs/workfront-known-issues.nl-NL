@@ -1,17 +1,21 @@
 ---
-title: "Aangepaste formulieren: kan geen grote hoeveelheden toevoegen of verwijderen van aangepaste formulieren voor sjabloontaken"
-description: "Als een gebruiker probeert een aangepast formulier in bulk toe te voegen of te verwijderen voor een sjabloontaak, wordt het formulier niet toegevoegd of verwijderd en ziet de gebruiker een fout."
+title: 'Aangepaste formulieren: kan geen grote hoeveelheden toevoegen of verwijderen van aangepaste formulieren voor sjabloontaken'
+description: Als een gebruiker een aangepast formulier in een sjabloontaak in bulk probeert toe te voegen of te verwijderen, wordt het formulier niet toegevoegd of verwijderd en ziet de gebruiker een fout.
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: 41df80641db82b225753338d8564e12b90566c40
+exl-id: e9014f67-2098-46e4-a301-6a742a0c2ddb
+source-git-commit: d3d6529fea8f2d020f4920ee5b2bda723f348cc2
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
 
-
 # Aangepaste formulieren: kan geen grote hoeveelheden toevoegen of verwijderen van aangepaste formulieren voor sjabloontaken
+
+>[!NOTE]
+>
+>Dit probleem is op 18 januari 2024 opgelost.
 
 Als een gebruiker probeert een aangepast formulier in een sjabloontaak in bulk toe te voegen of te verwijderen, wordt het formulier niet toegevoegd of verwijderd en ziet de gebruiker de volgende fout:
 

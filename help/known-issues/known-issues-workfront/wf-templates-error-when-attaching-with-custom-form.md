@@ -3,15 +3,19 @@ title: "Sjablonen: fout bij het koppelen van een sjabloon aan een project"
 description: "Wanneer een gebruiker probeert om een malplaatje aan een project vast te maken, ontvangen zij een fout. Er is een oplossing beschikbaar."
 hidefromtoc: true
 feature: Projects
-source-git-commit: b415cf67a97c873d41d0693e9baa8c73390443ea
+source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
 
 # Sjablonen: fout bij het koppelen van een sjabloon aan een project
+
+>[!NOTE]
+>
+>Dit probleem is op 18 januari 2024 opgelost.
 
 Wanneer een gebruiker probeert om een malplaatje aan een project vast te maken, ontvangen zij de volgende fout:
 

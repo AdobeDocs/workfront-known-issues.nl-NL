@@ -3,7 +3,7 @@ title: "Boeken: u hebt geen toegang wanneer u opmerkingen op een kaart weergeeft
 description: "Wanneer een gebruiker opmerkingen probeert weer te geven op een kaart die niet is verbonden met een Workfront-object, wordt een foutbericht weergegeven."
 hidefromtoc: true
 feature: Agile
-source-git-commit: 3a5bf0ed6b1a7a6d61c9f3f074c551bf6e3b2d44
+source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Dit probleem is op 12 januari 2024 opgelost.—>
+>Dit probleem is op 18 januari 2024 opgelost.
 
 Wanneer een gebruiker opmerkingen probeert weer te geven op een kaart die niet is verbonden met een [!DNL Workfront] , wordt het volgende bericht weergegeven:
 
