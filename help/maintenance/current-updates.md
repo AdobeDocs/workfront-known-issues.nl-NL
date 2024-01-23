@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
+source-git-commit: 67155ccf8996661fb9429c6174a7f5d0cf4a6d8a
 workflow-type: tm+mt
-source-wordcount: '907'
+source-wordcount: '1047'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,24 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2024.
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in januari 2024
+
++++**Onderhoudsupdate op 25 januari 2024**
+
+### Onderhoudsupdate op 25 januari 2024
+
+#### Borden
+
+**Kaarten die niet naar de juiste kolom worden verplaatst wanneer de status wordt gewijzigd**
+
+Wanneer de status van het gekoppelde object van een aangesloten kaart rechtstreeks op het object wordt gewijzigd, wordt de kaart niet naar de juiste kolom verplaatst. Als de objectstatus op de kaart wordt gewijzigd of als de kaart naar de nieuwe kolom wordt gesleept, gedraagt de kaart zich zoals verwacht.
+
+#### Meldingen
+
+**Markeringsmeldingen blijven niet bestaan**
+
+Wanneer een gebruiker zijn berichten zoals gezien merkt en dan naar een verschillende pagina binnen navigeert [!DNL Workfront]Het waarschuwingspictogram geeft nog steeds het aantal ongelezen meldingen weer dat bestond voordat de gebruiker de berichten zoals weergegeven markeerde. De meldingen worden nog steeds weergegeven wanneer de gebruiker op het pictogram klikt. Dit gaat door als de gebruiker deze zoals gezien markeert en naar een andere pagina of terug naar de oorspronkelijke pagina navigeert.
+
++++
 
 +++**Onderhoudsupdate op 18 januari 2024**
 
