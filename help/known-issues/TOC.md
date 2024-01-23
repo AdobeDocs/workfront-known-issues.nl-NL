@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
+source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
 workflow-type: tm+mt
-source-wordcount: '1793'
+source-wordcount: '1817'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Documenten: kan document niet van map naar hoofdmap verplaatsen](known-issues-workfront/wf-documents-cannot-move-to-root.md)
+      + [Proofs: GIFFEN worden gerenderd als statische proefdrukken](known-issues-workfront/wf-proofs-gif-static-image.md)
+      + [Resourcebeheer: onjuiste financiële berekeningen als gevolg van problemen met functies](known-issues-workfront/wf-resource-mgmt-job-role-rates.md)
       + [Integratie: kan geen tijd vanaf Workfront aanmelden voor Jira-integratie](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md)
       + [Updates: kan afbeeldingen in opmerkingen niet weergeven of downloaden](known-issues-workfront/wf-updates-cannot-view-or-download-images.md)
       + [Meldingen: markeermeldingen zoals weergegeven blijven niet bestaan](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md)
