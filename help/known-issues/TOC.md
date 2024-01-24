@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
+source-git-commit: 29c3a3fd335527e4695b2361a19278d751797cbf
 workflow-type: tm+mt
-source-wordcount: '1817'
+source-wordcount: '1838'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Updates: Opmerkingen die zijn gemaakt in oudere ervaringen met opmerkingen zijn niet zichtbaar in nieuwe ervaring](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
+      + [Updates: problemen met labelen in oudere ervaringen met opmerkingen](known-issues-workfront/wf-updates-showing-first-name.md)
       + [Documenten: kan document niet van map naar hoofdmap verplaatsen](known-issues-workfront/wf-documents-cannot-move-to-root.md)
       + [Proofs: GIFFEN worden gerenderd als statische proefdrukken](known-issues-workfront/wf-proofs-gif-static-image.md)
       + [Resourcebeheer: onjuiste financiële berekeningen als gevolg van problemen met functies](known-issues-workfront/wf-resource-mgmt-job-role-rates.md)
