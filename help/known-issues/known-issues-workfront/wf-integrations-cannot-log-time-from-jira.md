@@ -3,15 +3,19 @@ title: "Integrations: Cannot log time from Workfront for Jira integration"
 description: "Wanneer een gebruiker probeert om tijd in de integratie van Workfront voor Jira te registreren, registreert de tijd niet, en het gebruik ziet een fout."
 hidefromtoc: true
 feature: Workfront Integrations and Apps
-source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
+source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
 
 # Integratie: kan geen tijd vanaf Workfront aanmelden voor Jira-integratie
+
+>[!NOTE]
+>
+>Dit probleem is op 19 januari opgelost. 2024.
 
 Wanneer een gebruiker probeert om tijd in de integratie van Workfront voor Jira te registreren, registreert de tijd niet, en het gebruik ziet de volgende fout:
 

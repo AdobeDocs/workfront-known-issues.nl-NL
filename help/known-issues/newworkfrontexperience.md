@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
+source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
 workflow-type: tm+mt
-source-wordcount: '758'
+source-wordcount: '756'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,6 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | -----------------------------------------------------------------| ----------------- |
 | [Documenten: kan document niet van map naar hoofdmap verplaatsen](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 23 januari 2024 |
 | [Proofs: GIFFEN worden gerenderd als statische proefdrukken](known-issues-workfront/wf-proofs-gif-static-image.md) | 23 januari 2024 |
-| [Resourcebeheer: onjuiste financiële berekeningen als gevolg van problemen met functies](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | 23 januari 2024 |
 | [Proefdrukken: gezipte proefdrukken worden niet gegenereerd](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 9 januari 2024 |
 | [Borden: Zoeken werkt niet](known-issues-workfront/wf-boards-search-not-working.md) | 20 oktober 2024 |
 
@@ -39,12 +38,13 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [Teams: problemen met het instellen van teamstatussen voor [!UICONTROL Done] knop](known-issues-workfront/wf-teams-statuses-missing.md) | 25 januari 2024 |
+| [Resourcebeheer: onjuiste financiële berekeningen als gevolg van problemen met functies](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | 25 januari 2024 |
+| [Kaarten: kaarten blijven behouden wanneer u herhaling wijzigt](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | 25 januari 2024 |
 | [Updates: Opmerkingen die zijn gemaakt in oudere ervaringen met opmerkingen zijn niet zichtbaar in nieuwe ervaring](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md) | 24 januari 2024 |
-| [Integratie: kan geen tijd vanaf Workfront aanmelden voor Jira-integratie](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md) | 19 januari 2024 |
 | [Updates: kan afbeeldingen in opmerkingen niet weergeven of downloaden](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | 19 januari 2024 |
 | [Documenten: problemen bij het weergeven van documentlijsten](known-issues-workfront/wf-documents-list-not-loading.md) | 18 januari 2024 |
 | [Problemen: tijdvelden besparen onjuiste tijd bij problemen met bulkbewerking](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | 5 januari 2024 |
-| [Taken: het venster wordt gesloten wanneer het creëren van nieuwe taak](known-issues-workfront/wf-tasks-new-window-closes.md) | 4 januari 2024 |
 | [Sjablonen: kan geen sjabloon selecteren vanuit [!UICONTROL Favorites] list](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 4 januari 2024 |
 | [Nieuw [!UICONTROL Home]: Standaardwaarden voor widgetfilter en -groepering volgen niet de lay-outsjabloon](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 4 januari 2024 |
 | [Taken: De gebruiker wordt niet toegewezen aan een of meer taken](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 18 december 2023 |
