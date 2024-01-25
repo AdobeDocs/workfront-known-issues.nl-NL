@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
+source-git-commit: 80bee7bc272f90f1cadd28972ee2421f213ec5be
 workflow-type: tm+mt
-source-wordcount: '756'
+source-wordcount: '762'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [[!UICONTROL Resource Management]: Kan datum niet wijzigen in [!UICONTROL Utilization] gebied](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md) | 25 januari 2024 |
 | [Teams: problemen met het instellen van teamstatussen voor [!UICONTROL Done] knop](known-issues-workfront/wf-teams-statuses-missing.md) | 25 januari 2024 |
 | [Resourcebeheer: onjuiste financiële berekeningen als gevolg van problemen met functies](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | 25 januari 2024 |
 | [Kaarten: kaarten blijven behouden wanneer u herhaling wijzigt](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | 25 januari 2024 |
