@@ -3,15 +3,19 @@ title: "Updates: problemen met codering in oudere ervaringen met opmerkingen"
 description: "Wanneer een gebruiker is gelabeld in een opmerking in de oudere opmerkingervaring, doen zich verschillende problemen voor."
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 29c3a3fd335527e4695b2361a19278d751797cbf
+source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
 
 # Updates: problemen met labelen in oudere ervaringen met opmerkingen
+
+>[!NOTE]
+>
+>Deze kwestie is vastgesteld op 25 januari 2024.
 
 Wanneer een gebruiker gelabeld is in een opmerking in de oudere opmerkingervaring, doen zich de volgende problemen voor:
 

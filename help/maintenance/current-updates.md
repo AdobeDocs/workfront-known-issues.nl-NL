@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 67155ccf8996661fb9429c6174a7f5d0cf4a6d8a
+source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
 workflow-type: tm+mt
-source-wordcount: '1047'
+source-wordcount: '1120'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,19 @@ Wanneer de status van het gekoppelde object van een aangesloten kaart rechtstree
 **Markeringsmeldingen blijven niet bestaan**
 
 Wanneer een gebruiker zijn berichten zoals gezien merkt en dan naar een verschillende pagina binnen navigeert [!DNL Workfront]Het waarschuwingspictogram geeft nog steeds het aantal ongelezen meldingen weer dat bestond voordat de gebruiker de berichten zoals weergegeven markeerde. De meldingen worden nog steeds weergegeven wanneer de gebruiker op het pictogram klikt. Dit gaat door als de gebruiker deze zoals gezien markeert en naar een andere pagina of terug naar de oorspronkelijke pagina navigeert.
+
+#### Updates
+
+**Problemen met labelen in ervaringen met oudere opmerkingen**
+
+Wanneer een gebruiker gelabeld is in een opmerking in de oudere opmerkingervaring, doen zich de volgende problemen voor:
+
+* Alleen de voornaam van de gebruiker komt voor in de opmerking
+* De gebruikersnaam is niet gemarkeerd met een @-symbool
+* De gebruikersnaam is niet blauw
+* De gebruikersnaam is geen koppeling naar het profiel van die gebruiker
+
+De gebruiker ontvangt wel een e-mailbericht over de tag, zoals verwacht.
 
 +++
 
@@ -142,9 +155,9 @@ Een opmerking die is gemaakt in de oudere opmerkingervaring is mogelijk niet zic
 
 +++
 
-+++**Onderhoudsupdate op 11 januari 2023**
++++**Onderhoudsupdate op 11 januari 2024**
 
-### Onderhoudsupdate op 11 januari 2023
+### Onderhoudsupdate op 11 januari 2024
 
 #### Borden
 
