@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 80bee7bc272f90f1cadd28972ee2421f213ec5be
+source-git-commit: 85c5e92c4a434c39b2f238a5917f0e409493ec5e
 workflow-type: tm+mt
-source-wordcount: '1843'
+source-wordcount: '1848'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Sjablonen: fout bij het kopiëren van sjablonen](known-issues-workfront/wf-templates-cannot-copy-template.md)
       + [[!UICONTROL Resource Management]: Kan datum niet wijzigen in [!UICONTROL Utilization] gebied](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
       + [Updates: Opmerkingen die zijn gemaakt in oudere ervaringen met opmerkingen zijn niet zichtbaar in nieuwe ervaring](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
       + [Updates: problemen met labelen in oudere ervaringen met opmerkingen](known-issues-workfront/wf-updates-showing-first-name.md)
