@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
+source-git-commit: b5a918850060b8fc02b8a9c978c4e2a4bc7a8dc4
 workflow-type: tm+mt
-source-wordcount: '1120'
+source-wordcount: '1290'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,43 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2024.
 
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
+## Updates in februari 2024
+
++++**(Geplande) onderhoudsupdate op 1 februari 2024**
+
+### (Geplande) onderhoudsupdate op 1 februari 2024
+
+#### Aanmelden
+
+**Gebruikers die SSO gebruiken, worden niet omgeleid naar de oorspronkelijke locatie wanneer ze zich aanmelden**
+
+Wanneer een gebruiker zich op een pagina bevindt in [!DNL Workfront] en zich aanmeldt bij SSO, als de aanmelding is voltooid, wordt naar [!UICONTROL Home] in plaats van de pagina waarop ze stonden voordat ze zich aanmelden.
+
+#### Sjablonen
+
+**Fout bij kopiëren van sjablonen**
+
+Wanneer een gebruiker een nieuwe of bestaande sjabloon probeert te kopiëren, wordt de sjabloon niet gekopieerd en ziet de gebruiker de volgende fout:
+
+&quot;[!UICONTROL ID Cannot be Null]&quot;
+
++++
+
 ## Updates in januari 2024
+
++++**Onderhoudsupdate (Hot Fix) op 30 januari 2024**
+
+### Onderhoudsupdate (Hot Fix) op 30 januari 2024
+
+#### Rapporten
+
+**Extern API-veld geeft niet alle beschikbare waarden in lijsten en rapporten weer**
+
+Eerder konden gebruikers de geselecteerde waarde (en de waarde bewerken) voor een extern opzoekveld zien in lijsten en rapporten, maar het vervolgkeuzemenu met de opties uit de API werd niet weergegeven.
+
+Wanneer nu een extern opzoekaangepast veld wordt gebruikt in een lijst of rapport, is het vervolgkeuzemenu met alle opties van de externe API beschikbaar.
+
++++
 
 +++**Onderhoudsupdate op 25 januari 2024**
 
