@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 04719e36f29982d13e2f032e4d987238df2d2a1f
+source-git-commit: 3b05b44c752775e891d2bc3feafd9a4479ab8414
 workflow-type: tm+mt
-source-wordcount: '748'
+source-wordcount: '778'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Borden: Kan een kaart niet in een kolom verplaatsen met [!UICONTROL Move] opties](known-issues-workfront/wf-boards-top-of-column-ineffective.md) | 26 januari 2024 |
 | [Documenten: kan document niet van map naar hoofdmap verplaatsen](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 23 januari 2024 |
 | [Proofs: GIFFEN worden gerenderd als statische proefdrukken](known-issues-workfront/wf-proofs-gif-static-image.md) | 23 januari 2024 |
 | [Proefdrukken: gezipte proefdrukken worden niet gegenereerd](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 9 januari 2024 |
@@ -37,6 +38,8 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [Problemen: status probleem niet in vervolgkeuzelijst](known-issues-workfront/wf-issues-status-not-available.md) | 31 januari 2024 |
+| [Updates: de optie Uitgeschakelde afbeelding is beschikbaar wanneer u een opmerking bewerkt](known-issues-workfront/wf-updates-image-enabled-when-editing.md) | 31 januari 2024 |
 | [Sjablonen: fout bij het kopiëren van sjablonen](known-issues-workfront/wf-templates-cannot-copy-template.md) | 26 januari 2024 |
 | [[!UICONTROL Resource Management]: Kan datum niet wijzigen in [!UICONTROL Utilization] gebied](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md) | 25 januari 2024 |
 | [Teams: problemen met het instellen van teamstatussen voor [!UICONTROL Done] knop](known-issues-workfront/wf-teams-statuses-missing.md) | 25 januari 2024 |

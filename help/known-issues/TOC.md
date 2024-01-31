@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 92749c76da53c07ebd17acc9683557f6da4e1e37
+source-git-commit: 3b05b44c752775e891d2bc3feafd9a4479ab8414
 workflow-type: tm+mt
-source-wordcount: '1361'
+source-wordcount: '1388'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Problemen: status probleem niet in vervolgkeuzelijst](known-issues-workfront/wf-issues-status-not-available.md)
+      + [Updates: de optie Uitgeschakelde afbeelding is beschikbaar wanneer u een opmerking bewerkt](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
+      + [Borden: Kan een kaart niet in een kolom verplaatsen met [!UICONTROL Move] opties](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
       + [Sjablonen: fout bij het kopiëren van sjablonen](known-issues-workfront/wf-templates-cannot-copy-template.md)
       + [[!UICONTROL Resource Management]: Kan datum niet wijzigen in [!UICONTROL Utilization] gebied](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
       + [Updates: Opmerkingen die zijn gemaakt in oudere ervaringen met opmerkingen zijn niet zichtbaar in nieuwe ervaring](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
