@@ -3,15 +3,19 @@ title: "Sjablonen: fout bij het kopiëren van sjablonen"
 description: "Wanneer een gebruiker een nieuwe of bestaande sjabloon probeert te kopiëren, wordt de sjabloon niet gekopieerd en ziet de gebruiker een fout."
 hidefromtoc: true
 feature: Projects
-source-git-commit: 85c5e92c4a434c39b2f238a5917f0e409493ec5e
+source-git-commit: 17e60b281dc05073247083257121d8809a271722
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
 
 # Sjablonen: fout bij het kopiëren van sjablonen
+
+>[!NOTE]
+>
+>Deze kwestie is op 1 februari 2024 opgelost.
 
 Wanneer een gebruiker een nieuwe of bestaande sjabloon probeert te kopiëren, wordt de sjabloon niet gekopieerd en ziet de gebruiker de volgende fout:
 

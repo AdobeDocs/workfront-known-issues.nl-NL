@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3b05b44c752775e891d2bc3feafd9a4479ab8414
+source-git-commit: 17e60b281dc05073247083257121d8809a271722
 workflow-type: tm+mt
-source-wordcount: '778'
+source-wordcount: '772'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 |----------------------------------| ----------------- |
 | [Problemen: status probleem niet in vervolgkeuzelijst](known-issues-workfront/wf-issues-status-not-available.md) | 31 januari 2024 |
 | [Updates: de optie Uitgeschakelde afbeelding is beschikbaar wanneer u een opmerking bewerkt](known-issues-workfront/wf-updates-image-enabled-when-editing.md) | 31 januari 2024 |
-| [Sjablonen: fout bij het kopiëren van sjablonen](known-issues-workfront/wf-templates-cannot-copy-template.md) | 26 januari 2024 |
 | [[!UICONTROL Resource Management]: Kan datum niet wijzigen in [!UICONTROL Utilization] gebied](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md) | 25 januari 2024 |
 | [Teams: problemen met het instellen van teamstatussen voor [!UICONTROL Done] knop](known-issues-workfront/wf-teams-statuses-missing.md) | 25 januari 2024 |
 | [Resourcebeheer: onjuiste financiële berekeningen als gevolg van problemen met functies](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | 25 januari 2024 |
