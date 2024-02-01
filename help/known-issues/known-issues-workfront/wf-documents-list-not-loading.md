@@ -3,15 +3,19 @@ title: "Documenten: problemen bij het weergeven van documentlijsten"
 description: "Problemen met het weergeven van documentlijsten zijn gemeld. Meer informatie vindt u in dit artikel."
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 6fd1ee82b2b9f2cb4ee88d8cd2b769114cec1524
+source-git-commit: b6271df75cce6d725f6d27b479b0eb31b8991acb
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
 
 # Documenten: problemen bij het weergeven van documentlijsten
+
+>[!NOTE]
+>
+>Dit probleem is opgelost.
 
 De volgende problemen zijn gemeld met betrekking tot het weergeven van documentlijsten:
 

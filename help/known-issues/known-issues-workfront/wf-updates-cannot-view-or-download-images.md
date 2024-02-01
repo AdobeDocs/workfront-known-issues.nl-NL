@@ -3,15 +3,19 @@ title: "Updates: kan afbeeldingen in opmerkingen niet weergeven of downloaden"
 description: "Wanneer een gebruiker een afbeelding probeert weer te geven of te downloaden van een opmerking in Workfront, wordt een fout weergegeven."
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
+source-git-commit: b6271df75cce6d725f6d27b479b0eb31b8991acb
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
 
 # Updates: kan afbeeldingen in opmerkingen niet weergeven of downloaden
+
+>[!NOTE]
+>
+>Deze kwestie is vastgesteld op 25 januari 2024.
 
 Wanneer een gebruiker een afbeelding probeert te bekijken of te downloaden van een opmerking in Workfront, wordt de volgende fout weergegeven:
 
