@@ -1,27 +1,34 @@
 ---
-title: "Documentintegratie: Kan niet alle mappen weergeven in OneDrive"
-description: "Wanneer een gebruiker via de OneDrive-integratie in Workfront toegang probeert te krijgen tot een document, kan de gebruiker niet alle OneDrive-mappen zien en heeft hij geen toegang tot documenten in de ontbrekende mappen."
+title: 'Documentintegratie: kan niet alle mappen in OneDrive zien'
+description: Wanneer een gebruiker via de OneDrive-integratie in Workfront toegang probeert te krijgen tot een document, kan de gebruiker niet alle OneDrive-mappen zien en heeft hij geen toegang tot documenten in de ontbrekende mappen.
 feature: Digital Content and Documents
 hidefromtoc: true
-source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+exl-id: bcb71d1f-4563-4a87-a068-1f707a3a2e02
+source-git-commit: 513b1efc9deffe0a1d8024e95e5aa88e14dd8e41
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
-
-# Documentintegratie: Kan niet alle mappen weergeven in [!DNL OneDrive]
+# Documentintegratie: niet alle mappen in [!DNL OneDrive]
 
 >[!NOTE]
 >
->Het team van het Product evalueert momenteel deze probleemoplossing, die productverbeteringen kan vereisen. De verbeteringen van het product worden meegedeeld in de Mededelingen van het Product en niet met de Updates van het Onderhoud.
+>Dit probleem is opgelost.
 
-Wanneer een gebruiker toegang probeert te krijgen tot een document via de [!DNL OneDrive] integratie in [!DNL Workfront], kan de gebruiker niet alle [!DNL OneDrive] en heeft geen toegang tot documenten in de ontbrekende mappen.
+<!--
+
+>[!NOTE]
+>
+>The Product team is currently evaluating this issue resolution, which might require product enhancements. Product enhancements are communicated in the Product Announcements and not with the Maintenance Updates.
+
+-->
+
+Wanneer een gebruiker via [!DNL OneDrive] integratie in [!DNL Workfront], kan de gebruiker niet alle [!DNL OneDrive] en heeft geen toegang tot documenten in de ontbrekende mappen.
 
 **Workaround**
 
 Download het bestand rechtstreeks vanuit [!DNL OneDrive]en uploadt u het bestand als een document in [!DNL Workfront].
 
 _Voor het eerst gerapporteerd op 15 mei 2023._
-
