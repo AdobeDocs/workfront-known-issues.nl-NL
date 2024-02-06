@@ -4,7 +4,7 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 513b1efc9deffe0a1d8024e95e5aa88e14dd8e41
+source-git-commit: ee15f19ffd6010f637582fa484721596a25f0653
 workflow-type: tm+mt
 source-wordcount: '734'
 ht-degree: 0%
@@ -25,7 +25,6 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [Borden: Kan een kaart niet in een kolom verplaatsen met [!UICONTROL Move] opties](known-issues-workfront/wf-boards-top-of-column-ineffective.md) | 26 januari 2024 |
 | [Proofs: GIFFEN worden gerenderd als statische proefdrukken](known-issues-workfront/wf-proofs-gif-static-image.md) | 23 januari 2024 |
 | [Proefdrukken: gezipte proefdrukken worden niet gegenereerd](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 9 januari 2024 |
 
@@ -37,6 +36,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [Borden: Kan een kaart niet in een kolom verplaatsen met [!UICONTROL Move] opties](known-issues-workfront/wf-boards-top-of-column-ineffective.md) | 6 februari 2024 |
 | [Documenten: kan document niet van map naar hoofdmap verplaatsen](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 1 februari 2024 |
 | [Kaarten: Kaarten worden niet naar de juiste kolom verplaatst wanneer de status wordt gewijzigd](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 1 februari 2024 |
 | [Problemen: status probleem niet in vervolgkeuzelijst](known-issues-workfront/wf-issues-status-not-available.md) | 31 januari 2024 |

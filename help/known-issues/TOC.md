@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: aad77d690cef72beb1543c442ee557e768777150
+source-git-commit: 4f66611a781f5793d397e28911e308d46bd1de02
 workflow-type: tm+mt
-source-wordcount: '1401'
+source-wordcount: '1410'
 ht-degree: 0%
 
 ---
@@ -189,6 +189,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Bekende problemen in Workfront Fusion](workfrontfusion.md)
    + Huidige problemen in [!DNL Workfront Fusion] {#fusion-current}
+      + [Workfront Fusion: Workfront Proof > Tijd in proefdruk controleren](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md)
       + [Workfront Fusion: veld ontbreekt in module](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
       + [Workfront Fusion: uitvoeropmaak voor datums](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: RuntimeError met 200 respons van Workfront module](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)

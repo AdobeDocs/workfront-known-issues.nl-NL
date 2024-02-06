@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 17e60b281dc05073247083257121d8809a271722
+source-git-commit: ee15f19ffd6010f637582fa484721596a25f0653
 workflow-type: tm+mt
-source-wordcount: '1289'
+source-wordcount: '1397'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,31 @@ Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-mai
 
 ## Updates in februari 2024
 
++++**(Geplande) onderhoudsupdate op 8 februari 2024**
+
+### (Geplande) onderhoudsupdate op 8 februari 2024
+
+#### Borden
+
+**Kan een kaart niet naar een kolom verplaatsen met [!UICONTROL Move] opties**
+
+Wanneer een gebruiker een kaart in een kolom probeert te verplaatsen met &quot;[!UICONTROL Top of column]&quot; of &quot;[!UICONTROL Bottom of column]&quot;-opties in het menu met drie punten wordt de kaart niet verplaatst.
+
+**Kaarten blijven bestaan wanneer u de iteratie wijzigt**
+
+Wanneer een gebruiker een herhaling op een board bekijkt en dan de herhaling verandert, zijn de kaarten die voor de nieuwe herhaling tonen de kaarten van een herhaling de gebruiker eerder bekeken.
+
+#### Rapporten
+
+**De kolom &quot;Geen waarde&quot; geeft geen resultaten weer**
+
+Wanneer een grafiekrapport een &quot;[!DNL No value]&quot;, toont de kolom geen gegevens, hoewel de gegevens aanwezig zouden moeten zijn.
+
++++
+
 +++**Onderhoudsupdate op 1 februari 2024**
 
-### (Geplande) onderhoudsupdate op 1 februari 2024
+### Onderhoudsupdate op 1 februari 2024
 
 #### Aanmelden
 
