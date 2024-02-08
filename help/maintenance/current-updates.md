@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: ee15f19ffd6010f637582fa484721596a25f0653
+source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
 workflow-type: tm+mt
-source-wordcount: '1397'
+source-wordcount: '1468'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,9 @@ Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-mai
 
 ## Updates in februari 2024
 
-+++**(Geplande) onderhoudsupdate op 8 februari 2024**
++++**Onderhoudsupdate op 8 februari 2024**
 
-### (Geplande) onderhoudsupdate op 8 februari 2024
+### Onderhoudsupdate op 8 februari 2024
 
 #### Borden
 
@@ -41,6 +41,14 @@ Wanneer een gebruiker een herhaling op een board bekijkt en dan de herhaling ver
 **De kolom &quot;Geen waarde&quot; geeft geen resultaten weer**
 
 Wanneer een grafiekrapport een &quot;[!DNL No value]&quot;, toont de kolom geen gegevens, hoewel de gegevens aanwezig zouden moeten zijn.
+
+#### Bronbeheer
+
+**Onjuiste financiële berekeningen als gevolg van problemen met de functie**
+
+De berekeningen van uren en van de financiën kunnen onjuist zijn, die een kosten van 0 tonen alhoewel de uren in een baanrol worden geregistreerd die een kostentarief heeft.
+
+Dit komt omdat de Rollen van de Baan automatisch dubbele tarieven zonder begin of einddata creëren. Omdat ze geen begin- of einddatum hebben, worden ze behandeld als een waarde van 0 wanneer financieringsberekeningen worden uitgevoerd.
 
 +++
 

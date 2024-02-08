@@ -3,15 +3,19 @@ title: "Resourcebeheer: onjuiste financiële berekeningen als gevolg van problem
 description: "De berekeningen van uren en van de financiën kunnen onjuist zijn, die een kosten van 0 tonen alhoewel de uren in een baanrol worden geregistreerd die een kostentarief heeft."
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
+source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
 
 
 # Resourcebeheer: onjuiste financiële berekeningen als gevolg van problemen met functies
+
+>[!NOTE]
+>
+>Dit probleem is op 8 februari 2024 opgelost.
 
 De berekeningen van uren en van de financiën kunnen onjuist zijn, die een kosten van 0 tonen alhoewel de uren in een baanrol worden geregistreerd die een kostentarief heeft.
 
