@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 65b488e1ae954b77808505b6f6ab4405f4e13674
+source-git-commit: c233a4f5741a9ae4af5218eb0800d2da43eabe66
 workflow-type: tm+mt
-source-wordcount: '715'
+source-wordcount: '709'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | [Kaarten: Kaarten worden niet naar de juiste kolom verplaatst wanneer de status wordt gewijzigd](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 1 februari 2024 |
 | [Problemen: status probleem niet in vervolgkeuzelijst](known-issues-workfront/wf-issues-status-not-available.md) | 31 januari 2024 |
 | [Updates: de optie Uitgeschakelde afbeelding is beschikbaar wanneer u een opmerking bewerkt](known-issues-workfront/wf-updates-image-enabled-when-editing.md) | 31 januari 2024 |
-| [[!UICONTROL Resource Management]: Kan datum niet wijzigen in [!UICONTROL Utilization] gebied](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md) | 25 januari 2024 |
 | [Teams: problemen met het instellen van teamstatussen voor [!UICONTROL Done] knop](known-issues-workfront/wf-teams-statuses-missing.md) | 25 januari 2024 |
 | [Problemen: tijdvelden besparen onjuiste tijd bij problemen met bulkbewerking](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | 5 januari 2024 |
 | [Nieuw [!UICONTROL Home]: Standaardwaarden voor widgetfilter en -groepering volgen niet de lay-outsjabloon](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 4 januari 2024 |
