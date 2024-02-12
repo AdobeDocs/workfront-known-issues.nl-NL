@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: b3b415f939a1d83da47de4bf960f5a504b59b3fa
+source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
 workflow-type: tm+mt
-source-wordcount: '1420'
+source-wordcount: '1442'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Updates: het scherm gaat leeg wanneer het antwoorden aan een gebruiker van een ander bedrijf](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md)
+      + [Borden: Filteren voor meerdere gebruikers retourneert niet alle resultaten](known-issues-workfront/wf-boards-filter-not-pulling-users.md)
       + [Gebruikers: lagere toegangsniveaus zijn niet beschikbaar bij het maken van een gebruiker](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
       + [Problemen: status probleem niet in vervolgkeuzelijst](known-issues-workfront/wf-issues-status-not-available.md)
       + [Updates: de optie Uitgeschakelde afbeelding is beschikbaar wanneer u een opmerking bewerkt](known-issues-workfront/wf-updates-image-enabled-when-editing.md)

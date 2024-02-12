@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c233a4f5741a9ae4af5218eb0800d2da43eabe66
+source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
 workflow-type: tm+mt
-source-wordcount: '709'
+source-wordcount: '733'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Borden: Filteren voor meerdere gebruikers retourneert niet alle resultaten](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | 12 februari 2024 |
 | [Gebruikers: lagere toegangsniveaus zijn niet beschikbaar bij het maken van een gebruiker](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 8 februari 2024 |
 | [Proofs: GIFFEN worden gerenderd als statische proefdrukken](known-issues-workfront/wf-proofs-gif-static-image.md) | 23 januari 2024 |
 | [Proefdrukken: gezipte proefdrukken worden niet gegenereerd](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 9 januari 2024 |
@@ -37,6 +38,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [Updates: het scherm gaat leeg wanneer het antwoorden aan een gebruiker van een ander bedrijf](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | 12 februari 2024 |
 | [Documenten: kan document niet van map naar hoofdmap verplaatsen](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 1 februari 2024 |
 | [Kaarten: Kaarten worden niet naar de juiste kolom verplaatst wanneer de status wordt gewijzigd](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 1 februari 2024 |
 | [Problemen: status probleem niet in vervolgkeuzelijst](known-issues-workfront/wf-issues-status-not-available.md) | 31 januari 2024 |
