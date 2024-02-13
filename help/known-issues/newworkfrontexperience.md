@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
+source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
 workflow-type: tm+mt
-source-wordcount: '733'
+source-wordcount: '764'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,9 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integratie: Documenten die niet zijn gekoppeld bij het maken van een aanvraag van [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | 13 februari 2024 |
+| [Proefdrukken: kan geen proefdruk maken met [!UICONTROL Advanced Workflow] van een [!DNL SharePoint] document](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | 13 februari 2024 |
+| [Boeken: 400 fout bij het toevoegen van een taak aan een board](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | 13 februari 2024 |
 | [Borden: Filteren voor meerdere gebruikers retourneert niet alle resultaten](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | 12 februari 2024 |
 | [Gebruikers: lagere toegangsniveaus zijn niet beschikbaar bij het maken van een gebruiker](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 8 februari 2024 |
 | [Proofs: GIFFEN worden gerenderd als statische proefdrukken](known-issues-workfront/wf-proofs-gif-static-image.md) | 23 januari 2024 |

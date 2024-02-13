@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
+source-git-commit: 82f7b2f94e9df2f3e1707946f802720fc2ff8c16
 workflow-type: tm+mt
-source-wordcount: '1442'
+source-wordcount: '1470'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Integratie: Documenten die niet zijn gekoppeld bij het maken van een aanvraag van [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
+      + [Proefdrukken: kan geen proefdruk maken met [!UICONTROL Advanced Workflow] van een [!DNL SharePoint] document](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)
+      + [Boeken: 400 fout bij het toevoegen van een taak aan een board](known-issues-workfront/wf-boards-400-when-add-to-boards.md)
       + [Updates: het scherm gaat leeg wanneer het antwoorden aan een gebruiker van een ander bedrijf](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md)
       + [Borden: Filteren voor meerdere gebruikers retourneert niet alle resultaten](known-issues-workfront/wf-boards-filter-not-pulling-users.md)
       + [Gebruikers: lagere toegangsniveaus zijn niet beschikbaar bij het maken van een gebruiker](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)

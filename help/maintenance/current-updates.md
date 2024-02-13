@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
+source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
 workflow-type: tm+mt
-source-wordcount: '1468'
+source-wordcount: '1640'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,30 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2024.
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in februari 2024
+
++++**(Geplande) onderhoudsupdate op 15 februari 2024**
+
+### (Geplande) onderhoudsupdate op 15 februari 2024
+
+#### Problemen
+
+**Tijdvelden besparen onjuiste tijd bij problemen met bulkbewerking**
+
+Wanneer een gebruiker bulkbewerkingsproblemen heeft en een datum en tijd selecteert voor een datumveld en opslaat, is de tijd die aan dit veld wordt opgeslagen in de uitgave niet de tijd die de gebruiker heeft geselecteerd. In plaats daarvan lijkt de tijd te worden omgezet in UTC wanneer de gebruiker opslaat.
+
+#### Taken
+
+**Gebruiker is niet toegewezen aan een of meer taken**
+
+De toewijzing van een gebruiker aan een taak kan automatisch ongedaan worden gemaakt. Dit kan voor één of meerdere taken voorkomen. De toewijzing ongedaan maken wordt niet weergegeven in het gedeelte System Updates van de taken, maar wel in de sectie Update feeds van het instellingsmenu.
+
+#### Updates
+
+**De optie Uitgeschakelde afbeelding is beschikbaar wanneer u een opmerking bewerkt**
+
+Na een [!DNL Workfront] de beheerder heeft de optie voor het toevoegen van afbeeldingen aan opmerkingen uitgeschakeld. Deze optie is niet beschikbaar wanneer u een opmerking maakt. Als een gebruiker echter een bestaande opmerking bewerkt, is de afbeeldingsoptie beschikbaar.
+
++++
 
 +++**Onderhoudsupdate op 8 februari 2024**
 
