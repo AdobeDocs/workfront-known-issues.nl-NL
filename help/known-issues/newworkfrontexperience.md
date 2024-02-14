@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
+source-git-commit: fbcd3495cff923fc181419e89182e079c35dd053
 workflow-type: tm+mt
-source-wordcount: '764'
+source-wordcount: '770'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Borden: Problemen met dubbele kaarten](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 14 februari 2024 |
 | [Integratie: Documenten die niet zijn gekoppeld bij het maken van een aanvraag van [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | 13 februari 2024 |
 | [Proefdrukken: kan geen proefdruk maken met [!UICONTROL Advanced Workflow] van een [!DNL SharePoint] document](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | 13 februari 2024 |
 | [Boeken: 400 fout bij het toevoegen van een taak aan een board](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | 13 februari 2024 |
