@@ -3,15 +3,19 @@ title: "Updates: de optie Uitgeschakelde afbeelding is beschikbaar wanneer u een
 description: "Na een [!DNL Workfront] de beheerder heeft de optie voor het toevoegen van afbeeldingen aan opmerkingen uitgeschakeld. Deze optie is niet beschikbaar wanneer u een opmerking maakt. Als een gebruiker echter een bestaande opmerking bewerkt, is de afbeeldingsoptie beschikbaar."
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 3b05b44c752775e891d2bc3feafd9a4479ab8414
+source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
 
 
 # Updates: de optie Uitgeschakelde afbeelding is beschikbaar wanneer u een opmerking bewerkt
+
+>[!NOTE]
+>
+>Dit probleem is op 15 februari 2024 opgelost.
 
 Na een [!DNL Workfront] de beheerder heeft de optie voor het toevoegen van afbeeldingen aan opmerkingen uitgeschakeld. Deze optie is niet beschikbaar wanneer u een opmerking maakt. Als een gebruiker echter een bestaande opmerking bewerkt, is de afbeeldingsoptie beschikbaar.
 

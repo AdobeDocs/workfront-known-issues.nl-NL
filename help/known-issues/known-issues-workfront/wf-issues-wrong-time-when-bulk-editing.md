@@ -3,15 +3,19 @@ title: "Problemen: tijdvelden besparen onjuiste tijd bij problemen met bulkbewer
 description: "Wanneer een gebruiker bulkbewerkingsproblemen heeft en een datum en tijd selecteert voor een datumveld en opslaat, is de tijd die aan dit veld wordt opgeslagen in de uitgave niet de tijd die de gebruiker heeft geselecteerd. In plaats daarvan lijkt de tijd te worden omgezet in UTC wanneer de gebruiker opslaat."
 hidefromtoc: true
 feature: Work Management
-source-git-commit: 2d0e05921904f246c13cfa341e1039c85f1f2b1f
+source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
 
 
 # Problemen: tijdvelden besparen onjuiste tijd bij problemen met bulkbewerking
+
+>[!NOTE]
+>
+>Dit probleem is op 15 februari 2024 opgelost.
 
 Wanneer een gebruiker bulkbewerkingsproblemen heeft en een datum en tijd selecteert voor een datumveld en opslaat, is de tijd die aan dit veld wordt opgeslagen in de uitgave niet de tijd die de gebruiker heeft geselecteerd. In plaats daarvan lijkt de tijd te worden omgezet in UTC wanneer de gebruiker opslaat.
 
