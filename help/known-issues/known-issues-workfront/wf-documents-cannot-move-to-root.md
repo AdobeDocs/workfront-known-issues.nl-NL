@@ -3,15 +3,19 @@ title: "Documenten: kan document niet van map naar hoofdmap verplaatsen"
 description: "Wanneer een gebruiker een map probeert te verplaatsen van een door de gebruiker gemaakte map naar de hoofdmap Documenten van het project, wordt het document niet verplaatst en ziet de gebruiker een fout."
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
+source-git-commit: 08c7ff0024b0e0bc8f735c388d4b82eaf5a42610
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
 
 
 # Documenten: kan document niet van map naar hoofdmap verplaatsen
+
+>[!NOTE]
+>
+>Deze kwestie is vastgesteld op 24 januari 2024.
 
 Wanneer een gebruiker een map probeert te verplaatsen van een door de gebruiker gemaakte map naar de hoofdmap Documenten van het project, wordt het document niet verplaatst en ziet de gebruiker de volgende fout:
 
