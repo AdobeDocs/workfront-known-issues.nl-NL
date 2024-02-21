@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: d089651c04d4cedb069276d677b2a978c03038fb
+source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
 workflow-type: tm+mt
-source-wordcount: '1500'
+source-wordcount: '1523'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Aangepaste formulieren: fout bij het plakken van tekst in een RTF-veld](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
+      + [Projecten: de tijdlijn wordt zeer langzaam opnieuw berekend wanneer u een datum op een taak wijzigt](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
       + [Borden: Kaart omvat geen subtaken](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
       + [Borden: Kaarten niet sorteren](known-issues-workfront/wf-boards-not-sorting.md)
       + [Borden: het scherm gaat leeg wanneer het bekijken kaartdetails](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)

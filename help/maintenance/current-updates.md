@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: d8ff109f371c9169487f0643fcf20bb73dcf91c6
+source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
 workflow-type: tm+mt
-source-wordcount: '1732'
+source-wordcount: '1763'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,12 @@ Wanneer een groepsbeheerder probeert om het toegangsniveau van een gebruiker te 
 
 * Het veld Toegangsniveau is uitgeschakeld.
 * De groepsbeheerder kan geen lager toegangsniveau kiezen.
+
+#### Werklastverdeling
+
+**Etiket voor niet-werkuren**
+
+De werklastbalans en de persoonlijke tijd van de kalender tonen nu &quot;[!UICONTROL Non-working Hours]&quot; voor tijd dat een gebruiker opstart. Eerder werd het scherm weergegeven &quot;[!UICONTROL Working Hours]&quot; voor niet-arbeidstijd.
 
 +++
 

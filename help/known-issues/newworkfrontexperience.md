@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d089651c04d4cedb069276d677b2a978c03038fb
+source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
 workflow-type: tm+mt
-source-wordcount: '758'
+source-wordcount: '783'
 ht-degree: 0%
 
 ---
@@ -42,6 +42,8 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [Aangepaste formulieren: fout bij het plakken van tekst in een RTF-veld](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md) | 21 februari 2024 |
+| [Projecten: de tijdlijn wordt zeer langzaam opnieuw berekend wanneer u een datum op een taak wijzigt](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md) | 21 februari 2024 |
 | [Borden: Kaart omvat geen subtaken](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 16 februari 2024 |
 | [Borden: Kaarten niet sorteren](known-issues-workfront/wf-boards-not-sorting.md) | 16 februari 2024 |
 | [Borden: het scherm gaat leeg wanneer het bekijken kaartdetails](known-issues-workfront/wf-boards-details-blank-for-reviewer.md) | 16 februari 2024 |
