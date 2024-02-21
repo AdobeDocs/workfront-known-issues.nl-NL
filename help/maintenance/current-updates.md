@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
+source-git-commit: d8ff109f371c9169487f0643fcf20bb73dcf91c6
 workflow-type: tm+mt
-source-wordcount: '1640'
+source-wordcount: '1732'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,35 @@ Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-mai
 
 ## Updates in februari 2024
 
-+++**(Geplande) onderhoudsupdate op 15 februari 2024**
++++**(Geplande) onderhoudsupdate op 22 februari 2024**
 
-### (Geplande) onderhoudsupdate op 15 februari 2024
+### (Geplande) onderhoudsupdate op 22 februari 2024
+
+#### Home
+
+**[!UICONTROL Home]: [!UICONTROL Workspace] en punten niet laden**
+
+Wanneer een gebruiker zich aanmeldt, kan het volgende voorkomen:
+
+* Nieuwe gebruiker [!UICONTROL Home Workspace] wordt niet geladen en wordt de fout &quot;[!UICONTROL We are unable to load your Workspace information. Please contact Workfront so we can figure out what went wrong and fix it.]&quot;
+* De punten van de gebruiker worden niet geladen en de fout &quot;[!UICONTROL Your pins are unavailable because of a system error. Try refreshing your browser to fix the problem.]&quot;
+
+#### Gebruikers
+
+**De beheerder van de groep kan niet het toegangsniveau van een gebruiker plaatsen of veranderen**
+
+<!--no article-->
+
+Wanneer een groepsbeheerder probeert om het toegangsniveau van een gebruiker te veranderen, één van het volgende kan voorkomen:
+
+* Het veld Toegangsniveau is uitgeschakeld.
+* De groepsbeheerder kan geen lager toegangsniveau kiezen.
+
++++
+
++++**Onderhoudsupdate op 15 februari 2024**
+
+### Onderhoudsupdate op 15 februari 2024
 
 #### Problemen
 
