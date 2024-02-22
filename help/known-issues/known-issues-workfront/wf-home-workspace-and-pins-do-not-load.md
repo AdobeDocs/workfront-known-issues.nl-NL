@@ -3,15 +3,19 @@ title: "Home: Werkruimte en punten worden niet geladen"
 description: "Wanneer een gebruiker zich aanmeldt, worden de werkruimte en punten op het startpunt niet geladen en worden foutberichten weergegeven."
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
+source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
 
 
 # [!UICONTROL Home]: [!UICONTROL Workspace] en punten niet laden
+
+>[!NOTE]
+>
+>Deze kwestie is op 22 februari 2024 opgelost.
 
 Wanneer een gebruiker zich aanmeldt, kan het volgende voorkomen:
 

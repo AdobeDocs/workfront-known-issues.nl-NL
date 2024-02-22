@@ -3,15 +3,19 @@ title: "Aangepaste formulieren: fout bij het plakken van tekst in een RTF-veld"
 description: "Wanneer een gebruiker probeert om tekst van een andere toepassing (zoals Salesforce of Vooruitzichten) in een rijk tekstgebied in Workfront te kleven, wordt de tekst niet gekleefd in, en de gebruiker ziet een fout."
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
+source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
 
 # Aangepaste formulieren: fout bij het plakken van tekst in een RTF-veld
+
+>[!NOTE]
+>
+>Deze kwestie is op 22 februari 2024 opgelost.
 
 Wanneer een gebruiker probeert om tekst van een andere toepassing (zoals Salesforce of Vooruitzichten) in een rijk tekstgebied in Workfront te kleven, wordt de tekst niet gekleefd in, en de gebruiker ziet de volgende fout:
 

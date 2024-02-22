@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
+source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
 workflow-type: tm+mt
-source-wordcount: '783'
+source-wordcount: '733'
 ht-degree: 0%
 
 ---
@@ -25,12 +25,8 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [Home: Werkruimte en punten worden niet geladen](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md) | 15 februari 2024 |
-| [Borden: Problemen met dubbele kaarten](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 14 februari 2024 |
-| [Integratie: Documenten die niet zijn gekoppeld bij het maken van een aanvraag van [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | 13 februari 2024 |
 | [Boeken: 400 fout bij het toevoegen van een taak aan een board](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | 13 februari 2024 |
 | [Borden: Filteren voor meerdere gebruikers retourneert niet alle resultaten](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | 12 februari 2024 |
-| [Gebruikers: lagere toegangsniveaus zijn niet beschikbaar bij het maken van een gebruiker](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 8 februari 2024 |
 | [Proofs: GIFFEN worden gerenderd als statische proefdrukken](known-issues-workfront/wf-proofs-gif-static-image.md) | 23 januari 2024 |
 | [Proefdrukken: gezipte proefdrukken worden niet gegenereerd](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 9 januari 2024 |
 
@@ -42,19 +38,18 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
-| [Aangepaste formulieren: fout bij het plakken van tekst in een RTF-veld](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md) | 21 februari 2024 |
+| [Integratie: Documenten die niet zijn gekoppeld bij het maken van een aanvraag van [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | 22 februari 2024 |
+| [Borden: Problemen met dubbele kaarten](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 22 februari 2024 |
+| [Gebruikers: lagere toegangsniveaus zijn niet beschikbaar bij het maken van een gebruiker](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 22 februari 2024 |
 | [Projecten: de tijdlijn wordt zeer langzaam opnieuw berekend wanneer u een datum op een taak wijzigt](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md) | 21 februari 2024 |
 | [Borden: Kaart omvat geen subtaken](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 16 februari 2024 |
 | [Borden: Kaarten niet sorteren](known-issues-workfront/wf-boards-not-sorting.md) | 16 februari 2024 |
-| [Borden: het scherm gaat leeg wanneer het bekijken kaartdetails](known-issues-workfront/wf-boards-details-blank-for-reviewer.md) | 16 februari 2024 |
-| [Proefdrukken: kan geen proefdruk maken met [!UICONTROL Advanced Workflow] van een [!DNL SharePoint] document](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | 15 februari 2024 |
 | [Updates: het scherm gaat leeg wanneer het antwoorden aan een gebruiker van een ander bedrijf](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | 12 februari 2024 |
 | [Kaarten: Kaarten worden niet naar de juiste kolom verplaatst wanneer de status wordt gewijzigd](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 1 februari 2024 |
 | [Problemen: status probleem niet in vervolgkeuzelijst](known-issues-workfront/wf-issues-status-not-available.md) | 31 januari 2024 |
 | [Teams: problemen met het instellen van teamstatussen voor [!UICONTROL Done] knop](known-issues-workfront/wf-teams-statuses-missing.md) | 25 januari 2024 |
 | [Nieuw [!UICONTROL Home]: Standaardwaarden voor widgetfilter en -groepering volgen niet de lay-outsjabloon](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 4 januari 2024 |
 | [Proofs: problemen bij het verwerken van statische bestanden](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 15 december 2023 |
-| [Taken: taken dupliceren leidt ertoe dat taken in verkeerde volgorde worden weergegeven](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 30 november 2023 |
 | [Home: De taken in projecten met Goedgekeurde of de status van de Planning zijn niet inbegrepen in Mijn Taken of de Lijst van het Werk van het Huis](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6 november 2023 |
 | [[!DNL Workfront]: Kwesties die een [!DNL Workfront] steungeval op Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augustus 2022 |
 

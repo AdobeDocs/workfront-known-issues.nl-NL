@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
+source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
 workflow-type: tm+mt
-source-wordcount: '1763'
+source-wordcount: '1761'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,9 @@ Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-mai
 
 ## Updates in februari 2024
 
-+++**(Geplande) onderhoudsupdate op 22 februari 2024**
++++**Onderhoudsupdate op 22 februari 2024**
 
-### (Geplande) onderhoudsupdate op 22 februari 2024
+### Onderhoudsupdate op 22 februari 2024
 
 #### Home
 
