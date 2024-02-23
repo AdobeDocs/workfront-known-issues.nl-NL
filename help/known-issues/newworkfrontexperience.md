@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
+source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
 workflow-type: tm+mt
-source-wordcount: '733'
+source-wordcount: '777'
 ht-degree: 0%
 
 ---
@@ -25,8 +25,8 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Projecten: fout bij het gebruik van filters in een productlijst](known-issues-workfront/wf-projects-error-using-filter-in-list.md) | 22 februari 2024 |
 | [Boeken: 400 fout bij het toevoegen van een taak aan een board](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | 13 februari 2024 |
-| [Borden: Filteren voor meerdere gebruikers retourneert niet alle resultaten](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | 12 februari 2024 |
 | [Proofs: GIFFEN worden gerenderd als statische proefdrukken](known-issues-workfront/wf-proofs-gif-static-image.md) | 23 januari 2024 |
 | [Proefdrukken: gezipte proefdrukken worden niet gegenereerd](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 9 januari 2024 |
 
@@ -38,6 +38,11 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [Werklastverdeling: geplande uren worden niet bijgewerkt in werklastverdeling](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | 23 februari 2024 |
+| [Borden: op kaarten geüploade documenten tonen een onjuiste tijdstempel](known-issues-workfront/wf-boards-timestamp-in-gmt.md) | 23 februari 2024 |
+| [Timesheets: Fout bij weergeven van overzichtsvenster](known-issues-workfront/wf-timesheets-summary-panel-not-working.md) | 23 februari 2024 |
+| [Boeken: de totalen van de controlelijst zijn niet nauwkeurig](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 23 februari 2024 |
+| [Borden: Filteren voor meerdere gebruikers retourneert niet alle resultaten](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | 22 februari 2024 |
 | [Integratie: Documenten die niet zijn gekoppeld bij het maken van een aanvraag van [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | 22 februari 2024 |
 | [Borden: Problemen met dubbele kaarten](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 22 februari 2024 |
 | [Gebruikers: lagere toegangsniveaus zijn niet beschikbaar bij het maken van een gebruiker](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 22 februari 2024 |

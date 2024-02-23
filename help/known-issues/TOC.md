@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
+source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
 workflow-type: tm+mt
-source-wordcount: '1523'
+source-wordcount: '1562'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,11 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Werklastverdeling: geplande uren worden niet bijgewerkt in werklastverdeling](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)
+      + [Borden: op kaarten geüploade documenten tonen een onjuiste tijdstempel](known-issues-workfront/wf-boards-timestamp-in-gmt.md)
+      + [Timesheets: Fout bij weergeven van overzichtsvenster](known-issues-workfront/wf-timesheets-summary-panel-not-working.md)
+      + [Boeken: de totalen van de controlelijst zijn niet nauwkeurig](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md)
+      + [Projecten: fout bij het gebruik van filters in een productlijst](known-issues-workfront/wf-projects-error-using-filter-in-list.md)
       + [Aangepaste formulieren: fout bij het plakken van tekst in een RTF-veld](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
       + [Projecten: de tijdlijn wordt zeer langzaam opnieuw berekend wanneer u een datum op een taak wijzigt](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
       + [Borden: Kaart omvat geen subtaken](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
