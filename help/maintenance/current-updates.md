@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
+source-git-commit: c609910c69f6339c57afec09c42529cfbd3e486b
 workflow-type: tm+mt
-source-wordcount: '1761'
+source-wordcount: '1816'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,20 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2024.
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in februari 2024
+
++++**Onderhoudsupdate op 29 februari 2024**
+
+### Onderhoudsupdate op 29 februari 2024
+
+#### Updates
+
+**Updates: het scherm gaat leeg wanneer het antwoorden aan een gebruiker van een ander bedrijf**
+
+Wanneer een gebruiker een opmerking van een gebruiker in een ander bedrijf probeert te beantwoorden, wordt het scherm leeg gelaten.
+
+Dit komt omdat de gebruiker geen toestemming heeft om gebruikers van andere bedrijven te zien.
+
++++
 
 +++**Onderhoudsupdate op 22 februari 2024**
 
