@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c609910c69f6339c57afec09c42529cfbd3e486b
+source-git-commit: b75ee8aaab1f9dfb2f90a786d75e0cfc9b9efd85
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '805'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [Borden: op kaarten geüploade documenten tonen een onjuiste tijdstempel](known-issues-workfront/wf-boards-timestamp-in-gmt.md) | 28 februari 2024 |
 | [Werklastverdeling: geplande uren worden niet bijgewerkt in werklastverdeling](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | 23 februari 2024 |
 | [Timesheets: Fout bij weergeven van overzichtsvenster](known-issues-workfront/wf-timesheets-summary-panel-not-working.md) | 23 februari 2024 |
 | [Boeken: de totalen van de controlelijst zijn niet nauwkeurig](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 23 februari 2024 |
