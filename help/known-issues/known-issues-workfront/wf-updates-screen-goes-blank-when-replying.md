@@ -3,15 +3,19 @@ title: "Updates: het scherm gaat leeg wanneer het antwoorden aan een gebruiker v
 description: "Wanneer een gebruiker een opmerking van een gebruiker in een ander bedrijf probeert te beantwoorden, wordt het scherm leeg gelaten."
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
+source-git-commit: f596539d9dd297f63463a50d9dde2ffd73f81470
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
 
 # Updates: het scherm gaat leeg wanneer het antwoorden aan een gebruiker van een ander bedrijf
+
+>[!NOTE]
+>
+>Dit probleem is op 29 februari 2024 opgelost.
 
 Wanneer een gebruiker een opmerking van een gebruiker in een ander bedrijf probeert te beantwoorden, wordt het scherm leeg gelaten.
 

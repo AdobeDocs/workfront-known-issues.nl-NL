@@ -3,15 +3,19 @@ title: "Boards: op kaarten geüploade documenten tonen onjuist tijdstempel"
 description: ""
 hidefromtoc: true
 feature: Agile
-source-git-commit: b75ee8aaab1f9dfb2f90a786d75e0cfc9b9efd85
+source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
 
 # Borden: op kaarten geüploade documenten tonen een onjuiste tijdstempel
+
+>[!NOTE]
+>
+>Dit probleem is op 16 februari 2024 opgelost.
 
 Wanneer een gebruiker een document naar een kaart uploadt, wordt de tijdstempel weergegeven in GMT (UTC) in plaats van in de tijdzone van de gebruiker. Relatieve tijden zoals &quot;2 uur geleden&quot; zijn accuraat, maar wanneer de kaart de werkelijke tijd weergeeft, is dat niet correct.
 
