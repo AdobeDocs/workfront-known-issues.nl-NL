@@ -3,7 +3,7 @@ title: "Taken: Door taken te dupliceren worden taken in verkeerde volgorde weerg
 description: "Wanneer een gebruiker een of meer taken in een takenlijst selecteert en deze dupliceert, worden de taken in de takenlijst vervolgens in de verkeerde volgorde weergegeven volgens het taakordernummer. De taken zijn correct genummerd, maar ze worden in de verkeerde volgorde weergegeven. Er is een oplossing beschikbaar."
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 2dc8cabb4977908846b62f4b9f43b75fd348776f
+source-git-commit: d68b7fa7c3aa816b7d0c83ed172c0728d8031caf
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -20,3 +20,4 @@ Wanneer een gebruiker een taak maakt of dupliceert op een takenlijst, worden de 
 Vernieuw de pagina.
 
 _Voor het eerst gerapporteerd op 27 november 2023._
+
