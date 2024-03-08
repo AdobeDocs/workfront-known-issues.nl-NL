@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: d4a2754abb7ff184a9924b228ef1fb4702856a32
+source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
 workflow-type: tm+mt
-source-wordcount: '1587'
+source-wordcount: '1592'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Updates: grote ruimten tussen regels](known-issues-workfront/wf-updates-large-spacing-between-lines.md)
       + [Proefdrukken: proefdrukken die zijn gemaakt op basis van gekoppelde documenten, hebben geen proefdruksjabloon toegepast](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)
       + [Rapporten: wijzigingen die zijn aangebracht in de tekstmodus worden niet toegepast op rapporten of weergaven](known-issues-workfront/wf-reports-text-mode-not-saving.md)
       + [Werklastverdeling: geplande uren worden niet bijgewerkt in werklastverdeling](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)

@@ -3,9 +3,9 @@ title: "Boards: 400 fout bij het toevoegen van een taak aan een board"
 description: "Wanneer een gebruiker een project bekijkt en probeert om een taak aan een raad toe te voegen, wordt de taak niet toegevoegd, en de gebruiker ziet een fout. Er is een oplossing beschikbaar."
 hidefromtoc: true
 feature: Agile
-source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
+source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,13 @@ ht-degree: 0%
 
 # Boeken: 400 fout bij het toevoegen van een taak aan een board
 
+>[!NOTE]
+>
+>Deze kwestie is vastgesteld op 7 maart 2024.
+
 Wanneer een gebruiker een project bekijkt en probeert om een taak aan een raad toe te voegen, wordt de taak niet toegevoegd, en de gebruiker ziet de volgende fout:
 
-Fout: &quot;400: undefined /boards-service/graphql&quot;.
+Fout: &quot;400: undefined /boards-service/graphql&quot;
 
 **Workaround**
 

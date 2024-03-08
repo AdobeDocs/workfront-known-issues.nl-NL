@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c609910c69f6339c57afec09c42529cfbd3e486b
+source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
 workflow-type: tm+mt
-source-wordcount: '1816'
+source-wordcount: '1996'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,45 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2024.
 >Deze updates bevatten ook andere kleine of minder duidelijke foutoplossingen. [!DNL Workfront] Ondersteuning geeft een melding wanneer een probleem dat u hebt verzonden, is opgelost.
 
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
+
+## Updates in maart 2024
+
++++**Onderhoudsupdate op 7 maart 2024**
+
+### Onderhoudsupdate op 7 maart 2024
+
+#### Borden
+
+**400 fout bij het toevoegen van een taak aan een board**
+
+Wanneer een gebruiker een project bekijkt en probeert om een taak aan een raad toe te voegen, wordt de taak niet toegevoegd, en de gebruiker ziet de volgende fout:
+
+Fout: &quot;400: undefined /boards-service/graphql&quot;
+
+#### Home
+
+**Fout bij inlinebewerking van een taak in de widget Mijn taak**
+
+Wanneer een gebruiker een taak inline probeert uit te geven in Mijn Taken widget, zien zij de volgende fout:
+
+&quot;Er is een fout opgetreden en we werken eraan het probleem op te lossen. Vernieuw deze browserpagina om verder te gaan met uw werk.&quot;
+
+
+#### Werklastverdeling
+
+**Geplande uren worden niet bijgewerkt in werklastbalans**
+
+Wanneer de geplande uren voor een project worden bijgewerkt, worden ze niet bijgewerkt in Workload Balancer. Dit kan voorkomen alhoewel de verandering nauwkeurig in het project wordt weerspiegeld.
+
++++
+
+++**Workfront Fusion Maintenance Update op 7 maart 2024
+
+**Workfront Proof > Tijd in de module Controle**
+
+Scenario&#39;s waarin de module Workfront Proof > Watch Proof wordt gebruikt, worden mogelijk gedeactiveerd vanwege de timing van de module Controle.
+
++++
 
 ## Updates in februari 2024
 

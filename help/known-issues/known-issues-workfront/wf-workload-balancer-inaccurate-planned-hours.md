@@ -3,15 +3,19 @@ title: "Werklastbalans: geplande uren worden niet bijgewerkt in werklastbalans"
 description: "Wanneer de geplande uren voor een project worden bijgewerkt, worden ze niet bijgewerkt in Workload Balancer. Dit kan voorkomen alhoewel de verandering nauwkeurig in het project wordt weerspiegeld."
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
+source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
 
 # Werklastverdeling: geplande uren worden niet bijgewerkt in werklastverdeling
+
+>[!NOTE]
+>
+>Deze kwestie is vastgesteld op 7 maart 2024.
 
 Wanneer de geplande uren voor een project worden bijgewerkt, worden ze niet bijgewerkt in Workload Balancer. Dit kan voorkomen alhoewel de verandering nauwkeurig in het project wordt weerspiegeld.
 
