@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 09091815a09c59f4d15e152d40927072995418be
+source-git-commit: f91e947afbd2ef5cec4f5bac7273276b842e172e
 workflow-type: tm+mt
-source-wordcount: '766'
+source-wordcount: '776'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [Updates: gebruikers van de aanvrager kunnen geen afbeeldingen toevoegen aan updates](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 8 maart 2024 |
 | [Rapporten: wijzigingen die zijn aangebracht in de tekstmodus worden niet toegepast op rapporten of weergaven](known-issues-workfront/wf-reports-text-mode-not-saving.md) | 26 februari 2024 |
 | [Taken: het creëren van of het dupliceren van taken veroorzaakt takenlijst om in verkeerde orde te tonen](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 8 maart 2024 |
 | [Updates: grote ruimten tussen regels](known-issues-workfront/wf-updates-large-spacing-between-lines.md) | 8 maart 2024 |

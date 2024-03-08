@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
+source-git-commit: f91e947afbd2ef5cec4f5bac7273276b842e172e
 workflow-type: tm+mt
-source-wordcount: '1592'
+source-wordcount: '1601'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Updates: gebruikers van de aanvrager kunnen geen afbeeldingen toevoegen aan updates](known-issues-workfront/wf-updates-requestors-not-add-image.md)
       + [Updates: grote ruimten tussen regels](known-issues-workfront/wf-updates-large-spacing-between-lines.md)
       + [Proefdrukken: proefdrukken die zijn gemaakt op basis van gekoppelde documenten, hebben geen proefdruksjabloon toegepast](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)
       + [Rapporten: wijzigingen die zijn aangebracht in de tekstmodus worden niet toegepast op rapporten of weergaven](known-issues-workfront/wf-reports-text-mode-not-saving.md)
