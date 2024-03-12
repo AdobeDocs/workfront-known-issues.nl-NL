@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
+source-git-commit: caf54488e247a820fbbb623937a9ec9c4560300b
 workflow-type: tm+mt
-source-wordcount: '1996'
+source-wordcount: '2138'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,32 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2024.
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in maart 2024
+
++++**(Geplande) onderhoudsupdate op 14 maart 2024**
+
+### (Geplande) onderhoudsupdate op 14 maart 2024
+
+#### Integraties
+
+**Documenten die niet zijn gekoppeld bij het maken van een verzoek van[!DNL Outlook]**
+
+Wanneer een gebruiker een aanvraag maakt van [!DNL Outlook], zijn de documenten die bij de e-mail zijn gevoegd, niet bij de aanvraag gevoegd.
+
+#### Proefdrukken
+
+**Op basis van gekoppelde documenten gemaakte proefdrukken hebben geen proefdruksjabloon toegepast**
+
+Wanneer een gebruiker een proef van een verbonden document creeert, wordt het proefdrukmalplaatje niet correct toegepast, en het bewijs kan informatie zoals het werkschema missen.
+
+Dit geldt ook voor proefdrukken die zijn gemaakt via de API en via Workfront Fusion.
+
+#### Gebruikers
+
+**Lagere toegangsniveaus niet beschikbaar wanneer het creëren van een gebruiker**
+
+Wanneer een gebruiker een andere gebruiker maakt, is alleen het toegangsniveau van de eerste gebruiker beschikbaar voor de nieuwe gebruiker. Alle toegangsniveaus met lagere toestemmingen dan die van de het creëren gebruiker zouden beschikbaar moeten zijn om aan de nieuwe gebruiker toe te wijzen.
+
++++
 
 +++**Onderhoudsupdate op 7 maart 2024**
 
