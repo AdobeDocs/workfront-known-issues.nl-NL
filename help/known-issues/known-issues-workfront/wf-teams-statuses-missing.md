@@ -3,9 +3,9 @@ title: "Teams: Issues with setting team statussen for Done button"
 description: "Problemen met de status van de [!UICONTROL Done] wanneer u een team bewerkt of maakt. Er is een oplossing beschikbaar."
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
+source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,9 @@ ht-degree: 0%
 
 # Teams: problemen met het instellen van teamstatussen voor [!UICONTROL Done] knop
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on January 18, 2024.
-
--->
+>Deze kwestie is gesloten omdat het geen kwestie is.
 
 De volgende kwesties zijn gemeld met betrekking tot de status van de [!UICONTROL Done] knop bij het bewerken of maken van een team:
 
