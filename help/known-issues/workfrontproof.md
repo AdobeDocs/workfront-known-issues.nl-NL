@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
+source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Updates: opmerkingen bij het document worden niet weergegeven in updates van het bovenliggende object](known-issues-workfront/wf-updates-document-comments-not-visible.md) | 14 maart 2024 |
 | [Proefdrukken: gezipte proefdrukken worden niet gegenereerd](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 9 januari 2024 |
 
 {style="table-layout:auto"}

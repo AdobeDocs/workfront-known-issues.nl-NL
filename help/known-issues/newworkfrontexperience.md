@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
+source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
 workflow-type: tm+mt
-source-wordcount: '720'
+source-wordcount: '764'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Updates: opmerkingen bij het document worden niet weergegeven in updates van het bovenliggende object](known-issues-workfront/wf-updates-document-comments-not-visible.md) | 14 maart 2024 |
 | [Taken: het creëren van of het dupliceren van taken veroorzaakt takenlijst om in verkeerde orde te tonen](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 26 februari 2024 |
 | [Proofs: GIFFEN worden gerenderd als statische proefdrukken](known-issues-workfront/wf-proofs-gif-static-image.md) | 23 januari 2024 |
 | [Proefdrukken: gezipte proefdrukken worden niet gegenereerd](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 9 januari 2024 |
@@ -37,6 +38,10 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [Proefdrukken: kan geen proefdruk maken van een website](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | 14 maart 2024 |
+| [Zoeken: kan niet bewerken vanuit Zoeken](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 14 maart 2024 |
+| [Updates: Een gebruiker labelen voor ineffectief](known-issues-workfront/wf-updates-not-notified-when-tagged.md) | 14 maart 2024 |
+| [Registratietijd: gebruiker kan tijd voor huidige dag niet registreren](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | 14 maart 2024 |
 | [Boeken: 400 fout bij het toevoegen van een taak aan een board](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | 14 maart 2024 |
 | [Updates: gebruikers van de aanvrager kunnen geen afbeeldingen toevoegen aan updates](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 8 maart 2024 |
 | [Rapporten: wijzigingen die zijn aangebracht in de tekstmodus worden niet toegepast op rapporten of weergaven](known-issues-workfront/wf-reports-text-mode-not-saving.md) | 26 februari 2024 |
