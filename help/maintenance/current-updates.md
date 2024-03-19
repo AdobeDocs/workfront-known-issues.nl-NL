@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
+source-git-commit: 62e129903ba48689aa8acf5d22a52bed2d88ab2a
 workflow-type: tm+mt
-source-wordcount: '2108'
+source-wordcount: '2221'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,26 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2024.
 Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in maart 2024
+
++++**(Geplande) onderhoudsupdate op 21 maart 2024**
+
+### (Geplande) onderhoudsupdate op 21 maart 2024
+
+#### Updates
+
+**Grote spaties tussen lijnen**
+
+Wanneer een gebruiker een update typt met meerdere regels met de toets Return of Enter, of meerdere regels in een update plakt, wordt de update naar behoren weergegeven. Nochtans, als een gebruiker dan die update in een rapport bekijkt, zijn er grote ruimten tussen de lijnen.
+
+Dit is gemeld in de nieuwe ervaringen met opmerkingen.
+
+**Het labelen van een gebruiker met @ is niet effectief**
+
+Wanneer een gebruiker een andere gebruiker met @ in een commentaar etiketteert, wordt de gebruiker niet toegevoegd aan het geëtiketteerde gebruikersgebied, en ontvangt geen bericht over de commentaar.
+
+Deze correctie is alleen van toepassing op de nieuwe opmerkingervaring.
+
++++
 
 +++**Onderhoudsupdate op 14 maart 2024**
 
