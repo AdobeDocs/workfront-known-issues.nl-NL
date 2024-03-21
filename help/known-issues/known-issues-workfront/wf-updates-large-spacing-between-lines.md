@@ -3,15 +3,19 @@ title: "Updates: grote ruimten tussen regels"
 description: "Wanneer een gebruiker een update typt met meerdere regels met de toets Return of Enter, of meerdere regels in een update plakt, wordt de update naar behoren weergegeven. Nochtans, als een gebruiker dan die update in een rapport bekijkt, zijn er grote ruimten tussen de lijnen."
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
+source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
 
 
 # Updates: grote ruimten tussen regels
+
+>[!NOTE]
+>
+>Deze kwestie is vastgesteld op 21 maart 2024.
 
 Wanneer een gebruiker een update typt met meerdere regels met de toets Return of Enter, of meerdere regels in een update plakt, wordt de update naar behoren weergegeven. Nochtans, als een gebruiker dan die update in een rapport bekijkt, zijn er grote ruimten tussen de lijnen.
 

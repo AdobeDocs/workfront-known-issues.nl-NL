@@ -3,15 +3,19 @@ title: "Boards: 400 fout bij het toevoegen van een taak aan een board"
 description: "Wanneer een gebruiker een project bekijkt en probeert om een taak aan een raad toe te voegen, wordt de taak niet toegevoegd, en de gebruiker ziet een fout. Er is een oplossing beschikbaar."
 hidefromtoc: true
 feature: Agile
-source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
+source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
 
 # Boeken: 400 fout bij het toevoegen van een taak aan een board
+
+>[!NOTE]
+>
+>Deze kwestie is op 14 maart 2024 vastgesteld.
 
 Wanneer een gebruiker een project bekijkt en probeert om een taak aan een raad toe te voegen, wordt de taak niet toegevoegd, en de gebruiker ziet de volgende fout:
 
