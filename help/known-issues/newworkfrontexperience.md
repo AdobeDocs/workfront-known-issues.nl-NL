@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
+source-git-commit: 7418ab025de4ececb47309b3112b17ecdbac9d09
 workflow-type: tm+mt
-source-wordcount: '742'
+source-wordcount: '815'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,9 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Gelijk: Kanbankkaarten geven geen aangepaste velden weer](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | 22 maart 2024 |
+| [Taken: knopinfo van vorige werkset geeft geen taaknaam weer](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md) | 22 maart 2024 |
+| [Borden: 400 fout bij het toevoegen van een taak aan een raad van een Kanban-bord](known-issues-workfront/wf-boards-400-when-adding-from-team.md) | 22 maart 2024 |
 | [Taken: het creëren van of het dupliceren van taken veroorzaakt takenlijst om in verkeerde orde te tonen](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 26 februari 2024 |
 | [Proofs: GIFFEN worden gerenderd als statische proefdrukken](known-issues-workfront/wf-proofs-gif-static-image.md) | 23 januari 2024 |
 | [Proefdrukken: gezipte proefdrukken worden niet gegenereerd](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 9 januari 2024 |
@@ -37,6 +40,10 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [Proefdrukken: de proefdrukken blijven op de widget Mijn goedkeuringen](known-issues-workfront/wf-proofs-stuck-on-widget.md) | 22 maart 2024 |
+| [Project: Kan uitgave niet converteren naar project als een webproefdruk is bijgevoegd](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 22 maart 2024 |
+| [Resourcebeheer: discrepantie in begrote uren](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md) | 22 maart 2024 |
+| [Proefdrukken: een eenvoudige proefdruk van de versie van het nieuwe document bevat een workflow uit de vorige versie](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md) | 22 maart 2024 |
 | [Updates: opmerkingen bij het document worden niet weergegeven in updates van het bovenliggende object](known-issues-workfront/wf-updates-document-comments-not-visible.md) | 21 maart 2024 |
 | [Proefdrukken: kan geen proefdruk maken van een website](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | 14 maart 2024 |
 | [Zoeken: kan niet bewerken vanuit Zoeken](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 14 maart 2024 |

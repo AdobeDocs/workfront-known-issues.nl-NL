@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
+source-git-commit: ffd973ea682c5a7a89aa0976f46b9004c8d7be7c
 workflow-type: tm+mt
-source-wordcount: '1640'
+source-wordcount: '1706'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,13 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Gelijk: Kanbankkaarten geven geen aangepaste velden weer](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
+      + [Proefdrukken: de proefdrukken blijven op de widget Mijn goedkeuringen](known-issues-workfront/wf-proofs-stuck-on-widget.md)
+      + [Project: Kan uitgave niet converteren naar project als een webproefdruk is bijgevoegd](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
+      + [Resourcebeheer: discrepantie in begrote uren](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md)
+      + [Proefdrukken: een eenvoudige proefdruk van de versie van het nieuwe document bevat een workflow uit de vorige versie](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md)
+      + [Taken: knopinfo van vorige werkset geeft geen taaknaam weer](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md)
+      + [Borden: 400 fout bij het toevoegen van een taak aan een raad van een Kanban-bord](known-issues-workfront/wf-boards-400-when-adding-from-team.md)
       + [Proefdrukken: kan geen proefdruk maken van een website](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md)
       + [Zoeken: kan niet bewerken vanuit Zoeken](known-issues-workfront/wf-search-cannot-edit-from-search.md)
       + [Updates: Het labelen van een gebruiker is niet effectief](known-issues-workfront/wf-updates-not-notified-when-tagged.md)
