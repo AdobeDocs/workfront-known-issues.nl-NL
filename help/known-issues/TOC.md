@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 1f22f63be60fe561d6a14eaa6d87af70a22f6579
+source-git-commit: ed2e5c9068d18b185218fbde53b738097203c98c
 workflow-type: tm+mt
-source-wordcount: '1640'
+source-wordcount: '1609'
 ht-degree: 0%
 
 ---
@@ -82,7 +82,6 @@ ht-degree: 0%
       + [Rapporten: Rapport over een begroot uur wordt niet per uur bijgewerkt](known-issues-workfront/wf-reports-report-not-updating.md)
       + [Instellen: er ontbreken standaarduitgiftestatussen in bepaalde typen problemen in Setup](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
       + [Kaarten: Kaarten worden niet naar de juiste kolom verplaatst wanneer de status wordt gewijzigd](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
-      + [Home: Mijn projecten en Mijn taken widgets geven slechts 25 items weer](known-issues-workfront/wf-home-widgets-show-25-items.md)
       + [Status: [!UICONTROL Whoops] fout bij verbergen van status](known-issues-workfront/wf-setup-whoops-when-hiding-status.md)
       + [Updates: sommige updates ontbreken in de nieuwe opmerkingervaring](known-issues-workfront/wf-updates-not-visible-in-new-experience.md)
       + [Taken/Problemen: Problemen bij het toevoegen van werkposten in de interneratingweergave van taken of kwesties](known-issues-workfront/wf-tasks-issues-board-view.md)
@@ -95,7 +94,6 @@ ht-degree: 0%
       + [Kaarten: kaart verschijnt op meerdere sproten](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md)
       + [Rapporten: 500 fouten bij het exporteren van een rapport](known-issues-workfront/wf-reports-500-error-when-exporting.md)
       + [Sjablonen: kan geen sjabloon selecteren vanuit [!UICONTROL Favorites] list](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
-      + [[!UICONTROL Home]: Taken worden niet weergegeven in [!UICONTROL My Work] widget](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)
       + [Taken: Taakdatums worden gedurende langere tijd grijs weergegeven wanneer de tijdlijn opnieuw wordt berekend](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
       + [Meldingen: e-mailbericht niet ontvangen wanneer een gebruiker een opmerking heeft toegevoegd](known-issues-workfront/wf-notif-email-not-received.md)
       + [Borden: problemen bij het weergeven van de status van een subtaak](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
@@ -119,15 +117,14 @@ ht-degree: 0%
       + [Proefdrukken: voltooide proefdrukken blijven ingeschakeld [!UICONTROL Awaiting My Approval] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
       + [Rapporten: persoonlijke updates worden weergegeven in velden voor waardeexpressies](known-issues-workfront/wf-reports-expression-displays-private-comment.md)
       + [Werklastbalans: handmatige wijzigingen in uren zijn niet nauwkeurig nadat pagina is vernieuwd](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
-      + [Home: Gedelegeerde taken worden niet gedeeld en komen niet voor in de lijst Home Work](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
       + [Proefdrukken: fout bij het delen van proefdrukken via e-mailkoppeling](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)
       + [Delen: Fout bij delen van object](known-issues-workfront/wf-sharing-user-cannot-share-object.md)
       + [Werklastbalans: gebruiker geeft weer dat de toewijzing te hoog is vanwege een onjuiste capaciteit](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md)
       + [Updates: Opmerkingen die zijn gemaakt in nieuwe ervaringen met opmerkingen zijn niet zichtbaar in een oudere ervaring](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md)
       + [[!UICONTROL Home]: Nieuw [!UICONTROL Home] widgetvoorvertoning geeft de juiste naam van het object niet weer](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
-      + [[!UICONTROL Home]: [!UICONTROL Requests] widget geeft niet alle toegewezen teams weer](known-issues-workfront/wf-home-request-shows-one-team.md)
+      + [[!UICONTROL Home]: [!UICONTROL Requests] widget geeft niet alle toegewezen teams weer](known-issues-workfront/inactive/wf-home-request-shows-one-team.md)
       + [Lay-outsjablonen: Lay-outsjablonen veroorzaken inconsistenties in rapporten](known-issues-workfront/wf-layout-templates-classic.md)
-      + [[!UICONTROL Home]: &quot;[!UICONTROL Mentions]&quot;-widget in nieuw [!UICONTROL Home] is niet beperkt tot berichten waarin de gebruiker een tag heeft](known-issues-workfront/wf-home-mentions-widget-new-home.md)
+      + [[!UICONTROL Home]: &quot;[!UICONTROL Mentions]&quot;-widget in nieuw [!UICONTROL Home] is niet beperkt tot berichten waarin de gebruiker een tag heeft](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL Workload Balancer]: [!UICONTROL Total Hours] komt niet overeen met de som van [!UICONTROL Planned Hours]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
       + [[!UICONTROL Setup]: Kan auditlogs niet exporteren](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
       + [Proefdrukken: proefdrukken worden niet weergegeven in goedgekeurde rapporten](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
@@ -137,7 +134,7 @@ ht-degree: 0%
       + [Rapporten: rapport sorteert niet correct wanneer het sorteren door om het even welk gebied](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
       + [Aangepaste formulieren: &quot;[!UICONTROL Whoops]&quot; fout bij het instellen van een berekend veld](known-issues-workfront/inactive/wf-custom-forms-error-with-calculated-field.md)
       + [Proefdrukken: [!UICONTROL Proof Activity] tab wordt geopend [!UICONTROL Proof Details]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
-      + [Filters: kan geen filter delen uit een rapport op een dashboard](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
+      + [Filters: kan geen filter delen uit een rapport op een dashboard](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md)
       + [Proefdrukken: gereedschap Meten accepteert geen decimale punten](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
       + [Documenten: problemen met de documentlijst](known-issues-workfront/inactive/wf-documents-list-missing-elements.md)
       + [Documenten: 404 fout bij toegang tot document dat is gekoppeld via [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md)
@@ -157,28 +154,28 @@ ht-degree: 0%
       + [API: kan niet sorteren op dynamische velden](known-issues-workfront/inactive/wf-api-cannot-sort-by-dynamic-fields.md)
       + [Problemen: bij linkernavigatie worden &quot;(0)&quot;-problemen weergegeven wanneer er problemen optreden](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
       + [[!UICONTROL Setup]: Lijsten worden langzaam geladen in [!UICONTROL Setup]](known-issues-workfront/wf-setup-lists-load-slowly.md)
-      + [Taken: Uren worden niet opgeslagen bij het invoeren van uren in de taak [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
+      + [Taken: Uren worden niet opgeslagen bij het invoeren van uren in de taak [!UICONTROL Summary panel]](known-issues-workfront/inactive/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [Proefdrukken: [!UICONTROL Active Proof Stages] veld is leeg](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md)
       + [[!DNL Workfront]: Kwesties die een [!DNL Workfront] steungeval op Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md)
       + [Dashboards: rapportgrafieken die in een dashboard worden weergegeven, gebruiken andere kleuren dan bij weergave in het rapport](known-issues-workfront/inactive/wf-dashboard-reports-wrong-color.md)
       + [Agile: Problemen bij het verplaatsen van kaarten op het Klembord](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md)
-      + [Home: Aangepaste terminologie wordt niet toegepast op het gebied Home](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md)
+      + [Home: Aangepaste terminologie wordt niet toegepast op het gebied Home](known-issues-workfront/inactive/wf-home-custom-term-not-applied-to-home.md)
       + [Gereedschap: kan geen velden bewerken van aangepaste formulieren op kaarten](known-issues-workfront/inactive/wf-agile-cannot-edit-fields-custom-cards.md)
       + [Goedkeuringen: voor het onjuiste aantal dagen is een goedkeuringsdelegatie ingesteld](known-issues-workfront/inactive/wf-approval-delegation-incorrect-number-of-days.md)
-      + [[!UICONTROL Home]: [!UICONTROL Home] samenvattingsproblemen bij het gebruik van andere browsers dan [!DNL Chrome]](known-issues-workfront/wf-home-summary-issues-when-not-using-chrome.md)
-      + [[!UICONTROL Home]: Nieuwe taakoptie met gedeactiveerde gebruikers in [!UICONTROL Assign To] field](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md)
+      + [[!UICONTROL Home]: [!UICONTROL Home] samenvattingsproblemen bij het gebruik van andere browsers dan [!DNL Chrome]](known-issues-workfront/inactive/wf-home-summary-issues-when-not-using-chrome.md)
+      + [[!UICONTROL Home]: Nieuwe taakoptie met gedeactiveerde gebruikers in [!UICONTROL Assign To] field](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md)
       + [Updates: teamnaam wordt niet weergegeven in @notify](known-issues-workfront/wf-updates-team-name-not-in-mention.md)
       + [Agile: Discrepantie bij [!UICONTROL Completed Points] voor een herhaling](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md)
       + [E-mailmeldingen: &quot;[!UICONTROL I'm assigned to an issue]&quot; instelling wordt weergegeven](known-issues-workfront/inactive/wf-email-notif-im-assigned-to-issue-displaying.md)
       + [E-mailmeldingen: de gebruiker wordt niet omgeleid naar een commentaarthread](known-issues-workfront/inactive/wf-email-notif-user-not-directed-to-thread.md)
       + [Kalenders: [!DNL OR] filterinstructie exclusief filterregel](known-issues-workfront/inactive/wf-calendars-or-filter-statement.md)
       + [Rapporten: kan rapport niet horizontaal schuiven wanneer het bekijken op dashboard](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md)
-      + [[!UICONTROL Home]: De Naam van het project toont als GUID in [!UICONTROL Work List]](known-issues-workfront/wf-home-project-name-shows-as-guid.md)
+      + [[!UICONTROL Home]: De Naam van het project toont als GUID in [!UICONTROL Work List]](known-issues-workfront/inactive/wf-home-project-name-shows-as-guid.md)
       + [Rapporten: kalenderstandaardinstellingen op oude datums](known-issues-workfront/wf-reports-caledar-defaults-to-old-dates.md)
       + [E-mailmeldingen: e-mailberichten worden niet correct opgemaakt in [!DNL Outlook]](known-issues-workfront/inactive/wf-email-notif-not-formatting-in-outlook.md)
-      + [[!UICONTROL Home]: Kan de documentafbeelding niet weergeven in het dialoogvenster [!UICONTROL Work List]](known-issues-workfront/wf-home-unable-to-view-document-image.md)
+      + [[!UICONTROL Home]: Kan de documentafbeelding niet weergeven in het dialoogvenster [!UICONTROL Work List]](known-issues-workfront/inactive/wf-home-unable-to-view-document-image.md)
       + [Lijsten: de weergavenaam wordt niet toegepast op een aangepaste veldgroep](known-issues-workfront/wf-lists-display-name-not-applied-to-grouping.md)
-      + [[!UICONTROL Home]: De datum van de goedkeuringsdelegatie wordt gewijzigd nadat u twee e-mails hebt vernieuwd en verzonden](known-issues-workfront/wf-home-approval-delegation-dates-changing.md)
+      + [[!UICONTROL Home]: De datum van de goedkeuringsdelegatie wordt gewijzigd nadat u twee e-mails hebt vernieuwd en verzonden](known-issues-workfront/inactive/wf-home-approval-delegation-dates-changing.md)
       + [Kalender: taken worden niet weergegeven](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md)
 
 
