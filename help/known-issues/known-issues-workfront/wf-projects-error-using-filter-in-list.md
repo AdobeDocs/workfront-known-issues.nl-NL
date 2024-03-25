@@ -1,9 +1,10 @@
 ---
-title: "Projecten: fout bij het gebruik van filters in een productlijst"
+title: "Projecten: Fout bij het gebruik van filters in een projectlijst"
 description: "Als een gebruiker een projectlijst bekijkt en een filter toepast, verdwijnt de lijst en de gebruiker ziet een foutenmelding."
 hidefromtoc: true
 feature: Projects
-source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
+exl-id: e7619967-e68a-42ae-a8a9-656446e619a9
+source-git-commit: e5bc1a7458c6a28b1628fdb6602e4afea522cd5a
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -11,7 +12,8 @@ ht-degree: 0%
 ---
 
 
-# Projecten: fout bij het gebruik van filters in een productlijst
+# Projecten: fout bij het gebruik van filters in een projectlijst
+
 
 >[!NOTE]
 >
