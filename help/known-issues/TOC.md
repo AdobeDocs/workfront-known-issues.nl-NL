@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 432e47846b2ac2599ffe4625ab7388465194e48c
+source-git-commit: e28899711b95aea10ef43c45498db7aa73f7a784
 workflow-type: tm+mt
-source-wordcount: '1386'
+source-wordcount: '1394'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Rapporten: het filter Rapport retourneert geen verwachte resultaten](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [Borden: de gebruiker kan geen bord zien wanneer het team van de gebruiker aan boord wordt toegevoegd](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)
       + [Gelijk: Kanbankkaarten geven geen aangepaste velden weer](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
       + [Proefdrukken: de proefdrukken blijven op de widget Mijn goedkeuringen](known-issues-workfront/wf-proofs-stuck-on-widget.md)
