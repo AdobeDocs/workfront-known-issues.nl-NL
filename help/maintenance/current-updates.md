@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
+source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
 workflow-type: tm+mt
-source-wordcount: '2219'
+source-wordcount: '2547'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,70 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2024.
 Voor onderhoudsupdates vóór 2024, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in maart 2024
+
++++**Onderhoudsupdate op 28 maart 2024**
+
+### Onderhoudsupdate op 28 maart 2024
+
+#### Integraties
+
+**Documenten die niet zijn gekoppeld bij het maken van een verzoek van[!DNL Outlook]**
+
+Wanneer een gebruiker een aanvraag maakt van [!DNL Outlook], zijn de documenten die bij de e-mail zijn gevoegd, niet bij de aanvraag gevoegd.
+
+Dit is gemeld voor de volgende typen bijlagen:
+
+XLS PDF
+
+#### Proefdrukken
+
+**Proefdrukken blijven beschikbaar op de widget Mijn goedkeuringen**
+
+Er blijft een bewijs op de widget staan dat uit de widget Mijn goedkeuringen moet verdwijnen. Dit kan gebeuren wanneer meerdere gebruikers tegelijkertijd beslissingen nemen over een bewijs of wanneer één gebruiker een beslissing neemt en deze snel wijzigt.
+
+#### Bronbeheer
+
+**Verschil in begrote uren**
+
+De begrote uren die in een van de volgende gebieden worden weergegeven, komen mogelijk niet overeen met de uren die in een ander van deze gebieden worden weergegeven:
+
+* Bedrijfs-case
+* Rapporten
+* Hulpprogramma voor het budgetteren van bronnen
+
+#### Taken
+
+**De voorganger-knopinfo geeft geen taaknaam weer**
+
+Wanneer een gebruiker een takenlijst bekijkt en de muis boven een voorgangerpictogram houdt voor meer informatie, wordt in de knopinfo die wordt weergegeven, niet de naam van de voorgangertaak weergegeven.
+
+#### Updates
+
+**Opmerkingen bij het document worden niet weergegeven in updates van het bovenliggende object**
+
+Wanneer een gebruiker een opmerking maakt over een document, wordt die opmerking niet direct weergegeven in het gedeelte Updates van het bovenliggende object van het document.
+
+Dit probleem is gemeld in de nieuwe ervaringen met opmerkingen. Opmerkingen worden weergegeven in de oudere opmerkingervaring zoals u had verwacht.
+
+**Het labelen van een gebruiker is niet effectief**
+
+Wanneer een gebruiker in een opmerking is gelabeld, is die opmerking niet zichtbaar voor de gelabelde gebruiker. De gelabelde gebruiker wordt ook niet via e-mail of via een bericht in de app op de hoogte gesteld van de opmerking.
+
+Dit is gemeld in de oudere ervaringen met opmerkingen.
+
++++
+
++++**Workfront Fusion Maintenance Update op 28 maart 2024**
+
+### Workfront Fusion Maintenance Update op 28 maart 2024
+
+**RuntimeError met 200 reactie van Workfront module**
+
+Een Workfront-module kan een `RuntimeError [200]` reactie. De 200 impliceert een succesvol antwoord, maar de fout toont aan dat het verzoek niet succesvol was.
+
+Dit kan voorkomen als de respons extreem lang is. De gegevens worden geretourneerd aan Fusion, maar kunnen niet door Fusion worden verwerkt.
+
++++
 
 +++**Onderhoudsupdate op 21 maart 2024**
 

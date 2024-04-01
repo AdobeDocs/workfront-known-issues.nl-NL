@@ -3,15 +3,19 @@ title: "Updates: opmerkingen bij het document worden niet weergegeven in updates
 description: "Wanneer een gebruiker een opmerking maakt over een document, wordt die opmerking niet meteen weergegeven in het gedeelte Updates van het bovenliggende object van het document."
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
+source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
 
 # Updates: opmerkingen bij het document worden niet weergegeven in updates van het bovenliggende object
+
+>[!NOTE]
+>
+>Deze kwestie is op 28 maart 2024 vastgesteld.
 
 <!--WF, WFP-->
 

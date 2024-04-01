@@ -1,23 +1,27 @@
 ---
-title: "Proofs: proefdrukken die zijn gemaakt van gekoppelde documenten, hebben geen proefdruksjabloon toegepast"
-description: "Wanneer een gebruiker een proef van een verbonden document creeert, wordt het proefdrukmalplaatje niet correct toegepast, en het bewijs kan informatie zoals het werkschema missen."
+title: 'Proofs: op basis van gekoppelde documenten gemaakte proefdrukken hebben geen proefsjabloon toegepast'
+description: Wanneer een gebruiker een proef van een verbonden document creeert, wordt het proefdrukmalplaatje niet correct toegepast, en het bewijs kan informatie zoals het werkschema missen.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
+exl-id: 62554ced-5262-45d0-9c6b-54eb3689b9dd
+source-git-commit: 65490f20efd723dfbb0492b57456c21c727848e5
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
-
 
 # Proefdrukken: proefdrukken die zijn gemaakt op basis van gekoppelde documenten, hebben geen proefdruksjabloon toegepast
 
 <!--On WF, WFF, WFP TOCs-->
 
+<!--
+
 >[!NOTE]
 >
->Deze kwestie is op 14 maart 2024 vastgesteld.
+>This issue was fixed on March 14, 2024.
+
+-->
 
 Wanneer een gebruiker een proef van een verbonden document creeert, wordt het proefdrukmalplaatje niet correct toegepast, en het bewijs kan informatie zoals het werkschema missen.
 
