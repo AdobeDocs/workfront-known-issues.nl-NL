@@ -3,7 +3,7 @@ title: "Updates: de voorvertoning van de afbeelding in updates is wazig"
 description: "Wanneer een gebruiker updates bekijkt en op het vergrootglas op een afbeelding klikt om een voorvertoning van de afbeelding weer te geven, is de voorvertoning die wordt geopend zeer vaag met pixels."
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: fade8ee6637e6cfc49f6d13fb675c91cf527fa30
+source-git-commit: 7edd83bf3f905690b25b4d66ea40455324660b55
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -18,3 +18,4 @@ Wanneer een gebruiker updates bekijkt en op het vergrootglas op een afbeelding k
 Als de gebruiker de afbeelding downloadt, wordt de afbeelding met de verwachte resolutie weergegeven.
 
 _Voor het eerst gerapporteerd op 27 maart 2024._
+
