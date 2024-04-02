@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
+source-git-commit: 735095abc95d64e8737c2ffa5aabdd4922be1e1b
 workflow-type: tm+mt
-source-wordcount: '2547'
+source-wordcount: '2639'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,32 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2024.
 >Deze updates bevatten ook andere kleine of minder duidelijke foutoplossingen. [!DNL Workfront] Ondersteuning geeft een melding wanneer een probleem dat u hebt verzonden, is opgelost.
 
 Voor onderhoudsupdates vóór 2024, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
+
+## Updates in april 2024
+
++++**(Geplande) onderhoudsupdate op 4 april 2024**
+
+### (Geplande) onderhoudsupdate op 4 april 2024
+
+#### Registratietijd
+
+**Gebruiker kan geen tijd voor huidige dag aanmelden**
+
+Wanneer een gebruiker probeert om tijd in het gebied van Updates te registreren, is de huidige dag grayed uit, en de gebruiker kan geen tijd voor de huidige dag registreren.
+
+#### Updates
+
+<!--no article-->
+
+**Fout bij weergeven van opmerkingen**
+
+Wanneer een gebruiker opmerkingen probeert weer te geven in de nieuwe opmerkingervaring, kunnen de opmerkingen niet worden weergegeven. In plaats daarvan wordt de volgende fout weergegeven:
+
+&quot;Er ging iets mis. Probeer het later opnieuw.&quot;
+
+De oudere ervaring met opmerkingen werkt zoals u had verwacht.
+
++++
 
 ## Updates in maart 2024
 
