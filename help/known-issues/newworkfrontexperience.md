@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e28899711b95aea10ef43c45498db7aa73f7a784
+source-git-commit: fade8ee6637e6cfc49f6d13fb675c91cf527fa30
 workflow-type: tm+mt
-source-wordcount: '742'
+source-wordcount: '751'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [Updates: Voorvertoning van afbeelding in updates is wazig](known-issues-workfront/wf-updates-images-blurred.md) | 2 april 2024 |
 | [Gelijk: Kanbankkaarten geven geen aangepaste velden weer](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | 28 maart 2024 |
 | [Project: Kan uitgave niet converteren naar project als een webproefdruk is bijgevoegd](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 22 maart 2024 |
 | [Proefdrukken: kan geen proefdruk maken van een website](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | 14 maart 2024 |
