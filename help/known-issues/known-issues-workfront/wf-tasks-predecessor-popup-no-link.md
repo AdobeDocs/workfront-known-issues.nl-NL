@@ -3,7 +3,7 @@ title: "Taken: voorgangersinformatie bevat geen koppeling"
 description: "Wanneer een gebruiker over een voorganger beweegt om meer informatie over het te zien, omvat die informatie geen verbinding aan de voorgangertaak."
 hidefromtoc: true
 feature: Tasks
-source-git-commit: f7cc59883c8d45aa8a59e7c4b48f85ce64054c82
+source-git-commit: ba35f0961af20753c8b902a46d47dbe45ad3262b
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%
@@ -16,3 +16,4 @@ ht-degree: 0%
 Wanneer een gebruiker over een voorganger beweegt om meer informatie over het te zien, omvat die informatie geen verbinding aan de voorgangerstaak.
 
 _Voor het eerst gerapporteerd op 22 maart 2024._
+
