@@ -1,17 +1,21 @@
 ---
-title: "Proofs: kan geen bewijs genereren van een website"
-description: "Wanneer een gebruiker een proef probeert te produceren van een website, produceert de proef niet."
+title: 'Proofs: kan geen bewijs genereren van een website'
+description: Wanneer een gebruiker een proef probeert te produceren van een website, produceert de proef niet.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
+exl-id: 87cff8d9-a727-45df-9c6c-acdde4202ed8
+source-git-commit: 50f79121e0b027c3f0283cd43d19c885dde8268b
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-
 # Proefdrukken: kan geen proefdruk maken van een website
+
+>[!NOTE]
+>
+>Deze kwestie is vastgesteld op 21 maart 2024.
 
 Wanneer een gebruiker een proef probeert te produceren van een website, produceert de proef niet.
 
