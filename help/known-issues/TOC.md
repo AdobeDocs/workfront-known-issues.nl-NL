@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: fade8ee6637e6cfc49f6d13fb675c91cf527fa30
+source-git-commit: 023b8ed4fe38b3c43c3d78c2ba5c11e965a5c5d0
 workflow-type: tm+mt
-source-wordcount: '1402'
+source-wordcount: '1474'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,16 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Updates: &quot;[!UICONTROL We're unable to post your comment]&quot; bericht wanneer wordt beantwoord](known-issues-workfront/wf-updates-were-unable-to-post.md)
+      + [Updates: opmerkingen worden niet weergegeven &quot;[!UICONTROL on behalf of]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md)
+      + [Kalenders: Fout bij vernieuwen van kalender](known-issues-workfront/wf-calendar-error-when-refresh.md)
+      + [Updates: tekst blijft niet behouden wanneer u weg en terug navigeert om opmerkingen toe te voegen](known-issues-workfront/wf-updates-text-missing-after-mention.md)
+      + [Taken: Bizcontext-fout bij het toevoegen of verwijderen van een taak](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
+      + [Taken: voorganger-informatie bevat geen koppeling](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md)
+      + [Workfront Proof: E-handtekeningen werken niet](known-issues-workfront-proof/proof-esignatures-not-working.md)
+      + [Lay-outsjabloon: bestemmingspagina is onjuist](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
+      + [Registratietijd: kan de uren voor taken of problemen niet bewerken](known-issues-workfront/wf-logging-time-cannot-edit-hours.md)
+      + [Aangepaste formulieren: externe opzoekvelden leveren geen resultaten op](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md)
       + [Updates: Voorvertoning van afbeelding in updates is wazig](known-issues-workfront/wf-updates-images-blurred.md)
       + [Rapporten: het filter Rapport retourneert geen verwachte resultaten](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [Borden: de gebruiker kan geen bord zien wanneer het team van de gebruiker aan boord wordt toegevoegd](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)
