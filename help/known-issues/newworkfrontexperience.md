@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: fade8ee6637e6cfc49f6d13fb675c91cf527fa30
+source-git-commit: 01a30a5a94fa733b24bf78fc425f72ac92f5aeea
 workflow-type: tm+mt
-source-wordcount: '751'
+source-wordcount: '741'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | [Project: Kan uitgave niet converteren naar project als een webproefdruk is bijgevoegd](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 22 maart 2024 |
 | [Proefdrukken: kan geen proefdruk maken van een website](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | 14 maart 2024 |
 | [Zoeken: kan niet bewerken vanuit Zoeken](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 14 maart 2024 |
-| [Registratietijd: gebruiker kan tijd voor huidige dag niet registreren](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | 14 maart 2024 |
 | [Updates: gebruikers van de aanvrager kunnen geen afbeeldingen toevoegen aan updates](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 8 maart 2024 |
 | [Boeken: de totalen van de controlelijst zijn niet nauwkeurig](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 23 februari 2024 |
 | [Borden: Problemen met dubbele kaarten](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 22 februari 2024 |

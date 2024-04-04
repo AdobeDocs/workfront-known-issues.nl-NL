@@ -4,7 +4,7 @@ description: Wanneer een gebruiker een verzoek van Vooruitzichten creeert, zijn 
 hidefromtoc: true
 feature: Workfront Integrations and Apps
 exl-id: 2b09df99-7ba0-4e08-a3c7-a472e12c5970
-source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
+source-git-commit: 01a30a5a94fa733b24bf78fc425f72ac92f5aeea
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Deze kwestie is op 28 maart 2024 vastgesteld.
+>Dit probleem is op 4 april 2024 opgelost.
 
 Wanneer een gebruiker een aanvraag maakt van [!DNL Outlook], zijn de documenten die bij de e-mail zijn gevoegd, niet bij de aanvraag gevoegd.
 

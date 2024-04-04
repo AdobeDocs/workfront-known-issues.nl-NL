@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 735095abc95d64e8737c2ffa5aabdd4922be1e1b
+source-git-commit: fda4921dbfc56b7a58e8cb783af2ebaceb38db9e
 workflow-type: tm+mt
-source-wordcount: '2639'
+source-wordcount: '2676'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,19 @@ Voor onderhoudsupdates vóór 2024, zie [Vorige onderhoudsupdates](#previous-mai
 
 ## Updates in april 2024
 
-+++**(Geplande) onderhoudsupdate op 4 april 2024**
++++**Onderhoudsupdate op 4 april 2024**
 
-### (Geplande) onderhoudsupdate op 4 april 2024
+### Onderhoudsupdate op 4 april 2024
+
+#### Integraties
+
+**Documenten die niet zijn gekoppeld bij het maken van een verzoek van[!DNL Outlook]**
+
+Wanneer een gebruiker een aanvraag maakt van [!DNL Outlook], zijn de documenten die bij de e-mail zijn gevoegd, niet bij de aanvraag gevoegd.
+
+Dit is gemeld voor de volgende typen bijlagen:
+
+XLS PDF
 
 #### Registratietijd
 
