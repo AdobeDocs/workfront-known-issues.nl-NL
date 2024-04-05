@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f7cc59883c8d45aa8a59e7c4b48f85ce64054c82
+source-git-commit: 1f516bdbea40c2946dec1935b7ada63b28b3451c
 workflow-type: tm+mt
-source-wordcount: '773'
+source-wordcount: '781'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [Rapporten: 500 fouten bij het exporteren van een rapport](known-issues-workfront/wf-reports-500-error-exporting.md) | 5 april 2024 |
 | [Updates: opmerkingen worden niet weergegeven &quot;[!UICONTROL on behalf of]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | 4 april 2024 |
 | [Kalenders: Fout bij vernieuwen van kalender](known-issues-workfront/wf-calendar-error-when-refresh.md) | 4 april 2024 |
 | [Updates: tekst blijft niet behouden wanneer u weg en terug navigeert om opmerkingen toe te voegen](known-issues-workfront/wf-updates-text-missing-after-mention.md) | 4 april 2024 |
