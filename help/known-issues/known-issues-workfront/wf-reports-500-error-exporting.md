@@ -1,17 +1,21 @@
 ---
-title: "Rapporten: 500 fout bij het exporteren van een rapport"
-description: "Wanneer een gebruiker probeert om een rapport uit te voeren, voert het rapport niet uit, en de gebruiker ziet een fout. Er is een oplossing beschikbaar."
+title: 'Rapporten: 500 fouten bij het exporteren van een rapport'
+description: Wanneer een gebruiker probeert om een rapport uit te voeren, voert het rapport niet uit, en de gebruiker ziet een fout. Er is een tijdelijke oplossing beschikbaar.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 0dbb29f11088b5c963f7972f3ec9e64ee55d6263
+exl-id: 5ebdf00e-122b-4646-b9d8-8775d6e7c1cf
+source-git-commit: cebbfd27b0d07c77706a609e38935f01d9727404
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
-
 # Rapporten: 500 fouten bij het exporteren van een rapport
+
+>[!NOTE]
+>
+>Dit probleem is op 5 april 2024 opgelost.
 
 Wanneer een gebruiker probeert om een rapport uit te voeren, voert het rapport niet uit, en de gebruiker ziet de volgende fout:
 
@@ -24,4 +28,3 @@ Dit komt voor wanneer het rapport verwijzingen een project-niveau gebied van de 
 Verwijder de kolom die verwijzingen het gebied van de douanemunt en voer opnieuw het rapport uit.
 
 _Voor het eerst gerapporteerd op 4 april 2024._
-

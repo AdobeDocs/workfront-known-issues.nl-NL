@@ -1,15 +1,15 @@
 ---
-title: "Proofs: het bewijs verhindert omzetting van taak of kwestie in project"
-description: "Wanneer een gebruiker een taak of kwestie probeert om te zetten die een Web geproduceerde proef in een project omvat, wordt het project niet gecreeerd en de gebruiker ziet een bericht. Er is een oplossing beschikbaar."
+title: "Proefdrukken: bewijs voorkomt conversie van taak of afgifte naar project"
+description: Wanneer een gebruiker een taak of kwestie probeert om te zetten die een Web geproduceerde proef in een project omvat, wordt het project niet gecreeerd en de gebruiker ziet een bericht. Er is een tijdelijke oplossing beschikbaar.
 hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management
-source-git-commit: b761e7feeba027348224e5d0e996fb65bd8cdecc
+exl-id: 0022db1d-7ad3-4229-96a8-fb3823e89d9f
+source-git-commit: 170d07d1223b1077e904ea848eeb894b120a974a
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
-
 
 # Proefdrukken: proefdrukken voorkomt conversie van taak of uitgave naar project
 
@@ -17,7 +17,7 @@ Wanneer een gebruiker een taak of kwestie probeert om te zetten die een Web gepr
 
 &quot;[!UICONTROL There was a problem copying the file] xxxxstrong>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\/strong>. [!UICONTROL Please remove the file or contact support and try again.]&quot;
 
-**Workaround**
+**Workaround** s
 
 Voer de volgende procedure uit:
 

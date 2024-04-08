@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8d9d463f5b6974dbbba95b7d8457760cbdfeb13e
+source-git-commit: cebbfd27b0d07c77706a609e38935f01d9727404
 workflow-type: tm+mt
-source-wordcount: '792'
+source-wordcount: '777'
 ht-degree: 0%
 
 ---
@@ -39,13 +39,11 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
 | [Proefdrukken: proefdrukken voorkomt conversie van taak of uitgave naar project](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 5 april 2024 |
-| [Rapporten: 500 fouten bij het exporteren van een rapport](known-issues-workfront/wf-reports-500-error-exporting.md) | 5 april 2024 |
 | [Updates: opmerkingen worden niet weergegeven &quot;[!UICONTROL on behalf of]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | 4 april 2024 |
 | [Kalenders: Fout bij vernieuwen van kalender](known-issues-workfront/wf-calendar-error-when-refresh.md) | 4 april 2024 |
 | [Updates: tekst blijft niet behouden wanneer u weg en terug navigeert om opmerkingen toe te voegen](known-issues-workfront/wf-updates-text-missing-after-mention.md) | 4 april 2024 |
 | [Taken: Bizcontext-fout bij het toevoegen of verwijderen van een taak](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 4 april 2024 |
 | [Taken: voorganger-informatie bevat geen koppeling](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | 4 april 2024 |
-| [Workfront Proof: E-handtekeningen werken niet](known-issues-workfront-proof/proof-esignatures-not-working.md) | 4 april 2024 |
 | [Updates: &quot;[!UICONTROL We're unable to post your comment]&quot; bericht wanneer wordt beantwoord](known-issues-workfront/wf-updates-were-unable-to-post.md) | 4 april 2024 |
 | [Registratietijd: kan de uren voor taken of problemen niet bewerken](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | 4 april 2024 |
 | [Aangepaste formulieren: externe opzoekvelden leveren geen resultaten op](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | 4 april 2024 |
