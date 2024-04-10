@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: cebbfd27b0d07c77706a609e38935f01d9727404
+source-git-commit: 5640fd3a3f03a81104886baeeb37b01abb66fd9a
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '788'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [Verzoeken: het berekende veld wordt niet bijgewerkt wanneer de aanvraag wordt ingevuld](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | 9 april 2024 |
 | [Proefdrukken: proefdrukken voorkomt conversie van taak of uitgave naar project](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 5 april 2024 |
 | [Updates: opmerkingen worden niet weergegeven &quot;[!UICONTROL on behalf of]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | 4 april 2024 |
 | [Kalenders: Fout bij vernieuwen van kalender](known-issues-workfront/wf-calendar-error-when-refresh.md) | 4 april 2024 |
