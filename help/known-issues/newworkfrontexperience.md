@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f39204000f2b83aee0bb7b6347f65b5b508ad9df
+source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '760'
 ht-degree: 0%
 
 ---
@@ -44,14 +44,11 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | [Updates: tekst blijft niet behouden wanneer u weg en terug navigeert om opmerkingen toe te voegen](known-issues-workfront/wf-updates-text-missing-after-mention.md) | 4 april 2024 |
 | [Taken: Bizcontext-fout bij het toevoegen of verwijderen van een taak](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 4 april 2024 |
 | [Taken: voorganger-informatie bevat geen koppeling](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | 4 april 2024 |
-| [Updates: &quot;[!UICONTROL We're unable to post your comment]&quot; bericht wanneer wordt beantwoord](known-issues-workfront/wf-updates-were-unable-to-post.md) | 4 april 2024 |
 | [Registratietijd: kan de uren voor taken of problemen niet bewerken](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | 4 april 2024 |
 | [Aangepaste formulieren: externe opzoekvelden leveren geen resultaten op](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | 4 april 2024 |
-| [Updates: Voorvertoning van afbeelding in updates is wazig](known-issues-workfront/wf-updates-images-blurred.md) | 2 april 2024 |
 | [Gelijk: Kanbankkaarten geven geen aangepaste velden weer](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | 28 maart 2024 |
 | [Project: Kan uitgave niet converteren naar project als een webproefdruk is bijgevoegd](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 22 maart 2024 |
-| [Zoeken: kan niet bewerken vanuit Zoeken](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 14 maart 2024 |
-| [Updates: gebruikers van de aanvrager kunnen geen afbeeldingen toevoegen aan updates](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 8 maart 2024 |
+| [Updates: gebruikers van aanvragers kunnen geen afbeeldingen toevoegen aan updates](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 8 maart 2024 |
 | [Boeken: de totalen van de controlelijst zijn niet nauwkeurig](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 23 februari 2024 |
 | [Borden: Problemen met dubbele kaarten](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 22 februari 2024 |
 | [Borden: Kaart omvat geen subtaken](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 16 februari 2024 |

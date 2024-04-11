@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: cc9c9acc9d4ce6543f827e1c8d08a64775e32ecc
+source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
 workflow-type: tm+mt
-source-wordcount: '2787'
+source-wordcount: '2898'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,32 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2024.
 Voor onderhoudsupdates vóór 2024, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in april 2024
+
++++**Onderhoudsupdate op 11 april 2024**
+
+### Onderhoudsupdate op 11 april 2024
+
+#### Zoeken
+
+**Kan niet bewerken vanuit Zoeken**
+
+Wanneer een gebruiker Geavanceerd zoeken gebruikt en probeert de zoekresultaten te bewerken of bulksgewijs te bewerken, reageert het pictogram Bewerken niet.
+
+#### Updates
+
+**Voorvertoning van afbeelding in updates is wazig**
+
+Wanneer een gebruiker updates bekijkt en op het vergrootglas op een afbeelding klikt om een voorvertoning van de afbeelding weer te geven, is de voorvertoning die wordt geopend zeer vaag met pixels.
+
+Als de gebruiker de afbeelding downloadt, wordt de afbeelding met de verwachte resolutie weergegeven.
+
+**&quot;[!UICONTROL We're unable to post your comment]&quot; bericht wanneer wordt beantwoord**
+
+Wanneer een gebruiker probeert te reageren op een bericht in de nieuwe opmerkingervaring, wordt het antwoord niet opgeslagen en ziet de gebruiker het volgende bericht:
+
+&quot;[!UICONTROL We're unable to post your comment right now. Please wait a moment then try again.]&quot;
+
++++
 
 +++**Onderhoudsupdate op 4 april 2024**
 
