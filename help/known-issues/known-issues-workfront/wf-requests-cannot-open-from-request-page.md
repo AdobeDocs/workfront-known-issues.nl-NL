@@ -3,7 +3,7 @@ title: "Aanvragen: Fout bij openen van concept"
 description: "Wanneer een gebruiker een nieuw verzoek creeert, en er zijn concepten met betrekking tot die verzoekrij getoond, opent het klikken om een ontwerp te openen niet het ontwerp, en de gebruiker ziet een fout. Er is een oplossing beschikbaar."
 hidefromtoc: true
 feature: Requests
-source-git-commit: 0b418e51614c912db17289ee82bcc916e0e0b3e8
+source-git-commit: b4044295683aea1d550ad7de2606086e1d89d929
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -22,3 +22,4 @@ Wanneer een gebruiker een nieuwe aanvraag maakt en er concepten met betrekking t
 Open het concept in het gedeelte Concepten links in de navigatie.
 
 _Eerste verslag op 2 april 2024._
+
