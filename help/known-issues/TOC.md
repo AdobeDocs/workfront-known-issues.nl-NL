@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0b418e51614c912db17289ee82bcc916e0e0b3e8
+source-git-commit: 72527be73ba4948e8ddb6da61cc61575766d9ee0
 workflow-type: tm+mt
-source-wordcount: '1521'
+source-wordcount: '1542'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Updates: genummerde lijsten zijn niet correct genummerd](known-issues-workfront/wf-updates-not-numbering-correctly.md)
+      + [Proefdrukken: proefdrukken die zijn gemaakt op basis van integratiemiddelen hebben geen sjablonen en workflows die correct zijn toegepast](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
       + [Aanvragen: Fout bij openen van concept](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
       + [Lijsten: in de lijst worden niet alle items weergegeven](known-issues-workfront/wf-lists-does-not-display-all.md)
       + [Teams: kan teameigenaar niet weergeven of team verwijderen](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
