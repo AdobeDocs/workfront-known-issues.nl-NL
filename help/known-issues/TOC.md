@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 72527be73ba4948e8ddb6da61cc61575766d9ee0
+source-git-commit: 60e9862aba0f65c1cef053823d3778d3c925c23e
 workflow-type: tm+mt
-source-wordcount: '1542'
+source-wordcount: '1553'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Updates: opmerkingen die via de API zijn gemaakt, zijn niet zichtbaar in de Sandbox-omgeving](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
       + [Updates: genummerde lijsten zijn niet correct genummerd](known-issues-workfront/wf-updates-not-numbering-correctly.md)
       + [Proefdrukken: proefdrukken die zijn gemaakt op basis van integratiemiddelen hebben geen sjablonen en workflows die correct zijn toegepast](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
       + [Aanvragen: Fout bij openen van concept](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
