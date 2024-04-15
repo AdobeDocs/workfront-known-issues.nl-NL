@@ -3,7 +3,7 @@ title: "Proofs: proefdrukken die zijn gemaakt op basis van integratiemiddelen he
 description: ""
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 9ba06d760825cca476e2384bd68c284c52217e0d
+source-git-commit: 770c89523348785ad9cbdef87ddf6ac75a7d001a
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
@@ -22,3 +22,4 @@ De volgende elementen zijn als onjuist gerapporteerd in gemaakte proefdrukken:
 * E-mailberichten (niet verzonden)
 
 _Eerste verslag op 28 februari 2024._
+
