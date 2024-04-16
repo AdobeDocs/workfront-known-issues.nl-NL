@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
+source-git-commit: 2656fd578ee38e6dcdd9e8de9e83f5472656bf78
 workflow-type: tm+mt
-source-wordcount: '2898'
+source-wordcount: '3119'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,40 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2024.
 Voor onderhoudsupdates vóór 2024, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in april 2024
+
++++**Onderhoudsupdate op 18 april 2024**
+
+### Onderhoudsupdate op 18 april 2024
+
+#### Agile
+
+**Kanbankkaarten geven geen aangepaste velden weer**
+
+Wanneer een gebruiker een Kanban-bord weergeeft dat is geconfigureerd om aangepaste velden op te nemen, worden deze aangepaste velden mogelijk niet weergegeven.
+
+#### Kalenders
+
+**Fout bij vernieuwen van kalender**
+
+Wanneer een gebruiker een kalender weergeeft en de pagina vernieuwt, wordt een foutbericht met de naam &#39;Oeps&#39; weergegeven. De gegevens in de kalender worden weergegeven zoals u had verwacht, maar worden mogelijk verborgen door het foutbericht.
+
+#### Aangepaste formulieren
+
+**Externe opzoekvelden leveren geen resultaten op**
+
+Als een extern opzoekveld verwijst naar een veld met meerdere selecties waarin slechts één waarde is geselecteerd, wordt de waarde niet geretourneerd in het veld.
+
+Als een extern opzoekveld bijvoorbeeld verwijst naar een veld met meerdere selecties waarin zowel de waarde &quot;rood&quot; als &quot;blauw&quot; is geselecteerd, functioneert het veld naar behoren. Als in het veld alleen &quot;rood&quot; is geselecteerd, retourneert het externe opzoekveld geen waarde.
+
+#### Projecten
+
+**Kan uitgave niet converteren naar project als een webproefdruk is bijgevoegd**
+
+Wanneer een uitgave een Webproef in bijlage (een proef URL gebruikend een verbinding van een externe documentleverancier zoals SharePoint) heeft, en een gebruiker probeert om die kwestie in een project om te zetten, ontbreekt de omzetting en het project wordt niet gecreeerd. De gebruiker ziet de volgende fout:
+
+&quot;Er was een probleem het kopiëren van het dossier (Dossier GUID). Verwijder het bestand of neem contact op met de ondersteuningsafdeling en probeer het opnieuw.&quot;
+
++++
 
 +++**Onderhoudsupdate op 11 april 2024**
 
