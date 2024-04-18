@@ -3,7 +3,7 @@ title: "Updates: koppeling in opmerking gaat naar leeg scherm"
 description: "Wanneer een gebruiker op een verbinding klikt die in een commentaar is, leidt de verbinding de gebruiker aan een leeg scherm. Er is een oplossing beschikbaar."
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: c259defda8e2774fa584155047ff115904e82556
+source-git-commit: 38057e2464aa980e2c315a5ebb4b114fab529ced
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
@@ -20,4 +20,5 @@ Wanneer een gebruiker op een verbinding klikt die in een commentaar is, leidt de
 Kopieer de koppeling en plak deze in de URL-balk van een aparte pagina.
 
 _Voor het eerst gemeld op 18 april 2024._
+
 
