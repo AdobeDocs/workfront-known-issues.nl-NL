@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 60e9862aba0f65c1cef053823d3778d3c925c23e
+source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
 workflow-type: tm+mt
-source-wordcount: '811'
+source-wordcount: '785'
 ht-degree: 0%
 
 ---
@@ -38,23 +38,22 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [Verzoeken: kan pad voor aanvraagwachtrij niet delen](known-issues-workfront/wf-requests-cannot-share-path.md) | 18 april 2024 |
+| [Gebruikers: kan gebruikers niet verwijderen](known-issues-workfront/wf-users-unable-to-delete-users.md) | 18 april 2024 |
+| [Updates: &quot;[!UICONTROL We're unable to post your comment]&quot; bericht wanneer wordt beantwoord](known-issues-workfront/wf-updates-were-unable-to-post.md) | 18 april 2024 |
+| [Updates: Voorvertoning van afbeelding in updates is wazig](known-issues-workfront/wf-updates-images-blurred.md) | 18 april 2024 |
+| [Boeken: de totalen van de controlelijst zijn niet nauwkeurig](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 18 april 2024 |
 | [Updates: genummerde lijsten zijn niet correct genummerd](known-issues-workfront/wf-updates-not-numbering-correctly.md) | 15 april 2024 |
-| [Proefdrukken: proefdrukken die zijn gemaakt op basis van integratiemiddelen hebben geen sjablonen en workflows die correct zijn toegepast](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md) | 15 april 2024 |
 | [Aanvragen: Fout bij openen van concept](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | 12 april 2024 |
 | [Lijsten: in de lijst worden niet alle items weergegeven](known-issues-workfront/wf-lists-does-not-display-all.md) | 12 april 2024 |
-| [Workfront Proof: E-handtekeningen werken niet](known-issues-workfront-proof/proof-esignatures-not-working.md) | 12 april 2024 |
 | [Teams: kan teameigenaar niet weergeven of team verwijderen](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 april 2024 |
 | [Verzoeken: het berekende veld wordt niet bijgewerkt wanneer de aanvraag wordt ingevuld](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | 9 april 2024 |
 | [Proefdrukken: proefdrukken voorkomt conversie van taak of uitgave naar project](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 5 april 2024 |
 | [Updates: opmerkingen worden niet weergegeven &quot;[!UICONTROL on behalf of]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | 4 april 2024 |
-| [Kalenders: Fout bij vernieuwen van kalender](known-issues-workfront/wf-calendar-error-when-refresh.md) | 4 april 2024 |
 | [Updates: tekst blijft niet behouden wanneer u weg en terug navigeert om opmerkingen toe te voegen](known-issues-workfront/wf-updates-text-missing-after-mention.md) | 4 april 2024 |
 | [Taken: Bizcontext-fout bij het toevoegen of verwijderen van een taak](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 4 april 2024 |
 | [Taken: voorganger-informatie bevat geen koppeling](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | 4 april 2024 |
 | [Registratietijd: kan de uren voor taken of problemen niet bewerken](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | 4 april 2024 |
-| [Aangepaste formulieren: externe opzoekvelden leveren geen resultaten op](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | 4 april 2024 |
-| [Gelijk: Kanbankkaarten geven geen aangepaste velden weer](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | 28 maart 2024 |
-| [Project: Kan uitgave niet converteren naar project als een webproefdruk is bijgevoegd](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 22 maart 2024 |
 | [Updates: gebruikers van aanvragers kunnen geen afbeeldingen toevoegen aan updates](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 8 maart 2024 |
 | [Borden: Problemen met dubbele kaarten](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 22 februari 2024 |
 | [Nieuw [!UICONTROL Home]: Standaardwaarden voor widgetfilter en -groepering volgen niet de lay-outsjabloon](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 4 januari 2024 |

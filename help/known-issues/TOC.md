@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 60e9862aba0f65c1cef053823d3778d3c925c23e
+source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
 workflow-type: tm+mt
-source-wordcount: '1553'
+source-wordcount: '1563'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Verzoeken: kan pad voor aanvraagwachtrij niet delen](known-issues-workfront/wf-requests-cannot-share-path.md)
+      + [Gebruikers: kan gebruikers niet verwijderen](known-issues-workfront/wf-users-unable-to-delete-users.md)
       + [Updates: opmerkingen die via de API zijn gemaakt, zijn niet zichtbaar in de Sandbox-omgeving](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
       + [Updates: genummerde lijsten zijn niet correct genummerd](known-issues-workfront/wf-updates-not-numbering-correctly.md)
       + [Proefdrukken: proefdrukken die zijn gemaakt op basis van integratiemiddelen hebben geen sjablonen en workflows die correct zijn toegepast](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)

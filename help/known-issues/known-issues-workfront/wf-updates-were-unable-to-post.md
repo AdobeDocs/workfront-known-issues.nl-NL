@@ -3,9 +3,9 @@ title: "Updates: We kunnen uw opmerkingsbericht niet verzenden wanneer we het be
 description: "Wanneer een gebruiker probeert te reageren op een bericht in de nieuwe opmerkingervaring, wordt het antwoord niet opgeslagen en ziet de gebruiker een bericht."
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
+source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,13 @@ ht-degree: 0%
 
 # Updates: &quot;[!UICONTROL We're unable to post your comment]&quot; bericht wanneer wordt beantwoord
 
+<!--
+
 >[!NOTE]
 >
->Dit probleem is op 11 april 2024 opgelost.
+>This issue was fixed on April 11, 2024.
+
+-->
 
 Wanneer een gebruiker probeert te reageren op een bericht in de nieuwe opmerkingervaring, wordt het antwoord niet opgeslagen en ziet de gebruiker het volgende bericht:
 
