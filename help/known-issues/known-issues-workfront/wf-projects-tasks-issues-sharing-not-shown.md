@@ -3,7 +3,7 @@ title: "Projecten, Taken, en Kwesties: De overerfde toestemmingen worden niet ge
 description: "Wanneer een gebruiker een object deelt, is de kaart met overgeërfde machtigingen niet aanwezig. "
 hidefromtoc: true
 feature: Projects, Tasks, Work Management
-source-git-commit: f74b96cf43d997780cccbacb7606583dae7bf9a1
+source-git-commit: 6bab9d008c17141758b023578297c0ac3713b29d
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -19,3 +19,4 @@ Wanneer een gebruiker een object deelt, is de kaart met overgeërfde machtiginge
 * De gebruiker waarvan de naam wordt getypt om het object te delen met
 
 _Eerste rapportage op 9 januari 2024._
+
