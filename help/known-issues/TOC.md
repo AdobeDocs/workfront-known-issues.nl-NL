@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0acad49eb98af2fc69de97c743e06f648c42637a
+source-git-commit: f74b96cf43d997780cccbacb7606583dae7bf9a1
 workflow-type: tm+mt
-source-wordcount: '1571'
+source-wordcount: '1580'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Projecten, Taken, en Kwesties: De overerfde toestemmingen worden niet getoond](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md)
       + [Updates: Koppeling in opmerking gaat naar leeg scherm](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [Verzoeken: kan pad voor aanvraagwachtrij niet delen](known-issues-workfront/wf-requests-cannot-share-path.md)
       + [Gebruikers: kan gebruikers niet verwijderen](known-issues-workfront/wf-users-unable-to-delete-users.md)

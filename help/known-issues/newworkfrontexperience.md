@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0acad49eb98af2fc69de97c743e06f648c42637a
+source-git-commit: f74b96cf43d997780cccbacb7606583dae7bf9a1
 workflow-type: tm+mt
-source-wordcount: '794'
+source-wordcount: '804'
 ht-degree: 0%
 
 ---
@@ -39,6 +39,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [Projecten, Taken, en Kwesties: De overerfde toestemmingen worden niet getoond](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md) | 19 april 2024 |
 | [Verzoeken: kan pad voor aanvraagwachtrij niet delen](known-issues-workfront/wf-requests-cannot-share-path.md) | 18 april 2024 |
 | [Gebruikers: kan gebruikers niet verwijderen](known-issues-workfront/wf-users-unable-to-delete-users.md) | 18 april 2024 |
 | [Updates: &quot;[!UICONTROL We're unable to post your comment]&quot; bericht wanneer wordt beantwoord](known-issues-workfront/wf-updates-were-unable-to-post.md) | 18 april 2024 |
