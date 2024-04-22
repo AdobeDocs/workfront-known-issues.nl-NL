@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f74b96cf43d997780cccbacb7606583dae7bf9a1
+source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
 workflow-type: tm+mt
-source-wordcount: '804'
+source-wordcount: '798'
 ht-degree: 0%
 
 ---
@@ -39,11 +39,10 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [Kaarten: Kaart keert kort terug naar de oorspronkelijke kolom](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | 22 april 2024 |
+| [Home: De widget voor goedkeuring is niet correct](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 22 april 2024 |
 | [Projecten, Taken, en Kwesties: De overerfde toestemmingen worden niet getoond](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md) | 19 april 2024 |
-| [Verzoeken: kan pad voor aanvraagwachtrij niet delen](known-issues-workfront/wf-requests-cannot-share-path.md) | 18 april 2024 |
 | [Gebruikers: kan gebruikers niet verwijderen](known-issues-workfront/wf-users-unable-to-delete-users.md) | 18 april 2024 |
-| [Updates: &quot;[!UICONTROL We're unable to post your comment]&quot; bericht wanneer wordt beantwoord](known-issues-workfront/wf-updates-were-unable-to-post.md) | 18 april 2024 |
-| [Updates: Voorvertoning van afbeelding in updates is wazig](known-issues-workfront/wf-updates-images-blurred.md) | 18 april 2024 |
 | [Boeken: de totalen van de controlelijst zijn niet nauwkeurig](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 18 april 2024 |
 | [Updates: genummerde lijsten zijn niet correct genummerd](known-issues-workfront/wf-updates-not-numbering-correctly.md) | 15 april 2024 |
 | [Aanvragen: Fout bij openen van concept](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | 12 april 2024 |
