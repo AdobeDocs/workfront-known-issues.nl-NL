@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2656fd578ee38e6dcdd9e8de9e83f5472656bf78
+source-git-commit: 2e1c28291232d0401c2c01568b10efa23db88996
 workflow-type: tm+mt
-source-wordcount: '3119'
+source-wordcount: '3221'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,26 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2024.
 Voor onderhoudsupdates vóór 2024, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in april 2024
+
++++**(Geplande) onderhoudsupdate op 25 april 2024**
+
+### (Geplande) onderhoudsupdate op 25 april 2024
+
+#### Updates
+
+**Genummerde lijsten zijn niet correct genummerd**
+
+Wanneer een gebruiker een opmerking verzendt die een genummerde lijst bevat, wordt in de update een onjuiste nummering weergegeven.
+
+Dit is gemeld in de nieuwe ervaringen met opmerkingen.
+
+**Tekst blijft niet behouden wanneer u weg en terug navigeert naar opmerking**
+
+Wanneer een gebruiker een opmerking schrijft die een @entry bevat, navigeert dan weg van en terug naar de opmerking voordat deze wordt verzonden, eventuele tekst die na de @entry is ingevoerd, ontbreekt in het opmerkingsconcept.
+
+Dit is gemeld in de nieuwe ervaringen met opmerkingen.
+
++++
 
 +++**Onderhoudsupdate op 18 april 2024**
 

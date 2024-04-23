@@ -4,18 +4,22 @@ description: Wanneer een uitgave een Webproef in bijlage (een proef URL gebruike
 hidefromtoc: true
 feature: Projects, Work Management, Digital Content and Documents
 exl-id: 9c133ddd-4001-4d1a-ad96-f7a0a57fe9a1
-source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
+source-git-commit: 2e1c28291232d0401c2c01568b10efa23db88996
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
 # Project: Kan uitgave niet converteren naar project als een webproefdruk is bijgevoegd
 
+<!--
+
 >[!NOTE]
 >
->Dit probleem is op 18 april 2024 opgelost.
+>This issue was fixed on April 18, 2024.
+
+-->
 
 Wanneer een uitgave een Webproef in bijlage (een proef URL gebruikend een verbinding van een externe documentleverancier zoals SharePoint) heeft, en een gebruiker probeert om die kwestie in een project om te zetten, ontbreekt de omzetting en het project wordt niet gecreeerd. De gebruiker ziet de volgende fout:
 
