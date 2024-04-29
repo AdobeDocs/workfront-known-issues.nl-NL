@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 10d252df70fcbc0a5cd7903112c61272db9f12ae
+source-git-commit: f0156064570a3b68fd9cbec2eed46c489f628ff1
 workflow-type: tm+mt
-source-wordcount: '792'
+source-wordcount: '784'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
-| [Updates: opmerkingen die via de API zijn gemaakt, zijn niet zichtbaar in de Sandbox-omgeving](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md) | 25 april 2024 |
+| [[!DNL Workfront Goals]: Kan doel niet verwijderen](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 29 april 2024 |
 | [Borden: eigen Workfront-velden worden niet weergegeven op kaart](known-issues-workfront/wf-boards-native-fields-not-display.md) | 23 april 2024 |
 | [Project: Kan uitgave niet converteren naar project als een webproefdruk is bijgevoegd](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 23 april 2024 |
 | [Kaarten: Kaart keert kort terug naar de oorspronkelijke kolom](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | 22 april 2024 |
