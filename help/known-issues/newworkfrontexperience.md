@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f0156064570a3b68fd9cbec2eed46c489f628ff1
+source-git-commit: 051c814c32a75b6f2b51011166a78048d2cd5c2d
 workflow-type: tm+mt
-source-wordcount: '784'
+source-wordcount: '793'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proefdrukken: kan geen beslissingen nemen in de privéwerkstroomfase](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | 1 mei 2024 |
 | [Integratie: bestandsnaam is null wanneer deze via integratie naar AEM wordt verzonden](known-issues-workfront/wf-integrations-aem-filename-null.md) | 24 april 2024 |
 | [Gebruikers: kan het toegangsniveau van de gebruiker niet wijzigen](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 24 april 2024 |
 | [Meldingen: meldingen van documentgoedkeuringen zijn niet correct opgemaakt](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 22 april 2024 |
