@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a1347b75359d14302b377153570b0f9107d1eb87
+source-git-commit: 3898ec1db137cd7794132a3e27253b0edc73726e
 workflow-type: tm+mt
-source-wordcount: '767'
+source-wordcount: '754'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,10 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Meldingen: meldingen van documentgoedkeuringen zijn niet correct opgemaakt](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2 mei 2024 |
 | [Boeken: item in checklist blijft niet ingeschakeld](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | 2 mei 2024 |
 | [Proefdrukken: kan geen beslissingen nemen in de privéwerkstroomfase](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | 1 mei 2024 |
 | [Integratie: bestandsnaam is null wanneer deze via integratie naar AEM wordt verzonden](known-issues-workfront/wf-integrations-aem-filename-null.md) | 24 april 2024 |
-| [Gebruikers: kan het toegangsniveau van de gebruiker niet wijzigen](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 24 april 2024 |
-| [Meldingen: meldingen van documentgoedkeuringen zijn niet correct opgemaakt](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 22 april 2024 |
 | [Taken: het creëren van of het dupliceren van taken veroorzaakt takenlijst om in verkeerde orde te tonen](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 26 februari 2024 |
 | [Proofs: GIFFEN worden gerenderd als statische proefdrukken](known-issues-workfront/wf-proofs-gif-static-image.md) | 23 januari 2024 |
 | [Proefdrukken: gezipte proefdrukken worden niet gegenereerd](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 9 januari 2024 |
@@ -42,16 +41,15 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [Gebruikers: kan het toegangsniveau van de gebruiker niet wijzigen](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2 mei 2024 |
 | [[!DNL Workfront Goals]: Kan doel niet verwijderen](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 29 april 2024 |
 | [Project: Kan uitgave niet converteren naar project als een webproefdruk is bijgevoegd](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 23 april 2024 |
 | [Home: De widget voor goedkeuring is niet correct](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 22 april 2024 |
 | [Gebruikers: kan gebruikers niet verwijderen](known-issues-workfront/wf-users-unable-to-delete-users.md) | 18 april 2024 |
-| [Boeken: de totalen van de controlelijst zijn niet nauwkeurig](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 18 april 2024 |
 | [Aanvragen: Fout bij openen van concept](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | 12 april 2024 |
 | [Teams: kan teameigenaar niet weergeven of team verwijderen](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 april 2024 |
 | [Verzoeken: het berekende veld wordt niet bijgewerkt wanneer de aanvraag wordt ingevuld](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | 9 april 2024 |
 | [Proefdrukken: proefdrukken voorkomt conversie van taak of uitgave naar project](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 5 april 2024 |
-| [Updates: opmerkingen worden niet weergegeven &quot;[!UICONTROL on behalf of]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | 4 april 2024 |
 | [Taken: Bizcontext-fout bij het toevoegen of verwijderen van een taak](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 4 april 2024 |
 | [Updates: gebruikers van aanvragers kunnen geen afbeeldingen toevoegen aan updates](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 8 maart 2024 |
 | [Nieuw [!UICONTROL Home]: Standaardwaarden voor widgetfilter en -groepering volgen niet de lay-outsjabloon](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 4 januari 2024 |
