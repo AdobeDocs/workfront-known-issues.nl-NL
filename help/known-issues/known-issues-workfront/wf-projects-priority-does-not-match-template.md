@@ -3,9 +3,9 @@ title: "Projecten: project dat met sjabloon is gemaakt, komt niet overeen met de
 description: "Wanneer een gebruiker een verzoek in een project omzet gebruikend een malplaatje, past de prioriteit van het pas gecreëerde project niet het malplaatje of het verzoek aan."
 hidefromtoc: true
 feature: Projects
-source-git-commit: 2a6c894c29a9dabddd40623fa23f24a72d883120
+source-git-commit: 9a362d9da12ef7d95954754d269f166bf213732a
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,3 +16,5 @@ ht-degree: 0%
 Wanneer een gebruiker een verzoek in een project gebruikend een malplaatje omzet, past de prioriteit van het pas gecreëerde project niet het malplaatje of het verzoek aan.
 
 _Voor het eerst gerapporteerd op 2 mei 2024._
+
+
