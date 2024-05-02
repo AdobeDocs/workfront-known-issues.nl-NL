@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: b9394db748fe04e47157095e7ecddc7c4f5b1a36
+source-git-commit: a1347b75359d14302b377153570b0f9107d1eb87
 workflow-type: tm+mt
-source-wordcount: '1644'
+source-wordcount: '1651'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Boeken: item in checklist blijft niet ingeschakeld](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
       + [Projecten: fout bij het delen van een project](known-issues-workfront/wf-projects-error-when-sharing-project.md)
       + [Proefdrukken: kan geen beslissingen nemen in de privéwerkstroomfase](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
       + [[!DNL Workfront Goals]: Kan doel niet verwijderen](known-issues-workfront/wf-goals-cannot-delete-goal.md)

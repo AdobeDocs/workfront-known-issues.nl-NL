@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b9394db748fe04e47157095e7ecddc7c4f5b1a36
+source-git-commit: a1347b75359d14302b377153570b0f9107d1eb87
 workflow-type: tm+mt
-source-wordcount: '792'
+source-wordcount: '767'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [Projecten: fout bij het delen van een project](known-issues-workfront/wf-projects-error-when-sharing-project.md) | 1 mei 2024 |
+| [Boeken: item in checklist blijft niet ingeschakeld](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | 2 mei 2024 |
 | [Proefdrukken: kan geen beslissingen nemen in de privéwerkstroomfase](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | 1 mei 2024 |
 | [Integratie: bestandsnaam is null wanneer deze via integratie naar AEM wordt verzonden](known-issues-workfront/wf-integrations-aem-filename-null.md) | 24 april 2024 |
 | [Gebruikers: kan het toegangsniveau van de gebruiker niet wijzigen](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 24 april 2024 |
@@ -43,7 +43,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
 | [[!DNL Workfront Goals]: Kan doel niet verwijderen](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 29 april 2024 |
-| [Borden: eigen Workfront-velden worden niet weergegeven op kaart](known-issues-workfront/wf-boards-native-fields-not-display.md) | 23 april 2024 |
 | [Project: Kan uitgave niet converteren naar project als een webproefdruk is bijgevoegd](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 23 april 2024 |
 | [Home: De widget voor goedkeuring is niet correct](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 22 april 2024 |
 | [Gebruikers: kan gebruikers niet verwijderen](known-issues-workfront/wf-users-unable-to-delete-users.md) | 18 april 2024 |
@@ -54,9 +53,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | [Proefdrukken: proefdrukken voorkomt conversie van taak of uitgave naar project](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 5 april 2024 |
 | [Updates: opmerkingen worden niet weergegeven &quot;[!UICONTROL on behalf of]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | 4 april 2024 |
 | [Taken: Bizcontext-fout bij het toevoegen of verwijderen van een taak](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 4 april 2024 |
-| [Registratietijd: kan de uren voor taken of problemen niet bewerken](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | 4 april 2024 |
 | [Updates: gebruikers van aanvragers kunnen geen afbeeldingen toevoegen aan updates](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 8 maart 2024 |
-| [Borden: Problemen met dubbele kaarten](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 22 februari 2024 |
 | [Nieuw [!UICONTROL Home]: Standaardwaarden voor widgetfilter en -groepering volgen niet de lay-outsjabloon](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 4 januari 2024 |
 | [Home: De taken in projecten met Goedgekeurde of de status van de Planning zijn niet inbegrepen in Mijn Taken of de Lijst van het Werk van het Huis](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6 november 2023 |
 | [[!DNL Workfront]: Kwesties die een [!DNL Workfront] steungeval op Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 augustus 2022 |
