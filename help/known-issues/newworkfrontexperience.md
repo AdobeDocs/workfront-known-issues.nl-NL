@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e667606b926c199dfa5d2dd84feee9210426ca3c
+source-git-commit: d3068f21ba6e1a9a1dd4a9ed78da43cef88f4fde
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '805'
 ht-degree: 0%
 
 ---
@@ -67,6 +67,7 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Timesheets: Vastgezet tijdblad verwijst naar lege pagina](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md) | 7 mei 2024, 2024 |
 | [Rapporten: het filter Rapport retourneert geen verwachte resultaten](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md) | 1 april 2024 |
 | [Instellen: kan niet worden gebruikt [!UICONTROL Kick-Starts] groepering instellen](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md) | 30 november 2023 |
 | [Proefdrukken: fout bij het delen van proefdrukken via e-mailkoppeling](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 16 november 2023 |
