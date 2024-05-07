@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f171e93a7f10360d0e504e028e512d5023591693
+source-git-commit: e667606b926c199dfa5d2dd84feee9210426ca3c
 workflow-type: tm+mt
-source-wordcount: '769'
+source-wordcount: '796'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,12 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [Projecten: project dat met sjabloon is gemaakt, komt niet overeen met de prioriteit van sjabloon](known-issues-workfront/wf-projects-priority-does-not-match-template.md) | 2 mei 2024 |
+| [Setup: &quot;Aangemeld als&quot;-banner wordt niet weergegeven wanneer u bent aangemeld als een andere gebruiker.](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 mei 2024 |
+| [Borden: met het filter Geavanceerd worden de verwachte kaarten niet geretourneerd](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | 7 mei 2024 |
 | [Meldingen: meldingen van documentgoedkeuringen zijn niet correct opgemaakt](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2 mei 2024 |
 | [Boeken: item in checklist blijft niet ingeschakeld](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | 2 mei 2024 |
 | [Proefdrukken: kan geen beslissingen nemen in de privéwerkstroomfase](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | 1 mei 2024 |
-| [Integratie: bestandsnaam is null wanneer deze via integratie naar AEM wordt verzonden](known-issues-workfront/wf-integrations-aem-filename-null.md) | 24 april 2024 |
+| [Integratie: bestandsnaam is null wanneer deze via integratie naar documentprovider wordt verzonden](known-issues-workfront/wf-integrations-aem-filename-null.md) | 24 april 2024 |
 | [Taken: het creëren van of het dupliceren van taken veroorzaakt takenlijst om in verkeerde orde te tonen](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 26 februari 2024 |
 | [Proofs: GIFFEN worden gerenderd als statische proefdrukken](known-issues-workfront/wf-proofs-gif-static-image.md) | 23 januari 2024 |
 | [Proefdrukken: gezipte proefdrukken worden niet gegenereerd](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 9 januari 2024 |
@@ -42,12 +43,13 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [Bewijs van moderators kan toestemmingen niet uitgeven](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | 7 mei 2024 |
+| [Borden: de gebruiker kan geen board zien dat het team aan wordt toegewezen](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | 7 mei 2024 |
 | [Updates: Het labelen van een gebruiker met @ in het deelvenster Samenvatting is niet effectief](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2 mei 2024 |
 | [Gebruikers: kan het toegangsniveau van de gebruiker niet wijzigen](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2 mei 2024 |
 | [[!DNL Workfront Goals]: Kan doel niet verwijderen](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 29 april 2024 |
 | [Project: Kan uitgave niet converteren naar project als een webproefdruk is bijgevoegd](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 23 april 2024 |
 | [Gebruikers: kan gebruikers niet verwijderen](known-issues-workfront/wf-users-unable-to-delete-users.md) | 18 april 2024 |
-| [Aanvragen: Fout bij openen van concept](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | 12 april 2024 |
 | [Teams: kan teameigenaar niet weergeven of team verwijderen](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 april 2024 |
 | [Verzoeken: het berekende veld wordt niet bijgewerkt wanneer de aanvraag wordt ingevuld](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | 9 april 2024 |
 | [Proefdrukken: proefdrukken voorkomt conversie van taak of uitgave naar project](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 5 april 2024 |
