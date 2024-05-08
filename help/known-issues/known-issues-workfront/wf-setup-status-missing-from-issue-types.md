@@ -1,21 +1,25 @@
 ---
-title: "Opstelling: De standaarduitgavestatus mist van sommige types van kwestie in Opstelling"
-description: "Wanneer een gebruiker de status van de uitgave in Opstelling bekijkt, zien zij dat de standaardstatussen voor kwesties (Nieuw, Bezig, en Voltooid) van sommige types van kwesties ontbreken. De standaardstatussen hebben niet de optie om het uitgevende type te veranderen, zodat kan de gebruiker niet de statussen aanpassen om voor de beïnvloede uitgaventypen te tonen."
+title: 'Setup: standaarduitgavestatus ontbreekt in bepaalde typen problemen in Setup'
+description: Wanneer een gebruiker uitgavestatussen in Opstelling bekijkt, zien zij dat de standaardstatussen voor kwesties (Nieuw, Bezig, en Voltooid) van sommige types van kwesties ontbreken. De standaardstatussen hebben niet de optie om het uitgevende type te veranderen, zodat kan de gebruiker niet de statussen aanpassen om voor de beïnvloede uitgaventypen te tonen.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: d3d6529fea8f2d020f4920ee5b2bda723f348cc2
+exl-id: 46ca4c32-6e7a-4460-abea-85a90c29a865
+source-git-commit: 89eb14bfaccb517764af1711ca31e2926de63795
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
-
 # Instellen: er ontbreken standaarduitgiftestatussen in bepaalde typen problemen in Setup
+
+<!--
 
 >[!NOTE]
 >
->Dit probleem is op 17 januari 2024 opgelost.
+>This issue was fixed on January 17, 2024.
+
+-->
 
 Wanneer een gebruiker uitgavestatussen in Opstelling bekijkt, zien zij dat de standaardstatussen voor kwesties (Nieuw, Bezig, en Voltooid) van sommige types van kwesties ontbreken. De standaardstatussen hebben niet de optie om het uitgevende type te veranderen, zodat kan de gebruiker niet de statussen aanpassen om voor de beïnvloede uitgaventypen te tonen.
 

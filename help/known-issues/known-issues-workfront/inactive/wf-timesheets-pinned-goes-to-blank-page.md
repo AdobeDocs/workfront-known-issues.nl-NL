@@ -3,7 +3,7 @@ title: "Timesheets: Vastgezet tijdblad gaat naar lege pagina"
 description: "Wanneer een gebruiker op een speldenknop in Workfront klikt die naar zijn tijdspagina moet gaan, gaat het speldenpakket naar een lege pagina. Er is een oplossing beschikbaar."
 hidefromtoc: true
 feature: Timesheets
-source-git-commit: 229d3accabec51a7c559279b680336ca096c0e70
+source-git-commit: 89eb14bfaccb517764af1711ca31e2926de63795
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Wanneer een gebruiker op een speldenknop in Workfront klikt die naar zijn tijdspagina moet gaan, gaat het speldenpakket naar een lege pagina.
 
-De reden hiervoor is dat de URL van de tijdpagina is gewijzigd. de `/own` aan het einde van de URL is niet langer de juiste URL. Als de gebruiker een URL heeft vastgezet die `/own`, leidt dit tot een lege pagina.
+De reden hiervoor is dat de URL van de tijdpagina is gewijzigd. De `/own` aan het einde van de URL is niet langer de juiste URL. Als de gebruiker een URL heeft vastgezet die `/own`, leidt dit tot een lege pagina.
 
 **Workaround**
 
