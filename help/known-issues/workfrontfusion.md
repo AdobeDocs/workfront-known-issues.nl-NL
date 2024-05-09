@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor [!DNL Adobe Workfront Fusion]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 50f79121e0b027c3f0283cd43d19c885dde8268b
+source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: RuntimeError met 200 respons van Workfront module](known-issues-workfront-fusion/fusion-200-runtime-error.md) | 27 maart 2024 |
+| Geen | |
 
 {style="table-layout:auto"}
 

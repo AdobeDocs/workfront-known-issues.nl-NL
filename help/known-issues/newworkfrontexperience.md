@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 89eb14bfaccb517764af1711ca31e2926de63795
+source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
 workflow-type: tm+mt
-source-wordcount: '829'
+source-wordcount: '817'
 ht-degree: 0%
 
 ---
@@ -26,13 +26,10 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
 | [Home: De widget voor goedkeuring is niet correct](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8 mei 2024 |
-| [Projecten: project dat is gemaakt op basis van een uitgave die een sjabloon gebruikt, geeft geen prioriteit weer die is ingesteld in de sjabloon](known-issues-workfront/wf-projects-priority-not-transfer.md) | 8 mei 2024 |
 | [Instellen: &quot;Aangemeld als&quot;-banner wordt niet weergegeven wanneer u bent aangemeld als een andere gebruiker](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 mei 2024 |
 | [Borden: met het filter Geavanceerd worden de verwachte kaarten niet geretourneerd](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | 7 mei 2024 |
 | [Meldingen: meldingen van documentgoedkeuringen zijn niet correct opgemaakt](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2 mei 2024 |
 | [Boeken: item in checklist blijft niet ingeschakeld](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | 2 mei 2024 |
-| [Proefdrukken: kan geen beslissingen nemen in de privéwerkstroomfase](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | 1 mei 2024 |
-| [Integratie: bestandsnaam is null wanneer deze via integratie naar documentprovider wordt verzonden](known-issues-workfront/wf-integrations-aem-filename-null.md) | 24 april 2024 |
 | [Taken: het creëren van of het dupliceren van taken veroorzaakt takenlijst om in verkeerde orde te tonen](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 26 februari 2024 |
 | [Proofs: GIFFEN worden gerenderd als statische proefdrukken](known-issues-workfront/wf-proofs-gif-static-image.md) | 23 januari 2024 |
 | [Proefdrukken: gezipte proefdrukken worden niet gegenereerd](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 9 januari 2024 |
@@ -45,6 +42,8 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [Updates: Koppeling in opmerking gaat naar leeg scherm](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 9 mei 2024 |
+| [Projecten: project dat is gemaakt op basis van een uitgave die een sjabloon gebruikt, geeft geen prioriteit weer die is ingesteld in de sjabloon](known-issues-workfront/wf-projects-priority-not-transfer.md) | 9 mei 2024 |
 | [Bewijs van moderators kan toestemmingen niet uitgeven](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | 7 mei 2024 |
 | [Borden: de gebruiker kan geen board zien dat het team aan wordt toegewezen](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | 7 mei 2024 |
 | [Updates: Het labelen van een gebruiker met @ in het deelvenster Samenvatting is niet effectief](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2 mei 2024 |
