@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
+source-git-commit: 7a375d51fd250449c950e5c9fdca0ed259e4a231
 workflow-type: tm+mt
-source-wordcount: '817'
+source-wordcount: '810'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | [Bewijs van moderators kan toestemmingen niet uitgeven](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | 7 mei 2024 |
 | [Borden: de gebruiker kan geen board zien dat het team aan wordt toegewezen](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | 7 mei 2024 |
 | [Updates: Het labelen van een gebruiker met @ in het deelvenster Samenvatting is niet effectief](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2 mei 2024 |
-| [Gebruikers: kan het toegangsniveau van de gebruiker niet wijzigen](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2 mei 2024 |
 | [[!DNL Workfront Goals]: Kan doel niet verwijderen](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 29 april 2024 |
 | [Project: Kan uitgave niet converteren naar project als een webproefdruk is bijgevoegd](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 23 april 2024 |
 | [Gebruikers: kan gebruikers niet verwijderen](known-issues-workfront/wf-users-unable-to-delete-users.md) | 18 april 2024 |
