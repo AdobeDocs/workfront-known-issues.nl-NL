@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: b1fb7eba69bde986d2dfc041cb7f47f19b57b360
+source-git-commit: d023663855896059777698e470ed3e786fab0ce7
 workflow-type: tm+mt
-source-wordcount: '1733'
+source-wordcount: '1745'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Updates: wanneer een vermelding wordt gekopieerd en geplakt, wordt de vermelde gebruiker niet op de hoogte gesteld](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [Projecten: project dat is gemaakt op basis van een uitgave die een sjabloon gebruikt, geeft geen prioriteit weer die is ingesteld in de sjabloon](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [Borden: met het filter Geavanceerd worden de verwachte kaarten niet geretourneerd](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
       + [Timesheets: Vastgezet tijdblad verwijst naar lege pagina](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)

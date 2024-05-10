@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7a375d51fd250449c950e5c9fdca0ed259e4a231
+source-git-commit: d023663855896059777698e470ed3e786fab0ce7
 workflow-type: tm+mt
-source-wordcount: '810'
+source-wordcount: '806'
 ht-degree: 0%
 
 ---
@@ -42,8 +42,8 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [Updates: wanneer een vermelding wordt gekopieerd en geplakt, wordt de vermelde gebruiker niet op de hoogte gesteld](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | 10 mei 2024 |
 | [Updates: Koppeling in opmerking gaat naar leeg scherm](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 9 mei 2024 |
-| [Projecten: project dat is gemaakt op basis van een uitgave die een sjabloon gebruikt, geeft geen prioriteit weer die is ingesteld in de sjabloon](known-issues-workfront/wf-projects-priority-not-transfer.md) | 9 mei 2024 |
 | [Bewijs van moderators kan toestemmingen niet uitgeven](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | 7 mei 2024 |
 | [Borden: de gebruiker kan geen board zien dat het team aan wordt toegewezen](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | 7 mei 2024 |
 | [Updates: Het labelen van een gebruiker met @ in het deelvenster Samenvatting is niet effectief](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2 mei 2024 |

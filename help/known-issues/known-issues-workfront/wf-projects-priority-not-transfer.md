@@ -1,18 +1,24 @@
 ---
-title: "Projecten: project dat is gemaakt op basis van een uitgave die een sjabloon gebruikt, geeft geen prioriteit weer die is ingesteld in de sjabloon"
-description: "Wanneer een gebruiker een kwestie in een project omzet gebruikend een malplaatje, past de prioriteit in het onlangs gecreeerd project niet de prioriteit aan die in het malplaatje wordt geplaatst."
+title: 'Projecten: project dat is gemaakt op basis van een uitgave die een sjabloon gebruikt, geeft geen prioriteit weer die is ingesteld in de sjabloon'
+description: Wanneer een gebruiker een kwestie in een project gebruikend een malplaatje omzet, past de prioriteit in het pas gecreëerde project niet de prioriteit aan die in het malplaatje wordt geplaatst.
 hidefromtoc: true
 feature: Projects
-source-git-commit: b1fb7eba69bde986d2dfc041cb7f47f19b57b360
+exl-id: 431a94ee-c73f-4536-b7ff-33f5b3870892
+source-git-commit: d023663855896059777698e470ed3e786fab0ce7
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
-
 # Projecten: project dat is gemaakt op basis van een uitgave die een sjabloon gebruikt, geeft geen prioriteit weer die is ingesteld in de sjabloon
 
+>[!NOTE]
+>
+>Deze kwestie is gesloten omdat het zoals ontworpen werkt.
+
 Wanneer een gebruiker een kwestie in een project gebruikend een malplaatje omzet, past de prioriteit in het pas gecreëerde project niet de prioriteit aan die in het malplaatje wordt geplaatst.
+
+Dit werkt zoals ontworpen. Wanneer het omzetten van een kwestie in een project met of zonder een malplaatje, brengt de prioriteit van de kwestie naar het gecreeerde project over.
 
 _Voor het eerst gerapporteerd op 2 mei 2024._
