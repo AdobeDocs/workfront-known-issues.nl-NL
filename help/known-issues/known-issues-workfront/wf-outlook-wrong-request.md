@@ -1,0 +1,18 @@
+---
+title: 'Integraties: gebruikers krijgen onjuiste aanvraagfout bij het gebruik van SSO'
+description: Wanneer een gebruiker probeert om in de Plug-in van Workfront voor Vooruitzichten met toegelaten SSO te registreren, toont een Verkeerde pagina van het Verzoek, en de gebruiker kan niet binnen ondertekenen.
+hidefromtoc: true
+feature: Workfront Integrations and Apps
+source-git-commit: 2c2d01432d707a470a69aea42b3949a2bf27af9b
+workflow-type: tm+mt
+source-wordcount: '74'
+ht-degree: 0%
+
+---
+
+
+# Integratie: gebruikers krijgen onjuiste aanvraagfout bij gebruik van SSO
+
+Wanneer een gebruiker zich probeert aan te melden bij de Workfront-insteekmodule voor Outlook met SSO ingeschakeld, wordt de pagina &quot;Onjuist verzoek&quot; weergegeven en kan de gebruiker zich niet aanmelden.
+
+_Voor het eerst gerapporteerd op 14 mei 2024._
