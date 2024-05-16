@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 5abc91229bcfbeef1a08ffd3db103de4978c3111
+source-git-commit: 10057189c213e5b2993c58b89116cedcd2d7d6f4
 workflow-type: tm+mt
-source-wordcount: '3286'
+source-wordcount: '3390'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,24 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2024.
 Voor onderhoudsupdates vóór 2024, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in mei 2024
+
++++**Onderhoudsupdate op 16 mei 2024**
+
+### Onderhoudsupdate op 16 mei 2024
+
+#### Instellen
+
+**Standaardstatus van problemen ontbreekt in bepaalde typen problemen in Setup**
+
+Wanneer een gebruiker uitgavestatussen in Opstelling bekijkt, zien zij dat de standaardstatussen voor kwesties (Nieuw, Bezig, en Voltooid) van sommige types van kwesties ontbreken. De standaardstatussen hebben niet de optie om het uitgevende type te veranderen, zodat kan de gebruiker niet de statussen aanpassen om voor de beïnvloede uitgaventypen te tonen.
+
+#### Gebruikers
+
+**Kan gebruikers niet verwijderen**
+
+Wanneer een gebruiker probeert gebruikers te verwijderen, worden de gebruikers niet verwijderd. Dit is gemeld in organisaties die naar de Adobe Admin Console zijn gemigreerd.
+
++++
 
 +++**Onderhoudsupdate op 9 mei 2024**
 
