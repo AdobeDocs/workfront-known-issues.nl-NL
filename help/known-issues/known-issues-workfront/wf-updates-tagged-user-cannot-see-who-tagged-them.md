@@ -3,7 +3,7 @@ title: "Updates: gecodeerde gebruikers kunnen niet zien wie ze labelden"
 description: "Wanneer een gebruiker in een update is gelabeld, kan hij of zij niet zien wie deze heeft gelabeld. Dit gebeurt wanneer de instelling Personen in andere bedrijven gebruikers alleen mogen bekijken vanaf... is ingesteld op Hun bedrijf."
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 6de2e70344be38b92d44c2ec90c6380a8ccc3140
+source-git-commit: 405d0861af7f68a5c93b5be76d6b2f6f7e731615
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
@@ -20,3 +20,4 @@ Wanneer een gebruiker in een update van tags is voorzien, kan hij of zij niet zi
 Gebruikers van het bericht in de app voor de opmerking om te zien wie deze heeft gecodeerd.
 
 _Voor het eerst gerapporteerd op 23 april 2024._
+
