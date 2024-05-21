@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
+source-git-commit: d3931cc536f625b78a888856f048663558dc771e
 workflow-type: tm+mt
-source-wordcount: '823'
+source-wordcount: '831'
 ht-degree: 0%
 
 ---
@@ -41,12 +41,13 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [Updates: gecodeerde gebruikers kunnen niet zien wie ze labelde](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md) | 21 mei 2024 |
+| [Home: geplande uren worden weergegeven in minuten](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md) | 21 mei 2024 |
 | [Documenten: Foutscherm bij downloaden of voorvertonen van element](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 20 mei 2024 |
 | [Gebruikers: gebruikerskenmerken worden niet toegewezen aan SSO](known-issues-workfront/wf-users-sso-attributes-not-mapped.md) | 20 mei 2024 |
 | [Gebruikers: kan het toegangsniveau van de gebruiker niet wijzigen](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 20 mei 2024 |
 | [Updates: wanneer een vermelding wordt gekopieerd en geplakt, wordt de vermelde gebruiker niet op de hoogte gesteld](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | 10 mei 2024 |
 | [Updates: Koppeling in opmerking gaat naar leeg scherm](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 9 mei 2024 |
-| [Bewijs van moderators kan toestemmingen niet uitgeven](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | 7 mei 2024 |
 | [Updates: Het labelen van een gebruiker met @ in het deelvenster Samenvatting is niet effectief](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2 mei 2024 |
 | [[!DNL Workfront Goals]: Kan doel niet verwijderen](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 29 april 2024 |
 | [Project: Kan uitgave niet converteren naar project als een webproefdruk is bijgevoegd](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 23 april 2024 |
@@ -121,4 +122,5 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 | [Kalender: taken worden niet weergegeven](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md) | 9 november 2020 |
 
 {style="table-layout:auto"}
+
 

@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
+source-git-commit: 6de2e70344be38b92d44c2ec90c6380a8ccc3140
 workflow-type: tm+mt
-source-wordcount: '1802'
+source-wordcount: '1816'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Updates: gecodeerde gebruikers kunnen niet zien wie ze labelde](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
+      + [Home: geplande uren worden weergegeven in minuten](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md)
       + [Documenten: Foutscherm bij downloaden of voorvertonen van element](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
       + [Gebruikers: gebruikerskenmerken worden niet toegewezen aan SSO](known-issues-workfront/wf-users-sso-attributes-not-mapped.md)
       + [Programma&#39;s: alle toegang tot het programma gaat verloren wanneer de gebruiker toegang tot het programma wordt bijgewerkt](known-issues-workfront/wf-programs-permissions-not-inherited.md)
