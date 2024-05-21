@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 10057189c213e5b2993c58b89116cedcd2d7d6f4
+source-git-commit: cf1c7d7bc95f9a88b07f624f3152ba9c1148ac58
 workflow-type: tm+mt
-source-wordcount: '3390'
+source-wordcount: '3489'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,22 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2024.
 Voor onderhoudsupdates vóór 2024, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in mei 2024
+
++++ **(Geplande) onderhoudsupdate op 23 mei 2024**
+
+### (Geplande) onderhoudsupdate op 23 mei 2024
+
+#### Updates
+
+**De gecodeerde gebruiker kan niet zien wie hen etiketteerde**
+
+Wanneer een gebruiker in een update van tags is voorzien, kan hij of zij niet zien wie deze tags heeft. Dit gebeurt wanneer de instelling &quot;Personen in andere bedrijven mogen alleen gebruikers van...&quot; is ingesteld op &quot;Hun bedrijf&quot;.
+
+**Het labelen van een gebruiker met @ in het deelvenster Samenvatting is niet effectief**
+
+Wanneer een gebruiker probeert om een andere gebruiker te etiketteren door @ in het gebied van Updates van een Samenvatting paneel te gebruiken, is het klikken op de naam van de gebruiker in dropdown ineffectief. Poging om de gebruiker een tweede keer tags toe te wijzen werkt zoals verwacht.
+
++++
 
 +++**Onderhoudsupdate op 16 mei 2024**
 
