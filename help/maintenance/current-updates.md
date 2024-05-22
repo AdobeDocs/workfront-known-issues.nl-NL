@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: cf1c7d7bc95f9a88b07f624f3152ba9c1148ac58
+source-git-commit: 838970835779e238e1739d50ed7d78bdd01069c7
 workflow-type: tm+mt
-source-wordcount: '3489'
+source-wordcount: '3541'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,16 @@ Voor onderhoudsupdates vóór 2024, zie [Vorige onderhoudsupdates](#previous-mai
 +++ **(Geplande) onderhoudsupdate op 23 mei 2024**
 
 ### (Geplande) onderhoudsupdate op 23 mei 2024
+
+#### Rapporten
+
+Wanneer een gebruiker een rapport weergeeft en op de knop Vorige van de browser klikt, kan een van de volgende gebeurtenissen optreden:
+
+* De gebruiker blijft op de pagina Rapport.
+* De gebruiker wordt naar de bestemmingspagina van de browser geleid.
+* De gebruiker wordt naar de aanmeldingspagina geleid.
+
+Dit is gemeld in de Chrome-browser.
 
 #### Updates
 
