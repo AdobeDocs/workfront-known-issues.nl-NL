@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 6de2e70344be38b92d44c2ec90c6380a8ccc3140
+source-git-commit: 2969b042d5328f11800b6f77e5d07dae5001068e
 workflow-type: tm+mt
-source-wordcount: '1816'
+source-wordcount: '1820'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Groepen: kan subgroep niet toevoegen](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
       + [Updates: gecodeerde gebruikers kunnen niet zien wie ze labelde](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
       + [Home: geplande uren worden weergegeven in minuten](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md)
       + [Documenten: Foutscherm bij downloaden of voorvertonen van element](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)

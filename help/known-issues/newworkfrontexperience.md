@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
+source-git-commit: 2969b042d5328f11800b6f77e5d07dae5001068e
 workflow-type: tm+mt
-source-wordcount: '780'
+source-wordcount: '778'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
-| [Home: geplande uren worden weergegeven in minuten](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md) | 21 mei 2024 |
+| [Groepen: kan subgroep niet toevoegen](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | 23 mei 2024 |
 | [Documenten: Foutscherm bij downloaden of voorvertonen van element](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 20 mei 2024 |
 | [Gebruikers: kan het toegangsniveau van de gebruiker niet wijzigen](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 20 mei 2024 |
 | [Updates: wanneer een vermelding wordt gekopieerd en geplakt, wordt de vermelde gebruiker niet op de hoogte gesteld](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | 10 mei 2024 |
