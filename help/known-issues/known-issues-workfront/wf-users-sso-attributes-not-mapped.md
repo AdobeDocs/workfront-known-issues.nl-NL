@@ -3,15 +3,19 @@ title: "Gebruikers: gebruikerskenmerken worden niet toegewezen aan SSO"
 description: De "Attributen van SSO verschijnen niet in Workfront, alhoewel zij correct in Opstelling zijn gevormd."
 hidefromtoc: true
 feature: People Teams and Groups, System Setup and Administration
-source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
+source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
 
 
 # Gebruikers: gebruikerskenmerken worden niet toegewezen aan SSO
+
+>[!NOTE]
+>
+>Deze kwestie is op 23 mei 2024 opgelost.
 
 De attributen van SSO verschijnen niet in Workfront, alhoewel zij correct in Opstelling zijn gevormd.
 

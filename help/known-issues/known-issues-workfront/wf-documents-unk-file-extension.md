@@ -1,19 +1,23 @@
 ---
-title: "Documents: UNK-bestandsextensie bij het koppelen van documenten van integratie"
-description: "Wanneer een gebruiker een document koppelt vanuit een documentintegratie, wordt het document weergegeven in Workfront met een UNK-bestandsextensie."
+title: 'Documents: UNK-bestandsextensie bij het koppelen van documenten van integratie'
+description: Wanneer een gebruiker een document koppelt vanuit een documentintegratie, wordt het document weergegeven in Workfront met een UNK-bestandsextensie.
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
-source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
+exl-id: ec37dbaa-4776-423d-abeb-a88691d92d16
+source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
 
-
 # Documenten: UNK-bestandsextensie bij het koppelen van documenten van integratie
 
 <!--WF and WFP-->
+
+>[!NOTE]
+>
+>Deze kwestie is gesloten omdat het geen kwestie van Workfront is.
 
 Wanneer een gebruiker een document koppelt vanuit een documentintegratie, wordt het document weergegeven in Workfront met een UNK-bestandsextensie.
 
