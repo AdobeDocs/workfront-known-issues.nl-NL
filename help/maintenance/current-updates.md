@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
+source-git-commit: c3e3297bd52a4189321102e75cd952ac5162f1fa
 workflow-type: tm+mt
-source-wordcount: '3539'
+source-wordcount: '3642'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,28 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2024.
 Voor onderhoudsupdates vóór 2024, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in mei 2024
+
++++ **(Geplande) onderhoudsupdate op 30 mei 2024**
+
+### (Geplande) onderhoudsupdate op 30 mei 2024
+
+#### Aangepaste formulieren
+
+Fout bij het bewerken van beschrijvende tekstvelden
+
+Wanneer een gebruiker probeert de beschrijvende tekst op een aangepast formulier te bewerken, wordt de tekst niet opgeslagen en ziet de gebruiker de volgende fout:
+
+&quot;Dubbele sleutelwaarde schendt unieke restrictie&quot;
+
+Dit is gemeld in de verouderde formulierbuilder.
+
+#### Updates
+
+**Als een vermelding wordt gekopieerd en geplakt, wordt de opgegeven gebruiker niet op de hoogte gesteld**
+
+Wanneer een gebruiker een opmerking kopieert die een vermelding in @-indeling bevat, wordt die opmerking vervolgens in het gedeelte Updates van een ander object geplakt, zodat de vermelde gebruiker geen melding krijgt van de geplakte opmerking.
+
++++
 
 +++ **Onderhoudsupdate op 23 mei 2024**
 
