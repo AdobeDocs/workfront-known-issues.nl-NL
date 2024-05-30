@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d23c66b7f7002647dc4ebb2adc02a6a75130515b
+source-git-commit: bca3fbea3084dbb9fd763bee9f333b37a47bb90a
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '793'
 ht-degree: 0%
 
 ---
@@ -43,11 +43,9 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | [Project: Kan uitgave niet omzetten in project als het document is gekoppeld](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 29 mei 2024 |
 | [Gebruikers: gebruikers ontbreken bij het maken van bulktoewijzingen](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 28 mei 2024 |
 | [Instellen: &quot;Aangemeld als&quot;-banner wordt niet weergegeven wanneer u bent aangemeld als een andere gebruiker](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 24 mei 2024 |
-| [Aangepaste formulieren: fout bij het bewerken van beschrijvende tekstvelden](known-issues-workfront/wf-custom-forms-cannot-edit-description.md) | 24 mei 2024 |
 | [Groepen: kan subgroep niet toevoegen](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | 23 mei 2024 |
 | [Documenten: Foutscherm bij downloaden of voorvertonen van element](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 20 mei 2024 |
 | [Gebruikers: kan het toegangsniveau van de gebruiker niet wijzigen](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 20 mei 2024 |
-| [Updates: wanneer een vermelding wordt gekopieerd en geplakt, wordt de vermelde gebruiker niet op de hoogte gesteld](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | 10 mei 2024 |
 | [Updates: Koppeling in opmerking gaat naar leeg scherm](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 9 mei 2024 |
 | [[!DNL Workfront Goals]: Kan doel niet verwijderen](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 29 april 2024 |
 | [Teams: kan teameigenaar niet weergeven of team verwijderen](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 april 2024 |
