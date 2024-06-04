@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: d23c66b7f7002647dc4ebb2adc02a6a75130515b
+source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
 workflow-type: tm+mt
-source-wordcount: '1849'
+source-wordcount: '1868'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Rapporten: openbare koppelingen naar een rapport werken niet](known-issues-workfront/wf-reports-public-link-not-working.md)
+      + [[!UICONTROL Resource Planner]: Kan filter niet delen](known-issues-workfront/wf-resource-planner-cannot-share-filter.md)
+      + [De werkelijke voltooiingsdatum wordt weergegeven als n.v.t.](known-issues-workfront/wf-projects-completion-date-is-na.md)
       + [Taken: De rol van de baan verdwijnt niet uit lijst wanneer de gebruiker aan taak wordt toegewezen](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
       + [Gebruikers: gebruikers ontbreken bij het maken van bulktoewijzingen](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
       + [Aangepaste formulieren: fout bij het bewerken van beschrijvende tekstvelden](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)

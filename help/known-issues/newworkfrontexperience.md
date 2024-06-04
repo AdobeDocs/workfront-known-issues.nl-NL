@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: bca3fbea3084dbb9fd763bee9f333b37a47bb90a
+source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '809'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Rapporten: openbare koppelingen naar een rapport werken niet](known-issues-workfront/wf-reports-public-link-not-working.md) | 4 juni 2024 |
 | [Taken: De rol van de baan verdwijnt niet uit lijst wanneer de gebruiker aan taak wordt toegewezen](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 29 mei 2024 |
 | [Programma&#39;s: alle toegang tot het programma gaat verloren wanneer de gebruiker toegang tot het programma wordt bijgewerkt](known-issues-workfront/wf-programs-permissions-not-inherited.md) | 20 mei 2024 |
 | [Instellen: &quot;Aangemeld als&quot;-banner wordt niet weergegeven wanneer u bent aangemeld als een andere gebruiker](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 mei 2024 |
@@ -40,9 +41,11 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
-| [Project: Kan uitgave niet omzetten in project als het document is gekoppeld](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 29 mei 2024 |
+| [[!UICONTROL Resource Planner]: Kan filter niet delen](known-issues-workfront/wf-resource-planner-cannot-share-filter.md) | 4 juni 2024 |
+| [De werkelijke voltooiingsdatum wordt weergegeven als n.v.t.](known-issues-workfront/wf-projects-completion-date-is-na.md) | 4 juni 2024 |
+| [Updates: gecodeerde gebruikers kunnen niet zien wie ze labelde](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md) | 4 juni 2024 |
+| [Project: kan uitgave niet converteren naar project als het document is bijgevoegd](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 29 mei 2024 |
 | [Gebruikers: gebruikers ontbreken bij het maken van bulktoewijzingen](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 28 mei 2024 |
-| [Instellen: &quot;Aangemeld als&quot;-banner wordt niet weergegeven wanneer u bent aangemeld als een andere gebruiker](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 24 mei 2024 |
 | [Groepen: kan subgroep niet toevoegen](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | 23 mei 2024 |
 | [Documenten: Foutscherm bij downloaden of voorvertonen van element](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 20 mei 2024 |
 | [Gebruikers: kan het toegangsniveau van de gebruiker niet wijzigen](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 20 mei 2024 |
