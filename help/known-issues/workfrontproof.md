@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
+source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '386'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,8 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documenten: fout bij het gebruik van een openbare koppeling naar een document](known-issues-workfront/wf-documents-public-link-not-working.md) | 5 juni 2024 |
+| [Proefdrukken: kan de proefdrukviewer niet sluiten](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 5 juni 2024 |
 | [Documenten: Foutscherm bij downloaden of voorvertonen van element](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 20 mei 2024 |
 | [Home: De widget voor goedkeuring is niet correct](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8 mei 2024 |
 | [Proefdrukken: gezipte proefdrukken worden niet gegenereerd](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 12 april 2024 |
