@@ -3,9 +3,9 @@ title: "Gebruikers: kan het toegangsniveau van de gebruiker niet wijzigen"
 description: "Wanneer een groepsbeheerder probeert om het toegangsniveau van een gebruiker in de groep te wijzigen, wordt het gebied van het toegangsniveau onbruikbaar gemaakt, en de groepsbeheerder kan niet het toegangsniveau van de gebruiker veranderen."
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
+source-git-commit: 21fbdfeb58b40df15c74d75fc43fe78096828d84
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,9 @@ ht-degree: 0%
 
 # Gebruikers: kan het toegangsniveau van de gebruiker niet wijzigen
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on May 9, 2024.
-
--->
+>Dit probleem is op 6 juni 2024 opgelost.
 
 Wanneer een groepsbeheerder probeert om het toegangsniveau van een gebruiker in de groep te wijzigen, wordt het gebied van het toegangsniveau onbruikbaar gemaakt, en de groepsbeheerder kan niet het toegangsniveau van de gebruiker veranderen.
 

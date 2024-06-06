@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
+source-git-commit: 21fbdfeb58b40df15c74d75fc43fe78096828d84
 workflow-type: tm+mt
-source-wordcount: '3669'
+source-wordcount: '3685'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,13 @@ Voor onderhoudsupdates vóór 2024, zie [Vorige onderhoudsupdates](#previous-mai
 
 +++ **Onderhoudsupdate op 6 juni 2024**
 
-Deze update bevat alleen kleine of minder belangrijke opgeloste problemen. [!DNL Workfront] Ondersteuning geeft een melding wanneer een probleem dat u hebt verzonden, is opgelost.
+### Onderhoudsupdate op 6 juni 2024
+
+#### Aangepaste formulieren
+
+**Beperking voor native velden in de formulierontwerper**
+
+Meerdere native velden worden nu ondersteund op aangepaste formulieren die in de formulierontwerper zijn gemaakt. Eerder was de limiet één native veld per formulier.
 
 +++
 
