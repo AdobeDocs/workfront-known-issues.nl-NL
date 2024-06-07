@@ -1,17 +1,21 @@
 ---
-title: "Proofs: GIFFEN worden weergegeven als statische proefdrukken"
-description: "Wanneer een gebruiker een proef probeert tot stand te brengen van een GIF, wordt het proef gecreeerd met slechts het eerste kader van het GIF als statisch beeld."
+title: 'Proofs: GIFFEN worden gerenderd als statische proefdrukken'
+description: Wanneer een gebruiker een proef probeert tot stand te brengen van een GIF, wordt de proef gecreeerd met slechts het eerste kader van het GIF als statisch beeld.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
+exl-id: 27cfca56-7bf3-45f6-855e-45369ff85bce
+source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
 
-
 # Proofs: GIFFEN worden gerenderd als statische proefdrukken
+
+>[!NOTE]
+>
+>Deze kwestie is vastgesteld op 25 januari 2024.
 
 Wanneer een gebruiker een proef probeert tot stand te brengen van een GIF, wordt de proef gecreeerd met slechts het eerste kader van het GIF als statisch beeld.
 

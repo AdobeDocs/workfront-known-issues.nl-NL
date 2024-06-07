@@ -1,17 +1,21 @@
 ---
 title: "Huis: De taken in projecten met Goedgekeurd of de status van de Planning zijn niet inbegrepen in Mijn Taken of Lijst van het Werk van het Huis"
-description: "De taken van projecten die de goedgekeurde status of de Planning hebben worden niet getoond in Huis. Er is een oplossing beschikbaar."
+description: De taken van projecten die de goedgekeurde status of de Planning hebben worden niet getoond in Huis. Er is een tijdelijke oplossing beschikbaar.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 5b22b37a13774e4552ec9390a70040f0182851d3
+exl-id: 5994508b-ee9f-40a9-bca3-e17d7a7708b5
+source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
 
-
 # Home: De taken in projecten met Goedgekeurde of de status van de Planning zijn niet inbegrepen in Mijn Taken of de Lijst van het Werk van het Huis
+
+>[!NOTE]
+>
+>Het team Product evalueert momenteel deze probleemoplossing. Wanneer dit probleem is opgelost, wordt dit in de productmededelingen vermeld en niet met de onderhoudsupdates.
 
 De taken van projecten die de goedgekeurde status of de Planning hebben worden niet getoond op de volgende gebieden:
 

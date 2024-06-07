@@ -4,18 +4,22 @@ description: Wanneer een gebruiker een taak of kwestie probeert om te zetten die
 hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management
 exl-id: 0022db1d-7ad3-4229-96a8-fb3823e89d9f
-source-git-commit: 170d07d1223b1077e904ea848eeb894b120a974a
+source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
 
 # Proefdrukken: proefdrukken voorkomt conversie van taak of uitgave naar project
 
+>[!NOTE]
+>
+>Het team Product evalueert momenteel deze probleemoplossing. Wanneer dit probleem is opgelost, wordt dit in de productmededelingen vermeld en niet met de onderhoudsupdates.
+
 Wanneer een gebruiker een taak of kwestie probeert om te zetten die een Web geproduceerde proef in een project omvat, wordt het project niet gecreeerd en de gebruiker ziet het volgende bericht:
 
-&quot;[!UICONTROL There was a problem copying the file] xxxxstrong>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\/strong>. [!UICONTROL Please remove the file or contact support and try again.]&quot;
+&quot;[!UICONTROL There was a problem copying the file] \xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\. [!UICONTROL Please remove the file or contact support and try again.]&quot;
 
 **Workaround** s
 
