@@ -1,27 +1,26 @@
 ---
-title: "Proofs: kan de proefdrukviewer niet sluiten"
-description: "Wanneer een gebruiker een proef in de het proefdrukken kijker bekijkt en probeert om de proef te sluiten door X in de hoger-juiste hoek te klikken, sluit de proef niet. Er is een oplossing beschikbaar."
+title: 'Proofs: kan de proefdrukviewer niet sluiten'
+description: Wanneer een gebruiker een proef in de het proefdrukken kijker bekijkt en probeert om de proef te sluiten door X in de hoger-juiste hoek te klikken, sluit de proef niet. Er is een tijdelijke oplossing beschikbaar.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
+exl-id: b35d21a3-6d8b-48af-87fc-e0f63cf0194c
+source-git-commit: db13d8e9f23ef3edc18550c1b502f82212af2282
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
-
 
 # Proefdrukken: kan de proefdrukviewer niet sluiten
 
 Wanneer een gebruiker een proef in de het proefdrukken kijker bekijkt en probeert om de proef te sluiten door X in de hoger-juiste hoek te klikken, sluit de proef niet.
 
-Dit is gemeld wanneer u een bewijs opent via een koppeling in een e-mailbericht.
-
 **Workaround**
 
 Voer een van de volgende handelingen uit:
 
-* Klik op de documentnaam in de e-mail om naar het document te gaan en open vervolgens de proefdruk van daaruit. Hierdoor kan de X naar behoren werken.
+* Klik op de documentnaam in de e-mail om naar het document te gaan en open vervolgens de proefdruk van daaruit. Hierdoor kan de X naar verwachting werken.
+* Sluit de proefdruk opnieuw.
 * Sluit de proefdruk door het browsertabblad te sluiten.
 
 _Voor het eerst gerapporteerd op 31 mei 2024._
