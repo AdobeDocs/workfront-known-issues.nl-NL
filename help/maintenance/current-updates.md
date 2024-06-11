@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 21fbdfeb58b40df15c74d75fc43fe78096828d84
+source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
 workflow-type: tm+mt
-source-wordcount: '3685'
+source-wordcount: '3722'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,18 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2024.
 Voor onderhoudsupdates vóór 2024, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in juni 2024
+
++++**(Geplande) onderhoudsupdate op 13 juni 2024**
+
+### **(Geplande) onderhoudsupdate op 13 juni 2024**
+
+#### Groepen
+
+**Kan subgroep niet toevoegen**
+
+Wanneer een gebruiker een bestaande subgroep aan een groep probeert toe te voegen, is de knop Opslaan niet effectief en wordt de subgroep niet toegevoegd.
+
++++
 
 +++ **Onderhoudsupdate op 6 juni 2024**
 

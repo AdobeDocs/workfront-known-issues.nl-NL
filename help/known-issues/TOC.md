@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
+source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
 workflow-type: tm+mt
-source-wordcount: '1889'
+source-wordcount: '1899'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Navigatie: de knop Terug gaat niet terug naar de vorige pagina](known-issues-workfront/wf-navigation-back-button-not-work.md)
       + [Documenten: fout bij het gebruik van een openbare koppeling naar een document](known-issues-workfront/wf-documents-public-link-not-working.md)
       + [Proefdrukken: kan de proefdrukviewer niet sluiten](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
       + [Projecten: het menu Delen wordt niet geladen](known-issues-workfront/wf-projects-cannot-share-task-issue.md)

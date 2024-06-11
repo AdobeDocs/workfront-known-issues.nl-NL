@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: db13d8e9f23ef3edc18550c1b502f82212af2282
+source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
 workflow-type: tm+mt
-source-wordcount: '746'
+source-wordcount: '753'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Navigatie: de knop Terug gaat niet terug naar de vorige pagina](known-issues-workfront/wf-navigation-back-button-not-work.md) | 11 juni 2024 |
 | [Instellen: &quot;Aangemeld als&quot;-banner wordt niet weergegeven wanneer u bent aangemeld als een andere gebruiker](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 mei 2024 |
 
 {style="table-layout:auto"}
@@ -39,7 +40,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | [Taken: De rol van de baan verdwijnt niet uit lijst wanneer de gebruiker aan taak wordt toegewezen](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 7 juni 2024 |
 | [Documenten: fout bij het gebruik van een openbare koppeling naar een document](known-issues-workfront/wf-documents-public-link-not-working.md) | 5 juni 2024 |
 | [Proefdrukken: kan de proefdrukviewer niet sluiten](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 5 juni 2024 |
-| [[!UICONTROL Resource Planner]: Kan filter niet delen](known-issues-workfront/wf-resource-planner-cannot-share-filter.md) | 4 juni 2024 |
 | [Project: kan uitgave niet converteren naar project als het document is bijgevoegd](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 29 mei 2024 |
 | [Gebruikers: gebruikers ontbreken bij het maken van bulktoewijzingen](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 28 mei 2024 |
 | [Groepen: kan subgroep niet toevoegen](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | 23 mei 2024 |
