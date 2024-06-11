@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
+source-git-commit: d7fcf78cf775977ff1a058b88e9b8bbbcc079a06
 workflow-type: tm+mt
-source-wordcount: '753'
+source-wordcount: '743'
 ht-degree: 0%
 
 ---
@@ -76,7 +76,6 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 | [Proefdrukken: proefdrukken worden niet weergegeven in goedgekeurde rapporten](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 3 augustus 2023 |
 | [[!UICONTROL Setup]: Kan auditlogs niet exporteren](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md) | 20 juli 2023 |
 | [Proefdrukken: proefdrukken worden langzaam gemaakt in de voorvertoningsomgeving](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 8 juni 2023 |
-| [Aangepaste formulieren: &quot;[!UICONTROL Whoops]&quot; fout bij het instellen van een berekend veld](known-issues-workfront/inactive/wf-custom-forms-error-with-calculated-field.md) | 5 mei 2023 |
 | [Documenten: [!UICONTROL Proofing Activities] opties leiden tot aanmeldingspagina](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md) | 21 april 2023 |
 | [Filters: kan geen filter delen uit een rapport op een dashboard](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md) | 11 april 2023 |
 | [Proefdrukken: gereedschap Meten accepteert geen decimale punten](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 27 maart 2023 |
