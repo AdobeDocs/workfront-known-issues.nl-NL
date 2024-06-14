@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: adfa446a98afa884e49823fbfbd21a83d6dddcc3
+source-git-commit: f78fa5cbcd333b4e2534f2b0dedf603eb915996a
 workflow-type: tm+mt
-source-wordcount: '742'
+source-wordcount: '761'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,8 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integraties: problemen met de integratie van Dropboxxen](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 14 juni 2024 |
+| [Rapporten: Fout bij het bekijken van rapportdetails die door douanedatum worden gegroepeerd](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 14 juni 2024 |
 | [Resourceplanning: [!UICONTROL More] de knop is niet zichtbaar](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | 14 juni 2024 |
 | [Navigatie: de knop Terug gaat niet terug naar de vorige pagina](known-issues-workfront/wf-navigation-back-button-not-work.md) | 11 juni 2024 |
 | [Instellen: &quot;Aangemeld als&quot;-banner wordt niet weergegeven wanneer u bent aangemeld als een andere gebruiker](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 mei 2024 |

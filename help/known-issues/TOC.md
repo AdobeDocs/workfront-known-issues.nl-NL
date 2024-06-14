@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 4d5f810258b537324feb23e53f370a2c55877a0b
+source-git-commit: 82b4e84ed06aab1c4f6da30196f000413f910706
 workflow-type: tm+mt
-source-wordcount: '1512'
+source-wordcount: '1529'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Integraties: problemen met de integratie van Dropboxxen](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
+      + [Rapporten: Fout bij het bekijken van rapportdetails die door douanedatum worden gegroepeerd](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
       + [Home: De widget voor goedkeuring is niet correct](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + [Resourceplanning: [!UICONTROL More] de knop is niet zichtbaar](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
       + [Statussen: kan eerder verwijderde status niet opnieuw gebruiken](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
