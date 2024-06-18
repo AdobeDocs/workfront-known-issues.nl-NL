@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: aa221eafef81c6bdd29f8286f44e924323744625
+source-git-commit: 08976071e8d1b25a8bc1e3e63b698e9d760d8f91
 workflow-type: tm+mt
-source-wordcount: '770'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Rapporten: &quot;Geen gegevens om weer te geven&quot; wanneer de naam van het groeperen een slash of backslash heeft](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | 18 juni 2024 |
 | [Integraties: problemen met de integratie van Dropboxxen](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 14 juni 2024 |
 | [Rapporten: Fout bij het bekijken van rapportdetails die door douanedatum worden gegroepeerd](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 14 juni 2024 |
 | [Resourceplanning: [!UICONTROL More] de knop is niet zichtbaar](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | 14 juni 2024 |
