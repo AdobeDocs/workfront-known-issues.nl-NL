@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 08976071e8d1b25a8bc1e3e63b698e9d760d8f91
+source-git-commit: 865816354c9891a4ad15985e8679b59dcce8ad24
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '793'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [Updates: gekopieerde koppeling wordt niet correct geplakt](known-issues-workfront/wf-updates-pasted-link-not-complete.md) | 19 juni 2024 |
 | [Documenten: Foutscherm bij downloaden of voorvertonen van element](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 17 juni 2024 |
 | [Programma&#39;s: alle toegang tot het programma gaat verloren wanneer de gebruiker toegang tot het programma wordt bijgewerkt](known-issues-workfront/wf-programs-permissions-not-inherited.md) | 7 juni 2024 |
 | [Taken: De rol van de baan verdwijnt niet uit lijst wanneer de gebruiker aan taak wordt toegewezen](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 7 juni 2024 |

@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 41daceaf1b4300b4d71a459e3203d5a387ab1c28
+source-git-commit: 54183096bca61f6bf6e58062555b9e07282137f1
 workflow-type: tm+mt
-source-wordcount: '3720'
+source-wordcount: '3824'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,27 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2024.
 Voor onderhoudsupdates vóór 2024, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in juni 2024
+
++++**(Geplande) onderhoudsupdate op 20 juni 2024**
+
+### (Geplande) onderhoudsupdate op 20 juni 2024
+
+#### Navigatie
+
+**De knop Terug gaat niet terug naar de vorige pagina**
+
+Wanneer een gebruiker in Workfront op de knop Terug van zijn browser klikt, kan een van de volgende situaties optreden.
+
+* De naam van het browsertabblad verandert niet, maar de pagina verandert niet. Het probleem kan worden opgelost door nogmaals op de knop Terug te klikken.
+* De gebruiker wordt naar de landingspagina van zijn browser gebracht.
+
+#### Proefdrukken
+
+**Kan de proefdrukviewer niet sluiten**
+
+Wanneer een gebruiker een proef in de het proefdrukken kijker bekijkt en probeert om de proef te sluiten door X in de hoger-juiste hoek te klikken, sluit de proef niet.
+
++++
 
 +++**Onderhoudsupdate op 13 juni 2024**
 
