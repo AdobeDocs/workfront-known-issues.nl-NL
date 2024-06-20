@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 865816354c9891a4ad15985e8679b59dcce8ad24
+source-git-commit: 1857044b49332a4c49fcc440d935937dc937c61d
 workflow-type: tm+mt
-source-wordcount: '1550'
+source-wordcount: '1554'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Goedkeuringen: Te veel omleidingen](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
       + [Updates: gekopieerde koppeling wordt niet correct geplakt](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
       + [Rapporten: &quot;Geen gegevens om weer te geven&quot; wanneer de naam van het groeperen een slash of backslash heeft](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
       + [Integraties: problemen met de integratie van Dropboxxen](known-issues-workfront/wf-integrations-issues-with-dropbox.md)

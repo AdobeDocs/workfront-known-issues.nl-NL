@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 865816354c9891a4ad15985e8679b59dcce8ad24
+source-git-commit: 1857044b49332a4c49fcc440d935937dc937c61d
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '766'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Goedkeuringen: Te veel omleidingen](known-issues-workfront/wf-approvals-redirect-too-many-times.md) | 20 juni 2024 |
 | [Rapporten: &quot;Geen gegevens om weer te geven&quot; wanneer de naam van het groeperen een slash of backslash heeft](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | 18 juni 2024 |
 | [Integraties: problemen met de integratie van Dropboxxen](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 14 juni 2024 |
 | [Rapporten: Fout bij het bekijken van rapportdetails die door douanedatum worden gegroepeerd](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 14 juni 2024 |
 | [Resourceplanning: [!UICONTROL More] de knop is niet zichtbaar](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | 14 juni 2024 |
-| [Navigatie: de knop Terug gaat niet terug naar de vorige pagina](known-issues-workfront/wf-navigation-back-button-not-work.md) | 11 juni 2024 |
 | [Instellen: &quot;Aangemeld als&quot;-banner wordt niet weergegeven wanneer u bent aangemeld als een andere gebruiker](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 mei 2024 |
 
 {style="table-layout:auto"}
@@ -42,10 +42,8 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 |----------------------------------| ----------------- |
 | [Updates: gekopieerde koppeling wordt niet correct geplakt](known-issues-workfront/wf-updates-pasted-link-not-complete.md) | 19 juni 2024 |
 | [Documenten: Foutscherm bij downloaden of voorvertonen van element](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 17 juni 2024 |
-| [Programma&#39;s: alle toegang tot het programma gaat verloren wanneer de gebruiker toegang tot het programma wordt bijgewerkt](known-issues-workfront/wf-programs-permissions-not-inherited.md) | 7 juni 2024 |
 | [Taken: De rol van de baan verdwijnt niet uit lijst wanneer de gebruiker aan taak wordt toegewezen](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 7 juni 2024 |
 | [Documenten: fout bij het gebruik van een openbare koppeling naar een document](known-issues-workfront/wf-documents-public-link-not-working.md) | 5 juni 2024 |
-| [Proefdrukken: kan de proefdrukviewer niet sluiten](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 5 juni 2024 |
 | [Project: kan uitgave niet converteren naar project als het document is bijgevoegd](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 29 mei 2024 |
 | [Gebruikers: gebruikers ontbreken bij het maken van bulktoewijzingen](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 28 mei 2024 |
 | [Teams: kan teameigenaar niet weergeven of team verwijderen](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 april 2024 |
