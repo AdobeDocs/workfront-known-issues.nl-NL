@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 1857044b49332a4c49fcc440d935937dc937c61d
+source-git-commit: 0c35343702267443ecc8cc3c506f941ed479b81e
 workflow-type: tm+mt
-source-wordcount: '1554'
+source-wordcount: '1565'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Home: De widget Mijn problemen geeft geen afgesloten of voltooide problemen weer](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
       + [Goedkeuringen: Te veel omleidingen](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
       + [Updates: gekopieerde koppeling wordt niet correct geplakt](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
       + [Rapporten: &quot;Geen gegevens om weer te geven&quot; wanneer de naam van het groeperen een slash of backslash heeft](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
