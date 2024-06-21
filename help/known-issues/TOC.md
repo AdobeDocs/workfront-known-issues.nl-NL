@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0c35343702267443ecc8cc3c506f941ed479b81e
+source-git-commit: 9b8060b70250b75f8777e8815af45ec525c4e860
 workflow-type: tm+mt
-source-wordcount: '1565'
+source-wordcount: '1584'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Rapporten: rapport wordt niet geladen wanneer de standaardvaluta USD is](known-issues-workfront/wf-reports-default-currency-error.md)
+      + [Borden: bord wordt niet weergegeven als gebruiker bij gebruik van [!UICONTROL Log in as]](known-issues-workfront/wf-boards-log-in-as.md)
       + [Home: De widget Mijn problemen geeft geen afgesloten of voltooide problemen weer](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
       + [Goedkeuringen: Te veel omleidingen](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
       + [Updates: gekopieerde koppeling wordt niet correct geplakt](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
