@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9b8060b70250b75f8777e8815af45ec525c4e860
+source-git-commit: d34df8cd575d6b17a02bc4ed25fa5ca891c2afe7
 workflow-type: tm+mt
-source-wordcount: '794'
+source-wordcount: '792'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proefdrukken: als u op de naam van een proefdruk klikt, wordt het scherm leeg.](known-issues-workfront/wf-proofs-go-to-blank-screen.md) | 21 juni 2024 |
 | [Borden: bord wordt niet weergegeven als gebruiker bij gebruik van [!UICONTROL Log in as]](known-issues-workfront/wf-boards-log-in-as.md) | 21 juni 2024 |
 | [Rapporten: &quot;Geen gegevens om weer te geven&quot; wanneer de naam van het groeperen een slash of backslash heeft](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | 18 juni 2024 |
 | [Integraties: problemen met de integratie van Dropboxxen](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 14 juni 2024 |
@@ -44,7 +45,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | [Updates: gekopieerde koppeling wordt niet correct geplakt](known-issues-workfront/wf-updates-pasted-link-not-complete.md) | 19 juni 2024 |
 | [Documenten: Foutscherm bij downloaden of voorvertonen van element](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 17 juni 2024 |
 | [Taken: De rol van de baan verdwijnt niet uit lijst wanneer de gebruiker aan taak wordt toegewezen](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 7 juni 2024 |
-| [Documenten: fout bij het gebruik van een openbare koppeling naar een document](known-issues-workfront/wf-documents-public-link-not-working.md) | 5 juni 2024 |
 | [Project: kan uitgave niet converteren naar project als het document is bijgevoegd](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 29 mei 2024 |
 | [Gebruikers: gebruikers ontbreken bij het maken van bulktoewijzingen](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 28 mei 2024 |
 | [Teams: kan teameigenaar niet weergeven of team verwijderen](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 april 2024 |

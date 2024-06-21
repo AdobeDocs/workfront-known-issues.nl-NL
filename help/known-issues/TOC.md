@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9b8060b70250b75f8777e8815af45ec525c4e860
+source-git-commit: d34df8cd575d6b17a02bc4ed25fa5ca891c2afe7
 workflow-type: tm+mt
-source-wordcount: '1584'
+source-wordcount: '1592'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Proefdrukken: als u op de naam van een proefdruk klikt, wordt het scherm leeg.](known-issues-workfront/wf-proofs-go-to-blank-screen.md)
       + [Rapporten: rapport wordt niet geladen wanneer de standaardvaluta USD is](known-issues-workfront/wf-reports-default-currency-error.md)
       + [Borden: bord wordt niet weergegeven als gebruiker bij gebruik van [!UICONTROL Log in as]](known-issues-workfront/wf-boards-log-in-as.md)
       + [Home: De widget Mijn problemen geeft geen afgesloten of voltooide problemen weer](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
