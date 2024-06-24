@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 81681ce1ed977fe43ae323d9d5d1bbe0b1d90d7d
+source-git-commit: 931eafb88b877ec004dc360b9063a253de2bafbc
 workflow-type: tm+mt
-source-wordcount: '1601'
+source-wordcount: '1610'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Proefdrukken: als u een proefdruk sluit, wordt de pagina Productdocumenten weergegeven](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md)
       + [Integraties: kan geen nieuwe versie van een document toevoegen vanuit [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)
       + [Proefdrukken: als u op de naam van een proefdruk klikt, wordt het scherm leeg.](known-issues-workfront/wf-proofs-go-to-blank-screen.md)
       + [Rapporten: rapport wordt niet geladen wanneer de standaardvaluta USD is](known-issues-workfront/wf-reports-default-currency-error.md)

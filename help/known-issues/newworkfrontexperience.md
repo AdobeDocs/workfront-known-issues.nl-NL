@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 875945978c7bdb4a7128ade826b6fbc31da04ae9
+source-git-commit: 931eafb88b877ec004dc360b9063a253de2bafbc
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '803'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Proefdrukken: als u een proefdruk sluit, wordt de pagina Productdocumenten weergegeven](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | 24 juni 2024 |
 | [Integraties: kan geen nieuwe versie van een document toevoegen vanuit [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | 24 juni 2024 |
 | [Proefdrukken: als u op de naam van een proefdruk klikt, wordt het scherm leeg.](known-issues-workfront/wf-proofs-go-to-blank-screen.md) | 21 juni 2024 |
 | [Borden: bord wordt niet weergegeven als gebruiker bij gebruik van [!UICONTROL Log in as]](known-issues-workfront/wf-boards-log-in-as.md) | 21 juni 2024 |
