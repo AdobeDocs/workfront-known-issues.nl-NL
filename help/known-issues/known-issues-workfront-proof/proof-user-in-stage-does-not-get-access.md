@@ -1,20 +1,20 @@
 ---
-title: 'Proefdrukken: Het bewijs wordt niet gedeeld aan gebruikers op de Werkstroom van het Bewijs'''
+title: "Proofs: Proefdrukken worden niet gedeeld aan gebruikers op de proefstroom"
 description: Wanneer een proef een stadium in een werkschema bereikt waaraan een gebruiker bij proefverwezenlijking is toegevoegd, wordt de proef niet gedeeld met de gebruiker, en de gebruiker kan niet tot de proef toegang hebben.
 hidefromtoc: true
 exl-id: c3b8cc45-5181-4335-8188-56ca942925f0
 feature: Workfront Proof
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: 1aed6a440155c99f8ce0b0f42c44dd9a3c660af4
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-# Proefdrukken: Het bewijs wordt niet gedeeld aan gebruikers op het Proef Werkschema
+# Proefdrukken: proefdrukken worden niet gedeeld aan gebruikers op de proefwerkstroom
 
 <!--This issue is on the WF and WFP TOCs-->
-<!--Requested article-->
+<!--Requested article, live for workaround-->
 
 >[!NOTE]
 >
