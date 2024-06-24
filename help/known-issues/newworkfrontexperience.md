@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d34df8cd575d6b17a02bc4ed25fa5ca891c2afe7
+source-git-commit: 81681ce1ed977fe43ae323d9d5d1bbe0b1d90d7d
 workflow-type: tm+mt
-source-wordcount: '792'
+source-wordcount: '802'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integraties: kan geen nieuwe versie van een document toevoegen vanuit [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | 24 juni 2024 |
 | [Proefdrukken: als u op de naam van een proefdruk klikt, wordt het scherm leeg.](known-issues-workfront/wf-proofs-go-to-blank-screen.md) | 21 juni 2024 |
 | [Borden: bord wordt niet weergegeven als gebruiker bij gebruik van [!UICONTROL Log in as]](known-issues-workfront/wf-boards-log-in-as.md) | 21 juni 2024 |
 | [Rapporten: &quot;Geen gegevens om weer te geven&quot; wanneer de naam van het groeperen een slash of backslash heeft](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | 18 juni 2024 |
