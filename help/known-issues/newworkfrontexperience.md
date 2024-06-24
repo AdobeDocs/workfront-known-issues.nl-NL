@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 81681ce1ed977fe43ae323d9d5d1bbe0b1d90d7d
+source-git-commit: 875945978c7bdb4a7128ade826b6fbc31da04ae9
 workflow-type: tm+mt
-source-wordcount: '802'
+source-wordcount: '793'
 ht-degree: 0%
 
 ---
@@ -77,7 +77,6 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 | [[!DNL Workfront Proof]: Kan werkstroom niet uitvouwen](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25 oktober 2023 |
 | [[!UICONTROL Home]: &quot;[!UICONTROL Mentions]&quot;-widget in nieuw [!UICONTROL Home] is niet beperkt tot berichten waarin de gebruiker een tag heeft](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md) | 25 september 2023 |
 | [[!UICONTROL Home]: Nieuw [!UICONTROL Home] widgetvoorvertoning geeft de juiste naam van het object niet weer](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 7 september 2023 |
-| [Lay-outsjablonen: Lay-outsjablonen veroorzaken inconsistenties in rapporten](known-issues-workfront/inactive/wf-layout-templates-classic.md) | 21 augustus 2023 |
 | [Proefdrukken: goedkeuringsopties worden niet weergegeven in [!UICONTROL Proofing Viewer]](known-issues-workfront/inactive/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 10 augustus 2023 |
 | [Proefdrukken: proefdrukken worden niet weergegeven in goedgekeurde rapporten](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 3 augustus 2023 |
 | [[!UICONTROL Setup]: Kan auditlogs niet exporteren](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md) | 20 juli 2023 |

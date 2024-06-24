@@ -4,7 +4,7 @@ description: Wanneer een gebruiker toegang probeert te krijgen tot een document 
 hidefromtoc: true
 feature: Digital Content and Documents, Workfront Integrations and Apps
 exl-id: b86ec92b-a27f-4ec3-acc2-0f0118014760
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
+source-git-commit: 875945978c7bdb4a7128ade826b6fbc31da04ae9
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
@@ -23,6 +23,6 @@ Dit is een bekend [!DNL SharePoint] probleem dat optreedt wanneer de site een &#
 
 **Workaround**
 
-[!DNL SharePoint] Het verdient aanbeveling een korte URL te genereren en die te gebruiken voor de koppeling.
+[!DNL SharePoint] Het wordt aanbevolen een korte URL te genereren en die voor de koppeling te gebruiken.
 
 _Voor het eerst gerapporteerd op 14 maart 2023._

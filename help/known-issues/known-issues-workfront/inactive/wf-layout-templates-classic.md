@@ -4,16 +4,20 @@ description: Layoutsjablonen uit de klassieke Workfront-ervaring zijn niet meer 
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 1542291f-4797-477e-83b8-0706ac6801ae
-source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
+source-git-commit: 875945978c7bdb4a7128ade826b6fbc31da04ae9
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
 
 # Lay-outsjablonen: Lay-outsjablonen veroorzaken inconsistenties in rapporten
 
-<!--Live for workaround-->
+<!--Can delete after 9/24/2024-->
+
+>[!NOTE]
+>
+>Dit probleem is opgelost.
 
 Lay-outsjablonen vanuit de klassieke [!DNL Workfront] de ervaring is niet meer beschikbaar in het dialoogvenster [!DNL Workfront] interface, maar kan nog beïnvloeden [!DNL Workfront] gegevens. Dit kan inconsistenties veroorzaken in velden die worden beïnvloed door lay-outsjablonen (zoals [!UICONTROL Shared with]) op rapporten of dashboards.
 
