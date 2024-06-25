@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: b48bf247fd2ccdffc996a8f205e3586aea1338c1
+source-git-commit: 7e617a611bf88f2133ba83746596f6336efa1593
 workflow-type: tm+mt
-source-wordcount: '3927'
+source-wordcount: '3979'
 ht-degree: 0%
 
 ---
@@ -39,6 +39,14 @@ Wanneer een gebruiker probeert om een rapport te bekijken dat de standaardmunt a
 Als een gebruiker een koppeling uit een update kopieert door met de rechtermuisknop te klikken en &quot;[!UICONTROL Copy link address]&quot;, plakt de koppeling vervolgens in een update, de koppeling wordt niet correct geplakt. Alleen het eerste deel van de koppeling is een koppeling en de rest van de URL wordt genegeerd.
 
 De koppeling kopiëren met een andere methode &quot;[!UICONTROL Copy link address]&quot; staat de verbinding toe om te kleven zoals verwacht.
+
+#### Gebruikers
+
+**Gebruikers die ontbreken bij het maken van bulktoewijzingen**
+
+Wanneer een gebruiker probeert om bulktoewijzingen te maken, en een baanrol wordt toegewezen aan de taak, verschijnen de gebruikers met die baanrol niet in de lijst, en de toewijzende gebruiker kan hen niet selecteren.
+
+Dit gedrag is ook gemeld in Workload Balancer.
 
 +++
 
