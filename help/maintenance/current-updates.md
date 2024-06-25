@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 1857044b49332a4c49fcc440d935937dc937c61d
+source-git-commit: b48bf247fd2ccdffc996a8f205e3586aea1338c1
 workflow-type: tm+mt
-source-wordcount: '3822'
+source-wordcount: '3927'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,26 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2024.
 Voor onderhoudsupdates vóór 2024, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
 
 ## Updates in juni 2024
+
++++**(Geplande) onderhoudsupdate op 27 juni 2024**
+
+### (Geplande) onderhoudsupdate op 27 juni 2024
+
+#### Rapporten
+
+**Rapport wordt niet geladen wanneer de standaardvaluta USD is**
+
+Wanneer een gebruiker probeert om een rapport te bekijken dat de standaardmunt als USD heeft, laadt het rapport niet.
+
+#### Updates
+
+**Gekopieerde koppeling wordt niet correct geplakt**
+
+Als een gebruiker een koppeling uit een update kopieert door met de rechtermuisknop te klikken en &quot;[!UICONTROL Copy link address]&quot;, plakt de koppeling vervolgens in een update, de koppeling wordt niet correct geplakt. Alleen het eerste deel van de koppeling is een koppeling en de rest van de URL wordt genegeerd.
+
+De koppeling kopiëren met een andere methode &quot;[!UICONTROL Copy link address]&quot; staat de verbinding toe om te kleven zoals verwacht.
+
++++
 
 +++**Onderhoudsupdate op 20 juni 2024**
 
