@@ -4,14 +4,18 @@ description: Als een gebruiker een koppeling uit een update kopieert door met de
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 04f96b95-19a3-476b-b2c1-6c6e439d437a
-source-git-commit: b48bf247fd2ccdffc996a8f205e3586aea1338c1
+source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
 # Updates: gekopieerde koppeling wordt niet correct geplakt
+
+>[!NOTE]
+>
+>Dit probleem is op 27 juni 2024 opgelost.
 
 Als een gebruiker een koppeling uit een update kopieert door met de rechtermuisknop te klikken en &quot;[!UICONTROL Copy link address]&quot;, plakt de koppeling vervolgens in een update, de koppeling wordt niet correct geplakt. Alleen het eerste deel van de koppeling is een koppeling en de rest van de URL wordt genegeerd.
 
