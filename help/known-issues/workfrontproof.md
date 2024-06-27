@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 0f4fc146fd36ce883ba9a738559bc8843bd73393
+source-git-commit: 60c6e186749992b8e56efae2a1d7511c8bb5e4db
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | -----------------------------------------------------------------| ----------------- |
 | [Documenten: fout bij het gebruik van een openbare koppeling naar een document](known-issues-workfront/wf-documents-public-link-not-working.md) | 5 juni 2024 |
 | [Proefdrukken: kan de proefdrukviewer niet sluiten](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 5 juni 2024 |
-| [Documenten: Foutscherm bij downloaden of voorvertonen van element](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 20 mei 2024 |
 | [Home: De widget voor goedkeuring is niet correct](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8 mei 2024 |
 | [Project: Kan uitgave niet converteren naar project als een webproefdruk is bijgevoegd](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 22 maart 2024 |
 | [Proefdrukken: Fout bij het openen van proefdrukken via e-mailkoppeling](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 november 2023 |
@@ -58,7 +57,7 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 | [Proefdrukken: fout bij het delen van proefdrukken via e-mailkoppeling](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 16 november 2023 |
 | [[!DNL Workfront Proof]: Kan werkstroom niet uitvouwen](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25 oktober 2023 |
 | [Workfront Proof: dashboardgegevens zijn niet altijd nauwkeurig](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 19 september 2023 |
-| [Workfront Proof: zoekgegevens zijn niet altijd correct](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | 19 september 2023 |
+| [Workfront Proof: zoekgegevens zijn niet altijd nauwkeurig](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | 19 september 2023 |
 | [Proefdrukken: proefdrukken worden niet weergegeven in goedgekeurde rapporten](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 3 augustus 2023 |
 | [Proefdrukken: proefdrukken worden langzaam gemaakt in de voorvertoningsomgeving](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 9 juni 2023 |
 | [Proefdrukken: proefdrukken worden langzaam gemaakt in de voorvertoningsomgeving](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 8 juni 2023 |

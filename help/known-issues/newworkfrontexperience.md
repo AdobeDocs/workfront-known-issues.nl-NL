@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
+source-git-commit: 60c6e186749992b8e56efae2a1d7511c8bb5e4db
 workflow-type: tm+mt
-source-wordcount: '795'
+source-wordcount: '779'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,6 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | [Rapporten: &quot;Geen gegevens om weer te geven&quot; wanneer de naam van het groeperen een slash of backslash heeft](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | 18 juni 2024 |
 | [Integraties: problemen met de integratie van Dropboxxen](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 14 juni 2024 |
 | [Rapporten: Fout bij het bekijken van rapportdetails die door douanedatum worden gegroepeerd](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 14 juni 2024 |
-| [Resourceplanning: [!UICONTROL More] de knop is niet zichtbaar](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | 14 juni 2024 |
 | [Instellen: &quot;Aangemeld als&quot;-banner wordt niet weergegeven wanneer u bent aangemeld als een andere gebruiker](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 mei 2024 |
 
 {style="table-layout:auto"}
@@ -44,7 +43,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
-| [Documenten: Foutscherm bij downloaden of voorvertonen van element](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 17 juni 2024 |
 | [Taken: De rol van de baan verdwijnt niet uit lijst wanneer de gebruiker aan taak wordt toegewezen](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 7 juni 2024 |
 | [Project: kan uitgave niet converteren naar project als het document is bijgevoegd](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 29 mei 2024 |
 | [Gebruikers: gebruikers ontbreken bij het maken van bulktoewijzingen](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 28 mei 2024 |
