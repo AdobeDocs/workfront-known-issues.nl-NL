@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0f4fc146fd36ce883ba9a738559bc8843bd73393
+source-git-commit: f05ce2d8659b7ae7bf636d5585c78483c4bcfe5d
 workflow-type: tm+mt
-source-wordcount: '1620'
+source-wordcount: '1638'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Projecten: Fout bij het bulkbewerken van projecten](known-issues-workfront/wf-projects-error-when-bulk-editing.md)
+      + [Taken: zoeken naar voornaam in taaktoewijzing retourneert geen gebruikers](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
       + [Integraties: map koppelen van [!DNL Google Drive] koppelt geen elementen in map](known-issues-workfront/wf-integration-google-folder-not-link-assets.md)
       + [Proefdrukken: als u een proefdruk sluit, wordt de pagina Productdocumenten weergegeven](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md)
       + [Integraties: kan geen nieuwe versie van een document toevoegen vanuit [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)
@@ -194,7 +196,7 @@ ht-degree: 0%
       + [[!DNL Workfront Proof]: Onnauwkeurige tijdstempel ingeschakeld [!UICONTROL Proof Summary]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!DNL Workfront Proof]: Kan werkstroom niet uitvouwen](known-issues-workfront-proof/proof-cannot-view-workflow.md)
       + [Workfront Proof: dashboardgegevens zijn niet altijd nauwkeurig](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
-      + [Workfront Proof: zoekgegevens zijn niet altijd correct](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
+      + [Workfront Proof: zoekgegevens zijn niet altijd nauwkeurig](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
       + [Proefdrukken: proefdrukken worden langzaam gemaakt in de voorvertoningsomgeving](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
       + [[!DNL Workfront Proof]: 500 fout bij toegang [!DNL Workfront Proof] via API of [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof]: Lijsten worden niet correct gesorteerd](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
