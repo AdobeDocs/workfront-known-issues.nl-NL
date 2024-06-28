@@ -4,18 +4,22 @@ description: Wanneer een gebruiker in Workfront op de knop Terug van zijn browse
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: cba19c37-ca23-4eb6-93d5-b4ad7ab00c28
-source-git-commit: 1857044b49332a4c49fcc440d935937dc937c61d
+source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
 
 # Navigatie: de knop Terug gaat niet terug naar de vorige pagina
 
+<!--
+
 >[!NOTE]
 >
->Dit probleem is op 20 juni 2024 opgelost.
+>This issue was fixed on June 20, 2024.
+
+-->
 
 Wanneer een gebruiker in Workfront op de knop Terug van zijn browser klikt, kan een van de volgende situaties optreden.
 
