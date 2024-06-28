@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
+source-git-commit: 03957afbedfc08809d885f26239f47e09ca3f263
 workflow-type: tm+mt
-source-wordcount: '3925'
+source-wordcount: '3951'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,12 @@ Voor onderhoudsupdates vóór 2024, zie [Vorige onderhoudsupdates](#previous-mai
 +++**Onderhoudsupdate op 27 juni 2024**
 
 ### Onderhoudsupdate op 27 juni 2024
+
+#### Borden
+
+**Alleen de eigenaar van de kaart kan de configuratiefilters bijwerken**
+
+Om veiligheidsredenen kan alleen de eigenaar van een board de bordfilters wijzigen in het deelvenster Configureren.
 
 #### Rapporten
 
