@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
+source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
 workflow-type: tm+mt
-source-wordcount: '807'
+source-wordcount: '817'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Factureringsrecords: knop Meer factureringsrecords toevoegen ontbreekt](known-issues-workfront/wf-billing-records-new-button-missing.md) | 28 juni 2024 |
 | [Documenten: aantal documenten is onjuist](known-issues-workfront/wf-documents-count-only-root-folder.md) | 28 juni 2024 |
 | [Navigatie: de knop Terug gaat niet terug naar de vorige pagina](known-issues-workfront/wf-navigation-back-button-not-work.md) | 28 juni 2024 |
 | [Projecten: Fout bij het bulkbewerken van projecten](known-issues-workfront/wf-projects-error-when-bulk-editing.md) | 27 juni 2024 |

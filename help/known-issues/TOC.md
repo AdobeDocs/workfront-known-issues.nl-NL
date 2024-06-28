@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor [!DNL Adobe Workfront]
 role: User
-source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
+source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
 workflow-type: tm+mt
-source-wordcount: '1643'
+source-wordcount: '1652'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Factureringsrecords: knop Meer factureringsrecords toevoegen ontbreekt](known-issues-workfront/wf-billing-records-new-button-missing.md)
       + [Documenten: aantal documenten is onjuist](known-issues-workfront/wf-documents-count-only-root-folder.md)
       + [Projecten: Fout bij het bulkbewerken van projecten](known-issues-workfront/wf-projects-error-when-bulk-editing.md)
       + [Taken: zoeken naar voornaam in taaktoewijzing retourneert geen gebruikers](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
