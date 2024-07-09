@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: e64b507317a384626b33f81802737c17b210af24
+source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '444'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Mobile: kan geen proefdrukken openen](known-issues-workfront/wf-mobile-proofs-not-open.md) | 9 juli 2024 |
 | [Meldingen: Miniaturen zijn niet zichtbaar in e-mailmeldingen](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 juli 2024 |
 | [Aangepaste formulieren: aangepast formulier wordt niet uit document verwijderd](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 8 juli 2024 |
 | [Documenten: aantal documenten is onjuist](known-issues-workfront/wf-documents-count-only-root-folder.md) | 28 juni 2024 |

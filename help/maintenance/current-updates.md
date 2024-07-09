@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 03957afbedfc08809d885f26239f47e09ca3f263
+source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
 workflow-type: tm+mt
-source-wordcount: '3951'
+source-wordcount: '4175'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,56 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2024.
 >Deze updates bevatten ook andere kleine of minder duidelijke foutoplossingen. [!DNL Workfront] Ondersteuning geeft een melding wanneer een probleem dat u hebt verzonden, is opgelost.
 
 Voor onderhoudsupdates vóór 2024, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
+
+## Updates in juli 2024
+
++++**(Geplande) onderhoudsupdate op 11 juli 2024**
+
+### (Geplande) onderhoudsupdate op 11 juli 2024
+
+#### Problemen
+
+**Fout bij het maken van een geavanceerde toewijzing aan een uitgave**
+
+Wanneer een gebruiker een geavanceerde toewijzing aan een uitgave in Workfront probeert te maken, wordt de kwestie niet toegewezen, en de gebruiker ziet het volgende foutenbericht:
+
+&quot;[!UICONTROL APIModel INTERNAL does not support field duration (OpTask)]&quot;
+
+#### Rapporten
+
+**De fout van Wips wanneer het plaatsen van matrixmontages op het rapport van het Uur**
+
+Wanneer een gebruiker probeert om de matrixmontages op een rapport van het Uur te plaatsen, kunnen zij niet de montages plaatsen, en zij zien de volgende fout:
+
+* &quot;[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]&quot;
+
+
++++
+
++++**Onderhoudsupdate op 4 juli 2024**
+
+### Onderhoudsupdate op 4 juli 2024
+
+#### Home
+
+**Het menu met drie punten werkt niet**
+
+Wanneer een gebruiker op het menu Meer met drie punten in de verouderde thuiswerker klikt, wordt geen actie geactiveerd.
+
+#### Rapporten
+
+**&quot;Geen gegevens om weer te geven&quot; wanneer de naam van de groepering een slash of backslash heeft**
+
+Wanneer een gebruiker een grafiek in een rapport bekijkt en een groepering op de grafiek klikt, en die groepering heeft a / of \ in de naam, tonen de details die openen niet de punten in de groepering, en de gebruiker ziet &quot;Geen gegevens aan vertoning&quot;bericht.
+
+#### Taken
+
+**De rol van de baan verdwijnt niet uit lijst wanneer de gebruiker aan taak wordt toegewezen**
+
+Wanneer een baanrol aan een taak wordt toegewezen, en die taak wordt toegewezen aan een gebruiker die de baanrol heeft, verdwijnt de baanrol niet uit de lijst van taken.
+
+
++++
 
 ## Updates in juni 2024
 
