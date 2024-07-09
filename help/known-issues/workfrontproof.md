@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
+source-git-commit: e64b507317a384626b33f81802737c17b210af24
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,8 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Meldingen: Miniaturen zijn niet zichtbaar in e-mailmeldingen](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 juli 2024 |
+| [Aangepaste formulieren: aangepast formulier wordt niet uit document verwijderd](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 8 juli 2024 |
 | [Documenten: aantal documenten is onjuist](known-issues-workfront/wf-documents-count-only-root-folder.md) | 28 juni 2024 |
 | [Integraties: map koppelen van [!DNL Google Drive] koppelt geen elementen in map](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
 | [Proefdrukken: als u een proefdruk sluit, wordt de pagina Productdocumenten weergegeven](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | 24 juni 2024 |

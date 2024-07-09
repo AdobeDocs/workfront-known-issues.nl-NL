@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
+source-git-commit: 6f802d32e74e3a567e2943ae837594809c703576
 workflow-type: tm+mt
-source-wordcount: '817'
+source-wordcount: '878'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,9 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Home: Kan items niet openen vanaf [!UICONTROL Home Calendar] of [!UICONTROL Work List]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md) | 8 juli 2024 |
+| [Meldingen: Miniaturen zijn niet zichtbaar in e-mailmeldingen](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 juli 2024 |
+| [Aangepaste formulieren: aangepast formulier wordt niet uit document verwijderd](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 8 juli 2024 |
 | [Factureringsrecords: knop Meer factureringsrecords toevoegen ontbreekt](known-issues-workfront/wf-billing-records-new-button-missing.md) | 28 juni 2024 |
 | [Documenten: aantal documenten is onjuist](known-issues-workfront/wf-documents-count-only-root-folder.md) | 28 juni 2024 |
 | [Navigatie: de knop Terug gaat niet terug naar de vorige pagina](known-issues-workfront/wf-navigation-back-button-not-work.md) | 28 juni 2024 |
@@ -47,6 +50,10 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [Problemen: fout bij het maken van een geavanceerde toewijzing aan een uitgave](known-issues-workfront/wf-issues-error-when-making-assignment.md) | 8 juli 2024 |
+| [Portfolio&#39;s: gebruiker kan portfolio niet instellen](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | 8 juli 2024 |
+| [Workfront: aangepaste terminologie wordt niet toegepast](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md) | 8 juli 2024 |
+| [Tijd: het gefilterde type van uur is niet het gebrek wanneer het registreren tijd](known-issues-workfront/wf-time-filtered-hour-type-not-default.md) | 8 juli 2024 |
 | [Taken: De rol van de baan verdwijnt niet uit lijst wanneer de gebruiker aan taak wordt toegewezen](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 7 juni 2024 |
 | [Project: kan uitgave niet converteren naar project als het document is bijgevoegd](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 29 mei 2024 |
 | [Gebruikers: gebruikers ontbreken bij het maken van bulktoewijzingen](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 28 mei 2024 |
