@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
+source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
 workflow-type: tm+mt
-source-wordcount: '854'
+source-wordcount: '864'
 ht-degree: 0%
 
 ---
@@ -25,13 +25,13 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Probleem** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [Stijl: het artikelbord wordt leeg weergegeven wanneer u een subtaak toevoegt](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 10 juli 2024 |
 | [Home: Kan items niet openen vanaf [!UICONTROL Home Calendar] of [!UICONTROL Work List]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md) | 8 juli 2024 |
 | [Meldingen: Miniaturen zijn niet zichtbaar in e-mailmeldingen](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 juli 2024 |
 | [Aangepaste formulieren: aangepast formulier wordt niet uit document verwijderd](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 8 juli 2024 |
 | [Factureringsrecords: knop Meer factureringsrecords toevoegen ontbreekt](known-issues-workfront/wf-billing-records-new-button-missing.md) | 28 juni 2024 |
 | [Documenten: aantal documenten is onjuist](known-issues-workfront/wf-documents-count-only-root-folder.md) | 28 juni 2024 |
 | [Navigatie: de knop Terug gaat niet terug naar de vorige pagina](known-issues-workfront/wf-navigation-back-button-not-work.md) | 28 juni 2024 |
-| [Projecten: Fout bij het bulkbewerken van projecten](known-issues-workfront/wf-projects-error-when-bulk-editing.md) | 27 juni 2024 |
 | [Taken: zoeken naar voornaam in taaktoewijzing retourneert geen gebruikers](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md) | 27 juni 2024 |
 | [Integraties: map koppelen van [!DNL Google Drive] koppelt geen elementen in map](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
 | [Proefdrukken: als u een proefdruk sluit, wordt de pagina Productdocumenten weergegeven](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | 24 juni 2024 |
@@ -49,6 +49,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Probleem** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [Gebruikers: pagina met gebruikersprofielen wordt continu geladen](known-issues-workfront/wf-users-profile-continuously-reloads.md) | 10 juli 2024 |
 | [Proefdrukken: kan de proefdrukviewer niet sluiten](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 9 juli 2024 |
 | [Problemen: fout bij het maken van een geavanceerde toewijzing aan een uitgave](known-issues-workfront/wf-issues-error-when-making-assignment.md) | 8 juli 2024 |
 | [Portfolio&#39;s: gebruiker kan portfolio niet instellen](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | 8 juli 2024 |

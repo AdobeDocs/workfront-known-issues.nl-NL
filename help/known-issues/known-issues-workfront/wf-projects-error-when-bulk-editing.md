@@ -3,15 +3,19 @@ title: "Projecten: Fout bij grote bewerkingsprojecten"
 description: "Wanneer een gebruiker probeert om in bulk uit te geven projecten, geeft het uit venster leeg is, en de gebruiker ziet een fout."
 hidefromtoc: true
 feature: Projects
-source-git-commit: f05ce2d8659b7ae7bf636d5585c78483c4bcfe5d
+source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
 
 # Projecten: Fout bij het bulkbewerken van projecten
+
+>[!NOTE]
+>
+>Dit probleem is op 8 juli 2024 opgelost.
 
 Wanneer een gebruiker probeert in bulk uit te geven projecten, geeft het uit venster leeg uit, en de gebruiker ziet de volgende fout:
 
