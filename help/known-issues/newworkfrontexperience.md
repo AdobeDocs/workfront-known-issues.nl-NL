@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] Ervarin
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
+source-git-commit: 4db36c0edb0710d933886aff2e7757c01bf2b6d9
 workflow-type: tm+mt
-source-wordcount: '864'
+source-wordcount: '853'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 |----------------------------------| ----------------- |
 | [Gebruikers: pagina met gebruikersprofielen wordt continu geladen](known-issues-workfront/wf-users-profile-continuously-reloads.md) | 10 juli 2024 |
 | [Proefdrukken: kan de proefdrukviewer niet sluiten](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 9 juli 2024 |
-| [Problemen: fout bij het maken van een geavanceerde toewijzing aan een uitgave](known-issues-workfront/wf-issues-error-when-making-assignment.md) | 8 juli 2024 |
 | [Portfolio&#39;s: gebruiker kan portfolio niet instellen](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | 8 juli 2024 |
 | [Workfront: aangepaste terminologie wordt niet toegepast](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md) | 8 juli 2024 |
 | [Tijd: het gefilterde type van uur is niet het gebrek wanneer het registreren tijd](known-issues-workfront/wf-time-filtered-hour-type-not-default.md) | 8 juli 2024 |
