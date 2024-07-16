@@ -3,16 +3,20 @@ title: "Integraties: Bij het koppelen van een map vanuit Google worden de elemen
 description: "Wanneer een gebruiker een map in Google Drive koppelt aan Workfront, worden de middelen in die map niet gekoppeld. Het aantal elementen in de map wordt weergegeven als 0."
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
-source-git-commit: 0f4fc146fd36ce883ba9a738559bc8843bd73393
+source-git-commit: 970a15011b8ff327306a7603f9edb32400d987b0
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
 
 
-# Integraties: map koppelen van [!DNL Google Drive] koppelt geen elementen in map
+# Integraties: bij het koppelen van een map uit [!DNL Google Drive] worden de elementen in de map niet gekoppeld
 
-Wanneer een gebruiker een map koppelt in [!DNL Google Drive] naar Workfront, zijn de elementen in die map niet gekoppeld. Het aantal elementen in de map wordt weergegeven als 0.
+Wanneer een gebruiker een map in [!DNL Google Drive] koppelt aan Workfront, worden de elementen in die map niet gekoppeld. Het aantal elementen in de map wordt weergegeven als 0.
 
-_Voor het eerst gerapporteerd op 1 juni 2024._
+**Oplossing**
+
+Verifieer uw Google-verbinding opnieuw.
+
+_Eerste rapporteerde op 1 Juni, 2024._
