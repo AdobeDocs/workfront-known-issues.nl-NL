@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Proefdrukken: [!UICONTROL Proof Activity] tab wordt geopend [!UICONTROL Proof Details]
+# Proofs: [!UICONTROL Proof Activity] tab wordt geopend [!UICONTROL Proof Details]
 
 <!--This article is on WF and WFP TOCs-->
 
@@ -21,10 +21,10 @@ ht-degree: 0%
 >
 >Deze kwestie is gesloten.
 
-Wanneer een gebruiker een proefdruk weergeeft en op de knop[!UICONTROL Proof Activity] de [!UICONTROL Proof Details] wordt geopend. Dit gebeurt wanneer een proefdrukwerkgebied handmatig aan de workflow is toegevoegd.
+Wanneer een gebruiker een proef bekijkt, en op het [!UICONTROL Proof Activity] lusje klikt, opent het [!UICONTROL Proof Details] lusje in plaats daarvan. Dit gebeurt wanneer een proefdrukwerkgebied handmatig aan de workflow is toegevoegd.
 
-**Workaround**
+**Oplossing**
 
 Bekijk de Proofingactiviteiten in de linkernavigatie van het document in Workfront.
 
-_Eerste verslag op 10 april 2023._
+_Eerste rapporteerde op 10 April, 2023._

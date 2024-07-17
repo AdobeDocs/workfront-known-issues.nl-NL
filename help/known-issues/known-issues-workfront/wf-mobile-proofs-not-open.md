@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Wanneer een gebruiker een proefdruk probeert te openen in de Workfront Mobile-app, ziet de gebruiker de draaiende laadindicator, maar de proefdruk wordt niet geladen.
 
-_Eerste verslag op 8 juli 2024._
+_Eerste rapporteerde op 8 Juli, 2024._

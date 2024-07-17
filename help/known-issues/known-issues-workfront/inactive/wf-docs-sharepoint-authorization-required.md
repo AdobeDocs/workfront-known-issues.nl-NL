@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Documenten: heeft geen toegang [!DNL SharePoint]
+# Documenten: heeft geen toegang tot [!DNL SharePoint]
 
 <!--WF and WFP, article live for workaround-->
 
@@ -19,16 +19,16 @@ ht-degree: 0%
 >
 >Deze kwestie is gesloten omdat het geen kwestie van Workfront is.
 
-Wanneer een gebruiker een [!UICONTROL SharePoint] map in [!DNL Workfront], wordt de map niet geopend en wordt het volgende bericht weergegeven:
+Wanneer een gebruiker een [!UICONTROL SharePoint] -map probeert te openen in [!DNL Workfront] , wordt de map niet geopend en wordt het volgende bericht weergegeven:
 
 [!UICONTROL Error: Authorization is required.]
 
 De timing van de autorisatie wordt gecontroleerd door Microsoft.
 
-**Workaround**
+**Oplossing**
 
 Opnieuw autoriseren.
 
-Als er problemen blijven optreden, controleert u de [Problemen oplossen](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-sharepoint-integration.html#troubleshooting) deel van [De SharePoint-integratie configureren](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-sharepoint-integration.html).
+Als de kwesties blijven bestaan, controleer de ](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-sharepoint-integration.html#troubleshooting) sectie van het Oplossen van problemen [ van [ vormen de integratie van SharePoint ](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-sharepoint-integration.html).
 
-_Voor het eerst gerapporteerd op 9 november 2023._
+_Eerste rapporteerde op 9 November, 2023._

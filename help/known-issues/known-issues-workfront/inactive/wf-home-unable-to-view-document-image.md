@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Home]: Kan de documentafbeelding niet weergeven in het dialoogvenster [!UICONTROL Work List]
+# [!UICONTROL Home]: Kan de documentafbeelding niet weergeven in de [!UICONTROL Work List]
 
 <!--Article created by request-->
 
@@ -19,10 +19,10 @@ ht-degree: 0%
 >
 >Het team Product evalueert momenteel deze probleemoplossing. Wanneer dit probleem is opgelost, wordt dit in de productmededelingen vermeld en niet met de onderhoudsupdates.
 
-Wanneer een gebruiker op een [!UICONTROL .docx] als u een voorvertoning van het document wilt weergeven, wordt een videospeler geopend en kunnen de deelnemers het document niet zien.
+Wanneer een gebruiker op een [!UICONTROL .docx] -miniatuur klikt om een voorvertoning van het document weer te geven, wordt een videospeler geopend die het document niet kan zien.
 
-**Workaround**
+**Oplossing**
 
-Klik op de koppeling voor de documentnaam om rechtstreeks naar de koppeling [!UICONTROL Document Details] pagina waarop u een voorvertoning van het document kunt weergeven.
+Klik op de koppeling voor de documentnaam om rechtstreeks naar de [!UICONTROL Document Details] -pagina te gaan waar u een voorvertoning van het document kunt weergeven.
 
-_Voor het eerst gerapporteerd op 26 oktober 2020._
+_Eerste rapporteerde op 26 oktober, 2020._

@@ -21,4 +21,4 @@ Wanneer een project wordt voltooid, toont de Werkelijke Datum van de Voltooiing 
 
 De ontbrekende werkelijke afsluitdatums kunnen leiden tot onjuiste rapporten.
 
-_Voor het eerst gerapporteerd op 3 juni 2024._
+_Eerste rapporteerde op 3 Juni, 2024._

@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Wanneer een gebruiker een subtaak aan een artikelbord probeert toe te voegen terwijl een filter wordt geselecteerd, gaat het scherm leeg, en de gebruiker kan niet de subtaak toevoegen.
 
-**Workaround**
+**Oplossing**
 
 Vernieuw de pagina, deselecteer het filter en voeg de subtaak toe.
 
-_Eerste verslag op 8 juli 2024._
+_Eerste rapporteerde op 8 Juli, 2024._

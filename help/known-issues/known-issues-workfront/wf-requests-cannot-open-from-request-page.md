@@ -21,8 +21,8 @@ Wanneer een gebruiker een nieuwe aanvraag maakt en er concepten met betrekking t
 
 &quot;Er is een fout opgetreden en we werken eraan om deze op te lossen.&quot;
 
-**Workaround**
+**Oplossing**
 
 Open het concept in het gedeelte Concepten links in de navigatie.
 
-_Eerste verslag op 2 april 2024._
+_Eerste rapporteerde op 2 April, 2024._

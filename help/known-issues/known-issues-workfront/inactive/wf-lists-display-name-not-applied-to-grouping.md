@@ -17,6 +17,6 @@ ht-degree: 0%
 >
 >Het team Product evalueert momenteel deze probleemoplossing. Wanneer dit probleem is opgelost, wordt dit in de productmededelingen vermeld en niet met de onderhoudsupdates.
 
-Wanneer een gebruiker een lijst groepeert op een aangepast veld en de weergavenaam wijzigt in [!UICONTROL Text Mode]wordt in plaats daarvan de oorspronkelijke naam van het veld weergegeven.
+Wanneer een gebruiker een lijst groepeert op basis van een aangepast veld en de weergavenaam wijzigt in [!UICONTROL Text Mode] , wordt in plaats daarvan de oorspronkelijke naam van het veld weergegeven.
 
-_Voor het eerst gerapporteerd op 13 augustus 2020._
+_Eerste rapporteerde op 13 augustus, 2020._

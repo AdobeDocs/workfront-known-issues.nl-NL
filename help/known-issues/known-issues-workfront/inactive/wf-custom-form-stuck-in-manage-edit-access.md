@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Aangepaste formulieren: aangepaste formulieren voor meerdere objecten zijn vereist [!UICONTROL Manage] of [!UICONTROL Edit] toegang tot bewerkingsvelden
+# Aangepaste formulieren: aangepaste formulieren voor meerdere objecten vereisen [!UICONTROL Manage] of [!UICONTROL Edit] toegang om velden te bewerken
 
 <!--Won't fix, live for workaround-->
 
@@ -19,13 +19,13 @@ ht-degree: 0%
 >
 >Deze kwestie is gesloten
 
-Wanneer een gebruiker een formulier maakt met cross-objecten die alleen [!UICONTROL Manage] of [!UICONTROL Edit] toegang krijgen en dat objecttype vervolgens verwijderen, blijft het aangepaste formulier vereist [!UICONTROL Manage] of [!UICONTROL Edit] toegang om de velden te bewerken. Er is geen visuele indicatie voor de velden die toegang tot Beheren of Bewerken vereisen, en er is geen manier om het formulier opnieuw in te stellen.
+Wanneer een gebruiker een formulier maakt met cross-objecten die alleen toegang geven tot [!UICONTROL Manage] of [!UICONTROL Edit] , en dat objecttype verwijdert, blijft het aangepaste formulier [!UICONTROL Manage] of [!UICONTROL Edit] toegang nodig om de velden te bewerken. Er is geen visuele indicatie voor de velden die toegang tot Beheren of Bewerken vereisen, en er is geen manier om het formulier opnieuw in te stellen.
 
-**Workaround**
+**Oplossing**
 
 1. Voeg een sectie-einde toe aan het formulier met de standaardwaarden als dit wordt gevuld.
 2. Plaats het sectie-einde boven aan het formulier.
 3. Sla het formulier op.
 4. Verwijder het zojuist toegevoegde sectie-einde en sla het formulier opnieuw op.
 
-_Voor het eerst gerapporteerd op 9 november 2022._
+_Eerste rapporteerde op 9 November, 2022._

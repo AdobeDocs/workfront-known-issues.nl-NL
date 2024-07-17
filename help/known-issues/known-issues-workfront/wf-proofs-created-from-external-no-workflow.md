@@ -23,4 +23,4 @@ Wanneer een gebruiker een proef van een verbonden document creeert, wordt het pr
 
 Dit geldt ook voor proefdrukken die zijn gemaakt via de API en via Workfront Fusion.
 
-_Eerste verslag op 28 februari 2024._
+_Eerste rapporteerde op 28 februari, 2024._

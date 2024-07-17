@@ -11,24 +11,24 @@ ht-degree: 0%
 
 ---
 
-# Taken: kan niet worden gewijzigd [!UICONTROL Planned Completion Date] van een taak
+# Taken: kan [!UICONTROL Planned Completion Date] van een taak niet wijzigen
 
 >[!NOTE]
 >
 >Deze kwestie is gesloten omdat het zoals ontworpen werkt.
 
-Wanneer een gebruiker probeert de [!UICONTROL Planned Completion Date] van een taak reageert het veld niet.
+Wanneer een gebruiker probeert de [!UICONTROL Planned Completion Date] van een taak te wijzigen, reageert het veld niet.
 
 Dit is gemeld op de volgende gebieden:
 
 * De taakkoptekst
-* De [!UICONTROL Task Details] gebied
+* Het [!UICONTROL Task Details] -gebied
 
-**Workaround**
+**Oplossing**
 
 Voer een van de volgende handelingen uit:
 
-* In de [!UICONTROL Task Details] gebied wijzigen [!UICONTROL Task Constraint] naar &quot;[!UICONTROL Must Finish On]&quot;, en wijzigt u vervolgens de [!UICONTROL Planned Completion Date].
-* Wijzig de [!UICONTROL Planned Completion Date] inline in de takenlijst.
+* Wijzig in het gebied [!UICONTROL Task Details] de [!UICONTROL Task Constraint] in &quot;[!UICONTROL Must Finish On]&quot; en wijzig vervolgens de [!UICONTROL Planned Completion Date] .
+* Wijzig [!UICONTROL Planned Completion Date] inline in de takenlijst.
 
-_Voor het eerst gerapporteerd op 11 oktober 2022._
+_Eerste rapporteerde op 11 Oktober, 2022._

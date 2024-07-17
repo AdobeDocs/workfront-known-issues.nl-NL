@@ -17,6 +17,6 @@ ht-degree: 0%
 >
 >Het team van het Product evalueert momenteel deze probleemoplossing, die productverbeteringen kan vereisen. De verbeteringen van het product worden meegedeeld in de Mededelingen van het Product en niet met de Updates van het Onderhoud.
 
-Wanneer een gebruiker een kalenderrapport instelt om taken te trekken die op een selectie van het douanegebied worden gebaseerd en zij toevoegen [!DNL OR] , worden objecten die voldoen aan de criteria van de filterregel in de eerste sectie uitgesloten van de resultaten.
+Wanneer een gebruiker een kalenderrapport instelt om taken te trekken die op een selectie van het douanegebied worden gebaseerd en zij een [!DNL OR] verklaring toevoegen, worden de voorwerpen die aan de criteria van de filterregel in de eerste sectie voldoen uitgesloten van de resultaten.
 
-_Voor het eerst gerapporteerd op 23 maart 2021._
+_Eerste rapporteerde op 23 Maart, 2021._

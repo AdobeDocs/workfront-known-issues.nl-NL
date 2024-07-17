@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Wanneer een gebruiker een objectlijst weergeeft en Alles in de rechterbenedenhoek selecteert (zodat de lijst niet wordt gepagineerd), blijven de items gepagineerd en worden alle objecten niet op de pagina weergegeven.
 
-_Voor het eerst gemeld op 11 april 2024._
+_Eerste rapporteerde op 11 April, 2024._

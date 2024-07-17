@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Wanneer een gebruiker Geavanceerd zoeken gebruikt en probeert de zoekresultaten te bewerken of bulksgewijs te bewerken, reageert het pictogram Bewerken niet.
 
-_Eerste verslag op 26 februari 2024._
+_Eerste rapporteerde op 26 februari, 2024._

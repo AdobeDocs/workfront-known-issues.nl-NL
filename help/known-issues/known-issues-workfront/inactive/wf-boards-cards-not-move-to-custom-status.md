@@ -21,4 +21,4 @@ Wanneer een gebruiker een kaart naar een andere kolom verplaatst en deze vervolg
 
 Dit gebeurt wanneer de kolom waarnaar de kaart wordt verplaatst, een aangepaste status heeft. Dit probleem heeft geen invloed op kolommen die zijn gebaseerd op systeemstatussen.
 
-_Voor het eerst gerapporteerd op 10 november 2023._
+_Eerste rapporteerde op 10 November, 2023._

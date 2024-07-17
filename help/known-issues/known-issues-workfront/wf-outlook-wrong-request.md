@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Wanneer een gebruiker zich probeert aan te melden bij de Workfront-insteekmodule voor Outlook met SSO ingeschakeld, wordt de pagina &quot;Onjuist verzoek&quot; weergegeven en kan de gebruiker zich niet aanmelden.
 
-_Voor het eerst gerapporteerd op 14 mei 2024._
+_Eerste rapporteerde op 14 mei, 2024._

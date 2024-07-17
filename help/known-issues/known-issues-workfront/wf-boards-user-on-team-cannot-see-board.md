@@ -19,8 +19,8 @@ ht-degree: 0%
 
 Wanneer het team van een gebruiker aan een raad wordt toegevoegd, kan de gebruiker niet de raad bekijken of kunnen gebruiken. Dit kan zich voordoen, ook al kunnen andere leden van het team de raad weergeven of gebruiken.
 
-**Workaround**
+**Oplossing**
 
 Voeg de gebruiker afzonderlijk aan het bord toe.
 
-_Voor het eerst gerapporteerd op 15 maart 2024._
+_Eerste rapporteerde op 15 Maart, 2024._

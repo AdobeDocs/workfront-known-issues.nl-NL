@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Wanneer een gebruiker wordt vermeld of opgenomen in een opmerking of update in de updatestream van een object, ontvangen deze mogelijk niet het verwachte e-mailbericht of bericht in de app over de opmerking.
 
-_Voor het eerst gerapporteerd op 20 september 2022._
+_Eerste rapporteerde op 20 september, 2022._

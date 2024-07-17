@@ -21,4 +21,4 @@ De volgende problemen zijn gemeld bij het verplaatsen van kaarten op het Klembor
 * Kaart wordt teruggezet op oorspronkelijke kolom voordat deze wordt verplaatst
 * Kaart wordt verplaatst naar een onvoorspelbare locatie in de nieuwe kolom
 
-_Voor het eerst gerapporteerd op 1 juni 2022._
+_Eerste rapporteerde op 1 Juni, 2022._

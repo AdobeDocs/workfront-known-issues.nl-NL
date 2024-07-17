@@ -21,10 +21,10 @@ Wanneer een gebruiker een openbare verbinding aan een rapport klikt, zien zij ee
 
 Dit probleem is van invloed op de organisatie die is aangemeld bij Adobe IMS (Identity Management System).
 
-**Workaround**
+**Oplossing**
 
 Gebruikers met toegang tot Workfront kunnen zich aanmelden om het rapport te bekijken.
 
 Er is momenteel geen tijdelijke oplossing beschikbaar voor externe gebruikers.
 
-_Voor het eerst gerapporteerd op 22 mei 2024._
+_Eerste rapporteerde op 22 Mei, 2024._

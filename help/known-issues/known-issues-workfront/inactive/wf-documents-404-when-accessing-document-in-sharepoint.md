@@ -11,18 +11,18 @@ ht-degree: 0%
 
 ---
 
-# Documenten: 404 fout bij toegang tot document dat is gekoppeld via [!DNL SharePoint]
+# Documenten: 404-fout bij toegang tot document dat is gekoppeld vanuit [!DNL SharePoint]
 
 <!--Requested article. This issue is on the WF and WFP TOCs.-->
 
-Wanneer een gebruiker toegang probeert te krijgen tot een document dat via [!DNL SharePoint], worden ze doorgestuurd naar een pagina met de volgende fout:
+Wanneer een gebruiker toegang probeert te krijgen tot een document dat via [!DNL SharePoint] is gekoppeld, wordt hij of zij doorgestuurd naar een pagina met de volgende fout:
 
 &quot;[!UICONTROL Error 404: Page not found. This page isn't available. Try checking the URL or visit a different page.]&quot;
 
 Dit is een bekend [!DNL SharePoint] probleem dat optreedt wanneer de site een &#39;@&#39;-symbool in de koppeling heeft.
 
-**Workaround**
+**Oplossing**
 
-[!DNL SharePoint] Het wordt aanbevolen een korte URL te genereren en die voor de koppeling te gebruiken.
+[!DNL SharePoint] raadt u aan een korte URL te genereren en die voor de koppeling te gebruiken.
 
-_Voor het eerst gerapporteerd op 14 maart 2023._
+_Eerste rapporteerde op 14 Maart, 2023._

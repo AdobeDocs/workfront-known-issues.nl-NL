@@ -11,10 +11,10 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Home]: Nieuw [!UICONTROL Home] widgetvoorvertoning geeft de juiste naam van het object niet weer
+# [!UICONTROL Home]: Nieuwe [!UICONTROL Home] -voorvertoning van widget geeft geen correcte naam van object weer
 
 <!--valid issue; won't fix-->
 
-Wanneer een gebruiker hun vormt [!UICONTROL Home] pagina in de nieuwe [!UICONTROL Home] In voorvertoningen van widgets wordt mogelijk niet de juiste naam weergegeven van het object dat de widget vertegenwoordigt. Dit komt omdat [!DNL Workfront] staat aanpassing van objecten namen toe. In de voorbeeldafbeeldingen wordt echter de standaardnaam van het object gebruikt. Dit betekent dat als een organisatie de naam van een object heeft aangepast, in de voorvertoning een andere objectnaam wordt weergegeven dan de organisatie gebruikt.
+Wanneer een gebruiker zijn [!UICONTROL Home] -pagina in de nieuwe [!UICONTROL Home] -ervaring configureert, wordt in voorvertoningen van widgets mogelijk niet de juiste naam weergegeven van het object dat de widget vertegenwoordigt. Dit komt omdat [!DNL Workfront] het aanpassen van objectnamen toestaat. In de voorbeeldafbeeldingen wordt echter de standaardnaam van het object gebruikt. Dit betekent dat als een organisatie de naam van een object heeft aangepast, in de voorvertoning een andere objectnaam wordt weergegeven dan de organisatie gebruikt.
 
-_Voor het eerst gerapporteerd op 6 september 2023._
+_Eerste rapporteerde op 6 September, 2023._

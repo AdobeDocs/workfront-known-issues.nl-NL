@@ -19,8 +19,8 @@ ht-degree: 0%
 
 Wanneer een gebruiker probeert om een raad te bekijken die het team aan wordt toegewezen, kunnen zij niet de raad bekijken. Dit komt voor als de gebruiker aan het team wordt toegevoegd nadat het team aan de raad is toegewezen.
 
-**Workaround**
+**Oplossing**
 
 Voeg de gebruiker rechtstreeks toe aan het bord.
 
-_Voor het eerst gerapporteerd op 15 april 2024, 2024._
+_Eerste rapporteerde op 15 April, 2024, 2024._

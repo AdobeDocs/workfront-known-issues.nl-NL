@@ -1,6 +1,6 @@
 ---
 title: 'Workfront Goals: Cannot delete target'
-description: Wanneer een gebruiker een doel probeert te verwijderen in [!DNL Workfront Goals], wordt het doel niet verwijderd en ziet de gebruiker een foutbericht.
+description: Wanneer een gebruiker probeert om een doel in  [!DNL Workfront Goals] te schrappen, wordt het doel niet geschrapt, en de gebruiker ziet een foutenmelding.
 hidefromtoc: true
 feature: Workfront Goals
 exl-id: aa924ac8-7a07-4c58-b513-c8f9399171d4
@@ -11,14 +11,14 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Workfront Goals]: Kan doel niet verwijderen
+# [!DNL Workfront Goals]: kan doel niet verwijderen
 
 >[!NOTE]
 >
 >Dit probleem is op 6 juni 2024 opgelost.
 
-Wanneer een gebruiker een doel probeert te verwijderen in [!DNL Workfront Goals], wordt het doel niet verwijderd en ziet de gebruiker het volgende foutbericht:
+Wanneer een gebruiker een doel probeert te verwijderen in [!DNL Workfront Goals] , wordt het doel niet verwijderd en krijgt de gebruiker de volgende foutmelding te zien:
 
 &quot;[!UICONTROL Error: Unable to commit against JDBC Connection; nested exception is org.hibernate.TransactionException: Unable to commit against JDBC Connection]&quot;
 
-_Voor het eerst gerapporteerd op 26 maart 2024._
+_Eerste rapporteerde op 26 Maart, 2024._

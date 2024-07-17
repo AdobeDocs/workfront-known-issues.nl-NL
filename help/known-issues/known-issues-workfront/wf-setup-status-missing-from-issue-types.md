@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Wanneer een gebruiker uitgavestatussen in Opstelling bekijkt, zien zij dat de standaardstatussen voor kwesties (Nieuw, Bezig, en Voltooid) van sommige types van kwesties ontbreken. De standaardstatussen hebben niet de optie om het uitgevende type te veranderen, zodat kan de gebruiker niet de statussen aanpassen om voor de beïnvloede uitgaventypen te tonen.
 
-_Voor het eerst gerapporteerd op 30 november 2023._
+_Eerste rapporteerde op 30 November, 2023._

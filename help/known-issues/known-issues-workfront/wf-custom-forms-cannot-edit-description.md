@@ -23,8 +23,8 @@ Wanneer een gebruiker probeert de beschrijvende tekst op een aangepast formulier
 
 Dit is gemeld in de verouderde formulierbuilder.
 
-**Workaround**
+**Oplossing**
 
 Bewerk het formulier met de bètaversie van de nieuwe formulierontwerper.
 
-_Voor het eerst gerapporteerd op 23 mei 2024._
+_Eerste rapporteerde op 23 Mei, 2024._

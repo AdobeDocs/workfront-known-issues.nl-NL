@@ -23,8 +23,8 @@ Wanneer een gebruiker probeert om een rapport uit te voeren, voert het rapport n
 
 Dit komt voor wanneer het rapport verwijzingen een project-niveau gebied van de douanemunt.
 
-**Workaround**
+**Oplossing**
 
 Verwijder de kolom die verwijzingen het gebied van de douanemunt en voer opnieuw het rapport uit.
 
-_Voor het eerst gerapporteerd op 4 april 2024._
+_Eerste rapporteerde op 4 April, 2024._

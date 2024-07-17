@@ -21,10 +21,10 @@ ht-degree: 0%
 
 Wanneer een gebruiker persoonlijke tijd uitstelt en zijn goedkeuring voor die tijd delegeert, kan de delegatie van de goedkeuring dagen vóór of na de geplande uitdiensttijd omvatten.
 
-**Workaround**
+**Oplossing**
 
 Deze discrepantie is het resultaat van een verschil tussen de tijdzone in het profiel van een gebruiker en de tijdzone van het toegewezen programma van de gebruiker.
 
 Wij adviseren het creëren van een uniek programma voor elke tijdzone die de gebruikers van werken, en het toewijzen van elke gebruiker aan het programma dat de timezone in hun gebruikersprofiel aanpast.
 
-_Voor het eerst gerapporteerd op 24 maart 2022._
+_Eerste rapporteerde op 24 Maart, 2022._

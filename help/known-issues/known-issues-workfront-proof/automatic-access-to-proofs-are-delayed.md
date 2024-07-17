@@ -1,5 +1,5 @@
 ---
-title: "Proef: Automatische toegang tot proefdrukken wordt vertraagd"
+title: "Bewijs: automatische toegang tot proefdrukken wordt vertraagd"
 description: Wanneer een gebruiker als controleur en fiatteur aan een proef met geautomatiseerde werkschema wordt toegewezen, wordt de toegang vertraagd en kunnen zij niet tot het bewijs toegang hebben.
 exl-id: 5b6fffed-a9af-4f1f-83a6-d4b992067b3a
 hidefromtoc: true
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Workfront Proof]: Automatische toegang tot proefdrukken wordt vertraagd
+# [!DNL Workfront Proof]: automatische toegang tot proefdrukken wordt vertraagd
 
 <!--Converted to story-->
 

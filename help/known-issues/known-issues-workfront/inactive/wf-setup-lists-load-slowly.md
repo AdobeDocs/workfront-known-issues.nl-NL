@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Setup]: Lijsten worden langzaam geladen in [!UICONTROL Setup]
+# [!UICONTROL Setup]: lijsten worden langzaam geladen in [!UICONTROL Setup]
 
 <!--Converted to story-->
 
@@ -19,6 +19,6 @@ ht-degree: 0%
 >
 >Het team van het Product evalueert momenteel deze probleemoplossing, die productverbeteringen kan vereisen. De verbeteringen van het product worden meegedeeld in de Mededelingen van het Product en niet met de Updates van het Onderhoud.
 
-Wanneer een gebruiker zich in de [!UICONTROL Setup] en probeert een lijst te laden, wordt de lijst heel traag geladen. Dit is op verschillende gebieden in de hele wereld gemeld [!UICONTROL Setup].
+Wanneer een gebruiker zich in het [!UICONTROL Setup] -gebied bevindt en probeert een lijst te laden, wordt de lijst heel traag geladen. Dit is in diverse gebieden door [!UICONTROL Setup] gemeld.
 
-_Voor het eerst gerapporteerd op 20 oktober 2022._
+_Eerste rapporteerde op 20 oktober, 2022._

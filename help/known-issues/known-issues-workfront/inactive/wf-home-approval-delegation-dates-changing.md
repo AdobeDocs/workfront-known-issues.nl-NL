@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >Het team Product evalueert momenteel deze probleemoplossing. Wanneer dit probleem is opgelost, wordt dit in de productmededelingen vermeld en niet met de onderhoudsupdates.
 
-Wanneer een gebruiker goedkeuringen aan een gebruiker in een verschillende timezone delegeert, lijkt de delegatie met succes te bewaren en de gemachtigde gebruiker ontvangt een e-mailbericht met de correcte data. Als ze de pagina echter vernieuwen, zien ze dat de [!UICONTROL Start Date] is 1 dag terug verschoven en [!UICONTROL End Date] heeft één dag vooruit verschoven, en de gebruiker ontvangt ook een ander e-mailbericht met de verschoven data.
+Wanneer een gebruiker goedkeuringen aan een gebruiker in een verschillende timezone delegeert, lijkt de delegatie met succes te bewaren en de gemachtigde gebruiker ontvangt een e-mailbericht met de correcte data. Als ze de pagina echter vernieuwen, zien ze dat de [!UICONTROL Start Date] één dag terug is verschoven en de [!UICONTROL End Date] 1 dag vooruit is verschoven. De gebruiker ontvangt ook een e-mailbericht met de verschoven datums.
 
 
-_Voor het eerst gerapporteerd op 8 mei 2020._
+_Eerste rapporteerde op 8 Mei, 2020._

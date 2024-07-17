@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Wanneer een gebruiker een middel in Workfront probeert te downloaden of voor te vertonen, wordt hij in plaats daarvan naar een foutscherm geleid.
 
-_Eerste verslag op 2 februari 2024._
+_Eerste rapporteerde op 2 Februari, 2024._

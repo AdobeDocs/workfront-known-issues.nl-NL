@@ -1,15 +1,16 @@
 ---
 title: Workfront Maintenance Updates in 2023
-description: Onderhoudsupdates voor [!DNL Adobe Workfront]
+description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 feature: Get Started with Workfront
-source-git-commit: 8dc177a194ae32bcb135910badc7fdb2c42e530d
+exl-id: 87d54104-38b7-4950-ab21-6524a14f7f2a
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
 workflow-type: tm+mt
 source-wordcount: '7242'
 ht-degree: 0%
 
 ---
 
-# [!DNL Workfront] Onderhoudsupdates in 2023
+# [!DNL Workfront] Updates voor onderhoud in 2023
 
 De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 
@@ -17,36 +18,36 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2023.
 >
 >Deze updates bevatten ook andere kleine of minder duidelijke foutoplossingen. [!DNL Workfront] Ondersteuning geeft een melding wanneer een probleem dat u hebt verzonden, is opgelost.
 
-Voor onderhoudsupdates vóór 2023, zie [Vorige onderhoudsupdates](#previous-maintenance-updates)
+Voor onderhoudsupdates voorafgaand aan 2023, zie [ Vorige Updates van het Onderhoud ](#previous-maintenance-updates)
 
 ## Updates in december 2023
 
-+++**Onderhoudsupdate op 21 december 2023**
++++**Update van het Onderhoud op 21 December, 2023**
 
-**Problemen tijdens weergeven van status van subtaak**
+**Kwesties wanneer het bekijken van subtask status**
 
-_Borden_
+_Boards_
 
 De volgende problemen zijn gemeld met betrekking tot het weergeven van de status van een subtaak op een kaart in de raden van bestuur:
 
 * De status wordt weergegeven als &quot;Status selecteren&quot;, zelfs als de taak al een status heeft. Deze status is zichtbaar wanneer u de taak rechtstreeks bekijkt.
 * Als de gebruiker een status probeert te selecteren, gaat het scherm leeg en moet het worden vernieuwd.
 
-**Kan een document niet aan een kaart koppelen**
+**kan geen document aan een kaart** vastmaken
 
-_Borden_
+_Boards_
 
 Wanneer een gebruiker een document probeert te koppelen aan een aangesloten kaart, kan de gebruiker het document selecteren dat u wilt bijvoegen, maar het document wordt niet weergegeven in het documentgebied van de kaart en het document is niet gekoppeld aan het object waarmee de kaart is verbonden.
 
 Dit is gemeld bij kaarten die verband houden met emissies.
 
-**Kan sjabloon niet selecteren vanuit [!UICONTROL Favorites] list**
+**kan malplaatje van [!UICONTROL Favorites] lijst** niet selecteren
 
-_Sjablonen_
+_Malplaatjes_
 
-Wanneer een gebruiker een sjabloon probeert te selecteren in het menu [!UICONTROL Favorites] verdwijnt de lijst als de gebruiker de muis naar de lijst verplaatst en de gebruiker geen sjabloon kan selecteren.
+Wanneer een gebruiker een sjabloon probeert te selecteren in de lijst [!UICONTROL Favorites] , verdwijnt de lijst wanneer de gebruiker de muis naar de lijst verplaatst en kan de gebruiker geen sjabloon selecteren.
 
-**Sommige updates ontbreken in de nieuwe opmerkingervaring**
+**Sommige updates ontbreken in de nieuwe het becommentariëren ervaring**
 
 _Updates_
 
@@ -66,26 +67,26 @@ Wanneer een gebruiker een module vormt en de module gegevens van de verbonden re
 
 +++
 
-+++**Onderhoudsupdate op 14 december 2023**
++++**Update van het Onderhoud op 14 December, 2023**
 
-**Proefdrukken die in afwachting zijn van goedkeuring, worden niet weergegeven in rapporten**
+**Proofs die goedkeuring in afwachting zijn verschijnen niet in rapporten**
 
-_Proefdrukken_
+_Proofs_
 
 Wanneer een gebruiker een rapport bekijkt voor proefversies die in behandeling zijn, verschijnen sommige goedkeuringen die in behandeling zijn niet in het rapport.
 +++
 
-+++**Onderhoudsupdate op 7 december 2023**
++++**Update van het Onderhoud op 7 December, 2023**
 
-**Goedkeuring vastgezet op [!UICONTROL Awaiting my approval] widget**
+**Goedkeuring geplakt op [!UICONTROL Awaiting my approval] widget**
 
-_Home_
+_Huis_
 
-Wanneer een nieuwe versie van een document wordt geüpload en de vorige versie een goedkeuring heeft die niet volledig is, blijft de oude versie van het document vastzitten op de goedkeuring van de fiatteur [!UICONTROL Awaiting my approval] widget. De goedkeuring kan niet worden goedgekeurd omdat er een nieuwe versie is en deze kan niet uit de widget worden verwijderd.
+Wanneer een nieuwe versie van een document wordt geüpload en de vorige versie een goedkeuring heeft die niet volledig is, blijft de oude versie van het document vastzitten op de [!UICONTROL Awaiting my approval] -widget van de fiatteur. De goedkeuring kan niet worden goedgekeurd omdat er een nieuwe versie is en deze kan niet uit de widget worden verwijderd.
 
-**Problemen bij het toevoegen van werkposten in de mening van de Raad van taken of kwesties**
+**Kwesties wanneer het toevoegen van het werkpunten in raad mening van taken of kwesties**
 
-_Taken/problemen_
+_Taken/Kwesties_
 
 Wanneer een gebruiker de mening van de Raad van de Taken of het gebied van Kwesties in een project bekijkt en probeert om een taak of kwestie toe te voegen, kan het volgende voorkomen:
 
@@ -98,21 +99,21 @@ Dit is gemeld wanneer een gebruiker een gebied selecteert in de linkernavigatie 
 
 ## Updates in november 2023
 
-+++**Onderhoudsupdate op 30 november 2023**
++++**Update van het Onderhoud op 30 November, 2023**
 
-**Taken worden niet weergegeven in [!UICONTROL My Work] widget**
+**de Taken verschijnen niet in [!UICONTROL My Work] widget**
 
 _[!UICONTROL Home]_
 
-Wanneer een gebruiker hun [!UICONTROL My Work] widget in [!UICONTROL Home]Sommige taken waaraan ze zijn toegewezen, worden niet weergegeven in de widget. Bijvoorbeeld, kan een gebruiker naar een project gaan en zien dat zij taken in het project worden toegewezen, maar deze taken verschijnen niet op de gebruiker [!UICONTROL My Work] widget.
+Wanneer een gebruiker de [!UICONTROL My Work] -widget in [!UICONTROL Home] bekijkt, worden sommige van de taken waaraan hij of zij heeft toegewezen, niet weergegeven in de widget. Een gebruiker kan bijvoorbeeld naar een project gaan en zien dat aan hem of haar taken in het project zijn toegewezen, maar deze taken worden niet weergegeven op de [!UICONTROL My Work] -widget van de gebruiker.
 
-**Pagina voor aanmelding wordt omgeleid naar bestemmingspagina voor afmelden**
+**Login pagina richt zich aan logout landende pagina** opnieuw
 
-_Aanmelden_
+_Login_
 
-Wanneer een gebruiker zich aanmeldt bij [!DNL Workfront]In plaats van de aanmeldingspagina worden ze doorgestuurd naar de pagina waarop ze zouden landen als ze zich zouden afmelden.
+Wanneer een gebruiker zich aanmeldt bij [!DNL Workfront] in plaats van de aanmeldingspagina, wordt de gebruiker verwezen naar de pagina waarop hij of zij zich zou afmelden.
 
-**500 fout bij het exporteren van een rapport**
+**500 fout wanneer het uitvoeren van een rapport**
 
 _Rapporten_
 
@@ -122,19 +123,19 @@ Wanneer een gebruiker een rapport probeert te exporteren, mislukt het exporteren
 500: Cannot invoke "Object.getClass()" because "parentObj" is null /attask/api-internal/report/export
 ```
 
-Dit is gemeld in meldingen die een `valueexpression` de `lastNote` notitietekst.
+Dit is gemeld in rapporten die een `valueexpression` gebruiken om naar de `lastNote` notitietekst te verwijzen.
 
 +++
 
-+++**Onderhoudsupdate op 16 november 2023**
++++**Update van het Onderhoud op 16 November, 2023**
 
-**De begrote uren in het gebruiksrapport komen niet overeen met de begrote uren die via de API zijn gerapporteerd**
+**de begrote uren uren in gebruiksrapport passen in de begroting opgenomen uren niet aan die door API** worden gemeld
 
 _Rapporten_
 
 Wanneer een gebruiker een API vraag aan het voorwerp RPBGHR voor een bepaald project maakt, en de resultaten van die vraag aan het gebruiksrapport voor dat project vergelijkt, passen de resultaten niet aan.
 
-**Onjuiste aangepaste valuta weergegeven op pagina Nieuwe aanvraag**
+**Onjuiste douanevaluta die op Nieuwe verzoekpagina wordt getoond**
 
 _Verzoeken_
 
@@ -142,69 +143,69 @@ Wanneer een gebruiker een verzoek indient en een selectie maakt die veranderinge
 
 Wanneer de gebruiker zijn verzoek indient, wordt de valuta weergegeven als de juiste aangepaste valuta voor het project dat de aanvraagwachtrij vertegenwoordigt
 
-**Extra regels voor opmerkingen die zijn gemaakt via API of[!DNL Workfront Fusion]**
+**Extra regels in commentaar die door API of[!DNL Workfront Fusion]** wordt gemaakt
 
 _Updates_
 
-Wanneer een gebruiker een opmerking verzendt via de API of via [!DNL Workfront Fusion]bevat de opmerking die wordt weergegeven in het gedeelte Updates extra regels. Soms zijn er zoveel regels dat de gebruiker omlaag moet schuiven om de inhoud van de opmerking te zien.
+Wanneer een gebruiker een opmerking verzendt via de API of via [!DNL Workfront Fusion] , worden extra regels weergegeven voor de opmerking die wordt weergegeven in het gedeelte Updates. Soms zijn er zoveel regels dat de gebruiker omlaag moet schuiven om de inhoud van de opmerking te zien.
 
 Dit is gemeld in de nieuwe ervaringen met opmerkingen.
 
 +++
 
-+++**Onderhoudsupdate op 9 november 2023**
++++**Update van het Onderhoud op 9 November, 2023**
 
-**Mijn werkwidget heeft ontbrekende objecten als deze zich niet boven op de pagina bevindt**
+**Mijn widget van het Werk mist voorwerpen wanneer niet bij bovenkant van pagina**
 
-_Home_
+_Huis_
 
 Als de widget Mijn werk zich boven aan de nieuwe startpagina bevindt, worden alle verwachte objecten opgehaald. Als deze widget zich echter onder andere widgets op de pagina bevindt, worden slechts tien objecten opgehaald.
 
-**Kan geen proefdruk maken**
+**kan proef** niet produceren
 
-_Proefdrukken_
+_Proofs_
 
 Wanneer een gebruiker een proef probeert te produceren, wordt de proef niet gecreeerd, en de gebruiker ziet de volgende fout:
 
 &quot;[!UICONTROL Error generating proof]&quot;
 
-Dit komt voor wanneer het de toegangsniveau plaatsen van de gebruiker[!UICONTROL  View Contact Info] is ingesteld op Uitgeschakeld.
+Dit komt voor wanneer het de toegangsniveau dat van de gebruiker [!UICONTROL  View Contact Info] plaatst aan Gehandicapten wordt geplaatst.
 
-**Velden worden gewist wanneer een document aan een aanvraag wordt toegevoegd**
+**Gebieden ontruimen wanneer een document aan een verzoek** wordt toegevoegd
 
 _Verzoeken_
 
 Wanneer een gebruiker een aanvraag maakt, velden in een formulier invult en vervolgens een document toevoegt of verwijdert, worden sommige velden in het formulier gewist en moeten de velden door de gebruiker opnieuw worden ingevuld voordat de aanvraag wordt verzonden.
 
-**De persoonlijke taak verschijnt op timesheet**
+**Persoonlijke taak verschijnt op timesheet**
 
 _Timesheets_
 
-Wanneer een gebruiker een taak maakt op het tabblad [!UICONTROL Todo] widget van de nieuwe [!UICONTROL Home] verschijnt die taak op het tijdspagina van de gebruiker. Dit komt zelfs voor als de taak geen het programma geopende uren heeft, en het persoonlijke project niet wordt vastgezet.
+Wanneer een gebruiker een taak maakt op de [!UICONTROL Todo] -widget van de nieuwe [!UICONTROL Home] -ervaring, wordt die taak weergegeven op het tijdspagina van de gebruiker. Dit komt zelfs voor als de taak geen het programma geopende uren heeft, en het persoonlijke project niet wordt vastgezet.
 
 +++
 
-+++**Onderhoudsupdate (Hot Fix) op 3 november 2023**
++++**Update van het Onderhoud (Hete Fix) op 3 November, 2023**
 
-**De taken van het kind verschijnen uit orde wanneer bewogen onder oudertaak**
+**de taken van het Kind verschijnen uit orde wanneer bewogen onder oudertaak**
 
-_Sjablonen_
+_Malplaatjes_
 
 Wanneer een gebruiker taken op een malplaatje creeert, en dan die taken onder een oudertaak beweegt, verschijnen de aantallen die aan de kindtaken worden toegewezen niet in de verwachte orde. Daarom wanneer de pagina wordt verfrist, worden de kindtaken gesorteerd door de onverwachte taakaantallen, en de kindtaken zijn daarom uit orde.
 
 +++
 
-+++**Onderhoudsupdate op 2 november 2023**
++++**Update van het Onderhoud op 2 November, 2023**
 
-**Persoonlijke updates worden weergegeven in velden voor waardering**
+**Privé updatevertoning in de gebieden van de waardeuitdrukking**
 
 _Rapporten_
 
 Wanneer een rapportgebied een waardeuitdrukking omvat die verwijzingen een privé update, gebruikers die niet inbegrepen in de privé update zijn kan het in het rapport zien.
 
-**Weergaven van gebruiker als oververdeeld vanwege onnauwkeurige capaciteit**
+**de vertoningen van de Gebruiker als oververdeeld wegens onnauwkeurige capaciteit**
 
-_Werklastverdeling_
+_de Balancer van de Werkbelasting_
 
 Een gebruiker kan in de Workload Balancer tonen dat deze is oververdeeld. Als een gebruiker de overtoewijzing aanwijst, ziet hij of zij dat de capaciteit van de gebruiker op 0 is ingesteld.
 
@@ -214,31 +215,31 @@ Als de gebruiker het datumbereik wijzigt, is de toewijzing correct. Als de gebru
 
 ## Updates in oktober 2023
 
-+++**Onderhoudsupdate op 26 oktober 2023**
++++**Update van het Onderhoud op 26 oktober, 2023**
 
-**Zoeken werkt niet**
+**Onderzoek niet werkend**
 
-_Borden_
+_Boards_
 
 Wanneer een gebruiker aan onderzoeksraad probeert, keert het onderzoek niet alle kaarten terug die aan de onderzoekscriteria voldoen.
 
-**Kan interactieve proefdruk niet weergeven in webviewer**
+**kan interactieve proef in Webkijker niet bekijken**
 
-_Proefdrukken_
+_Proofs_
 
 Wanneer een gebruiker een proefdruk probeert weer te geven in de webproefdrukviewer, wordt de proefdruk niet weergegeven en ziet de gebruiker de volgende fout:
 
 &quot;[!UICONTROL Missing Key-Pair-Id query parameter or cookie value]&quot;
 
-**Kan geen nieuwe versie van een proefdruk maken**
+**kan geen nieuwe versie van een proef** creëren
 
-_Proefdrukken_
+_Proofs_
 
 Wanneer een gebruiker een nieuwe versie van een proefdruk probeert te maken, wordt de nieuwe versie niet gemaakt en ziet de gebruiker het volgende foutbericht:
 
 &quot;[!UICONTROL Error generating proof]&quot;
 
-**Gebruiker wordt gedupliceerd tijdens het delen van een aanvraag**
+**Gebruiker wordt gedupliceerd wanneer het delen van een verzoek**
 
 _Verzoeken_
 
@@ -246,7 +247,7 @@ Wanneer het delen van een verzoek, als het toegangsniveau van een gebruiker die 
 
 Bijvoorbeeld, als het verzoek met Gebruiker A en Gebruiker B wordt gedeeld, en de toegang van Gebruiker B wordt gewijzigd, verandert Gebruiker A in Gebruiker B, en er zijn nu twee Bs van de Gebruiker in de lijst. Bovendien is alleen de toegang van de bovenste gebruiker B gewijzigd.
 
-**&quot;[!UICONTROL Whoops]&quot; fout in taakkoptekst**
+**&quot;[!UICONTROL Whoops]&quot;fout in taakkopbal**
 
 _Taken_
 
@@ -256,7 +257,7 @@ Wanneer een gebruiker een taak bekijkt, bevat de taakkoptekst geen informatie. I
 
 +++
 
-+++**Onderhoudsupdate op 19 oktober 2023**
++++**Update van het Onderhoud op 19 Oktober, 2023**
 
 Gebruikers worden niet op de hoogte gesteld van reacties op een commentaarthread
 
@@ -264,73 +265,73 @@ _Meldingen_
 
 Wanneer een gebruiker op een opmerking reageert, ontvangen andere gebruikers die berichten voor het antwoord moeten ontvangen, deze niet. Sommige gebruikers ontvangen de melding, andere niet.
 
-**Extra, lege opmerking bij het maken van een opmerking bij een proefdruk**
+**Extra, leeg commentaar wanneer het maken van een commentaar op een proef**
 
-_Proefdrukken_
+_Proofs_
 
 Wanneer een gebruiker een opmerking maakt over een proefdruk, geeft de proefdruk ook een andere opmerking, die leeg is.
 
 Dit is gemeld op videoproefdrukken.
 
-**[!UICONTROL Proof activity]tab is niet geopend**
+**[!UICONTROL Proof activity]-tabblad wordt niet geopend**
 
-_Proefdrukken_
+_Proofs_
 
-Wanneer een gebruiker een proef bekijkt en klikt [!UICONTROL Proof activity] tab, retourneert de tab de gebruiker naar de [!UICONTROL Proof details] tab.
+Wanneer een gebruiker een proef bekijkt en het [!UICONTROL Proof activity] lusje klikt, keert het lusje de gebruiker aan het [!UICONTROL Proof details] lusje terug.
 
 **[!UICONTROL Planned Hours]worden opnieuw toegewezen wanneer een extra gebruiker aan een taak wordt toegewezen**
 
 _Taken_
 
-Wanneer een gebruiker aan een taak wordt toegewezen die heeft [!UICONTROL Planned Hours] die aan andere deelnemers aan de taak worden toegewezen, [!UICONTROL Planned Hours] gelijkmatig over alle betrokkenen worden verdeeld.
+Wanneer een gebruiker wordt toegewezen aan een taak waarvoor [!UICONTROL Planned Hours] is toegewezen aan andere toewijzing aan de taak, worden de taaktaken [!UICONTROL Planned Hours] gelijkmatig verdeeld over alle taaktoewijzingen.
 
-**&quot;[!UICONTROL Deleted]&quot; wordt weergegeven als naam van de gebruiker in systeemupdates wanneer het probleem wordt omgezet in een taak**
+**&quot;[!UICONTROL Deleted]&quot;vertoningen als naam van gebruiker in systeemupdates wanneer de kwestie in taak** wordt omgezet
 
 _Updates_
 
-Wanneer een gebruiker die als een andere gebruiker het programma wordt geopend een kwestie in een taak omzet, en de kwestie aan een team wordt toegewezen, tonen de systeemupdates &quot;[!UICONTROL Deleted]&quot; als de gebruiker die om het teamwerk aan de taak vroeg.
+Wanneer een gebruiker die als een andere gebruiker het programma wordt geopend een kwestie in een taak omzet, en de kwestie wordt toegewezen aan een team, tonen de systeemupdates &quot;[!UICONTROL Deleted]&quot;als gebruiker die om dat het teamwerk aan de taak verzocht.
 
 +++
 
-+++**Onderhoudsupdate op 12 oktober 2023**
++++**Update van het Onderhoud op 12 Oktober, 2023**
 
-**Workstreams verwijderd voor accounts die deze niet gebruiken**
+**Werkstromen die voor rekeningen worden verwijderd die hen niet gebruiken**
 
-_Borden_
+_Boards_
 
 Voor accounts die nog nooit een werkstroom hebben gemaakt in de toepassing Boards, is het gebied Workstreams verwijderd van het dashboard Boards. Accounts die wel werkstromen gebruiken, hebben nog steeds toegang tot deze accounts.
 
-**Berekende velden behouden geen waarde wanneer uitgave wordt omgezet in taak**
+**Berekende gebieden behouden geen waarde wanneer de kwestie in taak** wordt omgezet
 
-_Aangepaste formulieren_
+_de vormen van de Douane_
 
 Berekende velden die zelf naar verwijzen, behouden hun waarden niet wanneer een uitgave wordt omgezet in een taak.
 
 Wanneer u de uitgave omzet in een taak, wordt de gewenste waarde correct weergegeven in het bewerkingsvenster. Nadat de conversie is voltooid, wordt in het berekende veld echter de waarde &quot;N.v.t.&quot; weergegeven.
 
-**Fout bij wijzigen van filters in[!UICONTROL Home]**
+**Fout bij het wijzigen van filters in[!UICONTROL Home]**
 
-_Home_
+_Huis_
 
-Wanneer een gebruiker de filters op [!UICONTROL Home]de [!UICONTROL Home] wordt niet geladen en de gebruiker ziet de volgende fout:
+Wanneer een gebruiker de filters op [!UICONTROL Home] wijzigt, wordt het [!UICONTROL Home] -gebied niet geladen en ziet de gebruiker de volgende fout:
 
 &quot;[!UICONTROL An error has occurred and we are working to resolve the issue. To continue with your work, try refreshing this browser page.]&quot;
 
 +++
 
-+++**Onderhoudsupdate op 5 oktober 2023**
++++**Update van het Onderhoud op 5 Oktober, 2023**
 
-**Startladingen langzaam**
+**de ladingen van de Raad langzaam**
 
-_Borden_
+_Boards_
 
 Wanneer een gebruiker een board laadt, wordt het board uiterst langzaam geladen. Dit kan gebeuren, ook al heeft het bord een klein aantal kaarten.
 
 Gearchiveerde kaarten hadden, zelfs als ze niet worden weergegeven, invloed op de laadtijd van het bord.
 
-**Kan kaarten niet verplaatsen tussen kolommen**
+**kan geen kaarten tussen kolommen bewegen**
 
-_Borden_
+_Boards_
 
 Wanneer een gebruiker een kaart op een bord probeert te verplaatsen, wordt de kaart niet verplaatst. Dit gebeurt in de volgende omstandigheden:
 
@@ -338,19 +339,19 @@ Wanneer een gebruiker een kaart op een bord probeert te verplaatsen, wordt de ka
 * Optie Verplaatsen op kaart
 * De kaart bewerken
 
-**Kan kaarten niet uit de inlaatkolom verplaatsen**
+**kan geen kaarten uit de inlaatkolom bewegen**
 
-_Borden_
+_Boards_
 
 De gebruiker kan een kaart uit de inlaatkolom naar een andere kolom op het bord slepen, maar de volgende kaarten kunnen niet uit de inlaatkolom worden verplaatst.
 
-**Groeperen naar prestaties op het bord**
+**Groep door bordprestaties te beïnvloeden**
 
-_Borden_
+_Boards_
 
 Wanneer de gebruiker de kaarten probeert te groeperen door middel van toewijzingen of tags, worden de prestaties van het toetsenbord zeer traag.
 
-**E-mails met automatische herinnering worden niet verzonden**
+**de Automatische e-mails van de Herinnering worden niet verzonden**
 
 _Meldingen_
 
@@ -360,25 +361,25 @@ Automatische e-mailherinneringen worden niet verzonden. Dit begon op 14 septembe
 
 ## Updates in september 2023
 
-+++**Onderhoudsupdate op 28 september 2023**
++++**Update van het Onderhoud op 28 september, 2023**
 
-**Kan aangepast veld niet verwijderen**
+**kan douanegebied** niet schrappen
 
-_Aangepaste formulieren_
+_de vormen van de Douane_
 
-Wanneer een gebruiker een aangepast veld probeert te verwijderen, kan het niet worden verwijderd en wordt het bericht &quot;[!UICONTROL Database error due to constraint violation].&quot;
+Wanneer een gebruiker probeert om een douanegebied te schrappen, kunnen zij niet het schrappen, en zij zien het bericht &quot;[!UICONTROL Database error due to constraint violation]&quot;.
 
-**Opmerkingen die zijn gemaakt in een nieuwe opmerkingervaring zijn niet zichtbaar in een oudere ervaring**
+**Commentaren die in nieuwe het becommentariëren ervaring worden gemaakt zijn niet zichtbaar in erfeniservaring**
 
 _Updates_
 
 Wanneer een gebruiker een opmerking maakt in de nieuwe opmerkingervaring en die opmerking wordt weergegeven in het gebied Opmerkingen van de nieuwe ervaring, wordt dezelfde opmerking mogelijk niet weergegeven in de oudere opmerkingervaring. Dit kan ertoe leiden dat gebruikers die de oudere ervaring gebruiken opmerkingen vergeten.
 
-**Objectpagina bevat ontbrekende elementen**
+**de pagina van Objecten mist elementen**
 
 _Workfront_
 
-Wanneer een gebruiker naar een aangepaste sectie op een object navigeert in [!DNL Workfront]Er ontbreken wellicht enkele elementen op de pagina die wordt geladen. Deze elementen kunnen het volgende omvatten:
+Wanneer een gebruiker naar een aangepaste sectie op een object in [!DNL Workfront] navigeert, ontbreken mogelijk enkele elementen op de pagina die wordt geladen. Deze elementen kunnen het volgende omvatten:
 
 * Het linkernavigatievenster
 * De naam van het object waartoe de aangepaste sectie behoort
@@ -386,35 +387,35 @@ Wanneer een gebruiker naar een aangepaste sectie op een object navigeert in [!DN
 
 +++
 
-+++**Onderhoudsupdate op 21 september 2023**
++++**Update van het Onderhoud op 21 September, 2023**
 
-**Kan geen gebruiker toewijzen aan een board op een werkstroom**
+**kan geen gebruiker op een raad op een werkstroom toewijzen**
 
-_Borden_
+_Boards_
 
 Wanneer een gebruiker probeert een andere gebruiker aan een taak van een raad toe te wijzen die deel van een werkstroom uitmaakt, en de naam van de gebruiker begint te typen, verschijnt de gebruiker niet op de drop-down lijst van beschikbare gebruikers. Dit gebeurt zelfs wanneer de gebruiker actief is en een lid van zowel de raad als de werkstroom.
 
 Het kan ook voorkomen dat gedeactiveerde gebruikers in de vervolgkeuzelijst worden weergegeven.
 
-**Kan item van checklist niet verwijderen**
+**kan checklist punt** niet schrappen
 
-_Borden_
+_Boards_
 
-Wanneer een gebruiker een controlelijstitem probeert te verwijderen van een kaart op een board, wordt [!UICONTROL Delete] De knop reageert niet en het item wordt niet verwijderd.
+Wanneer een gebruiker een controlelijstitem probeert te verwijderen van een kaart op een bord, reageert de knop [!UICONTROL Delete] niet en wordt het item niet verwijderd.
 
-**Aangepaste formulieren worden langzaam geladen**
+**de Formulieren van de Douane laden langzaam**
 
-_Aangepaste formulieren_
+_de vormen van de Douane_
 
 Wanneer een gebruiker een aangepast formulier probeert te laden, wordt het aangepaste formulier langzaam geladen.
 
-**Kan document niet naar een andere map verplaatsen**
+**kan document aan een verschillende omslag niet bewegen**
 
 _Documenten_
 
 Wanneer een gebruiker een document naar een objectmap verplaatst, kan hij of zij het object niet naar een andere map verplaatsen.
 
-**XML-fout tijdens downloaden**
+**fout van XML wanneer het downloaden**
 
 _Documenten_
 
@@ -422,7 +423,7 @@ Wanneer een gebruiker een document probeert te downloaden, wordt het document ni
 
 &quot;[!UICONTROL The XML file does not appear to have any style information associated with it. The document tree is below.]&quot;
 
-**Kan geen documenten downloaden uit een voorvertoning-/sandbox-omgeving**
+**kan geen documenten van de milieu&#39;s downloaden van de Voorproef/van Sandbox**
 
 _Documenten_
 
@@ -430,9 +431,9 @@ Wanneer een gebruiker een document probeert te downloaden vanuit een andere omge
 
 &quot;[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]&quot;
 
-**Proefdrukken worden weergegeven zonder verzadiging of bijgesneden**
+**de proeven verschijnen verlaten of bebouwd**
 
-_Proefdrukken_
+_Proofs_
 
 De volgende problemen zijn gemeld bij het maken van een proef via een URL.
 
@@ -441,25 +442,25 @@ De volgende problemen zijn gemeld bij het maken van een proef via een URL.
 
 Dit kan ertoe leiden dat de bewijsvoering moeilijk is, omdat de bewijsvoering niet correct wordt weergegeven.
 
-**Het genereren van proefdrukken duurt te lang**
+**Proefdrukken nemen buitensporige tijd om te produceren**
 
-_Proefdrukken_
+_Proofs_
 
 Wanneer een gebruiker een bewijs probeert te produceren, vergt het bewijs een buitensporige hoeveelheid tijd om te produceren. De proefproductie kan enkele dagen duren.
 
 +++
 
-+++**Onderhoudsupdate op 14 september 2023**
++++**Update van het Onderhoud op 14 september, 2023**
 
-**&quot;[!UICONTROL No factory]&quot; fout bij het toevoegen van een document**
+**&quot;[!UICONTROL No factory]&quot;fout wanneer het toevoegen van een document**
 
 _Documenten_
 
-Wanneer een gebruiker een document uit een externe bron probeert toe te voegen, [!DNL Workfront] heeft geen toegang tot de bron en de gebruiker ziet de volgende fout:
+Wanneer een gebruiker een document uit een externe bron probeert toe te voegen, heeft [!DNL Workfront] geen toegang tot de bron en ziet de gebruiker de volgende fout:
 
 &quot;[!UICONTROL The following error occurred: No factory found for authentication type null]&quot;
 
-**Fout in matrix-rapporten met de fout &quot;Wiops&quot;**
+**De fout van &quot;Wiops&quot;op matrixrapporten**
 
 _Rapporten_
 
@@ -471,9 +472,9 @@ Dit komt voor wanneer het groeperen van een rapport door datumwaaiers.
 
 +++
 
-+++**Onderhoudsupdate op 11 september 2023**
++++**Update van het Onderhoud op 11 September, 2023**
 
-**Persoonlijke taken worden niet weergegeven in timesheets**
+**Persoonlijke taken tonen niet in timesheets**
 
 _Timesheets_
 
@@ -481,31 +482,31 @@ De persoonlijke taken tonen niet meer op timesheet door gebrek. De persoonlijke 
 
 +++
 
-+++**Onderhoudsupdate op 7 september 2023**
++++**Update van het Onderhoud op 7 September, 2023**
 
-**Project is leeg wanneer het uit nieuw wordt geladen [!UICONTROL Home] ervaring**
+**Project is leeg wanneer geladen van nieuwe [!UICONTROL Home] ervaring**
 
 _Projecten_
 
-Wanneer een gebruiker op een project van hun klikt [!UICONTROL Home] pagina in de nieuwe ervaring van het Huis, kan de pagina van het project niet laden.
+Wanneer een gebruiker op een project van hun [!UICONTROL Home] pagina in de nieuwe ervaring van het Huis klikt, ontbreekt de pagina van het project om te laden.
 
-Dit komt voor wanneer de gebruiker als een andere gebruiker heeft het programma geopend, dan het programma geopend als andere gebruiker en aan hun teruggekeerd [!UICONTROL Home] pagina.
+Dit gebeurt wanneer de gebruiker zich heeft aangemeld als een andere gebruiker, zich vervolgens heeft afgemeld als de andere gebruiker en is teruggekeerd naar zijn eigen [!UICONTROL Home] pagina.
 
 +++
 
 ## Updates in augustus 2023
 
-+++**Onderhoudsupdate op 31 augustus 2023**
++++**Update van het Onderhoud op 31 augustus, 2023**
 
-**Filters zijn niet van toepassing op widgets in de nieuwe [!UICONTROL Home] ervaring**
+**de Filters zijn niet van toepassing op widgets in de nieuwe [!UICONTROL Home] ervaring**
 
 _[!UICONTROL Home]_
 
-Wanneer een gebruiker een filter toepast op een widget in de nieuwe [!UICONTROL Home] In de widget worden items weergegeven die door het filter moeten worden uitgesloten.
+Wanneer een gebruiker een filter toepast op een widget in de nieuwe [!UICONTROL Home] -ervaring, geeft de widget items weer die door het filter moeten worden uitgesloten.
 
 Dit is gemeld in de aangepaste sandbox-omgeving. Dezelfde widgets filteren in de voorvertoning- en productieomgevingen als u had verwacht.
 
-**Problemen bij het laden van Matrix-rapporten**
+**Kwesties wanneer het laden van de rapporten van de Matrijs**
 
 _Rapporten_
 
@@ -514,85 +515,85 @@ Wanneer een gebruiker probeert om een rapport van de Matrijs als grafiek te lade
 * Bepaalde informatie in het rapport wordt niet geladen
 * Het rapport geeft de fout &quot;[!UICONTROL Unable to load content from the server]&quot;
 
-**De Planner wordt niet geladen wanneer het filter wordt toegepast**
+**de Planner laadt niet wanneer de filter wordt toegepast**
 
 _[!UICONTROL Resource Planner]_
 
-Wanneer een gebruiker probeert de [!UICONTROL Resource Planner], wordt de planner niet geladen en ziet de gebruiker het volgende foutbericht:
+Wanneer een gebruiker probeert de [!UICONTROL Resource Planner] te laden, wordt de planner niet geladen en krijgt de gebruiker de volgende foutmelding te zien:
 
 &quot;[!UICONTROL The following error occurred: Something went wrong while connecting to WorkPerDay service]&quot;
 
 +++
 
-+++**Onderhoudsupdate op 24 augustus 2023**
++++**update van het Onderhoud op 24 augustus, 2023**
 
-**Kan geen tekst selecteren in lijsten of opsommingstekens**
+**kan geen tekst in lijsten of kogelpunten selecteren**
 
-_Proefdrukken_
+_Proofs_
 
 Wanneer een gebruiker een proef in de het proefdrukken kijker bekijkt en probeert om tekst te selecteren die in een lijst of een kogelpunt is, is het hulpmiddel van de tekstselectie inefficiënt, en de tekst kan niet worden geselecteerd.
 
-**Als u een nieuwe proefversie maakt, worden alle proefversies verwijderd**
+**Creërend een nieuwe proefdrukversie schrapt alle versies van proef**
 
-_Proefdrukken_
+_Proofs_
 
-Wanneer een gebruiker een proefdruk maakt op basis van een document, wordt de proefdruk gemaakt. Als een gebruiker echter een andere versie van de proefdruk maakt, worden zowel de oude als de nieuwe versie verwijderd. Er is een [!UICONTROL Create Proof] en de proefversies vindt u in het [!UICONTROL Trash] gebied van de [!UICONTROL Proofing] gebied in [!DNL Workfront].
+Wanneer een gebruiker een proefdruk maakt op basis van een document, wordt de proefdruk gemaakt. Als een gebruiker echter een andere versie van de proefdruk maakt, worden zowel de oude als de nieuwe versie verwijderd. Het oorspronkelijke document bevat een optie [!UICONTROL Create Proof] en de proefversies staan in het [!UICONTROL Trash] -gebied van het [!UICONTROL Proofing] -gebied in [!DNL Workfront] .
 
 +++
 
-+++**Onderhoudsupdate op 17 augustus 2023**
++++**update van het Onderhoud op 17 augustus, 2023**
 
-**Kan niet navigeren naar project met URL die gebruikt[!UICONTROL Reference ID]**
+**kan niet aan project met URL navigeren die[!UICONTROL Reference ID]** gebruikt
 
 _Projecten_
 
-Wanneer een gebruiker naar een project probeert te navigeren met een URL die een [!UICONTROL Reference ID] -nummer, worden ze doorgestuurd naar een pagina met een foutbericht. Navigeren naar een taak met behulp van een URL met een [!UICONTROL Reference ID] werkt zoals verwacht.
+Wanneer een gebruiker naar een project probeert te navigeren met een URL die een [!UICONTROL Reference ID] -nummer bevat, worden deze doorgestuurd naar een pagina met een foutbericht. Navigeren naar een taak met een URL met een [!UICONTROL Reference ID] werkt zoals u had verwacht.
 
-**&quot;[!UICONTROL Disable proof email notifications]&quot; instelling wordt onjuist weergegeven**
+**&quot;[!UICONTROL Disable proof email notifications]&quot;het plaatsen toont onjuist**
 
-_Proefdrukken_
+_Proofs_
 
-Wanneer een gebruiker proefdrukinstellingen weergeeft in [!DNL Workfront], de &quot;[!UICONTROL Disable proof email notifications]&quot; het selectievakje geeft de juiste huidige instelling niet correct weer. Als dit selectievakje is ingeschakeld, worden e-mailmeldingen met een proefdruk uitgeschakeld. De meldingen worden nu daadwerkelijk ingeschakeld. Het tegendeel is ook waar.
+Wanneer een gebruiker proefdrukinstellingen weergeeft in [!DNL Workfront] , geeft het selectievakje [!UICONTROL Disable proof email notifications] niet de juiste huidige instelling op de juiste wijze weer. Als dit selectievakje is ingeschakeld, worden e-mailmeldingen met een proefdruk uitgeschakeld. De meldingen worden nu daadwerkelijk ingeschakeld. Het tegendeel is ook waar.
 
-**Kan proefdrukmarkeringen niet aanpassen**
+**kan proefdrukmarkeringen niet aanpassen**
 
-_Proefdrukken_
+_Proofs_
 
 Wanneer een gebruiker een opmerking maakt in de drukproefviewer en een markering maakt op de proefdruk en vervolgens wegklikt, kan de gebruiker de markering niet meer aanpassen.
 
 +++
 
-+++**Onderhoudsupdate op 10 augustus 2023**
++++**update van het Onderhoud op 10 augustus, 2023**
 
-**Kan niet verwijderen [!UICONTROL To-do] object in nieuw [!UICONTROL Home] ervaring**
+**kan [!UICONTROL To-do] punt in nieuwe [!UICONTROL Home] ervaring niet schrappen**
 
-_Home_
+_Huis_
 
-Wanneer een gebruiker in de nieuwe [!UICONTROL Home] ervaring probeert een item te verwijderen uit het dialoogvenster [!UICONTROL To-do] widget, het item wordt niet verwijderd en de gebruiker ziet de volgende fout:
+Wanneer een gebruiker in de nieuwe [!UICONTROL Home] -ervaring een item probeert te verwijderen uit de [!UICONTROL To-do] -widget, wordt het item niet verwijderd en wordt de volgende fout weergegeven:
 
 &quot;[!UICONTROL There was a problem removing your to-do, please try again soon.]&quot;
 
-Dit kan voorkomen wanneer er uren aan het programma worden geregistreerd [!UICONTROL To-do] item.
+Dit kan gebeuren wanneer er uren zijn geregistreerd aan het [!UICONTROL To-do] punt.
 
 **Vastgezet project toont geen informatie in sommige kolommen**
 
 _Projecten_
 
-Wanneer een gebruiker naar een vastgezet project navigeert gebruikend het punt, kunnen de objecten lijsten (zoals de taaklijst) lege kolommen tonen. Een [!UICONTROL Assignments] in de kolom kunnen geen toewijzingen worden weergegeven, ook al zijn er toewijzingen gemaakt.
+Wanneer een gebruiker naar een vastgezet project navigeert gebruikend het punt, kunnen de objecten lijsten (zoals de taaklijst) lege kolommen tonen. Een kolom [!UICONTROL Assignments] kan bijvoorbeeld geen toewijzingen weergeven, ook al zijn er toewijzingen gemaakt.
 
-**Slaapmodule zorgt ervoor dat scenario&#39;s hangen**
+**module van de Slaap veroorzakend scenario&#39;s om** te hangen
 
 _[!DNL Workfront Fusion]_
 
-De [!UICONTROL Tools] > [!UICONTROL Sleep] de module in een scenario kan een scenario uitvoeren om te hangen. Deze uitvoeringen tonen een status van Running in [!UICONTROL Scenario History]en niet voltooien.
+De module [!UICONTROL Tools] > [!UICONTROL Sleep] in een scenario kan ertoe leiden dat de uitvoering van een scenario vastloopt. Deze uitvoeringen geven de status weer van Wordt uitgevoerd in de [!UICONTROL Scenario History] en zijn niet voltooid.
 
 +++
 
-+++**Onderhoudsupdate op 3 augustus 2023**
++++**Update van het Onderhoud op 3 Augustus, 2023**
 
-**Probleem met items in inlaatkolom vinden**
+**Probleem plaatsend punten in inlaatkolom**
 
-_Borden_
+_Boards_
 
 De inlaatkolom op een board werd eerder gesorteerd op de prioriteit die op taken en kwesties werd bepaald, die het moeilijk maakten om van specifieke punten de plaats te bepalen.
 
@@ -608,13 +609,13 @@ Problemen
 * Primaire bestelling: Projectnaam
 * Secundaire volgorde: Referentienummer
 
-**Project lost probleem niet correct op**
+**het Project lost correct geen kwestie** op
 
-_Projecten/problemen_
+_Projecten/Kwesties_
 
 Wanneer een gebruiker de status wijzigt van een project dat het oplossende object voor een uitgave is, wordt de status van de uitgave gewijzigd in een status die niet overeenkomt met dezelfde sleutel als de status van het project.
 
-**Fout in matrix-rapporten met de fout &quot;Wiops&quot;**
+**De fout van &quot;Wiops&quot;op matrixrapporten**
 
 _Rapporten_
 
@@ -628,49 +629,49 @@ Dit is gemeld voor gebruikers in EMEA.
 
 ## Updates in juli 2023
 
-+++**Onderhoudsupdate op 27 juli 2023**
++++**Update van het Onderhoud op 27 Juli, 2023**
 
-**Labels en controlelijstitems werken niet correct in de weergave van het projectbord**
+**Markeringen en controlelijstitems die niet correct in de mening van het projectbord werken**
 
-_Borden_
+_Boards_
 
 Labels en controlelijstitems zijn verwijderd uit de weergave aan boord van projecten, omdat ze geen deel uitmaken van de Workfront-taken en niet kunnen worden gedeeld tussen gebruikers.
 
-**&quot;[!UICONTROL Enable system-wide]&quot; en &quot;[!UICONTROL View system-wide]&quot; Andere functionaliteit vertegenwoordigen**
+**&quot;[!UICONTROL Enable system-wide]&quot; en &quot;[!UICONTROL View system-wide]&quot;vertegenwoordigen verschillende functionaliteit**
 
 _Filters_
 
-Als een gebruiker een filter deelt en &quot;[!UICONTROL View system-wide]&quot;, wordt het filter gedeeld met elke gebruiker in het systeem. Als een beheerder dit filter echter in [!UICONTROL Setup], zien ze dat dit filter wordt weergegeven &quot;[!UICONTROL false]&quot; in de &quot;[!UICONTROL Visible System-Wide]&quot; kolom. Om van dit filter een systeemgebrek te maken, moet admin &quot;[!UICONTROL Enable system-wide]&quot;, optie in [!UICONTROL Setup]. Dit kan enige verwarring veroorzaken vanwege de gelijkenis van de formulering.
+Als een gebruiker een filter deelt en &quot;[!UICONTROL View system-wide]&quot;optie toelaat, wordt de filter gedeeld met elke gebruiker in het systeem. Nochtans, als een beheerder dan dit filter in [!UICONTROL Setup] bekijkt, zien zij dat dit filter &quot;[!UICONTROL false]&quot;in de &quot;[!UICONTROL Visible System-Wide]&quot;kolom toont. Als u van dit filter een standaardfilter wilt maken, moet de beheerder de optie &quot;[!UICONTROL Enable system-wide]&quot; in [!UICONTROL Setup] inschakelen. Dit kan enige verwarring veroorzaken vanwege de gelijkenis van de formulering.
 
 +++
 
-+++**Onderhoudsupdate op 20 juli 2023**
++++**Update van het Onderhoud op 20 Juli, 2023**
 
 Deze update bevat alleen kleine of minder belangrijke opgeloste problemen. [!DNL Workfront] Ondersteuning geeft een melding wanneer een probleem dat u hebt verzonden, is opgelost.
 
 +++
 
-+++**Onderhoudsupdate op 13 juli 2023**
++++**Update van het Onderhoud op 13 Juli, 2023**
 
-**Tijdlijn wordt niet opnieuw berekend**
+**de Chronologie herberekent niet**
 
-_Projecten/taken/problemen_
+_Projecten/Taken/Kwesties_
 
 Wanneer een even gebeurtenis optreedt die een tijdlijnberekening zou moeten activeren, wordt de tijdlijn niet opnieuw berekend. Dit beïnvloedt herberekeningen die op veranderingen voorkomen, en geplande herberekeningen. Dit kan van invloed zijn op de nauwkeurigheid van de werklastverdeling.
 
-**Vergrendelde proefdrukgoedkeuringen worden nog steeds weergegeven in de werklijst**
+**Vergrendelde proefdrukgoedkeuringen tonen nog in de Lijst van het Werk**
 
-_Proefdrukken_
+_Proofs_
 
 Goedkeuringen met bewijzen die hun deadline hebben overschreden en zijn vergrendeld, worden nog steeds weergegeven op de thuiswerklijst van de fiatteur in plaats van de lijst af te sluiten wanneer de deadline is verstreken.
 
-**Het gebruiksrapport wordt niet geladen**
+**het rapport van het Gebruik laadt niet**
 
 _Rapporten_
 
 Wanneer een klant probeert om een gebruiksrapport te bekijken, ziet de gebruiker een het draaien ladingsindicator, maar het rapport laadt niet. Het rapport heeft een fout van 500 geretourneerd, maar de gebruiker ziet geen aanwijzing dat het rapport is mislukt.
 
-**Gebruikerspagina bewerken is leeg**
+**geef de pagina van de Gebruiker uit is leeg**
 
 <!--no article-->
 
@@ -682,15 +683,15 @@ Wanneer een gebruiker probeert een andere gebruiker te bewerken, is de pagina Ge
 
 ## Updates in juni 2023
 
-+++**Onderhoudsupdate op 29 juni 2023**
++++**Update van het Onderhoud op 29 juni, 2023**
 
 Deze update bevat alleen kleine of minder belangrijke opgeloste problemen. [!DNL Workfront] Ondersteuning geeft een melding wanneer een probleem dat u hebt verzonden, is opgelost.
 
 +++
 
-+++**Onderhoudsupdate op 22 juni 2023**
++++**Update van het Onderhoud op 22 Juni, 2023**
 
-**&quot;[!UICONTROL Whoops]&quot;-fout bij weergeven van matrixrapport**
+**&quot;[!UICONTROL Whoops]&quot;fout wanneer het bekijken matrixrapport**
 
 _Rapporten_
 
@@ -698,9 +699,9 @@ Wanneer een gebruiker een matrixrapport weergeeft, wordt de volgende fout weerge
 
 &quot;[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]&quot;
 
-Dit is gemeld wanneer het rapport is gesorteerd op datum en &quot;[!UICONTROL Show weeks with no results]&quot; is ingeschakeld.
+Dit is gemeld wanneer het rapport door datum wordt gesorteerd en &quot;[!UICONTROL Show weeks with no results]&quot;optie wordt toegelaten.
 
-**Datums worden onjuist weergegeven in matrixrapporten**
+**vertoning van Data verkeerd in matrixrapporten**
 
 _Rapporten_
 
@@ -708,13 +709,13 @@ Wanneer een grafiek of matrixrapport op datum wordt gegroepeerd, kunnen de data 
 
 +++
 
-+++**Onderhoudsupdate op 15 juni 2023**
++++**Update van het Onderhoud op 15 Juni, 2023**
 
 Deze update bevat alleen kleine of minder belangrijke opgeloste problemen. [!DNL Workfront] Ondersteuning geeft een melding wanneer een probleem dat u hebt verzonden, is opgelost.
 
 +++
 
-+++**Onderhoudsupdate op 8 juni 2023**
++++**Update van het Onderhoud op 8 Juni, 2023**
 
 Deze update bevat alleen kleine of minder belangrijke opgeloste problemen. [!DNL Workfront] Ondersteuning geeft een melding wanneer een probleem dat u hebt verzonden, is opgelost.
 
@@ -722,37 +723,37 @@ Deze update bevat alleen kleine of minder belangrijke opgeloste problemen. [!DNL
 
 +++**[!DNL Adobe Workfront Fusion]Onderhoudsupdate op 8 juni 2023**
 
-[!DNL Fusion] heeft een oplossing geïmplementeerd die voorkomt dat de verbindingen van een gebruiker worden verwijderd wanneer de gebruiker in het dialoogvenster [!UICONTROL Adobe Admin Console].
+[!DNL Fusion] heeft een correctie geïmplementeerd die voorkomt dat gebruikersverbindingen worden verwijderd wanneer de gebruiker wordt verwijderd of gedeactiveerd in [!UICONTROL Adobe Admin Console] .
 
-[!DNL Fusion] teambeheerders zijn nog steeds in staat onnodige verbindingen uit de [!UICONTROL Connections] pagina in [!DNL Fusion].
+[!DNL Fusion] -teambeheerders kunnen nog steeds overbodige verbindingen van de [!UICONTROL Connections] pagina in [!DNL Fusion] verwijderen.
 
 +++
 
-+++**Onderhoudsupdate op 1 juni 2023**
++++**Update van het Onderhoud op 1 Juni, 2023**
 
-**Geen foutbericht bij opnieuw ordenen van taak in [!UICONTROL Pending approval] status**
-
-_Taken_
-
-Wanneer een gebruiker een taak in een takenlijst probeert opnieuw te rangschikken en de taak binnen is [!UICONTROL Pending approval] status, lijkt de taak in de takenlijst te bewegen. Na vernieuwen ziet de gebruiker dat het item niet is verplaatst. Het item kan niet worden verplaatst omdat het zich in [!UICONTROL Pending approval] status, maar er is geen bericht om de gebruiker te laten weten dat het item niet kan worden verplaatst, wat tot verwarring kan leiden.
-
-**Geen foutbericht bij verplaatsen van voorgangstaak onder afhankelijke taak**
+**Geen foutenmelding wanneer het opnieuw ordenen van taak in [!UICONTROL Pending approval] status**
 
 _Taken_
 
-Wanneer een gebruiker een taak in een takenlijst probeert opnieuw te rangschikken en de taak binnen is [!UICONTROL Pending approval] status, lijkt de taak in de takenlijst te bewegen. Na vernieuwen ziet de gebruiker dat het item niet is verplaatst. Het item kan niet worden verplaatst omdat een voorganger niet kan worden verplaatst onder een taak waarvoor het de voorganger is, maar er is geen bericht om de gebruiker te laten weten dat het item niet kan worden verplaatst, wat tot verwarring kan leiden.
+Wanneer een gebruiker een taak in een takenlijst probeert opnieuw te rangschikken en de taak de status [!UICONTROL Pending approval] heeft, lijkt de taak in de takenlijst te bewegen. Na vernieuwen ziet de gebruiker dat het item niet is verplaatst. Het item kan niet worden verplaatst omdat het de status [!UICONTROL Pending approval] heeft, maar er is geen bericht om de gebruiker te laten weten dat het item niet kan worden verplaatst, wat tot verwarring kan leiden.
+
+**Geen foutenmelding wanneer het bewegen van voorgangerstaak onder afhankelijke taak**
+
+_Taken_
+
+Wanneer een gebruiker een taak in een takenlijst probeert opnieuw te rangschikken en de taak de status [!UICONTROL Pending approval] heeft, lijkt de taak in de takenlijst te bewegen. Na vernieuwen ziet de gebruiker dat het item niet is verplaatst. Het item kan niet worden verplaatst omdat een voorganger niet kan worden verplaatst onder een taak waarvoor het de voorganger is, maar er is geen bericht om de gebruiker te laten weten dat het item niet kan worden verplaatst, wat tot verwarring kan leiden.
 
 +++
 
 ## Updates in mei 2023
 
-+++**Onderhoudsupdate op 25 mei 2023**
++++**Update van het Onderhoud op 25 Mei, 2023**
 
-**[!UICONTROL Kanban]board wordt leeg gebruikt bij het bewerken van kaarten**
+**[!UICONTROL Kanban]-board blijft leeg wanneer u kaarten bewerkt**
 
-_Agile_
+_Gelijk_
 
-Wanneer een gebruiker iets wijzigt over een kaart op het tabblad [!UICONTROL Kanban] de [!UICONTROL Kanban] Het bord wordt leeg weergegeven in plaats van te vernieuwen met de wijziging. Als de gebruiker de pagina handmatig vernieuwt, [!UICONTROL Kanban] boardgeretourneerde waarden, met de juiste wijziging.
+Wanneer een gebruiker iets wijzigt over een kaart op de [!UICONTROL Kanban] -board, wordt het [!UICONTROL Kanban] -board leeg weergegeven in plaats van te worden vernieuwd met de wijziging. Als de gebruiker de pagina handmatig vernieuwt, wordt het [!UICONTROL Kanban] -bord geretourneerd en wordt de juiste wijziging weergegeven.
 
 Dit is gemeld in de volgende omstandigheden:
 
@@ -762,19 +763,19 @@ Dit is gemeld in de volgende omstandigheden:
 
 +++
 
-+++**Onderhoudsupdate op 22 mei 2023**
++++**Update van het Onderhoud op 22 Mei, 2023**
 
-**Kan de grootte van beschrijvende tekst niet aanpassen**
+**kan niet de grootte van beschrijvende teksten aanpassen**
 
-_Aangepaste formulieren_
+_de vormen van de Douane_
 
 Toen de aangepaste formulierontwerper in de bètaversie werd uitgebracht, was de functionaliteit om de grootte van beschrijvende tekst aan te passen niet beschikbaar. Dit probleem is opgelost en gebruikers kunnen de grootte van beschrijvende tekst nu aanpassen.
 
 +++
 
-+++**Onderhoudsupdate op 18 mei 2023**
++++**Update van het Onderhoud op 18 Mei, 2023**
 
-**Rapport wordt niet correct gesorteerd bij sorteren op aangepast veld**
+**het Rapport sorteert niet correct wanneer het sorteren door douanegebied**
 
 _Rapporten_
 Wanneer een gebruiker een taakrapport in werking stelt, lijkt het rapport correct te sorteren wanneer het laadt, maar wanneer het klaar is met laden ziet de gebruiker dat het rapport niet correct gesorteerd is.
@@ -787,21 +788,21 @@ Dit lijkt zich voor te doen als aan alle volgende voorwaarden is voldaan:
 
 +++
 
-+++**Onderhoudsupdate op 11 mei 2023**
++++**Update van het Onderhoud op 11 Mei, 2023**
 
-**Kan proefdrukversie niet wisselen bij weergave van proefdrukversie**
+**kan proefdrukversie niet schakelen wanneer het bekijken van bewijs**
 
-_Proefdrukken_
+_Proofs_
 
-Wanneer een gebruiker een proef in bekijkt [!UICONTROL Proofing Viewer]en overschakelt naar een andere versie, wordt het vervolgkeuzemenu uitgeschakeld en kan de gebruiker niet terugschakelen naar de oorspronkelijke versie die hij of zij bekeek, of naar een andere versie van de proefdruk.
+Wanneer een gebruiker een proefdruk weergeeft in [!UICONTROL Proofing Viewer] en overschakelt naar een andere versie, wordt het vervolgkeuzemenu uitgeschakeld en kan de gebruiker niet terugschakelen naar de oorspronkelijke versie die hij of zij bekeek, of naar een andere versie van de proefdruk.
 
 **[!DNL Workfront]Zoektijden uit**
 
-_Zoeken_
+_Onderzoek_
 
-[!DNL Workfront] zoekactie is time-out. De zoekopdracht kan een paar resultaten opleveren, of helemaal geen.
+[!DNL Workfront] zoekopdracht is time-out. De zoekopdracht kan een paar resultaten opleveren, of helemaal geen.
 
-Deze kwestie beïnvloedt ook de functionaliteit van [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL Search] -module.
+Dit probleem heeft ook invloed op de functionaliteit van de module [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL Search] .
 
 +++
 
@@ -809,35 +810,35 @@ Deze kwestie beïnvloedt ook de functionaliteit van [!DNL Workfront Fusion] > [!
 
 **Time-outfouten in[!DNL Workfront Fusion]**
 
-_Adobe Workfront Fusion_
+_de Fusie van Adobe Workfront_
 
 Wanneer een scenario loopt, kan het een onderbrekingsfout hebben. De informatie van de module met de fout bereikt zijn bestemming niet.
 
 **[!DNL Workfront]Zoektijden uit**
 
-_Zoeken_
+_Onderzoek_
 
-[!DNL Workfront] zoekactie is time-out. De zoekopdracht kan een paar resultaten opleveren, of helemaal geen.
+[!DNL Workfront] zoekopdracht is time-out. De zoekopdracht kan een paar resultaten opleveren, of helemaal geen.
 
-Deze kwestie beïnvloedt ook de functionaliteit van [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL Search] -module.
+Dit probleem heeft ook invloed op de functionaliteit van de module [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL Search] .
 
 +++
 
-+++**Onderhoudsupdate op 9 mei 2023**
++++**Update van het Onderhoud op 9 Mei, 2023**
 
-**Opgeslagen filters beschikbaar in de inlaatkolom**
+**Bewaarde filters beschikbaar in de kolom van de bordinname**
 
-_Borden_
+_Boards_
 
 U kunt nu bestaande Workfront-taken en -filters gebruiken bij het configureren van de innamekolom voor een board. Bestaande inlaatkolomfilters zijn nu echter alleen-lezen in het configuratievenster. De bestaande filters worden nog steeds toegepast op de inlaatkolom, maar u moet de filters opnieuw maken als u ze wilt bewerken.
 
 +++
 
-+++**Onderhoudsupdate op 4 mei 2023**
++++**Update van het Onderhoud op 4 Mei, 2023**
 
 **Kan sjabloon niet selecteren vanuit[!UICONTROL Favorite templates]**
 
-_Sjablonen_
+_Malplaatjes_
 
 Wanneer een gebruiker een sjabloon probeert te selecteren in het menu Handelingen (drie punten), verdwijnt de lijst met sjablonen wanneer de gebruiker de muis naar de lijst verplaatst en kan de gebruiker geen sjabloon selecteren. De reden hiervoor is dat de schuifbalk zich tussen het menu en de lijst met sjablonen bevindt. De muis richt zich dan op de schuifbalk terwijl deze naar de lijst met sjablonen gaat.
 
@@ -845,15 +846,15 @@ Wanneer een gebruiker een sjabloon probeert te selecteren in het menu Handelinge
 
 ## Updates in april 2023
 
-+++**Onderhoudsupdate op 27 april 2023**
++++**Update van het Onderhoud op 27 April, 2023**
 
 **Kan niet schakelen tussen proefdrukken in[!UICONTROL Proof Viewer]**
 
-_Proefdrukken_
+_Proofs_
 
-Wanneer een gebruiker een proef in bekijkt [!UICONTROL Proofing Viewer]en schakelt u over naar een andere proefdruk. De knop voor de proefdruk van de switch reageert dan niet. De gebruiker kan niet terugschakelen naar de oorspronkelijke proefdruk die hij of zij bekeek of naar een andere proefdruk.
+Wanneer een gebruiker een proef in [!UICONTROL Proofing Viewer] bekijkt, en op een andere proef overschakelt, wordt de schakelaar proefdruk knoop niet ontvankelijk. De gebruiker kan niet terugschakelen naar de oorspronkelijke proefdruk die hij of zij bekeek of naar een andere proefdruk.
 
-**Gekoppelde afbeeldingen bewerken tijdens het bewerken van een opmerking**
+**geef beelden in bijlage uit wanneer het uitgeven van een commentaar**
 
 _Updates_
 
@@ -863,38 +864,38 @@ U kunt de afbeelding die aan een opmerking is gekoppeld nu bewerken wanneer u ee
 
 +++**[!DNL Adobe Workfront Fusion]Onderhoudsupdate op 25 april 2023**
 
-**[!DNL Fusion]Help-koppelingen in de app leiden niet tot specifieke Help-pagina&#39;s**
+**[!DNL Fusion]In-app Help-koppelingen leiden niet tot specifieke Help-pagina&#39;s**
 
 _[!DNL Workfront Fusion]_
 
-Wanneer een gebruiker een proef in bekijkt [!UICONTROL Proofing Viewer]en schakelt u over naar een andere proefdruk. De knop voor de proefdruk van de switch reageert dan niet. De gebruiker kan niet terugschakelen naar de oorspronkelijke proefdruk die hij of zij bekeek of naar een andere proefdruk.
+Wanneer een gebruiker een proef in [!UICONTROL Proofing Viewer] bekijkt, en op een andere proef overschakelt, wordt de schakelaar proefdruk knoop niet ontvankelijk. De gebruiker kan niet terugschakelen naar de oorspronkelijke proefdruk die hij of zij bekeek of naar een andere proefdruk.
 
 +++
 
-+++**Onderhoudsupdate op 20 april 2023**
++++**Update van het Onderhoud op 20 April, 2023**
 
-**Problemen in aangepaste vervolgkeuzelijsten**
+**Kwesties in douane dropdown gebieden**
 
-_Aangepaste formulieren_
+_de vormen van de Douane_
 
 Aangepaste vervolgkeuzelijsten die zijn ingeschakeld als multiselect-velden, kunnen de volgende problemen weergeven:
 
-* De &quot;+[!UICONTROL Add]De knop &quot;&quot; is niet aanwezig als het formulier zich niet in de bewerkingsmodus bevindt.
-* Velden zonder waarden geven een &quot;—[!UICONTROL no label]—&quot;.
+* De knop &quot;+[!UICONTROL Add]&quot; is niet aanwezig wanneer het formulier zich niet in de bewerkingsmodus bevindt.
+* De gebieden die geen waarden hebben tonen &quot;— [!UICONTROL no label]—&quot;optie.
 
-**Kan het gereedschap Veellijn niet gebruiken wanneer u een opmerking maakt over een proefdruk**
+**kan geen Veelhoekig hulpmiddel gebruiken wanneer het maken van een commentaar op een proef**
 
-_Proefdrukken_
+_Proofs_
 
 Wanneer een gebruiker een proefdruk weergeeft in de Proofing Viewer en probeert een opmerking te maken met het gereedschap Veelzijdig, markeert het gereedschap de proefdruk niet.
 
-**In het vak Tekstopties wordt &quot;textAnnotations&quot; weergegeven**
+**de optiesvakje van de Tekst toont &quot;textAnnotations&quot;**
 
-_Proefdrukken_
+_Proofs_
 
 Wanneer een gebruiker een proefdruk weergeeft, een opmerking toevoegt en het gereedschap Tekst opent, wordt het woord &quot;textAnnotation&quot; weergegeven naast de opties in het gereedschap. Het gereedschap Tekst functioneert nog steeds zoals u had verwacht en &quot;textAnnotation&quot; verdwijnt na het plaatsen van de opmerking.
 
-**Behoud afbeeldingen als concept wanneer u afstapt van een update voor doelen en voor problemen in de bètaervaring met opmerkingen**
+**houd beelden als ontwerp wanneer het bewegen weg van een update voor doelstellingen en voor kwesties in het becommentariëren bètaervaring**
 
 >[!NOTE]
 >
@@ -904,7 +905,7 @@ _Updates_
 
 Wanneer u nu weg navigeert van de pagina Updates terwijl u midden in het samenstellen van een bericht bent waar u een afbeelding hebt gekoppeld, blijven het bericht en de afbeelding behouden wanneer u terugnavigeert. Vóór deze update bleef de niet-verzonden opmerking behouden, maar werd de afbeelding verwijderd. Dit is beschikbaar in de sectie van Updates voor doelstellingen en in die van kwesties wanneer het toelaten van de het becommentariëren bètaervaring.
 
-**Updates in realtime en verwijderde opmerkingen in de sectie Updates**
+**updates in real time en geschrapte commentaren in de sectie van Updates**
 
 >[!NOTE]
 >
@@ -914,7 +915,7 @@ _Updates_
 
 Wanneer iemand nu een opmerking of antwoord toevoegt of een opmerking verwijdert uit het gedeelte Updates, kunt u de nieuwe opmerking of een indicatie zien dat de opmerking in real-time en zonder vertraging is verwijderd. Dit is beschikbaar in de sectie van Updates voor doelstellingen en in die van kwesties wanneer het toelaten van de het becommentariëren bètaervaring.
 
-**Toegangsniveau gewijzigd door systeem zonder een verslag van de verandering**
+**het niveau van de Toegang dat door systeem zonder een verslag van de verandering wordt veranderd**
 
 _Gebruikers_
 
@@ -922,59 +923,59 @@ Het toegangsniveau van een gebruiker kan onvoorspelbaar door het systeem worden 
 
 +++
 
-+++**Onderhoudsupdate op 17 april 2023**
++++**Update van het Onderhoud op 17 April, 2023**
 
-**Nieuwe opmerkingen buiten het zichtbare schermgebied in het dialoogvenster weergeven [!UICONTROL Updates] een gedeelte met problemen (nieuwe ervaringen met bèta-opmerkingen) en[!UICONTROL Goals]**
+**toon nieuwe commentaren buiten het zichtbare schermgebied in de [!UICONTROL Updates] sectie van kwesties (nieuw het becommentariëren Beta ervaring) en[!UICONTROL Goals]**
 
 _Updates_
 
-We hebben een meldingsbanner toegevoegd voor de [!UICONTROL Updates] om gebruikers te informeren wanneer er nieuwere opmerkingen zijn over een item dat zich mogelijk buiten het zichtbare gebied op het scherm bevindt. Deze update is momenteel beschikbaar in het dialoogvenster [!UICONTROL Updates] gedeelte met doelen en dat van problemen wanneer de nieuwe bètaervaring voor opmerkingen is ingeschakeld voor problemen.
+Er is een berichtenbanner toegevoegd voor de sectie [!UICONTROL Updates] om gebruikers te informeren wanneer er nieuwere opmerkingen over een item zijn die buiten het zichtbare gebied op het scherm vallen. Deze update is momenteel beschikbaar in het gedeelte [!UICONTROL Updates] met doelen en die van problemen wanneer de nieuwe bètaervaring voor opmerkingen is ingeschakeld voor problemen.
 
 +++
 
-+++**Onderhoudsupdate op 13 april 2023**
++++**Update van het Onderhoud op 13 April, 2023**
 
-**Filters worden niet toegepast op de lijst met aanvragen**
+**de Filters worden niet toegepast op de lijst van verzoeken**
 
 _Verzoeken_
 
 Wanneer een gebruiker een lijst met aanvragen weergeeft waarop een filter is toegepast, bevat de lijst aanvragen die het filter moet uitsluiten.
 
-**Kan niet selecteren [!UICONTROL Default Hour Type] of[!UICONTROL Available Hour Types]**
+**Kan [!UICONTROL Default Hour Type] of[!UICONTROL Available Hour Types]** niet selecteren
 
 _Gebruikers_
 
-Wanneer een beheerder een gebruiker bewerkt en probeert een [!UICONTROL Default Hour Type] of [!UICONTROL Available Hour Type], zien ze dat de keuzelijsten voor die velden zijn uitgeschakeld en dat ze geen uurtypen kunnen selecteren.
+Wanneer een beheerder een gebruiker bewerkt en een [!UICONTROL Default Hour Type] of [!UICONTROL Available Hour Type] probeert te selecteren, zien ze dat de vervolgkeuzelijsten voor die velden zijn uitgeschakeld en dat de gebruikers geen uurtypen kunnen selecteren.
 
 +++
 
-+++**Onderhoudsupdate op 6 april 2023**
++++**Update van het Onderhoud op 6 April, 2023**
 
-**De vervolgkeuzelijsten worden niet geopend wanneer een gebruiker aan een proefdruk wordt toegevoegd**
+**Dropdowns openen niet wanneer een gebruiker aan een proef** wordt toegevoegd
 
-_Proefdrukken_
+_Proofs_
 
-Wanneer een gebruiker een andere gebruiker toevoegt aan een proefdruk in het dialoogvenster [!UICONTROL Proofing Viewer], de &quot;[!UICONTROL Proof role]&quot; en &quot;[!UICONTROL Email alerts]&quot;-dropdowns kunnen niet worden geopend. De gebruiker kan geen proefdrukscherm of e-mailwaarschuwing toewijzen. Dit kan voorkomen wanneer het toevoegen van een gebruiker door een commentaar, of wanneer het delen van de proef met de gebruiker.
+Wanneer een gebruiker een andere gebruiker aan een proef in [!UICONTROL Proofing Viewer] toevoegt, kunnen &quot;[!UICONTROL Proof role]&quot;en &quot;[!UICONTROL Email alerts]&quot;dropdowns niet openen. De gebruiker kan geen proefdrukscherm of e-mailwaarschuwing toewijzen. Dit kan voorkomen wanneer het toevoegen van een gebruiker door een commentaar, of wanneer het delen van de proef met de gebruiker.
 
 +++
 
 ## Updates in maart 2023
 
-+++**Onderhoudsupdate op 30 maart 2023**
++++**Update van het Onderhoud op 30 Maart, 2023**
 
-**Kan proefdrukversie niet wisselen bij weergave van proefdrukversie**
+**kan proefdrukversie niet schakelen wanneer het bekijken van bewijs**
 
-_Proefdrukken_
+_Proofs_
 
-Wanneer een gebruiker een proef in bekijkt [!UICONTROL Proofing Viewer]en overschakelt naar een andere versie, wordt het vervolgkeuzemenu uitgeschakeld en kan de gebruiker niet terugschakelen naar de oorspronkelijke versie die hij of zij bekeek, of naar een andere versie van de proefdruk.
+Wanneer een gebruiker een proefdruk weergeeft in [!UICONTROL Proofing Viewer] en overschakelt naar een andere versie, wordt het vervolgkeuzemenu uitgeschakeld en kan de gebruiker niet terugschakelen naar de oorspronkelijke versie die hij of zij bekeek, of naar een andere versie van de proefdruk.
 
-**504-fout bij het exporteren van rapporten**
+**504 fout wanneer het uitvoeren van rapporten**
 
 _Rapporten_
 
 Wanneer een gebruiker probeert om een rapport met een hoog aantal punten uit te voeren, zien zij een fout 504 en kunnen niet het rapport uitvoeren.
 
-**Bijwerken die namens een gebruiker worden uitgevoerd, worden direct door de gebruiker weergegeven**
+**Update die in naam van een gebruikersvertoningen wordt gemaakt direct van de gebruiker**
 
 _Updates_
 
@@ -982,93 +983,93 @@ Wanneer een beheerder als gebruiker wordt aangemeld en een opmerking maakt, word
 
 +++
 
-+++**Onderhoudsupdate op 23 maart 2023**
++++**Update van het Onderhoud op 23 Maart, 2023**
 
 **[!UICONTROL Summary]de inhoud van het deelvenster is te breed voor het deelvenster**
 
 _Documenten_
 
-Wanneer een gebruiker de [!UICONTROL Summary] voor een document is de inhoud te breed om in het deelvenster te kunnen worden weergegeven. Het deelvenster heeft nu een horizontale schuifbalk en de gebruiker moet horizontaal schuiven om de [!UICONTROL Summary] inhoud van het deelvenster. Dit gebeurt omdat de bestandsnaam van het document niet omloopt. Dit probleem is beperkt tot bestanden waarvan de bestandsnaam een bestandsextensie HTML heeft.
+Wanneer een gebruiker het deelvenster [!UICONTROL Summary] voor een document bekijkt, is de inhoud te breed om in het deelvenster te zien. Het deelvenster heeft nu een horizontale schuifbalk en de gebruiker moet horizontaal schuiven om de inhoud van het deelvenster [!UICONTROL Summary] te kunnen zien. Dit gebeurt omdat de bestandsnaam van het document niet omloopt. Dit probleem is beperkt tot bestanden waarvan de bestandsnaam een bestandsextensie HTML heeft.
 
-**Nieuw [!UICONTROL Desktop Proofing Viewer] versie**
+**Nieuwe [!UICONTROL Desktop Proofing Viewer] versie**
 
-_Proofing_
+_het Bewijs_
 
-Een opmerkingsprobleem corrigeren in het dialoogvenster [!UICONTROL Desktop Proofing Viewe]We hebben een nieuwe versie van de Desktop Proofing Viewer geïmplementeerd.
+Om een commentaarkwestie in [!UICONTROL Desktop Proofing Viewe] r te bevestigen, hebben wij een nieuwe versie van de Desktop het proef kijker opgesteld.
 
-Gebruikers die al beschikken over de [!UICONTROL Desktop Proofing Viewer] deze update wordt automatisch opgehaald.
+Gebruikers die [!UICONTROL Desktop Proofing Viewer] al hebben geïnstalleerd, krijgen deze update automatisch.
 
-Gebruikers kunnen ook handmatig de nieuwste versie verkleinen. Zie voor meer informatie [Installeer de [!UICONTROL Desktop Proofing Viewer]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html).
+Gebruikers kunnen ook handmatig de nieuwste versie verkleinen. Voor meer informatie, zie [ installeer [!UICONTROL Desktop Proofing Viewer] ](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html).
 
 * Vorige versie: 2.1.22
 * Nieuwe versie: 2.1.23
 
 +++
 
-+++**Onderhoudsupdate op 16 maart 2023**
++++**Update van het Onderhoud op 16 Maart, 2023**
 
-**De items in de controlelijst worden niet gekopieerd wanneer een kaart wordt gekopieerd**
+**controlelijstitems niet gekopieerd wanneer het kopiëren van een kaart**
 
-_Borden_
+_Boards_
 
 Bij het kopiëren van een ad-hockaart (gekoppelde kaarten kunnen niet worden gekopieerd) worden de items in de controlelijst niet naar de nieuwe kaart gekopieerd.
 
-**Aangepast veld ontbreekt wanneer uitgave wordt omgezet in project**
+**het gebied van de Douane mist wanneer de kwestie in project** wordt omgezet
 
 _Projecten_
 
 Wanneer een gebruiker een kwestie in een project gebruikend een malplaatje omzet, een douanegebied dat op de kwestie was niet op het project toont. Dit probleem betreft alleen niet-beheerders.
 
-**Aangepaste berichten worden niet weergegeven in e-mailberichten**
+**de geen berichten van de Douane verschijnen in e-mailberichten**
 
-_Proefdrukken_
+_Proofs_
 
 Wanneer een gebruiker een proef deelt en een douanebericht toevoegt, verschijnt dat douanebericht niet in het bericht e-mail aan de ontvanger. Het onderwerp is de proefdruknaam en het bericht komt niet voor in het e-mailbericht.
 
 +++
 
-+++**Onderhoudsupdate op 9 maart 2023**
++++**Update van het Onderhoud op 9 Maart, 2023**
 
-**Toegangsniveau wordt niet toegewezen wanneer gebruiker opnieuw wordt geactiveerd**
+**het niveau van de Toegang wordt niet toegewezen wanneer het opnieuw activeren van gebruiker**
 
 _Gebruikers_
 
-Wanneer een gebruiker een gedeactiveerde gebruiker opnieuw activeert en deze een toegangsniveau in het dialoogvenster [!UICONTROL Reactivate User] in het venster, wordt het vervolgkeuzemenu op toegangsniveau niet gevuld en kan de gebruiker geen toegangsniveau selecteren. Als de gebruiker in het toegangsniveau typt en bewaart, wordt dat toegangsniveau niet toegewezen aan de opnieuw geactiveerde gebruiker.
+Wanneer een gebruiker een gedeactiveerde gebruiker opnieuw activeert en deze een toegangsniveau in het [!UICONTROL Reactivate User] -venster probeert toe te wijzen, wordt het vervolgkeuzemenu van het toegangsniveau niet gevuld zoals de gebruiker typt en kan de gebruiker geen toegangsniveau selecteren. Als de gebruiker in het toegangsniveau typt en bewaart, wordt dat toegangsniveau niet toegewezen aan de opnieuw geactiveerde gebruiker.
 
-**Sla het concept van een opmerking op in het dialoogvenster [!DNL Goals] gebied**
+**sparen het ontwerp van een commentaar in het [!DNL Goals] gebied**
 
 _[!DNL Workfront Goals]_
 
-Nu, wanneer u vanaf [!UICONTROL Updates] pagina van een doel terwijl in het midden van het samenstellen van een bericht, wordt het bericht bewaard wanneer u terug navigeert. Vóór deze update zou de niet-verzonden opmerking zijn verwijderd.
+Wanneer u nu vanaf de [!UICONTROL Updates] -pagina van een doel navigeert terwijl u midden in het samenstellen van een bericht bent, blijft het bericht behouden wanneer u terugnavigeert. Vóór deze update zou de niet-verzonden opmerking zijn verwijderd.
 
 +++
 
-+++**Onderhoudsupdate op 2 maart 2023**
++++**Update van het Onderhoud op 2 Maart, 2023**
 
-**Kan geen kaarten toevoegen bij groepering**
+**kan geen kaarten toevoegen wanneer het groeperen wordt toegepast**
 
-_Borden_
+_Boards_
 
-Wanneer een gebruiker een bord weergeeft met een groepering en probeert een kaart toe te voegen, kan de gebruiker alleen de naam van de kaart invoeren. De overige kaartvelden zijn uitgeschakeld, inclusief de [!UICONTROL Save] knop.
+Wanneer een gebruiker een bord weergeeft met een groepering en probeert een kaart toe te voegen, kan de gebruiker alleen de naam van de kaart invoeren. De overige kaartvelden zijn uitgeschakeld, inclusief de knop [!UICONTROL Save] .
 
-Als de gebruiker de groep wijzigt in [!UICONTROL None], blijft de kwestie. De gebruiker moet de groep wijzigen in [!UICONTROL None] en vernieuw vervolgens de pagina om de mogelijkheid om een kaart toe te voegen te herstellen.
+Als de gebruiker de groepering in [!UICONTROL None] verandert, blijft de kwestie. De gebruiker moet de groepering in [!UICONTROL None] veranderen en dan de pagina vernieuwen om de capaciteit te herstellen om een kaart toe te voegen.
 
-**Aangesloten kaarten die niet aan kolommen zijn toegevoegd op basis van status**
+**Verbonden kaarten niet toegevoegd aan kolommen die op status** worden gebaseerd
 
-_Borden_
+_Boards_
 
 Hoewel het kolombeleid wordt toegepast op status, verschijnen de nieuwe verbonden kaarten in de uiterst linkse kolom en niet in de kolom die aan hun status beantwoordt.
 
 
-**Koppeling maken naar een opmerking omleidt naar [!UICONTROL Details] page**
+**Verbinding aan een commentaar richt zich aan [!UICONTROL Details] pagina** opnieuw
 
 _Updates_
 
-Wanneer een gebruiker een koppeling volgt naar een opmerking over een object in Workfront, wordt de updatestream kort geladen en wordt de gebruiker omgeleid naar het object [!UICONTROL Details] gebied. Dit kan gebeuren als de gebruiker op de koppeling klikt in een e-mail of de koppeling in zijn browser plakt.
+Wanneer een gebruiker een koppeling volgt naar een opmerking over een object in Workfront, wordt de updatestream kort geladen en wordt de gebruiker omgeleid naar het gebied [!UICONTROL Details] van het object. Dit kan gebeuren als de gebruiker op de koppeling klikt in een e-mail of de koppeling in zijn browser plakt.
 
 Dit is momenteel alleen van toepassing op objecten Document.
 
-**Afdrukoverzicht wordt niet geladen**
+**Samenvatting van de Druk laadt niet**
 
 _[!UICONTROL Workfront Proof]_
 
@@ -1078,39 +1079,39 @@ Wanneer een gebruiker de pagina Afdrukoverzicht probeert te laden, lijkt de pagi
 
 ## Updates in februari 2023
 
-+++**Onderhoudsupdate op 23 februari 2023**
++++**Update van het Onderhoud op 23 Februari, 2023**
 
-**Koppeling maken naar een opmerking omleidt naar [!UICONTROL Details] page**
+**Verbinding aan een commentaar richt zich aan [!UICONTROL Details] pagina** opnieuw
 
 _Updates_
 
-Wanneer een gebruiker een koppeling volgt naar een opmerking over een object in Workfront, wordt de updatestream kort geladen en wordt de gebruiker omgeleid naar het object [!UICONTROL Details] gebied. Dit kan gebeuren als de gebruiker op de koppeling klikt in een e-mail of de koppeling in zijn browser plakt.
+Wanneer een gebruiker een koppeling volgt naar een opmerking over een object in Workfront, wordt de updatestream kort geladen en wordt de gebruiker omgeleid naar het gebied [!UICONTROL Details] van het object. Dit kan gebeuren als de gebruiker op de koppeling klikt in een e-mail of de koppeling in zijn browser plakt.
 
 Dit is momenteel alleen van toepassing op objecten Document.
 
-**Gebruiker kan zijn eigen meldingsinstellingen niet bewerken**
+**de Gebruiker kan hun eigen berichtmontages** niet uitgeven
 
 _Gebruikers_
 
-Wanneer een gebruiker met een [!UICONTROL Worker] licentie probeert hun eigen meldingsinstellingen te bewerken, de [!UICONTROL Notifications] opties zijn niet zichtbaar in het dialoogvenster [!UICONTROL Edit] en de gebruiker kan de instellingen niet bewerken.
+Wanneer een gebruiker met een [!UICONTROL Worker] -licentie zijn eigen meldingsinstellingen probeert te bewerken, zijn de [!UICONTROL Notifications] -opties niet zichtbaar in het [!UICONTROL Edit] -venster en kan de gebruiker de instellingen niet bewerken.
 
 +++
 
-+++**Onderhoudsupdate op 16 februari 2023**
++++**Update van het Onderhoud op 16 Februari, 2023**
 
-**Meerdere teamtoewijzingen op raden van bestuur**
+**Veelvoudige teamtaken op raden van bestuur**
 
-_Borden_
+_Boards_
 
 U kunt nu meerdere teams toewijzen aan een taak of uitgave in een bestuur en aan de raad zelf.
 
-**Limiet voor wegvallen van kaart verhoogd**
+**de wegvallimietverhoging van de Kaart**
 
-_Borden_
+_Boards_
 
 De uiterste termijnen voor het wegvallen van kaarten zijn verlengd tot 8 weken/60 dagen in plaats van 4 weken/30 dagen.
 
-**Geplande deactivering deactiveert gebruiker niet**
+**Geplande deactivatie deactiveert geen gebruiker**
 
 _Gebruikers_
 
@@ -1118,47 +1119,47 @@ Wanneer een gebruiker volgens de planning moet worden gedeactiveerd en de geplan
 
 +++
 
-+++**Onderhoudsupdate op 9 februari 2023**
++++**Update van het Onderhoud op 9 Februari, 2023**
 
-**[!UICONTROL Story Points]veld toegevoegd aan lijst en rapporten met taken en uitgaven**
+**[!UICONTROL Story Points]veld toegevoegd aan taak- en uitgavelijsten en -rapporten**
 
 _Rapporten_
 
-De [!UICONTROL Story Points] is nu beschikbaar om aan lijsten en rapporten voor taken of kwesties toe te voegen. Het is een bewerkbaar, vrij formulierveld dat niet is gekoppeld aan geplande uren of teamtoewijzingen.
+Het veld [!UICONTROL Story Points] kan nu worden toegevoegd aan lijsten en rapporten voor taken of problemen. Het is een bewerkbaar, vrij formulierveld dat niet is gekoppeld aan geplande uren of teamtoewijzingen.
 
 +++
 
-+++**Onderhoudsupdate op 8 februari 2023**
++++**Update van het Onderhoud op 8 Februari, 2023**
 
-**Filterknop in inlaatkolom**
+**knoop van de Filter in inlaatkolom**
 
-_Borden_
+_Boards_
 
-De inlaatkolom op een bord bevat nu een **[!UICONTROL Add a filter]** als de kolom leeg is en er geen filters zijn gemaakt. De knoop opent het configuratiegebied, waar u filters kunt toevoegen om taken en kwesties in de inputkolom te brengen.
+De opnamekolom op een bord bevat nu een knop **[!UICONTROL Add a filter]** wanneer de kolom leeg is en er geen filters zijn gemaakt. De knoop opent het configuratiegebied, waar u filters kunt toevoegen om taken en kwesties in de inputkolom te brengen.
 
 +++
 
-+++**Onderhoudsupdate op 2 februari 2023**
++++**Update van het Onderhoud op 2 Februari, 2023**
 
-**[!UICONTROL Boards]pictogram wordt weergegeven in [!UICONTROL Main Menu] standaard**
+**[!UICONTROL Boards]wordt standaard weergegeven in [!UICONTROL Main Menu]**
 
-_Borden_
+_Boards_
 
-De [!UICONTROL Boards] wordt nu weergegeven in het dialoogvenster [!UICONTROL Main Menu] voor gebruikers die geen lay-outsjabloon hebben. Borden worden ook standaard opgenomen in het hoofdmenu voor alle nieuwe lay-outsjablonen die worden gemaakt. Bestaande lay-outsjablonen zijn niet gewijzigd.
+Het pictogram [!UICONTROL Boards] wordt nu weergegeven in [!UICONTROL Main Menu] voor gebruikers die geen lay-outsjabloon hebben. Borden worden ook standaard opgenomen in het hoofdmenu voor alle nieuwe lay-outsjablonen die worden gemaakt. Bestaande lay-outsjablonen zijn niet gewijzigd.
 
-**Kan e-mailsjablonen niet opslaan**
+**kan e-mailmalplaatjes niet bewaren**
 
-_Instellen_
+_Opstelling_
 
-Wanneer een gebruiker een e-mailsjabloon probeert te maken of te bewerken, [!UICONTROL Save] reageert niet en de gebruiker kan de sjabloon niet opslaan.
+Wanneer een gebruiker een e-mailsjabloon probeert te maken of te bewerken, reageert de knop [!UICONTROL Save] niet en kan de gebruiker de sjabloon niet opslaan.
 
 +++
 
 ## Updates in januari 2023
 
-+++**Onderhoudsupdate op 30 januari 2023**
++++**Update van het Onderhoud op 30 Januari, 2023**
 
-**Sneltoetsen die worden toegevoegd voor algemene tijdlijnhandelingen**
+**Sneltoetsen die voor gemeenschappelijke die timesheet acties** worden toegevoegd
 
 _Timesheets_
 
@@ -1174,7 +1175,7 @@ De volgende sneltoetsen zijn geïntroduceerd voor de volgende veelvoorkomende ac
 
 Het gebied waarop deze acties worden uitgevoerd, moet worden gemarkeerd om ze te kunnen toepassen.
 
-**Nieuwe informatiepictogrammen voor voorkeuren voor tijdbladen, tijdlijnprofielen en tijdbladen**
+**Nieuwe informatiepictogrammen voor timesheets, timesheet profielen, en timesheet voorkeur**
 
 _Timesheets_
 
@@ -1184,37 +1185,37 @@ _Timesheets_
 
 Er zijn verschillende informatiepictogrammen toegevoegd aan de volgende instellingen:
 
-* &quot;[!UICONTROL Can edit time]&quot; checkbox wanneer het creëren van of het uitgeven van een timesheet of een timesheet profiel om erop te wijzen dat wanneer toegelaten, de fiatteurs, timesheet ook kunnen voorleggen opnieuw openen of uitgeven, tenzij uw beheerder deze acties in beperkt [!UICONTROL Timesheet Preferences] gebied van [!UICONTROL Setup].
-* &quot;[!UICONTROL Restrict timesheet editing to owners and admins]&quot; in de [!UICONTROL Timesheet & Hour Preferences] gebied van [!UICONTROL Setup] om erop te wijzen dat wanneer gehandicapt, de volgende gebruikers de timesheets kunnen ook uitgeven: gebruikers met administratieve toegang tot timesheets en uren, toegelaten fiatteurs timesheet om tijd uit te geven, en de managers van timesheet eigenaars.
+* Selectievakje &quot;[!UICONTROL Can edit time]&quot; wanneer u een tijdspagina of een tijdbladprofiel maakt of bewerkt, om aan te geven dat fiatteurs, indien ingeschakeld, ook de tijdspagina kunnen verzenden, opnieuw openen of bewerken, tenzij uw beheerder deze handelingen beperkt in het [!UICONTROL Timesheet Preferences] gebied van [!UICONTROL Setup] .
+* &quot;[!UICONTROL Restrict timesheet editing to owners and admins]&quot; in het [!UICONTROL Timesheet & Hour Preferences] gebied van [!UICONTROL Setup] om aan te geven dat wanneer uitgeschakeld, de volgende gebruikers de tijdbladen ook kunnen bewerken: gebruikers met beheerdersrechten voor tijdbladen en uren, fiatteurs van tijdschriften die tijd mogen bewerken en managers van tijdbladeigenaars.
 
 De functionaliteit van deze instellingen is niet gewijzigd en alleen de informatiepictogrammen zijn toegevoegd om het bereik van de instellingen helderder te maken.
 
 +++
 
-+++**Onderhoudsupdate op 26 januari 2023**
++++**Update van het Onderhoud op 26 Januari, 2023**
 
-**Fout bij verzenden van verzoek van[!DNL Outlook]**
+**Fout bij het indienen van verzoek van[!DNL Outlook]**
 
 _Integraties_
 
-Wanneer een gebruiker een aanvraag probeert in te dienen met bijlagen van een [!DNL Outlook] e-mail, uploaden één of meerdere gehechtheid niet, en de gebruiker ziet de volgende fout:
+Wanneer een gebruiker een aanvraag probeert te verzenden met bijlagen uit een [!DNL Outlook] -e-mail, worden een of meer bijlagen niet geüpload en wordt de volgende fout weergegeven:
 
 &quot;[!UICONTROL The following error occurred: File with handle xxxx does not exist.]&quot;
 
 Dit komt slechts voor wanneer een taak voor het nieuwe verzoek wordt gemaakt, of door de verzoekrij of manueel wanneer het creëren van het verzoek.
 
-**Nieuwe versie van Desktop Proofing Viewer**
+**Nieuwe versie van de Kijker van de Desktop Proofing**
 
-_Proofing_
+_het Bewijs_
 
 We hebben een nieuwe versie van de Desktop Proofing Viewer geïmplementeerd om een probleem met het bevriezen van bestanden in de Desktop Proofing Viewer te verhelpen. Gebruikers die de Desktop Proofing Viewer al hebben geïnstalleerd, krijgen deze update automatisch.
 
-Gebruikers kunnen ook handmatig de nieuwste versie verkleinen. Zie voor meer informatie [De Desktop Proofing Viewer installeren](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=en).
+Gebruikers kunnen ook handmatig de nieuwste versie verkleinen. Voor meer informatie, zie [ installeer de Desktop het Proofing Kijker ](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=en).
 
 * Vorige versie: 2.1.19
 * Nieuwe versie: 2.1.20
 
-**Gebruiker kan zijn eigen gebruikersinstelling niet bewerken**
+**de Gebruiker kan niet hun eigen gebruiker uitgeven die** plaatst
 
 _Gebruikers_
 
@@ -1222,39 +1223,39 @@ Wanneer een gebruiker met een licentie voor werk, revisie of aanvraag zijn eigen
 
 +++
 
-+++**Onderhoudsupdate op 19 januari 2023**
++++**Update van het Onderhoud op 19 Januari, 2023**
 
-**Inlaatkolomfilters kunnen nu worden gedeeld**
+**de kolomfilters van de Inname kunnen nu worden gedeeld**
 
-_Borden_
+_Boards_
 
 Wanneer de inlaatkolomfunctie naar Boards is uitgebracht, konden de filters voor het instellen van de inlaatkolom alleen worden gezien door de persoon die deze filters heeft gemaakt. De maker kan de filters nu delen met andere gebruikers of teams.
 
-**Puntfunctionaliteit beschikbaar in [!UICONTROL More] menu**
+**Vastzetten functionaliteit beschikbaar in [!UICONTROL More] menu**
 
 _Navigatie_
 
-De volgende functies zijn nu beschikbaar in de [!UICONTROL More] menu voor spelden in de productieomgeving:
+De volgende functies zijn nu beschikbaar in het menu [!UICONTROL More] voor pinnen in de productieomgeving:
 
 * Naam punten wijzigen
-* Punten opnieuw ordenen binnen de [!UICONTROL More] menu
-* Een punt uit het deelvenster [!UICONTROL More] menu (wanneer u dit doet, wordt het laatste punt in de bovenste navigatiebalk naar de [!UICONTROL More] menu)
+* Punten opnieuw ordenen in het menu [!UICONTROL More]
+* Een punt uit het menu [!UICONTROL More] verplaatsen (wanneer u dit doet, wordt het laatste punt in de bovenste navigatiebalk naar het menu [!UICONTROL More] verplaatst)
 
 +++
 
-+++**Onderhoudsupdate op 18 januari 2023**
++++**Update van het Onderhoud op 18 Januari, 2023**
 
-**Expressies met jokertekens zijn niet geldig in aangepaste velden**
+**Uitdrukkingen met vervangingen zijn niet geldig op douanegebieden**
 
 _Aangepaste Forms_
 
 Wanneer een gebruiker een jokerteken zoals \$$TODAY of $$NOW samen met een bepaling (zoals &quot;-30d&quot;) in een douanegebied gebruikt, keurt de validator de vervanging niet als geldig goed. Jokertekens zonder wijzigingstoetsen worden als geldig beschouwd.
 
-**[!UICONTROL Workload Balancer]toont uren niet verbonden aan een project/een taak/een kwestie**
+**[!UICONTROL Workload Balancer]toont uren niet verbonden aan een project/taak/kwestie**
 
 _[!UICONTROL Workload Balancer]_
 
-Wanneer een gebruiker de [!UICONTROL Workload Balancer], zien zij uren die voor een gebruiker worden geregistreerd die niet met om het even welk project, taak, of kwestie worden geassocieerd, noch worden zij geregistreerd als [!UICONTROL General] uren. Deze uren kunnen alleen worden weergegeven in de weergave van 4 weken of 6 weken.
+Wanneer een gebruiker [!UICONTROL Workload Balancer] bekijkt, zien zij uren die voor een gebruiker worden geregistreerd die niet met om het even welk project, geen taak, of geen kwestie worden geassocieerd, noch worden zij geregistreerd als [!UICONTROL General] uren. Deze uren kunnen alleen worden weergegeven in de weergave van 4 weken of 6 weken.
 
 +++
 
@@ -1262,9 +1263,9 @@ Wanneer een gebruiker de [!UICONTROL Workload Balancer], zien zij uren die voor 
 
 **404 fouten op [!DNL Workfront] modules**
 
-_Workfront Fusion_
+_de Fusie van Workfront_
 
-Wanneer een scenario loopt, a [!DNL Workfront] retourneert een fout van 404.
+Wanneer een scenario wordt uitgevoerd, retourneert een module [!DNL Workfront] een fout van 404.
 
 Dit is gerapporteerd in de volgende modules:
 
@@ -1272,19 +1273,19 @@ Dit is gerapporteerd in de volgende modules:
 
 +++
 
-+++**Onderhoudsupdate (Hot Fix) op 12 januari 2023**
++++**Update van het Onderhoud (Hete Fix) op 12 Januari, 2023**
 
-**&quot;[!UICONTROL Whoops]&quot; fout bij het instellen van een berekend veld**
+**&quot;[!UICONTROL Whoops]&quot;fout wanneer vestiging een berekend gebied**
 
 _Aangepaste Forms_
 
-Wanneer een gebruiker een berekend veld maakt of bewerkt op een aangepast formulier en een aangepast veld opneemt in de berekende expressie van het veld, wordt de expressie als ongeldig beschouwd. De [!UICONTROL Save] is uitgeschakeld en de gebruiker kan niet weg navigeren van het aangepaste veld. Bovendien ziet de gebruiker het volgende bericht onder het gebied:
+Wanneer een gebruiker een berekend veld maakt of bewerkt op een aangepast formulier en een aangepast veld opneemt in de berekende expressie van het veld, wordt de expressie als ongeldig beschouwd. De knop [!UICONTROL Save] is uitgeschakeld en de gebruiker kan niet weg navigeren van het aangepaste veld. Bovendien ziet de gebruiker het volgende bericht onder het gebied:
 
 &quot;[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]&quot;
 
 Als u het aangepaste veld uit de expressie verwijdert, kan de gebruiker het veld opslaan en verder navigeren.
 
-**Kan toegangsniveaus niet instellen**
+**kan toegangsniveaus niet plaatsen**
 
 _Gebruikers_
 
@@ -1292,15 +1293,15 @@ Wanneer een gebruiker probeert om het toegangsniveau van een andere gebruiker te
 
 +++
 
-+++**Onderhoudsupdate op 12 januari 2023**
++++**Update van het Onderhoud op 12 Januari, 2023**
 
-**Ctrl+F of Cmd+F werkt niet zoals verwacht in vervolgkeuzelijsten**
+**Ctrl+F of Cmd+F werkt niet zoals verwacht op dropdown gebieden**
 
 _Aangepaste Forms_
 
 Wanneer een gebruiker een aangepast formulier invult en een vervolgkeuzelijst doorzoekt met Ctrl+F of Cmd+F, wordt vervolgens geprobeerd naar het volgende exemplaar van die zoekopdracht te gaan, keert de vervolgkeuzelijst terug naar de bovenkant van de lijst in plaats van naar het volgende exemplaar van de zoekopdracht te gaan. Dit gebeurt wanneer een vervolgkeuzelijst is ingesteld om meerdere selecties toe te staan.
 
-**[!UICONTROL Edit Report]scherm is leeg**
+**[!UICONTROL Edit Report]screen is blank**
 
 _Rapporten_
 
@@ -1314,25 +1315,25 @@ Wanneer een gebruiker een takenlijst bekijkt en een taak inspringt, keert de taa
 
 +++
 
-+++**Onderhoudsupdate op 5 januari 2023**
++++**Update van het Onderhoud op 5 Januari, 2023**
 
-**Puntfunctionaliteit beschikbaar in [!UICONTROL More] menu**
+**Vastzetten functionaliteit beschikbaar in [!UICONTROL More] menu**
 
 _Navigatie_
 
-De volgende functies zijn nu beschikbaar in de [!UICONTROL More] menu voor punten, alleen in de voorvertoningsomgeving:
+De volgende functies zijn nu alleen beschikbaar in het menu [!UICONTROL More] voor punten in de voorvertoningsomgeving:
 
 * Naam punten wijzigen
-* Punten opnieuw ordenen binnen de [!UICONTROL More] menu
-* Een punt uit het deelvenster [!UICONTROL More] menu (wanneer u dit doet, wordt het laatste punt in de bovenste navigatiebalk naar de [!UICONTROL More] menu)
+* Punten opnieuw ordenen in het menu [!UICONTROL More]
+* Een punt uit het menu [!UICONTROL More] verplaatsen (wanneer u dit doet, wordt het laatste punt in de bovenste navigatiebalk naar het menu [!UICONTROL More] verplaatst)
 
-**Verwijderd de beperking van de projectgroep van het toevoegen van gebruikers aan het projectteam**
+**Verwijderde de beperking van de projectgroep van het toevoegen van gebruikers aan het projectteam**
 
 _Teams_
 
 Wij hebben de beperking verwijderd die vereiste dat de gebruikers die aan een projectteam moeten worden toegevoegd in de Groep verbonden aan het project moeten zijn. Nu, kunt u om het even welke actieve gebruiker aan een projectteam toevoegen, ongeacht tot welke groepen zij behoren.
 
-**Nieuwe informatiepictogrammen voor voorkeuren voor tijdbladen, tijdlijnprofielen en tijdbladen**
+**Nieuwe informatiepictogrammen voor timesheets, timesheet profielen, en timesheet voorkeur**
 
 >[!NOTE]
 >

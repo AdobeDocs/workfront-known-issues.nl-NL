@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Wanneer een gebruiker probeert om gebruikerstoegang op een programma bij te werken, verliezen alle andere groepen, teams, rollen, en gebruikers toegang tot dat programma. Dit geldt ook voor geërfte machtigingen uit het portfolio.
 
-_Voor het eerst gerapporteerd op 7 mei 2024._
+_Eerste rapporteerde op 7 Mei, 2024._

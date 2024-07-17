@@ -1,6 +1,6 @@
 ---
 title: 'Proofs: voltooide proefdrukken blijven in afwachting van mijn goedkeuringswidget'
-description: Nadat een gebruiker een beslissing over een bewijs heeft genomen, blijft dat bewijs op de [!UICONTROL Awaiting My Approval] widget voor de gebruikers [!UICONTROL Home] in de nieuwe Home-ervaring.
+description: Nadat een gebruiker een beslissing heeft genomen over een proefdruk, blijft die proefdruk op de [!UICONTROL Awaiting My Approval] -widget staan op de pagina Gebruikers [!UICONTROL Home] in de nieuwe Home-ervaring.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 38a0f678-3441-4a0b-a2ab-bc1d7c96c1d6
@@ -11,12 +11,12 @@ ht-degree: 0%
 
 ---
 
-# Proefdrukken: voltooide proefdrukken blijven ingeschakeld [!UICONTROL Awaiting My Approval] widget
+# Proefdrukken: voltooide proefdrukken blijven beschikbaar op de widget [!UICONTROL Awaiting My Approval]
 
 >[!NOTE]
 >
 >Dit probleem is gesloten omdat het niet opnieuw kan worden weergegeven.
 
-Nadat een gebruiker een beslissing over een bewijs heeft genomen, blijft dat bewijs op de [!UICONTROL Awaiting My Approval] widget voor de gebruikers [!UICONTROL Home] in de nieuwe Home-ervaring.
+Nadat een gebruiker een beslissing heeft genomen over een proefdruk, blijft die proefdruk op de [!UICONTROL Awaiting My Approval] -widget staan op de pagina Gebruikers [!UICONTROL Home] in de nieuwe Home-ervaring.
 
-_Voor het eerst gerapporteerd op 21 september 2023._
+_Eerste rapporteerde op 21 September, 2023._

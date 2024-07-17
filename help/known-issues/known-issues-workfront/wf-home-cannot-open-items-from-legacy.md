@@ -11,12 +11,12 @@ ht-degree: 0%
 ---
 
 
-# Home: Kan items niet openen vanaf [!UICONTROL Home Calendar] of [!UICONTROL Work List]
+# Home: Kan items niet openen vanuit [!UICONTROL Home Calendar] of [!UICONTROL Work List]
 
-Wanneer een gebruiker een werkitem of een proefdruk probeert te openen vanuit zijn [!UICONTROL Home Calendar] of [!UICONTROL Home Work List], wordt het item niet geopend.
+Wanneer een gebruiker een tijdelijk item of een proefdruk probeert te openen vanuit [!UICONTROL Home Calendar] of [!UICONTROL Home Work List] , wordt het item niet geopend.
 
-**Workaround**
+**Oplossing**
 
 Vernieuw de pagina.
 
-_Eerste verslag op 2 juli 2024._
+_Eerste rapporteerde op 2 Juli, 2024._

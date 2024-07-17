@@ -21,8 +21,8 @@ ht-degree: 0%
 
 -->
 
-Een Workfront-module kan een `RuntimeError [200]` reactie. De 200 impliceert een succesvol antwoord, maar de fout toont aan dat het verzoek niet succesvol was.
+Een Workfront-module kan een `RuntimeError [200]` -reactie retourneren. De 200 impliceert een succesvol antwoord, maar de fout toont aan dat het verzoek niet succesvol was.
 
 Dit kan voorkomen als de respons extreem lang is. De gegevens worden geretourneerd aan Fusion, maar kunnen niet door Fusion worden verwerkt.
 
-_Eerste rapportage op 3 januari 2024._
+_Eerste rapporteerde op 3 Januari, 2024._

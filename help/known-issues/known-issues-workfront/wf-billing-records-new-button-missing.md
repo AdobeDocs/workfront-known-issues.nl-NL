@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Wanneer een gebruiker een lijst met factureringsrecords weergeeft en een nieuwe probeert toe te voegen, ziet hij of zij dat de knop Nieuwe factureringsrecord toevoegen boven aan de pagina ontbreekt.
 
-**Workaround**
+**Oplossing**
 
 1. Selecteer in de rechterbenedenhoek om alle factureringsrecords weer te geven.
 1. Blader naar de onderkant van de lijst.
@@ -23,4 +23,4 @@ Wanneer een gebruiker een lijst met factureringsrecords weergeeft en een nieuwe 
 1. Maak de factureringsrecord inline.
 1. (Optioneel) Als u aangepaste formulieren aan de factureringsrecord wilt toevoegen, bewerkt u deze en voegt u de aangepaste formulieren toe in het venster Bewerken.
 
-_Voor het eerst gerapporteerd op 27 juni 2024._
+_Eerste rapporteerde op 27 juni, 2024._

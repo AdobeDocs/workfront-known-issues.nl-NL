@@ -23,4 +23,4 @@ Wanneer een gebruiker probeert om een project te delen, wordt het project niet g
 
 Dit kan zich voordoen, ook al probeert de gebruiker het project te delen, niet het te verwijderen.
 
-_Voor het eerst gemeld op 25 april 2024._
+_Eerste rapporteerde op 25 April, 2024._

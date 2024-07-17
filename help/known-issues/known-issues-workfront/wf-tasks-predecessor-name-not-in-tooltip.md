@@ -1,15 +1,15 @@
 ---
-title: "Taken: knopinfo van vorige werkset geeft geen taaknaam weer"
-description: "Wanneer een gebruiker een takenlijst bekijkt en zich boven een voorgangerpictogram beweegt voor meer informatie, wordt in de knopinfo die wordt weergegeven, niet de naam van de voorgangertaak weergegeven."
+title: 'Taken: knopinfo van vorige gebruiker geeft geen taaknaam weer'
+description: Wanneer een gebruiker een takenlijst bekijkt en de muis boven een voorgangerpictogram houdt voor meer informatie, wordt in de knopinfo die wordt weergegeven, niet de naam van de voorgangertaak weergegeven.
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
+exl-id: ebc01df2-cfb7-4d67-ba69-53781b2c3ec9
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
 
 ---
-
 
 # Taken: knopinfo van vorige werkset geeft geen taaknaam weer
 
@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Wanneer een gebruiker een takenlijst bekijkt en de muis boven een voorgangerpictogram houdt voor meer informatie, wordt in de knopinfo die wordt weergegeven, niet de naam van de voorgangertaak weergegeven.
 
-_Voor het eerst gerapporteerd op 5 maart 2024._
+_Eerste rapporteerde op 5 Maart, 2024._

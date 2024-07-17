@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Wanneer een gebruiker een rapportgrafiek in een dashboard bekijkt, zijn de gebruikte kleuren verschillend dan wanneer de gebruiker het rapport zelf bekijkt. Dit kan verwarring veroorzaken als de gebruiker een bepaalde kleur een bepaalde betekenis verwacht.
 
-_Eerste verslag op 19 juli 2022._
+_Eerste rapporteerde op 19 Juli, 2022._

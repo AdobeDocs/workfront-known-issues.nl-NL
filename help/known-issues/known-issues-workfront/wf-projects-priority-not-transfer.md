@@ -21,4 +21,4 @@ Wanneer een gebruiker een kwestie in een project gebruikend een malplaatje omzet
 
 Dit werkt zoals ontworpen. Wanneer het omzetten van een kwestie in een project met of zonder een malplaatje, brengt de prioriteit van de kwestie naar het gecreeerde project over.
 
-_Voor het eerst gerapporteerd op 2 mei 2024._
+_Eerste rapporteerde op 2 Mei, 2024._

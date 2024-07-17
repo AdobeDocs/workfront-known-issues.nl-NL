@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Wanneer een gebruiker een kaart naar een andere kolom op een board verplaatst, keert de kaart kort terug naar de oorspronkelijke kolom voordat u naar de gewenste kolom gaat.
 
-_Voor het eerst gerapporteerd op 20 maart 2024._
+_Eerste rapporteerde op 20 Maart, 2024._

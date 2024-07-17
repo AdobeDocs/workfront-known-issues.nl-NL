@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Wanneer een gebruiker een controlelijstitem op een creditcard controleert, wordt het controlelijstitem direct uitgeschakeld. Het item blijft niet ingeschakeld.
 
-_Voor het eerst gemeld op 30 april 2024._
+_Eerste rapporteerde op 30 april, 2024._

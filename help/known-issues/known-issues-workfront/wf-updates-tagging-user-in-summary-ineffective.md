@@ -1,15 +1,15 @@
 ---
-title: "Updates: het labelen van een gebruiker met @ in het deelvenster Samenvatting is niet effectief"
-description: "Wanneer een gebruiker probeert om een andere gebruiker te etiketteren door @ in het gebied van Updates van een Samenvatting paneel te gebruiken, is het klikken op de naam van de gebruiker in dropdown inefficiënt. Poging om de gebruiker een tweede keer tags toe te wijzen werkt zoals verwacht."
+title: 'Updates: het labelen van een gebruiker met @ in het deelvenster Samenvatting is niet effectief'
+description: Wanneer een gebruiker probeert om een andere gebruiker te etiketteren door @ in het gebied van Updates van een Samenvatting paneel te gebruiken, is het klikken op de naam van de gebruiker in dropdown ineffectief. Poging om de gebruiker een tweede keer tags toe te wijzen werkt zoals verwacht.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
+exl-id: bf802503-0c05-48fb-ab5c-6965740c6333
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
 
 ---
-
 
 # Updates: Het labelen van een gebruiker met @ in het deelvenster Samenvatting is niet effectief
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Wanneer een gebruiker probeert om een andere gebruiker te etiketteren door @ in het gebied van Updates van een Samenvatting paneel te gebruiken, is het klikken op de naam van de gebruiker in dropdown ineffectief. Poging om de gebruiker een tweede keer tags toe te wijzen werkt zoals verwacht.
 
-**Workaround**
+**Oplossing**
 
 Label de gebruiker opnieuw. De tweede poging werkt zoals verwacht.
 
@@ -27,6 +27,4 @@ of
 
 Selecteer de gebruiker met Enter/Return.
 
-_Voor het eerst gerapporteerd op 18 maart 2024._
-
-
+_Eerste rapporteerde op 18 Maart, 2024._

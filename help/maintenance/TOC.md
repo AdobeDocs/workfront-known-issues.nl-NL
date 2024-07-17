@@ -1,6 +1,6 @@
 ---
 user-guide-title: Onderhoudsreleases
-user-guide-description: Onderhoudrelease voor [!DNL Adobe Workfront]
+user-guide-description: Onderhoudsreleases voor  [!DNL Adobe Workfront]
 role: User
 source-git-commit: 5888405d48bb6a271fcfe748d3cce99e2ccfadaf
 workflow-type: tm+mt

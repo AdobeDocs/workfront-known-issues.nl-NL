@@ -1,6 +1,6 @@
 ---
 title: Fusion-koppelingen in de app Help leiden niet tot specifieke Help-pagina's
-description: Help-koppelingen in [!DNL Workfront Fusion] leiden momenteel niet tot de gewenste Help-pagina's. In plaats daarvan leiden alle Fusion Help-koppelingen naar de startpagina voor Workfront-documentatie. Vanaf deze openingspagina kunt u zoeken naar de informatie die u nodig hebt.
+description: De verbindingen van de hulp in  [!DNL Workfront Fusion]  leiden momenteel niet tot de intented hulppagina's. In plaats daarvan leiden alle Fusion Help-koppelingen naar de startpagina voor Workfront-documentatie. Vanaf deze openingspagina kunt u zoeken naar de informatie die u nodig hebt.
 hidefromtoc: true
 exl-id: 3775d0c6-6bca-4727-b03e-4a0659cb3267
 feature: Workfront Fusion
@@ -17,10 +17,10 @@ ht-degree: 0%
 >
 >Dit probleem is op 25 april 2023 opgelost.
 
-Help-koppelingen in [!DNL Workfront Fusion] leiden momenteel niet tot de gewenste Help-pagina&#39;s. In plaats daarvan, allen [!DNL Fusion] Help-koppelingen leiden naar [!DNL Workfront] Startpagina documentatie. Vanaf deze openingspagina kunt u zoeken naar de informatie die u nodig hebt.
+De Help-koppelingen in [!DNL Workfront Fusion] leiden momenteel niet tot de bedoelde Help-pagina&#39;s. In plaats daarvan leiden alle [!DNL Fusion] Help-koppelingen naar de [!DNL Workfront] startpagina voor documentatie. Vanaf deze openingspagina kunt u zoeken naar de informatie die u nodig hebt.
 
-**Workaround**
+**Oplossing**
 
-Wanneer u met de koppeling Help naar de [!DNL Workfront] Startpagina documentatie, doorzoeken met de [!UICONTROL Search] aan de rechterbovenhoek van het scherm.
+Wanneer u met de koppeling Help naar de startpagina van de [!DNL Workfront] documentatie gaat, zoekt u met het pictogram [!UICONTROL Search] rechtsboven in het scherm.
 
-_Voor het eerst gerapporteerd op 2 augustus 2022._
+_Eerste rapporteerde op 2 Augustus, 2022._

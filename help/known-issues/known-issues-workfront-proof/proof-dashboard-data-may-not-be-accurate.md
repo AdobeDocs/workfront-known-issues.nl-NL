@@ -17,4 +17,4 @@ De gegevens in het dashboardgebied binnen proefdruk geven niet altijd de meest a
 
 We raden u aan een aangepaste weergave te maken en die te gebruiken om de meest actuele informatie over uw gegevens te verkrijgen.
 
-_Voor het eerst gerapporteerd op 1 maart 2023._
+_Eerste rapporteerde op 1 Maart, 2023._

@@ -1,6 +1,6 @@
 ---
 title: WF Proof Integrated Accounts - Proof dependency rules not allowed the selection multichoice fields
-description: Alleen de aangepaste veldtypen Lijsten en keuzerondjes kunnen worden geselecteerd voor afhankelijkheidsregels binnen [!DNL Workfront] en [!DNL Workfront Proof] geïntegreerde instanties. Dit is een beperkte functionaliteit in vergelijking met verouderde ProofHQ-accounts.
+description: Slechts kunnen de Lijsten en de radioknooptypes van douanegebied voor gebiedsdeelregels binnen  [!DNL Workfront]  worden geselecteerd en  [!DNL Workfront Proof]  geïntegreerde instanties. Dit is een beperkte functionaliteit in vergelijking met verouderde ProofHQ-accounts.
 hidefromtoc: true
 feature: Workfront Proof
 exl-id: b5e90116-097f-4024-aace-5e9b1cbe412d
@@ -15,4 +15,4 @@ ht-degree: 0%
 
 <!--valid issue; Won't fix-->
 
-Alleen de aangepaste veldtypen Lijsten en keuzerondjes kunnen worden geselecteerd voor afhankelijkheidsregels binnen [!DNL Workfront] en [!DNL Workfront Proof] geïntegreerde instanties. Dit is een beperkte functionaliteit in vergelijking met verouderde ProofHQ-accounts.
+Alleen aangepaste veldtypen Lijsten en keuzerondjes kunnen worden geselecteerd voor afhankelijkheidsregels binnen [!DNL Workfront] - en [!DNL Workfront Proof] -geïntegreerde instanties. Dit is een beperkte functionaliteit in vergelijking met verouderde ProofHQ-accounts.

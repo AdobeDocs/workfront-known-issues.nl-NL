@@ -1,15 +1,15 @@
 ---
-title: "Resource Management: Discrepantion in Budgeted Hours"
-description: "De begrote uren die in een van de gebieden van Workfront worden weergegeven, komen mogelijk niet overeen met die in een ander gebied."
+title: "Resourcebeheer: discrepantie in begrotingsuren"
+description: De begrotingsuren die in een van de gebieden van Workfront worden weergegeven, komen mogelijk niet overeen met die in een ander gebied.
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
+exl-id: 67d7f36e-f40c-4eee-92a0-fe1625c9b486
+source-git-commit: 9457b520c469c729f8727b1efd21bbde117b9546
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
 
 ---
-
 
 # Resourcebeheer: discrepantie in begrote uren
 
@@ -23,4 +23,4 @@ De begrote uren die in een van de volgende gebieden worden weergegeven, komen mo
 * Rapporten
 * Hulpprogramma voor het budgetteren van bronnen
 
-_Eerste verslag op 22 februari 2024._
+_Eerste rapporteerde op 22 Februari, 2024._

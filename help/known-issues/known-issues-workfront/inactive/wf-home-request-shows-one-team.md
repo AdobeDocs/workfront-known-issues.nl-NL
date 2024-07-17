@@ -11,12 +11,12 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Home]: [!UICONTROL Requests] widget geeft niet alle toegewezen teams weer
+# [!UICONTROL Home]: [!UICONTROL Requests] niet alle toegewezen teams worden weergegeven
 
 >[!NOTE]
 >
 >Het team van het Product evalueert momenteel deze probleemoplossing, die productverbeteringen kan vereisen. De verbeteringen van het product worden meegedeeld in de Mededelingen van het Product en niet met de Updates van het Onderhoud.
 
-Wanneer een gebruiker de [!UICONTROL Requests] widget in de nieuwe [!UICONTROL Home] Ervaring, de vraagvertoning als hebbend slechts één toegewezen team, zelfs als zij eigenlijk meer dan één toegewezen team hebben.
+Wanneer een gebruiker de [!UICONTROL Requests] -widget in de nieuwe [!UICONTROL Home] -ervaring weergeeft, wordt bij een aanvraag aangegeven dat er slechts één team is toegewezen, zelfs als er meer dan één team is toegewezen.
 
-_Voor het eerst gemeld op 25 augustus 2023._
+_Eerste rapporteerde op 25 augustus, 2023._

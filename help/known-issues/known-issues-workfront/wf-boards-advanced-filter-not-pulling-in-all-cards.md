@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Wanneer een gebruiker een geavanceerd filter op een board probeert te gebruiken, geeft het filter niet alle resultaten terug die het zou moeten hebben.
 
-_Voor het eerst gerapporteerd op 24 april 2024._
+_Eerste rapporteerde op 24 April, 2024._

@@ -17,4 +17,4 @@ Wanneer een gebruiker een e-mailbericht over een documentgoedkeuring weergeeft, 
 
 Dit is gemeld in Gmail.
 
-_Voor het eerst gerapporteerd op 1 juni 2024._
+_Eerste rapporteerde op 1 Juni, 2024._

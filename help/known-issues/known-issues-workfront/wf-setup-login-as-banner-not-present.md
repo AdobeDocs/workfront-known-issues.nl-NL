@@ -19,8 +19,8 @@ ht-degree: 0%
 
 Wanneer een beheerder als een andere gebruiker wordt aangemeld, wordt de banner &quot;Aangemeld als&quot; niet weergegeven. De gebruiker wordt niet eraan herinnerd dat hij of zij als een andere gebruiker is aangemeld en kan zich niet afmelden bij de account van die gebruiker.
 
-**Workaround**
+**Oplossing**
 
 Vernieuw de pagina.
 
-_Voor het eerst gerapporteerd op 2 mei 2024._
+_Eerste rapporteerde op 2 Mei, 2024._

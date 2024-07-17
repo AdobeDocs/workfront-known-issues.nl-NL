@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Wanneer een gebruiker een grafiek in een rapport bekijkt en een groepering op de grafiek klikt, en die groepering heeft a / of \ in de naam, tonen de details die openen niet de punten in de groepering, en de gebruiker ziet &quot;Geen gegevens aan vertoning&quot;bericht.
 
-_Voor het eerst gerapporteerd op 17 juni 2024._
+_Eerste rapporteerde op 17 juni, 2024._

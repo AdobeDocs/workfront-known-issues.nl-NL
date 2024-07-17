@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Wanneer een gebruiker een nieuwe versie van een document uploadt en vervolgens een eenvoudige proefdruk maakt van de nieuwe versie, bevat de nieuwe proefdruk dezelfde workflow als die was toegepast op de proefdruk van de vorige versie. Een eenvoudige proefdruk die op basis van een document is gemaakt, mag geen workflow bevatten.
 
-_Voor het eerst gerapporteerd op 15 maart 2024._
+_Eerste rapporteerde op 15 Maart, 2024._

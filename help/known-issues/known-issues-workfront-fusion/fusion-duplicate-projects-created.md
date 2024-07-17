@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Wanneer een Create module van het Project tijdens een scenariouitvoering wordt gebruikt, worden twee identieke projecten gecreeerd. Dit kan verwarring veroorzaken bij het gebruik van de projecten in Workfront.
 
-_Voor het eerst gerapporteerd op 11 oktober 2023._
+_Eerste rapporteerde op 11 Oktober, 2023._

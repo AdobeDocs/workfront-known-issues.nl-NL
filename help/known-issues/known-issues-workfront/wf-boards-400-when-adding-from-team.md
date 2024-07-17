@@ -21,8 +21,8 @@ Wanneer een gebruiker de pagina Kanban board van een team bekijkt en een taak aa
 
 Fout: &quot;400: undefined /boards-service/graphql&quot;
 
-**Workaround**
+**Oplossing**
 
 Maak een aangesloten kaart op de kaart en sluit deze aan op de taak.
 
-_Voor het eerst gerapporteerd op 13 maart 2024._
+_Eerste rapporteerde op 13 Maart, 2024._

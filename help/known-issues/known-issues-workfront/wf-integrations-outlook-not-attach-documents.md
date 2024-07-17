@@ -11,16 +11,17 @@ ht-degree: 0%
 
 ---
 
-# Integratie: Documenten die niet zijn gekoppeld bij het maken van een aanvraag van [!DNL Outlook]
+# Integraties: documenten die niet zijn gekoppeld bij het maken van een aanvraag van [!DNL Outlook]
 
 >[!NOTE]
 >
 >Dit probleem is op 4 april 2024 opgelost.
 
-Wanneer een gebruiker een aanvraag maakt van [!DNL Outlook], zijn de documenten die bij de e-mail zijn gevoegd, niet bij de aanvraag gevoegd.
+Wanneer een gebruiker een aanvraag maakt van [!DNL Outlook] , worden de aan de e-mail gekoppelde documenten niet aan de aanvraag gekoppeld.
 
 Dit is gemeld voor de volgende typen bijlagen:
 
-XLS PDF
+XLS
+PDF
 
-_Eerste verslag op 5 februari 2024._
+_Eerste rapporteerde op 5 Februari, 2024._

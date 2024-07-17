@@ -21,4 +21,4 @@ Als een extern opzoekveld verwijst naar een veld met meerdere selecties waarin s
 
 Als een extern opzoekveld bijvoorbeeld verwijst naar een veld met meerdere selecties waarin zowel de waarde &quot;rood&quot; als &quot;blauw&quot; is geselecteerd, functioneert het veld naar behoren. Als in het veld alleen &quot;rood&quot; is geselecteerd, retourneert het externe opzoekveld geen waarde.
 
-_Eerste verslag op 2 april 2024._
+_Eerste rapporteerde op 2 April, 2024._

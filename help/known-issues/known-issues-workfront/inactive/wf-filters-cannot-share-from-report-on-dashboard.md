@@ -15,14 +15,14 @@ ht-degree: 0%
 
 <!--Requested article: Valid issue, won't fix:-->
 
-Wanneer een gebruiker een rapport weergeeft op een dashboard en een filter probeert te delen uit dat rapport, kunnen de gebruikers het filter niet delen. Wanneer u op de drie punten klikt, springt het dashboard naar het volgende rapport en wanneer de gebruiker naar het bedoelde rapport schuift, ziet de gebruiker dat het [!UICONTROL Share] is niet geopend.
+Wanneer een gebruiker een rapport weergeeft op een dashboard en een filter probeert te delen uit dat rapport, kunnen de gebruikers het filter niet delen. Wanneer u op de drie punten klikt, springt het dashboard naar het volgende rapport en wanneer de gebruiker naar het bedoelde rapport terugschuift, ziet hij of zij dat de optie [!UICONTROL Share] niet is geopend.
 
-**Workaround**
+**Oplossing**
 
 Voer een van de volgende handelingen uit:
 
 * Open het rapport en deel het filter vanuit het rapport.
 * Navigeer naar een lijst van het voorwerp dat het rapport vertegenwoordigt, dan deel de filter van die lijst.
-* Het filter delen vanuit de [!UICONTROL Setup] > [!UICONTROL Filters] gebied.
+* Deel het filter vanuit het gebied [!UICONTROL Setup] > [!UICONTROL Filters] .
 
-_Voor het eerst gerapporteerd op 14 maart 2023._
+_Eerste rapporteerde op 14 Maart, 2023._

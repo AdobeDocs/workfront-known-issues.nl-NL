@@ -22,4 +22,4 @@ De volgende kwesties zijn gemeld met betrekking tot dubbele kaarten in de raden 
 * Er wordt tweemaal een kaart weergegeven. Dit kan worden opgelost door de pagina te vernieuwen.
 * Als een gebruiker een van de dubbele kaarten verwijdert, worden alle exemplaren van die gedupliceerde kaart verwijderd.
 
-_Eerste verslag op 9 februari 2024._
+_Eerste rapporteerde op 9 Februari, 2024._

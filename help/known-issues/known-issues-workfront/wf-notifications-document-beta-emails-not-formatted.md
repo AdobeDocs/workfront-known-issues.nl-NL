@@ -21,4 +21,4 @@ Wanneer een gebruiker een e-mailbericht ontvangt van de bètaversie van goedkeur
 
 Dit is gemeld in Microsoft Outlook voor Windows.
 
-_Voor het eerst gerapporteerd op 14 maart 2024._
+_Eerste rapporteerde op 14 Maart, 2024._

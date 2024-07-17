@@ -26,4 +26,4 @@ Wanneer een gebruiker in Workfront op de knop Terug van zijn browser klikt, kan 
 * De naam van het browsertabblad verandert niet, maar de pagina verandert niet. Het probleem kan worden opgelost door nogmaals op de knop Terug te klikken.
 * De gebruiker wordt naar de landingspagina van zijn browser gebracht.
 
-_Voor het eerst gerapporteerd op 3 juni 2024._
+_Eerste rapporteerde op 3 Juni, 2024._

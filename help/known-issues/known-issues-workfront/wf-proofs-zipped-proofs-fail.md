@@ -21,8 +21,8 @@ ht-degree: 0%
 
 Wanneer een gebruiker een proefdruk maakt met ritssluiting en twee of meer bestanden in de proefdruk dezelfde naam hebben, kan de proefdruk niet worden gegenereerd.
 
-**Workaround**
+**Oplossing**
 
 Wijzig de naam van de bestanden, zodat geen enkel bestand dezelfde naam heeft als een ander bestand.
 
-_Voor het eerst gerapporteerd op 28 december 2023._
+_Eerste rapporteerde op 28 December, 2023._

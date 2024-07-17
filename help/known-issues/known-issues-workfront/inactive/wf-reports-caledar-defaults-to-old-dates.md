@@ -19,9 +19,9 @@ ht-degree: 0%
 
 Wanneer een gebruiker naar een kalender navigeert, laadt de kalender een willekeurig datumbereik in het verleden (bijvoorbeeld een week vanaf het jaar 1800).
 
-**Workaround**
+**Oplossing**
 
-Klikken **[!UICONTROL Today]** laadt de correcte week op de kalender.
+Als u op **[!UICONTROL Today]** klikt, wordt de juiste week in de kalender geladen.
 
 
-_Voor het eerst gerapporteerd op 7 april 2020._
+_Eerste rapporteerde op 7 April, 2020._

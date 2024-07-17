@@ -21,4 +21,4 @@ Dit is gemeld op de volgende gebieden:
 * Paginakoppen
 * Beschrijvingen waar de projecten worden vermeld
 
-_Voor het eerst gerapporteerd op 26 juni 2024._
+_Eerste rapporteerde op 26 juni, 2024._

@@ -1,6 +1,6 @@
 ---
 title: "E-mailmeldingen: de gebruiker wordt niet omgeleid naar een commentaarthread"
-description: Wanneer een gebruiker in een e-mailbericht op de koppeling Opmerking klikt, wordt deze boven aan het dialoogvenster [!UICONTROL Updates] in plaats van de commentaarthread waarop ze proberen te reageren.
+description: Wanneer een gebruiker in een e-mailbericht op de koppeling Opmerking klikt, wordt deze naar de bovenkant van het [!UICONTROL Updates] -gebied geleid in plaats van naar de commentaarthread waarop hij probeert te reageren.
 exl-id: 335c2867-eae5-46e8-a7d5-8b9b35e66e31
 feature: Updates and Notifications
 hidefromtoc: true
@@ -19,6 +19,6 @@ ht-degree: 0%
 >
 >Het team van het Product evalueert momenteel deze probleemoplossing, die productverbeteringen kan vereisen. De verbeteringen van het product worden meegedeeld in de Mededelingen van het Product en niet met de Updates van het Onderhoud.
 
-Wanneer een gebruiker op de knop [!UICONTROL Comment] koppeling in een e-mailbericht, worden ze boven aan de pagina [!UICONTROL Updates] in plaats van de commentaarthread waarop ze proberen te reageren.
+Wanneer een gebruiker in een e-mailmelding op de koppeling [!UICONTROL Comment] klikt, wordt deze naar de bovenkant van het [!UICONTROL Updates] -gebied geleid in plaats van naar de commentaarthread waarop hij probeert te reageren.
 
-_Voor het eerst gerapporteerd op 24 maart 2021._
+_Eerste rapporteerde op 24 Maart, 2021._

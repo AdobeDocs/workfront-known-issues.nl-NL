@@ -21,12 +21,12 @@ Wanneer een groot bestand (meer dan 100 MB) via Workfront-integratie naar een do
 
 Dit is gemeld bij zowel ZIP- als TIF-bestanden.
 
-**Workaround**
+**Oplossing**
 
 Voer een van de volgende handelingen uit:
 
 * Wijs de documentnaam toe aan de titel in de documentprovider.
 * Voer de bestandsnaam rechtstreeks in de documentprovider in.
 
-_Voor het eerst gerapporteerd op 23 april 2024._
+_Eerste rapporteerde op 23 April, 2024._
 

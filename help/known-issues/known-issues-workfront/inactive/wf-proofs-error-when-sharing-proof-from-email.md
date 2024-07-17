@@ -23,4 +23,4 @@ Wanneer een bewijs met een gast wordt gedeeld, en die gast probeert om &quot;dez
 
 Dit kan zelfs gebeuren wanneer het e-mailbericht correct is ingevoerd.
 
-_Voor het eerst gerapporteerd op 15 september 2023._
+_Eerste rapporteerde op 15 September, 2023._

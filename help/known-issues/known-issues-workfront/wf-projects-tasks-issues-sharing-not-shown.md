@@ -22,4 +22,4 @@ Wanneer een gebruiker een object deelt, is de kaart met overgeërfde machtiginge
 * De ontvanger van het object
 * De gebruiker waarvan de naam wordt getypt om het object te delen met
 
-_Eerste rapportage op 9 januari 2024._
+_Eerste rapporteerde op 9 Januari, 2024._

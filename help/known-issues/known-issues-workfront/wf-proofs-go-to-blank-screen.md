@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Wanneer een gebruiker in de webtestviewer op een proefdruknaam klikt om de proefdrukproef te openen, wordt deze naar een leeg scherm gebracht in plaats van de proefdrukproef.
 
-_Voor het eerst gerapporteerd op 20 juni 2024._
+_Eerste rapporteerde op 20 juni, 2024._

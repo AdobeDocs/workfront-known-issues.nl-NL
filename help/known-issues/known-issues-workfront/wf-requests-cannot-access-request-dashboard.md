@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Wanneer u probeert toegang te krijgen tot een dashboard op de pagina Aanvragen, geeft de URL tijdelijk de dashboard-URL weer en wordt vervolgens snel overgeschakeld naar de verzonden URL (verzonden/verzonden).
 
-_Voor het eerst gerapporteerd op 16 mei 2024._
+_Eerste rapporteerde op 16 mei, 2024._

@@ -1,15 +1,15 @@
 ---
-title: "Workfront Fusion: Low memory error"
-description: "De uitvoering van een scenario mislukt met een geheugenfout. Dit kan gebeuren ook al is het scenario eerder met succes uitgevoerd."
+title: 'Workfront Fusion: Low memory error'
+description: De uitvoering van een scenario mislukt door een fout met onvoldoende geheugen. Dit kan gebeuren ook al is het scenario eerder met succes uitgevoerd.
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 80cd493b72fb2732234e78b683afe071f8bd9545
+exl-id: df39ee6b-1693-4b8d-8d42-d3567f8bf1dd
+source-git-commit: 45cea090d9e54514be9983b5443e7ee54b1f2d94
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
 
 ---
-
 
 # Workfront Fusion: fout met laag geheugen
 
@@ -19,8 +19,8 @@ ht-degree: 0%
 
 De uitvoering van een scenario mislukt door een fout met onvoldoende geheugen. Dit kan gebeuren ook al is het scenario eerder met succes uitgevoerd.
 
-**Workaround**
+**Oplossing**
 
 Verdeel het scenario in verscheidene kleinere scenario&#39;s.
 
-_Voor het eerst gerapporteerd op 15 september 2023._
+_Eerste rapporteerde op 15 September, 2023._

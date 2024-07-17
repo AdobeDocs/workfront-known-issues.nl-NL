@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Wanneer een gebruiker een kalender weergeeft en de pagina vernieuwt, wordt een foutbericht met de naam &#39;Oeps&#39; weergegeven. De gegevens in de kalender worden weergegeven zoals u had verwacht, maar worden mogelijk verborgen door het foutbericht.
 
-_Voor het eerst gerapporteerd op 13 maart 2024._
+_Eerste rapporteerde op 13 Maart, 2024._

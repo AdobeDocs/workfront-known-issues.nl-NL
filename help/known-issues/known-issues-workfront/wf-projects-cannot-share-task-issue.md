@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Wanneer een gebruiker een taak of uitgave probeert te delen, wordt het menu &quot;Toegang X verlenen tot&quot; voortdurend geladen en kan de gebruiker de taak of kwestie niet delen.
 
-_Voor het eerst gerapporteerd op 3 juni 2024._
+_Eerste rapporteerde op 3 Juni, 2024._

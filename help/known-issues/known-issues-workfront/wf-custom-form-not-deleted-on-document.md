@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Wanneer een gebruiker een aangepast formulier probeert te verwijderen uit een document, wordt een bericht weergegeven dat het aangepaste formulier is verwijderd, maar dat het aangepaste formulier nog steeds is gekoppeld.  Als de gebruiker de documentpagina vernieuwt, ziet hij of zij dat het aangepaste formulier is bijgevoegd.
 
-_Voor het eerst gerapporteerd op 28 juni 2024._
+_Eerste rapporteerde op 28 juni, 2024._

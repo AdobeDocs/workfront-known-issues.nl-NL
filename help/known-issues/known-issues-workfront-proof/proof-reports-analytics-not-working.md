@@ -1,6 +1,6 @@
 ---
-title: '"Workfront-proefdruk: Het tabblad Rapporten wordt niet meer ondersteund.'''
-description: De Workfront Proof Reports-functionaliteit wordt niet meer ondersteund. Daarom ziet een gebruiker die het tabblad Rapporten in Workfront Proof bekijkt onjuiste gegevens of ziet er helemaal geen gegevens. Dit wordt verwacht. Het tabblad Rapporten wordt in de nabije toekomst verwijderd.
+title: 'Workfront Proof: Het tabblad Rapporten wordt niet meer ondersteund'
+description: De functionaliteit Workfront Proof Reports wordt niet meer ondersteund. Daarom ziet een gebruiker die het tabblad Rapporten in Workfront Proof bekijkt, onjuiste gegevens of ziet hij helemaal geen gegevens. Dit wordt verwacht. Het tabblad Rapporten wordt in de nabije toekomst verwijderd.
 hidefromtoc: true
 exl-id: e1daf1df-b07b-4869-a57b-f9ce6d4ecaed
 feature: Workfront Proof
@@ -15,6 +15,6 @@ ht-degree: 0%
 
 <!--Requested article-->
 
-De [!UICONTROL Reports] gebied van [!DNL Workfront Proof] wordt niet meer ondersteund. Een gebruiker die de [!UICONTROL Reports] tab in [!DNL Workfront Proof] onnauwkeurige gegevens ziet of helemaal geen gegevens ziet. Dit wordt verwacht. De [!UICONTROL Reports] tab wordt in de nabije toekomst verwijderd.
+Het [!UICONTROL Reports] gebied van [!DNL Workfront Proof] wordt niet meer ondersteund. Daarom ziet een gebruiker die het tabblad [!UICONTROL Reports] in [!DNL Workfront Proof] bekijkt onjuiste gegevens of ziet hij geen gegevens. Dit wordt verwacht. Het tabblad [!UICONTROL Reports] wordt in de nabije toekomst verwijderd.
 
-_Voor het eerst gerapporteerd op 1 maart 2023._
+_Eerste rapporteerde op 1 Maart, 2023._

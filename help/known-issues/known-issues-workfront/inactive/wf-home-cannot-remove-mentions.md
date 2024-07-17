@@ -19,4 +19,4 @@ Als een gebruiker in de nieuwe startpagina de widget voor herinneringen wil verw
 
 De widget Vermeldingen wordt beheerd via de sjabloon Indeling, die wordt beheerd door een Workfront-beheerder. Dit werkt zoals ontworpen, maar er zijn geen aanwijzingen voor de gebruiker dat deze de widget zelf niet kan verwijderen.
 
-_Voor het eerst gerapporteerd op 12 juni 2024._
+_Eerste rapporteerde op 12 juni, 2024._

@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Er blijft een bewijs op de widget staan dat uit de widget Mijn goedkeuringen moet verdwijnen. Dit kan gebeuren wanneer meerdere gebruikers tegelijkertijd beslissingen nemen over een bewijs of wanneer één gebruiker een beslissing neemt en deze snel wijzigt.
 
-_Eerste verslag op 7 februari 2024._
+_Eerste rapporteerde op 7 Februari, 2024._

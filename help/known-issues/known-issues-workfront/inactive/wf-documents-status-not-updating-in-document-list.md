@@ -11,12 +11,12 @@ ht-degree: 0%
 
 ---
 
-# Proefdrukken: status van proefafdruk wordt niet bijgewerkt in [!UICONTROL Document] lijsten
+# Proefdrukken: status van proef wordt niet bijgewerkt in [!UICONTROL Document] lijsten
 
 <!--Won't fix tab, article live by request-->
 
-Wanneer de status van een proefdruk verandert, kunt u [!UICONTROL Document] een lijst waaruit blijkt dat de nieuwe status niet correct wordt weergegeven.
+Wanneer de status van een proef verandert, geeft een [!UICONTROL Document] lijst die dat bewijs toont niet de correcte nieuwe status.
 
-De [!UICONTROL Proof Workflow] pagina in [!DNL Workfront] de juiste status van het bewijs toont.
+Op de pagina [!UICONTROL Proof Workflow] in [!DNL Workfront] wordt de juiste status van de proefdruk weergegeven.
 
-_Voor het eerst gerapporteerd op 3 augustus 2022._
+_Eerste rapporteerde op 3 Augustus, 2022._

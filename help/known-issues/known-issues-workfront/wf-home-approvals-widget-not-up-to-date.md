@@ -26,5 +26,5 @@ De wachtende widget Mijn goedkeuringen in de nieuwe Home-ervaring geeft de goedk
 * Proefbestanden die nog moeten worden goedgekeurd, worden mogelijk niet weergegeven in de widget.
 * De goedgekeurde proefdrukken blijven mogelijk op de widget staan.
 
-_Voor het eerst gemeld op 16 april 2024._
+_Eerste rapporteerde op 16 April, 2024._
 

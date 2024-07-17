@@ -19,6 +19,6 @@ ht-degree: 0%
 >
 >Het team van het Product evalueert momenteel deze probleemoplossing, die productverbeteringen kan vereisen. De verbeteringen van het product worden meegedeeld in de Mededelingen van het Product en niet met de Updates van het Onderhoud.
 
-Het getal waarvoor wordt weergegeven [!UICONTROL Completed Points] op het prikbord komt soms niet overeen met het werkelijke aantal punten dat is ingevuld voor de artikelen in een herhaling
+Het aantal dat wordt weergegeven voor [!UICONTROL Completed Points] op het artikelbord komt soms niet overeen met het werkelijke aantal punten dat is ingevuld voor de artikelen in een herhaling
 
-_Voor het eerst gemeld op 13 april 2021._
+_Eerste rapporteerde op 13 April, 2021._

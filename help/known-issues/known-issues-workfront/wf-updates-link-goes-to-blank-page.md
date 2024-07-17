@@ -1,15 +1,15 @@
 ---
-title: "Updates: koppeling in opmerking gaat naar leeg scherm"
-description: "Wanneer een gebruiker op een verbinding klikt die in een commentaar is, leidt de verbinding de gebruiker aan een leeg scherm. Er is een oplossing beschikbaar."
+title: 'Updates: koppeling in opmerking gaat naar leeg scherm'
+description: Wanneer een gebruiker op een verbinding klikt die in een commentaar is, leidt de verbinding de gebruiker aan een leeg scherm. Er is een tijdelijke oplossing beschikbaar.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
+exl-id: db510b1b-84ff-4e77-b028-7acc55ce9832
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
 
 ---
-
 
 # Updates: Koppeling in opmerking gaat naar leeg scherm
 
@@ -23,10 +23,8 @@ ht-degree: 0%
 
 Wanneer een gebruiker op een verbinding klikt die in een commentaar is, leidt de verbinding de gebruiker aan een leeg scherm.
 
-**Workaround**
+**Oplossing**
 
 Kopieer de koppeling en plak deze in de URL-balk van een aparte pagina.
 
-_Voor het eerst gemeld op 18 april 2024._
-
-
+_Eerste rapporteerde op 18 April, 2024._

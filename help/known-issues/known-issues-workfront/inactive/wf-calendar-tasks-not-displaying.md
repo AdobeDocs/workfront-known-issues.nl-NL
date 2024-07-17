@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Wanneer een gebruiker een lijstrapport en een kalenderrapport heeft die de zelfde filters hebben, zien zij dat sommige taken in het lijstrapport maar niet tonen op het kalenderrapport tonen.
 
-_Voor het eerst gerapporteerd op 31 oktober 2019._
+_Eerste rapporteerde op 31 oktober, 2019._

@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Wanneer een gebruiker een proef bekijkt en de proef sluit, wordt de gebruiker geleid naar de pagina van de Documenten van het Project in plaats van de pagina die de proef van werd geopend.
 
-_Voor het eerst gerapporteerd op 13 juni 2024._
+_Eerste rapporteerde op 13 juni, 2024._

@@ -21,7 +21,7 @@ Wanneer een gebruiker een taak of kwestie probeert om te zetten die een Web gepr
 
 &quot;[!UICONTROL There was a problem copying the file] \xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\. [!UICONTROL Please remove the file or contact support and try again.]&quot;
 
-**Workaround** s
+**s**
 
 Voer de volgende procedure uit:
 
@@ -29,5 +29,5 @@ Voer de volgende procedure uit:
 2. Zet de taak of de kwestie in een project om.
 3. Gebruik de functie Document verplaatsen om de proefdruk naar het nieuwe project te verplaatsen.
 
-_Voor het eerst gerapporteerd op 28 maart 2024._
+_Eerste rapporteerde op 28 Maart, 2024._
 

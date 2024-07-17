@@ -25,4 +25,4 @@ De volgende elementen zijn als onjuist gerapporteerd in gemaakte proefdrukken:
 * Goedkeuringsinstellingen
 * E-mailberichten (niet verzonden)
 
-_Eerste verslag op 28 februari 2024._
+_Eerste rapporteerde op 28 februari, 2024._

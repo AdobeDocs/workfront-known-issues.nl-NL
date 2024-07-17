@@ -21,4 +21,4 @@ ht-degree: 0%
 
 De Workfront API staat sorteren op dynamische velden niet toe.
 
-_Voor het eerst gerapporteerd op 15 maart 2022._
+_Eerste rapporteerde op 15 Maart, 2022._

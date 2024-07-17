@@ -19,8 +19,8 @@ ht-degree: 0%
 
 Wanneer een gebruiker een kaart weergeeft die is geconfigureerd om native (niet-aangepaste) velden weer te geven, zijn deze velden niet zichtbaar op de kaart.
 
-**Workaround**
+**Oplossing**
 
 Klik op de kaart om naar het object te gaan dat deze vertegenwoordigt.
 
-_Voor het eerst gemeld op 15 april 2024._
+_Eerste rapporteerde op 15 April, 2024._

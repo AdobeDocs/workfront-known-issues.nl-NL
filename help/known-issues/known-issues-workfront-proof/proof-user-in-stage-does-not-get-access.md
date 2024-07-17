@@ -22,8 +22,8 @@ ht-degree: 0%
 
 Wanneer een proef een stadium in een werkschema bereikt waaraan een gebruiker bij proefverwezenlijking is toegevoegd, wordt de proef niet gedeeld met de gebruiker, en de gebruiker kan niet tot de proef toegang hebben.
 
-**Workaround**
+**Oplossing**
 
 Deel het document handmatig met de gebruiker.
 
-_Voor het eerst gerapporteerd op 1 september 2022._
+_Eerste rapporteerde op 1 September, 2022._

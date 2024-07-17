@@ -19,8 +19,8 @@ ht-degree: 0%
 
 Wanneer een veld op een kaart op de Kanban Board een aangepast formulier ophaalt, kunnen gebruikers dat veld niet rechtstreeks vanaf de kaart bewerken.
 
-**Workaround**
+**Oplossing**
 
-Open de taak en bewerk het veld vanuit het [!UICONTROL Edit Task] venster.
+Open de taak en bewerk het veld vanuit het [!UICONTROL Edit Task] -venster.
 
-_Eerste verslag op 12 april 2022._
+_Eerste rapporteerde op 12 April, 2022._

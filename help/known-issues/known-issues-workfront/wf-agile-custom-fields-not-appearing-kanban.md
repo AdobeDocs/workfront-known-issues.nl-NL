@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Wanneer een gebruiker een Kanban-bord weergeeft dat is geconfigureerd om aangepaste velden op te nemen, worden deze aangepaste velden mogelijk niet weergegeven.
 
-_Voor het eerst gerapporteerd op 6 maart 2024._
+_Eerste rapporteerde op 6 Maart, 2024._

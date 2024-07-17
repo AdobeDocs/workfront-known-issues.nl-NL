@@ -17,6 +17,6 @@ ht-degree: 0%
 >
 >Deze kwestie is gesloten omdat het geen kwestie is.
 
-Als een gebruiker tijd uit plant en taken toegewezen heeft, werkt de Werklastbalans de chronologie niet aan rekening voor de tijd uit bij. In plaats daarvan [!UICONTROL Workload Balancer] toont dat de gebruiker is oververdeeld voor de dagen die zij hebben gepland weg. Als u de uren wilt aanpassen, moet de beheerder naar het project gaan en de tijdlijn opnieuw berekenen.
+Als een gebruiker tijd uit plant en taken toegewezen heeft, werkt de Werklastbalans de chronologie niet aan rekening voor de tijd uit bij. In plaats daarvan toont [!UICONTROL Workload Balancer] aan dat de gebruiker wordt oververdeeld voor de dagen die zij hebben gepland weg. Als u de uren wilt aanpassen, moet de beheerder naar het project gaan en de tijdlijn opnieuw berekenen.
 
-_Voor het eerst gerapporteerd op 6 maart 2023._
+_Eerste rapporteerde op Mqrch 6, 2023._

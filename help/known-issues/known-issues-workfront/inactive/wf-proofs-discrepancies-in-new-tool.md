@@ -19,8 +19,8 @@ Workfront heeft onlangs zijn proefverwerkingsprogramma gewijzigd van een externe
 
 Workfront werkt aan het upgraden van zijn bibliotheken naar het oude programma en zal u op de hoogte stellen van de wijzigingen op de Workfront releasepagina&#39;s.
 
-**Workaround**
+**Oplossing**
 
 Als u momenteel problemen ondervindt met het verwerken van dergelijke bestanden, raden we u aan de pagina&#39;s te exporteren naar JPG of PNG en ze als zodanig te controleren.
 
-_Voor het eerst gemeld op 15 augustus 2023._
+_Eerste rapporteerde op 15 augustus, 2023._

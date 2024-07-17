@@ -15,6 +15,6 @@ ht-degree: 0%
 
 Wanneer een gebruiker een pagina met gebruikersprofielen probeert weer te geven, lijkt de pagina te zijn geladen, maar wordt deze niet volledig geladen.
 
-Dit is gemeld bij gebruik van de [!UICONTROL Log In As] gebruiken.
+Dit is gemeld bij gebruik van de functie [!UICONTROL Log In As] .
 
-_Eerste verslag op 8 juli 2024._
+_Eerste rapporteerde op 8 Juli, 2024._

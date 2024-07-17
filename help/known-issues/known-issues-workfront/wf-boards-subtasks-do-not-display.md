@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Wanneer een gebruiker een kaart weergeeft voor een taak die een bovenliggende taak is, worden de subtaken van die bovenliggende taak niet weergegeven op de kaart. In plaats daarvan toont de kaart aan dat er 0 subtaken zijn.
 
-_Eerste verslag op 12 februari 2024._
+_Eerste rapporteerde op 12 Februari, 2024._

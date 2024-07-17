@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Wanneer een gebruiker probeert om een weg van de verzoekrij te delen, opent de verbinding niet de correcte verzoekrij. In plaats daarvan gaat de koppeling naar de pagina Verzoeken.
 
-_Voor het eerst gemeld op 18 april 2024._
+_Eerste rapporteerde op 18 April, 2024._

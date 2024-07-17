@@ -19,10 +19,10 @@ ht-degree: 0%
 >
 >Deze kwestie is gesloten omdat het geen kwestie is.
 
-Wanneer een gebruiker een groot bestand probeert te uploaden (groter dan 25 MB), wordt het bestand niet geüpload en ziet de gebruiker de fout &quot;[!UICONTROL Failed to upload file].&quot;
+Wanneer een gebruiker probeert om een groot dossier (meer dan 25 MB) te uploaden, uploadt het dossier niet, en de gebruiker ziet de fout &quot;[!UICONTROL Failed to upload file]&quot;.
 
-**Workaround**
+**Oplossing**
 
 Upload het document als een proefdruk.
 
-_Voor het eerst gerapporteerd op 14 november 2022._
+_Eerste rapporteerde op 14 November, 2022._

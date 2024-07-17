@@ -20,6 +20,6 @@ ht-degree: 0%
 >
 >Het team van het Product evalueert momenteel deze probleemoplossing, die productverbeteringen kan vereisen. De verbeteringen van het product worden meegedeeld in de Mededelingen van het Product en niet met de Updates van het Onderhoud.
 
-Wanneer een gebruiker de [!UICONTROL Document Details] pagina en klikt op een optikon in het dialoogvenster [!UICONTROL Proofing Activities] wordt de gebruiker naar een aanmeldingspagina geleid in plaats van naar de bedoelde doelpagina.
+Wanneer een gebruiker de pagina [!UICONTROL Document Details] bekijkt en op een tikon in het [!UICONTROL Proofing Activities] menu klikt, wordt de gebruiker geleid naar een login pagina in plaats van de voorgenomen bestemmingspagina.
 
-_Voor het eerst gerapporteerd op 3 maart 2023._
+_Eerste rapporteerde op 3 Maart, 2023._

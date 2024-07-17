@@ -1,6 +1,6 @@
 ---
 title: 'Home: Nieuwe taakoptie met gedeactiveerde gebruikers in veld Toewijzen aan'
-description: Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] De ervaring leidt tot een nieuwe taak of een kwestie in het gebied van het Huis en zij proberen om een gebruiker toe te wijzen, verschijnen de gedeactiveerde gebruikers als selecties in [!UICONTROL typeahead] vervolgkeuzelijst.
+description: Wanneer een gebruiker in de nieuwe  [!DNL Adobe Workfront]  ervaring tot een nieuwe taak of een kwestie in het gebied van het Huis leidt en zij proberen om een gebruiker toe te wijzen, verschijnen de gedeactiveerde gebruikers als selecties in de [!UICONTROL typeahead] drop-down lijst.
 exl-id: 32257ac1-9804-4793-9c37-62ca5608df3d
 feature: Get Started with Workfront, Tasks
 hidefromtoc: true
@@ -11,10 +11,10 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Home]: [!UICONTROL New Task] optie om gedeactiveerde gebruikers weer te geven in [!UICONTROL Assign To] field
+# [!UICONTROL Home]: [!UICONTROL New Task] optie gedeactiveerde gebruikers weergeven in veld [!UICONTROL Assign To]
 
 <!--Valid issue, won't fix-->
 
-Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] de ervaring leidt tot een nieuwe taak of een kwestie in [!UICONTROL Home] gedeactiveerde gebruikers worden als selecties weergegeven in de keuzelijst met typekop en ze proberen een gebruiker toe te wijzen.
+Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] -ervaring een nieuwe taak of uitgave maakt in het [!UICONTROL Home] -gebied en probeert een gebruiker toe te wijzen, worden gedeactiveerde gebruikers weergegeven als selecties in de vervolgkeuzelijst met typefuncties.
 
-_Voor het eerst gerapporteerd op 15 juni 2021._
+_Eerste rapporteerde op 15 Juni, 2021._

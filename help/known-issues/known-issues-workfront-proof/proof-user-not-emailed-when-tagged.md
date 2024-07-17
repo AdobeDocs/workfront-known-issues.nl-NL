@@ -1,5 +1,5 @@
 ---
-title: 'Proefdrukken: Gebruiker ontvangt geen e-mail wanneer deze is gelabeld in een proefdrukopmerking.'''
+title: 'Proofs: de gebruiker ontvangt geen e-mail wanneer deze is gelabeld in een proefdrukopmerking'
 description: Wanneer een gebruiker wordt gelabeld met de notatie @name op een proefdrukopmerking, ontvangt de gebruiker geen e-mailbericht over de opmerking.
 hidefromtoc: true
 exl-id: 5773ba30-7826-428c-8878-f8d2b3368f30
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Proefdrukken: Gebruiker ontvangt geen e-mail wanneer deze is gelabeld in een proefdrukopmerking
+# Proefdrukken: de gebruiker ontvangt geen e-mail wanneer deze is gelabeld in een proefdrukopmerking
 
 >[!NOTE]
 >
@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Wanneer een gebruiker wordt gelabeld met de notatie @name op een proefdrukopmerking, ontvangt de gebruiker geen e-mailbericht over de opmerking.
 
-_Voor het eerst gerapporteerd op 8 december 2022._
+_Eerste rapporteerde op 8 December, 2022._

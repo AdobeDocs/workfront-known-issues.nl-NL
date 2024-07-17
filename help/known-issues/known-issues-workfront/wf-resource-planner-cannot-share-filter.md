@@ -1,6 +1,6 @@
 ---
 title: 'Bronnen: filter kan niet worden gedeeld'
-description: Wanneer een gebruiker een filter probeert te delen in de [!UICONTROL Resource Planner], kunnen ze het filter niet delen en ziet u een foutbericht.
+description: Wanneer een gebruiker een filter in [!UICONTROL Resource Planner] probeert te delen, kan hij of zij het filter niet delen. Er wordt dan een foutbericht weergegeven.
 hidefromtoc: true
 feature: Resource Management
 exl-id: 0f35655e-96b7-4279-b536-63106276efc3
@@ -11,14 +11,14 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Resource Planner]: Kan filter niet delen
+# [!UICONTROL Resource Planner]: kan filter niet delen
 
 >[!NOTE]
 >
 >Dit probleem is op 10 juni 2024 opgelost.
 
-Wanneer een gebruiker een filter probeert te delen in de [!UICONTROL Resource Planner], kunnen ze het filter niet delen. Zie het volgende bericht:
+Wanneer een gebruiker een filter in [!UICONTROL Resource Planner] probeert te delen, kan hij of zij het filter niet delen. Zie het volgende bericht:
 
 &quot;[!UICONTROL An error has occurred and we are working to resolve the changes. To continue with your work, try refreshing this browser page.]&quot;
 
-_Voor het eerst gerapporteerd op 31 mei 2024._
+_Eerste rapporteerde op 31 Mei, 2024._

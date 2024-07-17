@@ -1,5 +1,5 @@
 ---
-title: '"Documenten: Kan geen documenten toevoegen vanaf Google Drive'''
+title: 'Documenten: kan geen documenten toevoegen vanaf Google Drive'
 description: Wanneer een gebruiker een document vanuit Google Drive aan Workfront probeert toe te voegen, geeft de bestandskiezer geen bestanden weer en kan de gebruiker het gewenste bestand niet selecteren.
 hidefromtoc: true
 feature: Digital Content and Documents, Workfront Integrations and Apps
@@ -11,18 +11,18 @@ ht-degree: 0%
 
 ---
 
-# Documenten: Kan geen documenten toevoegen van [!DNL Google Drive]
+# Documenten: kan geen documenten toevoegen vanuit [!DNL Google Drive]
 
 <!--On WF and WFP TOCs-->
 
 >[!NOTE]
 >
->Deze kwestie is gesloten omdat het geen [!DNL Workfront] probleem.
+>Dit probleem is opgelost omdat het geen [!DNL Workfront] -probleem is.
 
-Wanneer een gebruiker een document aan probeert toe te voegen [!DNL Workfront] van [!DNL Google Drive], geeft de bestandskiezer geen bestanden weer en kan de gebruiker het gewenste bestand niet selecteren.
+Wanneer een gebruiker een document aan [!DNL Workfront] van [!DNL Google Drive] probeert toe te voegen, toont de dossierselecteur geen dossiers, en de gebruiker kan niet het gewenste dossier selecteren.
 
-**Workaround**
+**Oplossing**
 
-Bestand downloaden van [!DNL Google Drive] uploadt u het bestand van uw computer naar [!DNL Workfront].
+Download het bestand van [!DNL Google Drive] naar de computer en upload het bestand van de computer naar [!DNL Workfront] .
 
-_Voor het eerst gerapporteerd op 15 december 2022._
+_Eerste rapporteerde op 15 December, 2022._

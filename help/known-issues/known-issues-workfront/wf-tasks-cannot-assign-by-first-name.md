@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Wanneer een gebruiker een taaktaak uitvoert en naar de toegewezen persoon op voornaam probeert te zoeken, keert het onderzoek geen gebruikers terug, en de gebruiker ziet het bericht &quot;Geen gevonden resultaten.&quot;
 
-**Workaround**
+**Oplossing**
 
 Als u op de volledige naam zoekt, worden de gebruikers geretourneerd zoals u had verwacht.
 
-_Voor het eerst gerapporteerd op 27 juni 2024._
+_Eerste rapporteerde op 27 juni, 2024._

@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Documentintegratie: niet alle mappen in [!DNL OneDrive]
+# Documentintegratie: kan niet alle mappen in [!DNL OneDrive] zien
 
 >[!NOTE]
 >
@@ -25,10 +25,10 @@ ht-degree: 0%
 
 -->
 
-Wanneer een gebruiker via [!DNL OneDrive] integratie in [!DNL Workfront], kan de gebruiker niet alle [!DNL OneDrive] en heeft geen toegang tot documenten in de ontbrekende mappen.
+Wanneer een gebruiker via de [!DNL OneDrive] integratie in [!DNL Workfront] toegang probeert te krijgen tot een document, kan de gebruiker niet alle mappen van [!DNL OneDrive] zien en heeft hij geen toegang tot documenten in de ontbrekende mappen.
 
-**Workaround**
+**Oplossing**
 
-Download het bestand rechtstreeks vanuit [!DNL OneDrive]en uploadt u het bestand als een document in [!DNL Workfront].
+Download het bestand rechtstreeks vanuit [!DNL OneDrive] en upload het bestand als een document in [!DNL Workfront] .
 
-_Voor het eerst gerapporteerd op 15 mei 2023._
+_Eerste rapporteerde op 15 Mei, 2023._

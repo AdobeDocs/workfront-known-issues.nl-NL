@@ -17,8 +17,8 @@ ht-degree: 0%
 
 Wanneer een gebruiker een dashboard naar PDF drukt met de stand Liggend, geeft de PDF een grote lege marge aan de rechterkant weer.
 
-**Workaround**
+**Oplossing**
 
 Bij afdrukken in de modus Staand worden de juiste marges weergegeven.
 
-_Voor het eerst gerapporteerd op 23 oktober 2023._
+_Eerste rapporteerde op 23 oktober, 2023._

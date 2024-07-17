@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Wanneer een gebruiker een kolom Geplande uren toevoegt aan een widget in de nieuwe thuiservaring, worden de geplande uren in minuten weergegeven.
 
-_Voor het eerst gerapporteerd op 1 mei 2024._
+_Eerste rapporteerde op 1 Mei, 2024._

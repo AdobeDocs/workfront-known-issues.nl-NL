@@ -1,6 +1,6 @@
 ---
-title: 'Taken: Uren worden niet opgeslagen wanneer u uren invoert in de taak [!UICONTROL Summary panel]'
-description: "Wanneer een gebruiker uren voor een taak in het Summiere paneel van die taak probeert in te gaan, sparen de uren niet. Dit gebeurt wanneer de gebruiker de cursor in het vierkant verlaat waar hij uren heeft ingevoerd en door de [!UICONTROL Summary panel]. "
+title: 'Taken: uren worden niet opgeslagen wanneer u uren invoert in de taak [!UICONTROL Summary panel]'
+description: "Wanneer een gebruiker uren voor een taak in het Summiere paneel van die taak probeert in te gaan, sparen de uren niet. Dit gebeurt wanneer de gebruiker de cursor in het vierkant verlaat waar hij uren heeft ingevoerd en de [!UICONTROL Summary panel] verschuift.   "
 hidefromtoc: true
 feature: Tasks, Timesheets
 exl-id: edf5ea1f-a75f-4df4-987a-53d2d3563579
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Taken: Uren worden niet opgeslagen bij het invoeren van uren in de taak [!UICONTROL Summary panel].
+# Taken: Uren worden niet opgeslagen wanneer u uren invoert in de taak [!UICONTROL Summary panel] .
 
 <!--Converted to story-->
 
@@ -19,10 +19,10 @@ ht-degree: 0%
 >
 >Het team van het Product evalueert momenteel deze probleemoplossing, die productverbeteringen kan vereisen. De verbeteringen van het product worden meegedeeld in de Mededelingen van het Product en niet met de Updates van het Onderhoud.
 
-Wanneer een gebruiker uren voor een taak in het Summiere paneel van die taak probeert in te gaan, sparen de uren niet. Dit gebeurt wanneer de gebruiker de cursor in het vierkant verlaat waar hij uren heeft ingevoerd en door de [!UICONTROL Summary panel].
+Wanneer een gebruiker uren voor een taak in het Summiere paneel van die taak probeert in te gaan, sparen de uren niet. Dit gebeurt wanneer de gebruiker de cursor in het vierkant verlaat waar hij uren heeft ingevoerd en de [!UICONTROL Summary panel] verschuift.
 
-**Workaround**
+**Oplossing**
 
-Klik buiten het vierkant waar uren zijn ingegaan alvorens te scrollen [!UICONTROL Summary panel].
+Klik buiten het vierkant waar uren zijn ingegaan alvorens [!UICONTROL Summary panel] te scrollen.
 
-_Voor het eerst gerapporteerd op 1 juni 2022._
+_Eerste rapporteerde op 1 Juni, 2022._

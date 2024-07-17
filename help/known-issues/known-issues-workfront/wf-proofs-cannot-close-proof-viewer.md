@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Wanneer een gebruiker een proef in de het proefdrukken kijker bekijkt en probeert om de proef te sluiten door X in de hoger-juiste hoek te klikken, sluit de proef niet.
 
-**Workaround**
+**Oplossing**
 
 Voer een van de volgende handelingen uit:
 
@@ -29,4 +29,4 @@ Voer een van de volgende handelingen uit:
 * Sluit de proefdruk opnieuw.
 * Sluit de proefdruk door het browsertabblad te sluiten.
 
-_Voor het eerst gerapporteerd op 31 mei 2024._
+_Eerste rapporteerde op 31 Mei, 2024._

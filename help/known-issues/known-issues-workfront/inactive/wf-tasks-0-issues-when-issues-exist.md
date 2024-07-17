@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Wanneer een gebruiker een taak bekijkt waar de kwesties aanwezig zijn, toont de linkernavigatie van de taak &quot;(0)&quot;in het gebied van Kwesties, erop wijzend dat er geen kwesties zijn. Als de gebruiker het gebied van Kwesties van de taak bekijkt, zien zij de kwesties.
 
-_Voor het eerst gerapporteerd op 17 oktober 2022._
+_Eerste rapporteerde op 17 oktober, 2022._

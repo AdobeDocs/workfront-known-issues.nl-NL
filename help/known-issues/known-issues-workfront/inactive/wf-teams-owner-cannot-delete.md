@@ -1,15 +1,15 @@
 ---
-title: "Teams: kan eigenaar van team niet weergeven of team verwijderen"
-description: "Deze handelingen zijn niet beschikbaar voor groepsbeheerders."
+title: 'Teams: kan eigenaar van team niet weergeven of team verwijderen'
+description: Deze handelingen zijn niet beschikbaar voor groepsbeheerders.
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 5ca6aa4e5e8ddc127623f0587cb42fc0fc10ebf8
+exl-id: bc8b7759-2cda-4ea0-8ba8-1ca883838ba9
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
 
 ---
-
 
 # Teams: kan teameigenaar niet weergeven of team verwijderen
 
@@ -24,5 +24,4 @@ De volgende handelingen zijn niet beschikbaar voor groepsbeheerders
 
 Dit gebeurt ook als de groepsbeheerder beschikt over alle machtigingen die betrekking hebben op teams en gebruikers.
 
-_Voor het eerst gerapporteerd op 15 maart 2024._
-
+_Eerste rapporteerde op 15 Maart, 2024._

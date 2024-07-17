@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Proefdrukken: Proefdrukken worden weergegeven als &quot;[!UICONTROL Generating proof]&quot; voor te lange tijd
+# Proefdrukken: proefdrukken worden voor te veel tijd weergegeven als &quot;[!UICONTROL Generating proof]&quot;
 
 >[!NOTE]
 >
@@ -19,7 +19,6 @@ ht-degree: 0%
 >
 >* Dit probleem doet zich alleen voor in de Sandbox-omgeving van Voorvertoning.
 
+Wanneer een gebruiker een proef produceert, toont de proef als &quot;[!UICONTROL Generating proof]&quot;. Dit kan enkele uren duren. Als de gebruiker de proef probeert te openen terwijl &quot;[!UICONTROL Generating proof]&quot;nog wordt getoond, kan de gebruiker niet de proef openen. De proef is geproduceerd, maar kan niet worden betreden.
 
-Wanneer een gebruiker een proefdruk maakt, wordt de proefdruk weergegeven als &quot;[!UICONTROL Generating proof].&quot; Dit kan enkele uren duren. Als de gebruiker de proefdruk probeert te openen terwijl &quot;[!UICONTROL Generating proof]&quot; nog steeds wordt weergegeven, kan de gebruiker de proefdruk niet openen. De proef is geproduceerd, maar kan niet worden betreden.
-
-*Voor het eerst gerapporteerd op 10 mei 2022.*
+*Eerste rapporteerde op 10 Mei, 2022.*

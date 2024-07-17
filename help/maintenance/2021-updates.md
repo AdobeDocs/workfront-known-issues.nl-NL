@@ -1,42 +1,42 @@
 ---
 title: Workfront-onderhoudsupdates voor 2021
-description: Historie van 2021 onderhoudsupdates voor [!DNL Adobe Workfront]
+description: Historie van 2021 onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
 feature: Get Started with Workfront
 source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
 workflow-type: tm+mt
-source-wordcount: '8963'
+source-wordcount: '9003'
 ht-degree: 0%
 
 ---
 
-# 2021 [!DNL Workfront] Onderhoudsupdates
+# 2021 [!DNL Workfront] Updates voor onderhoud
 
 De volgende onderhoudsupdates zijn uitgevoerd in 2021:
 
 ## Updates in december 2021
 
-+++**Onderhoudsupdate op 23 december 2021**
++++**Update van het Onderhoud op 23 December, 2021**
 
-**Nieuwe taken standaard ingesteld op onjuiste taakbeperking**
+**Nieuwe taken gebrek aan onjuiste taakbeperking**
 
 _Taken_
 
-Wanneer een gebruiker een nieuwe taak maakt met &quot;[!UICONTROL New Task]&quot; en de [!UICONTROL New Task Default Start] Datumoptie is ingesteld op &quot;[!UICONTROL Today],&quot; wordt de taakbeperking van de gemaakte taak ingesteld op &quot;[!UICONTROL As soon as possible]in plaats van &quot;[!UICONTROL Start no earlier than].&quot; Dit kan ook voorkomen wanneer het gebruiken van projectmalplaatjes.
+Wanneer een gebruiker tot een nieuwe taak gebruikend &quot;[!UICONTROL New Task]&quot;knoop leidt, en de [!UICONTROL New Task Default Start] optie van de Datum wordt geplaatst aan &quot; [!UICONTROL Today],&quot;wordt de taakbeperking van de gecreeerde taak geplaatst aan &quot; [!UICONTROL As soon as possible]&quot;eerder dan &quot;[!UICONTROL Start no earlier than].&quot; Dit kan ook voorkomen wanneer het gebruiken van projectmalplaatjes.
 
-**Openingsschema in [!UICONTROL Groups] gebied leidt tot lege pagina**
+**Openend programma in [!UICONTROL Groups] gebied leidt tot lege pagina**
 
-_Instellen_
+_Opstelling_
 
-Wanneer een gebruiker groepen weergeeft in het dialoogvenster [!UICONTROL Setup] en pogingen om een schema te openen, te bewerken of te kopiëren. Het schema wordt niet geopend en de gebruiker ziet een lege pagina.
+Wanneer een gebruiker groepen in het [!UICONTROL Setup] -gebied weergeeft en een schema probeert te openen, bewerken of kopiëren, wordt het schema niet geopend en ziet de gebruiker een lege pagina.
 
-**Wijzigingen worden niet weergegeven wanneer de linkernavigatie opnieuw wordt geordend**
+**de Veranderingen tonen niet wanneer het opnieuw ordenen van linkernavigatie**
 
 _Navigatie_
 
 Wanneer een gebruiker het navigatievenster aan de linkerkant probeert opnieuw te ordenen door een item te slepen, verschijnt het item weer op de vorige plaats wanneer de gebruiker het neerzet. Als de gebruiker de pagina vernieuwt, wordt in het linkerdeelvenster de nieuwe volgorde weergegeven.
 
-**Koppelingen voor het verzenden van een aangevraagd document leiden tot een lege pagina.**
+**Verbinding om een gevraagd document voor te leggen leidt tot lege pagina.**
 
 _Documenten_
 
@@ -46,51 +46,51 @@ Wanneer een gebruiker een verzoek ontvangt om een document te verzenden, en op d
 
 _[!UICONTROL Workload Balancer]_
 
-Wanneer een gebruiker de [!UICONTROL Workload Balancer] en heeft &quot;[!UICONTROL Show projected dates]&quot; instelling ingeschakeld, alle datums in de toekomst worden 0 toegewezen uren weergegeven.
+Wanneer een gebruiker [!UICONTROL Workload Balancer] bekijkt en &quot;[!UICONTROL Show projected dates]&quot;plaatsen toegelaten heeft, om het even welke data in de toekomst tonen 0 toegewezen uren.
 
-**Proefdrukken verdwijnen soms uit mappen**
+**Proefdrukken verdwijnen periodiek uit omslagen**
 
 _[!DNL Workfront Proof]_
 
-Wanneer een gebruiker waarin is aangemeld [!DNL Workfront Proof] Als een map wordt weergegeven, is de map leeg. Als de gebruiker later terugcheckt, zijn de proefdrukken zichtbaar.
+Wanneer een gebruiker die is aangemeld bij [!DNL Workfront Proof] een map weergeeft, wordt de map leeg weergegeven. Als de gebruiker later terugcheckt, zijn de proefdrukken zichtbaar.
 
 +++
 
-+++**Onderhoudsupdate op 16 december 2021**
++++**Update van het Onderhoud op 16 December, 2021**
 
-**Als u op de aankondiging in de lijst met meldingen klikt, wordt een lege pagina weergegeven**
+**klikkend aankondiging in berichtenlijst leidt tot lege pagina**
 
 _Meldingen_
 
-Wanneer een gebruiker zijn lijst met meldingen opent vanuit de [!UICONTROL Notifications] , klikt u op een aankondiging, wordt een lege pagina weergegeven en wordt de aankondiging niet weergegeven.
+Wanneer een gebruiker zijn lijst met meldingen opent via het pictogram [!UICONTROL Notifications] en vervolgens op een aankondiging klikt, wordt naar een lege pagina gegaan en wordt de aankondiging niet weergegeven.
 
-**Het deelvenster Samenvatting toont &quot;[!UICONTROL No selection]&quot; wanneer de taak is geselecteerd**
+**Samenvattingspaneel toont &quot;[!UICONTROL No selection]&quot;wanneer de taak wordt geselecteerd**
 
 _Taken_
 
-Wanneer een gebruiker een documentoverzicht opent in het dialoogvenster [!UICONTROL Documents] in een project, gaat dan naar de taaklijst, selecteert een taak, en probeert om het taakoverzicht te openen, toont het taakoverzicht niet, en de gebruiker ziet het volgende bericht:
+Wanneer een gebruiker een documentoverzicht in het [!UICONTROL Documents] gebied van een project opent, dan naar de taaklijst gaat, een taak selecteert, en probeert om het taakoverzicht te openen, toont het taakoverzicht niet, en de gebruiker ziet het volgende bericht:
 
 [!UICONTROL No selection. Select a document in the list to view details.]
 
 Het bericht vermeldt documenten, ook al staat de gebruiker in de takenlijst.
 
-**[!UICONTROL Unassigned Work]niet laden**
+**[!UICONTROL Unassigned Work]wordt niet geladen**
 
 _[!UICONTROL Workload Balancer]_
 
-Wanneer een gebruiker in de [!UICONTROL Workload Balancer] maakt een filter met de [!UICONTROL Assignment:Role ID] in het veld [!UICONTROL Unassigned Work] wordt niet geladen.
+Wanneer een gebruiker in de [!UICONTROL Workload Balancer] een filter maakt met het veld [!UICONTROL Assignment:Role ID] , wordt het gebied [!UICONTROL Unassigned Work] niet geladen.
 
-**Sjabloon koppelen met &quot;[!UICONTROL Customize and attach]Met de optie &quot; worden aangepaste veldwaarden gewist**
+**Bevatterend malplaatje gebruikend &quot;[!UICONTROL Customize and attach]&quot;optie ontruimt de waarden van het douanegebied**
 
 _Projecten_
 
-Als een gebruiker een malplaatje aan een project vastmaakt gebruikend &quot;[!UICONTROL Customize and attach]&quot;, en het project heeft reeds een douaneformulier in bijlage aan het, dragen de douanegebiedswaarden niet over en moeten manueel zijn re-ingegaan. Dit gebeurt ook als de sjabloon hetzelfde aangepaste formulier bevat.
+Als een gebruiker een malplaatje aan een project vastmaakt gebruikend &quot;[!UICONTROL Customize and attach]&quot;optie, en het project heeft een douaneformulier in bijlage aan het reeds, dragen de waarden van de douanegebieden niet over en moeten manueel re-ingegaan zijn. Dit gebeurt ook als de sjabloon hetzelfde aangepaste formulier bevat.
 
 +++
 
-+++**Onderhoudsupdate (Hot Fix) op 10 december 2021**
++++**Update van het Onderhoud (Hete Fix) op 10 December, 2021**
 
-**[!UICONTROL Whoops]fout bij het koppelen van een sjabloon aan een bestaand project**
+**[!UICONTROL Whoops]fout wanneer het vastmaken van malplaatje aan bestaand project**
 
 _Projecten_
 
@@ -100,10 +100,10 @@ Wanneer een gebruiker probeert om een malplaatje aan een bestaand project vast t
 
 +++
 
-+++**Onderhoudsupdate op 9 december 2021**
++++**Update van het Onderhoud op 9 December, 2021**
 
 
-**Samengevouwen navigatievenster links wordt uitgebreid bij het laden van de pagina**
+**Samengevouwen linkernavigatievenster breidt zich op paginading** uit
 
 _Navigatie_
 
@@ -113,13 +113,13 @@ Wanneer een gebruiker de linkernavigatie heeft ingesteld op samenvouwen en vervo
 
 _[!UICONTROL Workload Balancer]_
 
-Wanneer een gebruiker de [!UICONTROL Workload Balancer] en heeft &quot;[!UICONTROL Show projected dates]&quot; instelling ingeschakeld, alle datums in de toekomst worden 0 toegewezen uren weergegeven.
+Wanneer een gebruiker [!UICONTROL Workload Balancer] bekijkt en &quot;[!UICONTROL Show projected dates]&quot;plaatsen toegelaten heeft, om het even welke data in de toekomst tonen 0 toegewezen uren.
 
 +++
 
-+++**Onderhoudsupdate op 8 december 2021**
++++**Update van het Onderhoud op 8 December, 2021**
 
-**Goedkeuring wordt opnieuw ingesteld wanneer een update wordt uitgevoerd**
+**Erkenning stelt terug wanneer een update wordt gemaakt**
 
 _Goedkeuringen_
 
@@ -134,31 +134,31 @@ Wanneer een gebruiker een toewijzing in een rapport inline probeert te bewerken,
 
 +++
 
-+++**Onderhoudsupdate op 2 december 2021**
++++**Update van het Onderhoud op 2 December, 2021**
 
-**Extra schuine streep toegevoegd bij handmatig typen van URL**
+**Extra schuine streep toegevoegd toen manueel het typen URL**
 
 _Verzoeken_
 
 Wanneer een gebruiker een verzoek invult en handmatig een URL begint in te voeren, wordt op een bepaald punt aan het begin van de URL een extra schuine streep toegevoegd. De gebruiker kan de schuine streep niet verwijderen.
 
-**Aangepaste secties kunnen niet worden verwijderd uit het linkernavigatievenster**
+**de secties van de Douane kunnen niet uit linkernavigatievenster worden verwijderd**
 
 _Navigatie_
 
 Wanneer een gebruiker een aangepaste sectie uit het linkernavigatievenster probeert te verwijderen door op de X naast de sectie te klikken, wordt de sectie niet verwijderd.
 
-**Niet toegewezen werk wordt niet geladen**
+**Niet toegewezen Werk laadt niet**
 
 _[!UICONTROL Workload Balancer]_
 
-Wanneer een gebruiker in de [!UICONTROL Workload Balancer] maakt een filter met de [!UICONTROL Assignment:Role ID] in het veld [!UICONTROL Unassigned Work] wordt niet geladen.
+Wanneer een gebruiker in de [!UICONTROL Workload Balancer] een filter maakt met het veld [!UICONTROL Assignment:Role ID] , wordt het gebied [!UICONTROL Unassigned Work] niet geladen.
 
-**Pagina&#39;s die in bepaalde browsers niet worden geladen**
+**Pagina&#39;s laden niet in bepaalde browsers**
 
 _[!DNL Workfront]_
 
-Wanneer een gebruiker binnen werkt [!DNL Workfront], worden pagina&#39;s niet geladen en wordt het volgende foutbericht weergegeven:
+Wanneer een gebruiker in [!DNL Workfront] werkt, worden pagina&#39;s niet geladen en krijgt de gebruiker de volgende foutmelding te zien:
 
 &quot;[!UICONTROL An error has occurred and we are working to resolve the issue. To continue with your work, try refreshing this browser page.]&quot;
 
@@ -167,52 +167,52 @@ Dit is gemeld in
 * [!DNL Firefox]
 * [!DNL Microsoft Edge]
 
-Deze fout treedt willekeurig op en kan van invloed zijn op elk gebied van [!DNL Workfront].
+Deze fout treedt willekeurig op en kan van invloed zijn op elk gebied van [!DNL Workfront] .
 
 +++
 
 
 ## Updates in november 2021
 
-+++**Onderhoudsupdate op 18 november 2021**
++++**Update van het Onderhoud op 18 november, 2021**
 
-**[!DNL Workfront]for [!DNL Jira] &quot;[!UICONTROL Invalid clientID or clientSecret]&quot; fout bij aanmelden**
+**[!DNL Workfront]for [!DNL Jira] &quot;[!UICONTROL Invalid clientID or clientSecret]&quot; error on login**
 
-_Workfront-integratie_
+_de integraties van Workfront_
 
-Gebruikers zijn afgemeld bij [!DNL Jira] voor Workfront-integratie. Wanneer een gebruiker zich aanmeldt bij de [!DNL Workfront for Jira] integratie, kunnen zij niet login en zij zien de volgende fout:
+Gebruikers zijn afgemeld bij [!DNL Jira] voor Workfront-integratie. Wanneer een gebruiker zich probeert aan te melden bij de [!DNL Workfront for Jira] -integratie, kan hij of zij zich niet aanmelden en wordt de volgende fout weergegeven:
 
 &quot;[!UICONTROL Invalid clientID or clientSecret]&quot;
 
-**Het aangepaste formulier dat is gekoppeld aan de aanvraag, wordt niet bijgewerkt wanneer een nieuw onderwerp in de wachtrij wordt geselecteerd**
+**De vorm van de Douane in bijlage aan verzoek werkt niet bij wanneer het nieuwe Onderwerp van de Rij wordt geselecteerd**
 
 _Verzoeken_
 
 Wanneer een gebruiker een verzoek creeert en een Onderwerp van de Rij selecteert dat automatisch een douaneformulier aan het verzoek vastmaakt, dan selecteert een verschillend Onderwerp van de Rij, blijft de douaneformulier van het eerste Onderwerp van de Rij in bijlage aan het verzoek.
 
-**Pictogrammen worden onjuist weergegeven**
+**vertoning van Pictogrammen verkeerd**
 
 _[!DNL Workfront]_
 
-Pictogramafbeeldingen worden onjuist weergegeven. Dit is in veel gebieden gemeld [!UICONTROL Workfront].
+Pictogramafbeeldingen worden onjuist weergegeven. Dit is in vele gebieden over [!UICONTROL Workfront] gemeld.
 
-**Taken worden niet naar PDF geëxporteerd als de optie Andere formaten is ingeschakeld.**
+**de Taken voeren niet naar PDF uit wanneer de &quot;Andere Grootte&quot;optie wordt geselecteerd.**
 
 _Taken_
 
-Als een gebruiker een takenlijst naar PDF probeert te exporteren en &quot;[!UICONTROL Other Sizes]&quot;, kunnen ze een grootte selecteren en op [!UICONTROL Export], maar de lijst wordt niet geëxporteerd. Er is geen foutbericht en er zijn geen andere aanwijzingen dat het exporteren is mislukt.
+Als een gebruiker probeert om een taaklijst naar PDF uit te voeren, en &quot;[!UICONTROL Other Sizes]&quot;optie selecteert, kunnen zij een grootte selecteren en [!UICONTROL Export] klikken, maar de lijst voert niet uit. Er is geen foutbericht en er zijn geen andere aanwijzingen dat het exporteren is mislukt.
 
-**Afbeeldingsindicator wordt niet weergegeven in e-mailmeldingen**
+**de indicator van het Beeld toont niet in e-mailberichten**
 
 _Meldingen_
 
 Wanneer een gebruiker een afbeelding toevoegt aan een update en een e-mailbericht wordt verzonden naar de ontvanger van de update, bevat de e-mail geen indicator dat de update een afbeelding bevat.
 
-**Pagina&#39;s die in bepaalde browsers niet worden geladen**
+**Pagina&#39;s laden niet in bepaalde browsers**
 
 _[!DNL Workfront]_
 
-Wanneer een gebruiker binnen werkt [!DNL Workfront], worden pagina&#39;s niet geladen en wordt het volgende foutbericht weergegeven:
+Wanneer een gebruiker in [!DNL Workfront] werkt, worden pagina&#39;s niet geladen en krijgt de gebruiker de volgende foutmelding te zien:
 
 &quot;[!UICONTROL An error has occurred and we are working to resolve the issue. To continue with your work, try refreshing this browser page.]&quot;
 
@@ -225,32 +225,32 @@ Deze fout treedt willekeurig op en kan van invloed zijn op elk gebied van Workfr
 
 +++
 
-+++**Onderhoudsupdate op 11 november 2021**
++++**Update van het Onderhoud op 11 November, 2021**
 
-**Probleem met documentintegratie, lege pagina bij uploaden van document pop-up[!DNL Google Drive*]*
+**Uitgave met documentintegratie, lege pagina op document uploadt popup van[!DNL Google Drive*]*
 
 _Documenten_
 
-Wanneer een gebruiker een nieuw document probeert toe te voegen aan [!DNL Workfront] van [!DNL Google Drive] door [!UICONTROL Add New] >[!UICONTROL From [!DNL Google Drive]], blijft het pop-upscherm voor uploaden leeg.
+Wanneer een gebruiker een nieuw document aan [!DNL Workfront] van [!DNL Google Drive] probeert toe te voegen door [!UICONTROL Add New] te gebruiken > [!UICONTROL From [!DNL Google Drive]], blijft het uploadt popup scherm leeg.
 
-**Kan niet meer dan één filter gebruiken in Workload Balancer**
+**kan niet meer dan één filter in de Balancer van de Werkbelasting gebruiken**
 
 _[!UICONTROL Workload Balancer]_
 
-Wanneer een gebruiker meer dan één filter probeert te gebruiken in het dialoogvenster [!UICONTROL Workload Balancer]Zij zien de volgende punten:
+Wanneer een gebruiker probeert meer dan één filter in [!UICONTROL Workload Balancer] te gebruiken, zien zij de volgende kwesties:
 
 * Wanneer de gebruiker twee filters selecteert, wordt alleen het onderste filter toegepast.
 * Als de gebruiker meer dan twee filters selecteert, worden er geen resultaten weergegeven.
 
-**&quot;[!UICONTROL Project Folders]&quot; documentkoptekst ontbreekt in gebied met projectdocumenten**
+**&quot;[!UICONTROL Project Folders]&quot;documentkopbal mist van gebied van projectdocumenten**
 
 _Projecten_
 
-Wanneer een gebruiker in een project is en de documenten van het project bekijkt, de rubriek &quot;[!UICONTROL Project Folders]&quot; ontbreekt in de linkernavigatie. De vervolgkeuzepijl is er nog steeds en de gebruiker kan een map selecteren.
+Wanneer een gebruiker in een project is en de documenten van het project bekijkt, mist de rubriek &quot;[!UICONTROL Project Folders]&quot;van de linkernavigatie. De vervolgkeuzepijl is er nog steeds en de gebruiker kan een map selecteren.
 
 **Kolommen op Kanban board zijn te breed en kunnen niet worden aangepast**
 
-_Agile_
+_Gelijk_
 
 Wanneer een gebruiker een Kanban-bord met meerdere kolommen weergeeft, zijn de kolommen te breed en moet de gebruiker schuiven om de kaarten weer te geven of naar de meest rechtse kolommen te verplaatsen. De kolombreedten kunnen niet worden aangepast, zodat de gebruiker de kolommen niet kleiner kan maken, zodat ze allemaal tegelijk op het scherm zichtbaar zijn.
 
@@ -258,59 +258,59 @@ Wanneer een gebruiker een Kanban-bord met meerdere kolommen weergeeft, zijn de k
 
 _Teams_
 
-Het maken van teams is nu intuïtiever met nieuwe visuele aanwijzingen. Wanneer u [!UICONTROL Switch Teams] pictogram op een teampagina, [!UICONTROL Create New Team] koppeling heeft een pictogram dat aangeeft dat &quot;[!UICONTROL new],&quot; en de koppeling wordt gescheiden van de rest van de lijst, zodat deze er anders uitziet als een teamnaam. Deze interface is het zelfde voor flexibele en niet-flexibele teams.
+Het maken van teams is nu intuïtiever met nieuwe visuele aanwijzingen. Wanneer u het [!UICONTROL Switch Teams] pictogram op om het even welke teampagina selecteert, heeft de [!UICONTROL Create New Team] verbinding een pictogram om &quot;[!UICONTROL new] te wijzen,&quot;en de verbinding wordt gescheiden van de rest van de lijst zodat ziet het niet als een teamnaam. Deze interface is het zelfde voor flexibele en niet-flexibele teams.
 
 +++
 
-+++**Onderhoudsupdate op 4 november 2021**
++++**Update van het Onderhoud op 4 November, 2021**
 
-**Nieuwe taken standaard ingesteld op onjuiste taakbeperking**
+**Nieuwe taken gebrek aan onjuiste taakbeperking**
 
 _Taken_
 
-Wanneer een gebruiker een nieuwe taak maakt met &quot;[!UICONTROL New Task]&quot; en de optie Nieuwe standaardbegindatum taak is ingesteld op &quot;[!UICONTROL Today],&quot; wordt de taakbeperking van de gemaakte taak ingesteld op &quot;[!UICONTROL As soon as possible]in plaats van &quot;[!UICONTROL Start no earlier than].&quot;
+Wanneer een gebruiker een nieuwe taak gebruikend &quot;[!UICONTROL New Task]&quot;knoop creeert, en de Nieuwe optie van de Datum van het Begin van het Standaard van de Taak wordt geplaatst aan &quot; [!UICONTROL Today],&quot;de taakbeperking van de gecreeerde taak wordt geplaatst aan &quot; [!UICONTROL As soon as possible]&quot;eerder dan &quot; [!UICONTROL Start no earlier than].&quot;
 
-**Velden worden niet weergegeven op Google-artikelkaarten**
+**de Gebieden tonen niet op de kaartjes van het het verhaaltje van de Gateway**
 
-_Agile_
+_Gelijk_
 
-Wanneer een gebruiker een Google-storyboard bekijkt, worden alleen de kaarten weergegeven [!UICONTROL Description] en [!UICONTROL Status] velden. Andere velden, inclusief aangepaste velden, worden niet weergegeven.
+Wanneer een gebruiker een Google-storyboard bekijkt, geven de kaarten alleen de velden [!UICONTROL Description] en [!UICONTROL Status] weer. Andere velden, inclusief aangepaste velden, worden niet weergegeven.
 
-**Kaarten keren terug naar de oorspronkelijke kolom voordat ze naar de nieuwe kolom gaan**
+**Kaarten keren op originele kolom terug alvorens aan nieuwe kolom** te bewegen
 
-_Agile_
+_Gelijk_
 
 Wanneer een gebruiker een kaart naar een nieuwe kolom op het storyboard sleept, kan de gebruiker de kaart zien die wordt gesleept. Wanneer de gebruiker de kaart echter in de nieuwe kolom neerzet, wordt de kaart kort in de oorspronkelijke kolom weergegeven voordat deze in de nieuwe kolom wordt weergegeven.
 
-**Waarden niet beschikbaar voor aangepast veld in filter**
+**Waarden niet beschikbaar voor douanegebied in filter**
 
 _[!UICONTROL Workload Balancer]_
 
 Wanneer een gebruiker een filter probeert te maken met een aangepast veld, wordt de waarde voor dat aangepaste veld niet weergegeven en kan deze niet in het filter worden ingevoerd.
 
-**Pagina&#39;s die niet worden geladen in [!DNL Firefox] browser**
+**Pagina&#39;s laden niet in [!DNL Firefox] browser**
 
 _[!DNL Workfront]_
 
-Wanneer een gebruiker binnen werkt [!DNL Workfront] met een [!DNL Firefox] pagina&#39;s worden niet geladen in de browser en de gebruiker krijgt het volgende foutbericht te zien:
+Wanneer een gebruiker in [!DNL Workfront] met een [!DNL Firefox] -browser werkt, worden pagina&#39;s niet geladen en ziet de gebruiker het volgende foutbericht:
 
 &quot;[!UICONTROL An error has occurred and we are working to resolve the issue. To continue with your work, try refreshing this browser page.]&quot;
 
-Deze fout treedt willekeurig op en kan van invloed zijn op elk gebied van [!DNL Workfront].
+Deze fout treedt willekeurig op en kan van invloed zijn op elk gebied van [!DNL Workfront] .
 
-**Datumgerelateerde fout bij het maken van een project op basis van een sjabloon.**
+**op datum betrekking hebbende fout wanneer het creëren van project van malplaatje.**
 
-_Sjablonen_
+_Malplaatjes_
 
-Als een gebruiker een project van een malplaatje creeert en de planningswijze plaatst aan [!UICONTROL Start Date], selecteert dan een taakbeperking, wanneer de gebruiker probeert om het project tot stand te brengen, wordt het project niet gecreeerd en de gebruiker ziet een foutenmelding die op de taakbeperking wordt gebaseerd.
+Als een gebruiker tot een project van een malplaatje leidt, en de planningswijze aan [!UICONTROL Start Date] plaatst, dan selecteert een taakbeperking, wanneer de gebruiker probeert om het project tot stand te brengen, wordt het project niet gecreeerd en de gebruiker ziet een foutenmelding die op de taakbeperking wordt gebaseerd.
 
-**[!UICONTROL Export Gantt Chart]dialoogvenster reageert niet**
+**[!UICONTROL Export Gantt Chart]reageert niet**
 
-_Gantt Chart_
+_Gantt Grafiek_
 
-Als een gebruiker in de nieuwe [!DNL Workfront] ervaring probeert de [!UICONTROL Gantt Chart] en selecteert u &quot;[!UICONTROL What I See]&quot;, de [!UICONTROL Gantt Chart] wordt niet geëxporteerd en reageert het dialoogvenster niet. De gebruiker kan het dialoogvenster niet sluiten of verlaten.
+Als een gebruiker in de nieuwe [!DNL Workfront] ervaring probeert om [!UICONTROL Gantt Chart] uit te voeren en &quot;[!UICONTROL What I See]&quot;optie selecteert, [!UICONTROL Gantt Chart] wordt niet uitgevoerd en de dialoogdoos is niet reactievoerend. De gebruiker kan het dialoogvenster niet sluiten of verlaten.
 
-**Pictogrammen worden onjuist weergegeven**
+**vertoning van Pictogrammen verkeerd**
 
 _[!DNL Workfront]_
 
@@ -320,44 +320,44 @@ Pictogramafbeeldingen worden onjuist weergegeven. Dit zijn gerapporteerde situat
 * Pictogrammen links en rechts in kalenderrapporten
 * Pictogrammen sorteren op rapportkolommen
 
-**Selectievakjes toevoegen aan aanvragen in het dialoogvenster [!UICONTROL Submitted] van de [!UICONTROL Requests] gebied**
+**voegt checkboxes aan Verzoeken in de [!UICONTROL Submitted] sectie van het [!UICONTROL Requests] gebied** toe
 
 _Verzoeken_
 
-We hebben selectievakjes toegevoegd links van de aanvraagnamen in het dialoogvenster [!UICONTROL Submitted list] van de [!UICONTROL Requests] gebied. Hierdoor is het eenvoudiger om een aanvraag te selecteren en aanvullende informatie weer te geven.
+Er zijn selectievakjes toegevoegd links van de aanvraagnamen in [!UICONTROL Submitted list] van het [!UICONTROL Requests] -gebied. Zo kunt u een aanvraag gemakkelijker selecteren en aanvullende informatie bekijken.
 
-**Aangepaste kwarttekens worden nu ondersteund in de werklastverdelingsfilters**
-
-_[!UICONTROL Workload Balancer]_
-
-De filters in de [!UICONTROL Workload Balancer] nu ondersteuning voor aangepaste kwarten.
-
-**Bijgewerkte filteroperator voor het veld Duur in de filters voor werklastverdeling**
+**de Kwarten van de Douane worden nu gesteund in de filters van de Balancer van de Werkbelasting**
 
 _[!UICONTROL Workload Balancer]_
 
-We hebben de filteroperatoren bijgewerkt tijdens het filteren van de [!UICONTROL Workload Balancer] gebieden met [!UICONTROL Duration].
+De filters in [!UICONTROL Workload Balancer] ondersteunen nu aangepaste kwartalen.
+
+**Bijgewerkte filterexploitant voor het gebied van de Duur op de Filters van de Balancer van de Werkbelasting**
+
+_[!UICONTROL Workload Balancer]_
+
+We hebben de filteroperatoren bijgewerkt wanneer we de [!UICONTROL Workload Balancer] -gebieden filteren op [!UICONTROL Duration] .
 
 +++
 
 
 ## Updates in oktober 2021
 
-+++**Onderhoudsupdate op 28 oktober 2021**
++++**Update van het Onderhoud op 28 oktober, 2021**
 
-**[!UICONTROL Home]en [!UICONTROL My Work] lege pagina weergeven**
+**[!UICONTROL Home]en [!UICONTROL My Work] blank page weergeven**
 
 _[!UICONTROL Home]/[!UICONTROL My Work]_
 
-Wanneer een gebruiker naar [!UICONTROL Home] Voor Mijn werk wordt de pagina als leeg weergegeven.
+Wanneer een gebruiker naar [!UICONTROL Home] of Mijn werk navigeert, wordt de pagina als leeg weergegeven.
 
-**Kan niet weergeven of bewerken [!UICONTROL Topic Group] details**
+**kan niet [!UICONTROL Topic Group] details** bekijken of uitgeven
 
 _Verzoeken_
 
-Wanneer een gebruiker probeert de details van een Groep van het Onderwerp te bekijken of uit te geven, toont de pagina die opent &quot;[!UICONTROL Topic Group Detail]&quot; in de koptekst, maar anders leeg
+Wanneer een gebruiker probeert om de details van een Groep van het Onderwerp te bekijken of uit te geven, toont de pagina die opent &quot;[!UICONTROL Topic Group Detail]&quot;in de kopbal maar anders leeg is
 
-**Lege vereiste keuzerondjes worden automatisch ingevuld**
+**Lege vereiste radioknopen worden automatisch ingevuld**
 
 _Verzoeken_
 
@@ -365,33 +365,33 @@ Wanneer een gebruiker een aanvraag met een vereist veld voor een keuzerondje ind
 
 +++
 
-+++**Onderhoudsupdate op 21 oktober 2021**
++++**Update van het Onderhoud op 21 Oktober, 2021**
 
 **Kan geen filter toevoegen in[!UICONTROL Workload Balancer]**
 
 _[!UICONTROL Workload Balancer]_
 
-Wanneer een gebruiker in de [!UICONTROL Workload Balancer] probeert een filter toe te voegen, de [!UICONTROL Add filter] wordt geopend, maar de inhoud van het deelvenster wordt niet geladen en de gebruiker kan het filter niet toevoegen.
+Wanneer een gebruiker in [!UICONTROL Workload Balancer] een filter probeert toe te voegen, wordt het deelvenster [!UICONTROL Add filter] geopend, maar wordt de inhoud van het deelvenster niet geladen en kan de gebruiker het filter niet toevoegen.
 
-**Niet-transparante schermpagina&#39;s weergeven**
+**Gegraveerde Bord van het Trommel toont geen verhalen**
 
-_Agile_
+_Gelijk_
 
 Wanneer een gebruiker probeert om het gebied van de Trommel in de herhaling van een team te bekijken, toont het manuscriptbord leeg.
 
-**Scrum story board is blank wanneer filters worden gebruikt**
+**het verhaalbord van het Trommel is leeg wanneer het gebruiken van filters**
 
-_Agile_
+_Gelijk_
 
-Wanneer een gebruiker een sprite-artikelbord probeert weer te geven met een filter dat de waarde &quot;[!UICONTROL All Team]&quot;, wordt een leeg scherm weergegeven. De gebruiker kan niet terugschakelen naar &quot;[!UICONTROL All Team]&quot;.
+Wanneer een gebruiker probeert om een het verhaalbord van het Trommel te bekijken gebruikend om het even welk filter maar &quot;[!UICONTROL All Team]&quot;filter, een leeg scherm toont. De gebruiker kan niet terug naar &quot;[!UICONTROL All Team]&quot;filter schakelen.
 
-**Lijsten zijn alleen zichtbaar op een klein gedeelte van het scherm**
+**de Lijsten zijn zichtbaar slechts op een klein gebied van het scherm**
 
 _Lijsten_
 
-Wanneer een gebruiker een lijst probeert te bekijken terwijl het gebruiken van [!DNL Safari] browser op een [!DNL Mac] met de [!DNL Big Sur OS]wordt de lijst alleen weergegeven op een klein gedeelte van het scherm. De gebruiker kan door de lijst schuiven, maar het gebied kan zo klein zijn dat de lijst moeilijk of onleesbaar is.
+Wanneer een gebruiker een lijst probeert weer te geven terwijl een [!DNL Safari] browser op een [!DNL Mac] wordt gebruikt [!DNL Big Sur OS] , wordt de lijst slechts in een klein gedeelte van het scherm weergegeven. De gebruiker kan door de lijst schuiven, maar het gebied kan zo klein zijn dat de lijst moeilijk of onleesbaar is.
 
-**Lege vereiste keuzerondjes worden automatisch ingevuld**
+**Lege vereiste radioknopen worden automatisch ingevuld**
 
 _Verzoeken_
 
@@ -399,100 +399,100 @@ Wanneer een gebruiker een aanvraag met een vereist veld voor een keuzerondje ind
 
 +++
 
-+++**Onderhoudsupdate (Hot Fix) op 21 oktober 2021**
++++**Update van het Onderhoud (Hete Fix) op 21 Oktober, 2021**
 
-**[!UICONTROL Home]en [!UICONTROL My Work] lege pagina weergeven**
+**[!UICONTROL Home]en [!UICONTROL My Work] blank page weergeven**
 
 _[!UICONTROL Home]/[!UICONTROL My Work]_
 
-Wanneer een gebruiker naar [!UICONTROL Home] of [!UICONTROL My Work], wordt de pagina als leeg weergegeven.
+Wanneer een gebruiker naar [!UICONTROL Home] of [!UICONTROL My Work] navigeert, wordt de pagina als leeg weergegeven.
 
 +++
 
-+++**Onderhoudsupdate op 20 oktober 2021**
++++**Update van het Onderhoud op 20 oktober, 2021**
 
-**[!UICONTROL Workload Balancer]instellen als de standaardplanningsoptie**
+**[!UICONTROL Workload Balancer]plaatsen als standaard het plannen optie**
 
 _[!UICONTROL Workload Balancer]_
 
-Als een gebruiker die de [!UICONTROL Scheduler] ingesteld als de standaardwaarde, wordt deze gebruikt. [!UICONTROL Workload Balancer] is ingesteld als standaard.
+Als een gebruiker die [!UICONTROL Scheduler] als standaardwaarde heeft ingesteld, deze gaat gebruiken, ziet hij of zij dat [!UICONTROL Workload Balancer] als standaardwaarde is ingesteld.
 
 +++
 
-+++**Onderhoudsupdate (Hot Fix) op 19 oktober 2021**
++++**Update van het Onderhoud (Hete Fix) op 19 Oktober, 2021**
 
-**Kan geen aanvraag toewijzen tijdens het maken van de aanvraag**
+**Onbekwaam om een verzoek toe te wijzen wanneer het creëren van het**
 
 _Verzoeken_
 
-Wanneer een gebruiker in de nieuwe [!DNL Workfront] De ervaring leidt tot een verzoek en probeert om een gebruiker toe te wijzen door hun naam in te typen in [!UICONTROL Assignments] in het veld wordt de vervolgkeuzelijst niet weergegeven en kan de gebruiker de naam van de toegewezen persoon niet selecteren.
+Wanneer een gebruiker in de nieuwe [!DNL Workfront] ervaring een verzoek creeert en probeert om een gebruiker toe te wijzen door hun naam in het [!UICONTROL Assignments] gebied te typen, toont het gebied niet de drop-down lijst, en de gebruiker kan niet de naam van de ontvanger selecteren.
 
-**Scrum story board is blank wanneer filters worden gebruikt**
+**het verhaalbord van het Trommel is leeg wanneer het gebruiken van filters**
 
-_Agile_
+_Gelijk_
 
-Wanneer een gebruiker een sprite-artikelbord probeert weer te geven met een filter dat de waarde &quot;[!UICONTROL All Team]&quot;, wordt een leeg scherm weergegeven. De gebruiker kan niet terugschakelen naar &quot;[!UICONTROL All Team]&quot;.
+Wanneer een gebruiker probeert om een het verhaalbord van het Trommel te bekijken gebruikend om het even welk filter maar &quot;[!UICONTROL All Team]&quot;filter, een leeg scherm toont. De gebruiker kan niet terug naar &quot;[!UICONTROL All Team]&quot;filter schakelen.
 
 +++
 
-+++**Onderhoudsupdate op 14 oktober 2021**
++++**Update van het Onderhoud op 14 oktober, 2021**
 
-**Sjablonen die voor het hele systeem worden gedeeld, zijn niet zichtbaar**
+**Malplaatjes die worden gedeeld systeem-breed zijn niet zichtbaar**
 
-_Sjablonen_
+_Malplaatjes_
 
 Wanneer een gebruiker een project creeert en probeert om een malplaatje te gebruiken dat systeem-breed is gedeeld, kan de gebruiker niet het malplaatje in de lijst van beschikbare malplaatjes zien, en kan niet het malplaatje gebruiken.
 
-**Fout bij het maken van projecten op basis van sjablonen**
+**Fout wanneer het creëren van projecten van malplaatjes**
 
-_Sjablonen_
+_Malplaatjes_
 
-Wanneer een gebruiker een project probeert te creëren van een malplaatje dat een douaneformulier met een sectie omvat die slechts voor beheerders zichtbaar is, kan de gebruiker niet het project tot stand brengen en het volgende bericht toont:
+Wanneer een gebruiker probeert om een project van een malplaatje tot stand te brengen dat een douaneformulier met een sectie omvat die slechts voor beheerders zichtbaar is, kan de gebruiker niet het project tot stand brengen en het volgende bericht toont:
 
 &quot;[!UICONTROL Category with primary key value(s) "xxxxxxxxxxxxxxxx" not found]&quot;
 
-**Bijgewerkte koppelingen voor het kopiëren en verplaatsen van taken**
+**Bijgewerkte verbindingen voor het kopiëren en het bewegen van taken**
 
 _Taken_
 
-De koppelingen voor het kopiëren en verplaatsen van taken zijn bijgewerkt naar &quot;[!UICONTROL Copy to]&quot; en &quot;[!UICONTROL Move to]&quot; zowel op de taakpagina als in een takenlijst.
+De verbindingen voor het kopiëren en het bewegen van taken zijn bijgewerkt aan &quot;[!UICONTROL Copy to]&quot;en &quot;[!UICONTROL Move to]&quot;zowel op de taakpagina als in een taaklijst.
 
-**Limiet voor zoeken naar functies verwijderen bij het overschrijven van factureringssnelheden voor een project**
+**verwijdert grens aan het onderzoek van de baanrol wanneer het met voeten treden van het factureringspercentages voor een project**
 
 Taken rollen
 
-OPMERKING: Deze update is momenteel beschikbaar in de voorvertoningsomgeving en wordt tijdens de productieperiode van 22.1 weergegeven. Voor meer informatie, zie &quot;22.1 Overzicht van de Versie.&quot;
+OPMERKING: Deze update is momenteel beschikbaar in de voorbeeldomgeving en wordt tijdens de productieresessie 22.1 in productie gehouden. Voor meer informatie, zie &quot;22.1 Overzicht van de Versie.&quot;
 
 Het met voeten treden van factureringspercentages voor baanrollen in een project zoekt nu naar alle baanrollen in het systeem.
 
-Eerder [!DNL Workfront] gezocht naar baanrollen in de eerste 2000 rollen in alfabetische orde.
+Eerder, zocht [!DNL Workfront] naar baanrollen in de eerste 2000 rollen in alfabetische orde.
 
 +++
 
-+++**Onderhoudsupdate op 7 oktober 2021**
++++**Update van het Onderhoud op 7 Oktober, 2021**
 
-**[!UICONTROL In-app notifications disappear from]meldingscentrum**
+**[!UICONTROL In-app notifications disappear from]notifications center**
 
 _Meldingen_
 
 Wanneer een gebruiker het berichtcentrum bekijkt, zijn sommige eerder zichtbare berichten niet meer zichtbaar. In sommige gevallen kan het bericht verdwijnen voordat de gebruiker het ziet.
 
-**Aankondigingen zijn niet zichtbaar op de [!UICONTROL All Announcements] page**
+**de aankondigingen zijn niet zichtbaar op de [!UICONTROL All Announcements] pagina**
 
 _Meldingen_
 
-Wanneer een gebruiker de [!UICONTROL All Announcements] pagina van [!UICONTROL Notifications] , zijn er geen aankondigingen zichtbaar op de volgende gebieden:
+Wanneer een gebruiker de pagina [!UICONTROL All Announcements] opent vanuit het [!UICONTROL Notifications] -gebied, zijn er geen aankondigingen zichtbaar in de volgende gebieden:
 
 * [!UICONTROL Inbox]
 * [!UICONTROL Favorites]
 * [!UICONTROL Drafts]
 * [!UICONTROL Deleted]
 
-**Fout bij toewijzen in het dialoogvenster[!UICONTROL Workload Balancer]**
+**Fout wanneer het maken van toewijzing in[!UICONTROL Workload Balancer]**
 
 _[!UICONTROL Workload Balancer]_
 
-Wanneer een gebruiker een toewijzing probeert te maken via de [!UICONTROL Workload Balancer], wordt het werk niet toegewezen en de gebruiker ziet de volgende fout:
+Wanneer een gebruiker een toewijzing probeert te maken vanuit [!UICONTROL Workload Balancer] , wordt het werk niet toegewezen en ziet de gebruiker de volgende fout:
 
 &quot;[!UICONTROL An error has occurred and we are working to resolve the issue. To continue with your work, try refreshing this browser page.]&quot;
 
@@ -501,53 +501,53 @@ Wanneer een gebruiker een toewijzing probeert te maken via de [!UICONTROL Worklo
 
 ## Updates in september 2021
 
-+++**Onderhoudsupdate op 30 september 2021**
++++**Update van het Onderhoud op 30 september, 2021**
 
-**Fout bij snel navigeren naar of weg van[!UICONTROL Home]**
+**Fout wanneer het navigeren snel aan of weg van[!UICONTROL Home]**
 
-_Home_
+_Huis_
 
-Wanneer een gebruiker snel naar een andere gebruiker navigeert [!UICONTROL Home], wordt de pagina niet geladen en wordt de volgende fout weergegeven:
+Wanneer een gebruiker snel naar [!UICONTROL Home] navigeert of er vandaan, wordt de pagina niet geladen en wordt de volgende fout weergegeven:
 
 &quot;[!UICONTROL An error has occurred and we are working to resolve the issue. To continue with your work, try refreshing this browser page.]&quot;
 
-Dit kan zich ook voordoen wanneer u naar [!UICONTROL Home] via een speld.
+Dit kan ook gebeuren wanneer u via een punt naar [!UICONTROL Home] navigeert.
 
 +++
 
-+++**Onderhoudsupdate op 23 september 2021**
++++**Update van het Onderhoud op 23 September, 2021**
 
-**[!UICONTROL Access Denied]fout bij het bekijken van tickets die zijn ingediend bij[!DNL Workfront]**
+**[!UICONTROL Access Denied]fout bij het bekijken van tickets verzonden naar[!DNL Workfront]**
 
-_Problemen_
+_Kwesties_
 
-Wanneer een gebruiker een ticket heeft verzonden naar [!DNL Workfront] en pogingen om het ticket te bekijken, zien ze de volgende fout:
+Wanneer een gebruiker een ticket naar [!DNL Workfront] heeft verzonden en het ticket probeert te bekijken, wordt de volgende fout weergegeven:
 
 &quot;[!UICONTROL Access Denied: Whoops! Something went wrong. Please contact [!DNL Workfront] so we can figure out what went wrong and fix it.]&quot;
 
-**Overzicht van bedrijfscase geeft onjuiste waarden weer**
+**Samenvatting van bedrijfsGeval toont onjuiste waarden**
 
 _Projecten_
 
-Wanneer een gebruiker de [!UICONTROL Business Case] in het samenvattingspaneel komen de weergegeven waarden niet overeen met de waarden in de afzonderlijke [!UICONTROL Business Case] secties.
+Wanneer een gebruiker het overzichtsvenster van [!UICONTROL Business Case] bekijkt, weerspiegelen de weergegeven waarden niet de waarden in de afzonderlijke [!UICONTROL Business Case] -secties.
 
-**Kolomkoppen worden niet uitgelijnd met kolommen in lijsten**
+**de kopballen van de Kolom lijnen niet omhoog met kolommen in lijsten**
 
-_Instellen_
+_Opstelling_
 
-Wanneer een gebruiker zich in [!UICONTROL Setup] en geeft een lijst weer, zoals [!UICONTROL Custom Forms] of [!UICONTROL Access Levels]De kolomkoppen voor die lijst zijn echter niet gelijk aan de kolommen in de lijst.
+Wanneer een gebruiker zich in het [!UICONTROL Setup] -gebied bevindt en een lijst weergeeft, zoals [!UICONTROL Custom Forms] of [!UICONTROL Access Levels] , worden de kolomkoppen voor die lijst niet uitgelijnd met de kolommen in de lijst.
 
-**Gebruikers zonder de juiste machtigingen voor delen kunnen aangepaste formulieren aan objecten koppelen**
+**de Gebruikers zonder de juiste het delen toestemmingen kunnen douanevormen aan voorwerpen vastmaken**
 
 _Aangepaste Forms_
 
-Wanneer een aangepast formulier in het nieuwe [!DNL Adobe Workfront] De ervaring is zo ingesteld dat deze in het hele systeem zichtbaar is. Alle gebruikers kunnen dit aangepaste formulier aan een object koppelen. Ze moeten het aangepaste formulier echter alleen kunnen bekijken en het alleen aan een object kunnen koppelen als het specifiek met hen is gedeeld.
+Wanneer een aangepast formulier in de nieuwe [!DNL Adobe Workfront] -ervaring is ingesteld op systeembreed zichtbaar, kunnen alle gebruikers dit aangepaste formulier aan een object koppelen. Ze moeten het aangepaste formulier echter alleen kunnen bekijken en het alleen aan een object kunnen koppelen als het specifiek met hen is gedeeld.
 
 +++
 
-+++**Onderhoudsupdate op 16 september 2021**
++++**Update van het Onderhoud op 16 september, 2021**
 
-**Kan groepen niet bewerken**
+**kan groepen** niet uitgeven
 
 _Groepen_
 
@@ -555,23 +555,23 @@ Wanneer een gebruiker een groep probeert te bewerken of te verwijderen, wordt de
 
 &quot;[!UICONTROL Let's try that again. Group with primary key value(s) "(Group's ID)" not found]&quot;
 
-**[!UICONTROL Portfolio Optimizer]geen projecten weergeven**
+**[!UICONTROL Portfolio Optimizer]projecten niet weergeven**
 
-_Portfolio_
+_Portfolio&#39;s_
 
-Wanneer een gebruiker projecten in probeert te bekijken [!UICONTROL Portfolio Optimizer], wordt de projectlijst niet weergegeven en kan de gebruiker dus niet met de projecten communiceren.
+Wanneer een gebruiker probeert om projecten in [!UICONTROL Portfolio Optimizer] te bekijken, toont de projectlijst niet en de gebruiker kan daarom niet met de projecten in wisselwerking staan.
 
 +++
 
-+++**Onderhoudsupdate (Hot Fix) op 10 september 2021**
++++**Update van het Onderhoud (Hete Fix) op 10 September, 2021**
 
-**Datum en tijd gemarkeerd als UTC bij inline bewerken**
+**Datum en Tijd duidelijk als UTC wanneer het uitgeven inline**
 
 _Lijsten_
 
-Wanneer een gebruiker een datum of tijd inline bewerkt (in een lijst met objecten), worden de datum en tijd gemarkeerd als UTC. De datum en tijd worden niet ingesteld in UTC in [!DNL Workfront]. Dit probleem is alleen van invloed op de weergave, niet op de feitelijke gegevens.
+Wanneer een gebruiker een datum of tijd inline bewerkt (in een lijst met objecten), worden de datum en tijd gemarkeerd als UTC. De datum en tijd worden niet ingesteld in UTC in [!DNL Workfront] . Dit probleem is alleen van invloed op de weergave, niet op de feitelijke gegevens.
 
-**Tekstkleur wordt niet correct weergegeven wanneer voorwaardelijke opmaak wordt toegepast**
+**kleur van de Tekst die correct toont wanneer het voorwaardelijke formatteren wordt toegepast**
 
 _Rapporten_
 
@@ -579,21 +579,21 @@ Wanneer een gebruiker een rapport weergeeft met voorwaardelijke opmaak waarmee d
 
 +++
 
-+++**Onderhoudsupdate op 9 september 2021**
++++**Update van het Onderhoud op 9 September, 2021**
 
-**Problemen geven geen details weer**
+**de Kwesties tonen geen uitgiftedetails**
 
-_Home_
+_Huis_
 
-Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] de ervaring selecteert een kwestie van [!UICONTROL Work List]In de voorvertoning in het rechterdeelvenster worden bepaalde velden weergegeven als waar geen waarden zijn ingevoerd. Als u echter naar de uitgave navigeert en de [!UICONTROL Issue Details]Voor deze velden zijn waarden ingevoerd.
+Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] -ervaring een uitgave in [!UICONTROL Work List] selecteert, wordt in de voorvertoning in het rechterdeelvenster aangegeven dat er in bepaalde velden geen waarden zijn ingevoerd. Als u echter naar de uitgave navigeert en [!UICONTROL Issue Details] bekijkt, worden voor deze velden waarden ingevoerd.
 
-**Gebruikers hebben Contribute-machtigingen nodig om de [!UICONTROL Approvals] in de nieuwe Workfront-ervaring**
+**de Gebruikers hebben de toestemmingen van Contribute nodig om de [!UICONTROL Approvals] sectie in de nieuwe Ervaring van Workfront** te bekijken
 
 _Goedkeuringen_
 
-Gebruikers [!UICONTROL Contribute] machtigingen voor een object om de [!UICONTROL Approvals] in de nieuwe [!DNL Workfront] Ervaring. Zij moeten alleen [!UICONTROL View] machtigingen om de [!UICONTROL Approvals] als er een goedkeuringsproces voor het object is.
+Gebruikers hebben [!UICONTROL Contribute] -machtigingen voor een object nodig om de sectie [!UICONTROL Approvals] in de nieuwe [!DNL Workfront] -ervaring te kunnen bekijken. Ze moeten alleen [!UICONTROL View] machtigingen hebben om het tabblad [!UICONTROL Approvals] te kunnen weergeven wanneer er een goedkeuringsproces voor het object plaatsvindt.
 
-**[!UICONTROL Whoops]fout bij gebruik van filters**
+**[!UICONTROL Whoops]error when using filters**
 
 _Lijsten_
 
@@ -607,49 +607,49 @@ de lijst wordt leeg gelaten en de gebruiker ziet de volgende fout:
 
 &quot;[!UICONTROL Let's try that again.]&quot;
 
-**[!UICONTROL Tasks]sectie wordt leeg gelaten bij het bewerken van inline**
+**[!UICONTROL Tasks]-sectie wordt leeg gelaten wanneer u inline bewerkt**
 
-_Sjablonen_
+_Malplaatjes_
 
-Wanneer een gebruiker taken inline bewerkt in een sjabloon met een weergave die de instelling &quot;[!UICONTROL Assign To: Name]&quot; en de toewijzing bevat een gebruiker, de [!UICONTROL Tasks] wordt leeg gelaten en de gebruiker kan de sjabloontaken niet bewerken.
+Wanneer een gebruiker probeert om taken inline uit te geven in een malplaatje gebruikend een mening die &quot; [!UICONTROL Assign To: Name]&quot;gebied omvat, en de taak een gebruiker bevat, gaat de [!UICONTROL Tasks] sectie leeg en de gebruiker kan de malplaatjetaken niet uitgeven.
 
 **Kan niet exporteren[!UICONTROL Portfolio Optimizer]**
 
-_Portfolio_
+_Portfolio&#39;s_
 
-Wanneer een gebruiker de opdracht [!UICONTROL Portfolio Optimizer] en klikt u op een van de exportopties, de optie [!UICONTROL Portfolio Optimizer] wordt niet geëxporteerd.
+Wanneer een gebruiker probeert de [!UICONTROL Portfolio Optimizer] te exporteren en op een van de exportopties klikt, wordt de [!UICONTROL Portfolio Optimizer] niet geëxporteerd.
 
-**Meldingen worden niet verzonden voor antwoorden**
+**de Meldingen worden niet verzonden voor antwoorden**
 
 _Meldingen_
 
-Wanneer een gebruiker op een update reageert in [!DNL Workfront], ontvangen andere gebruikers in de commentaarthread geen meldingen.
+Wanneer een gebruiker op een update in [!DNL Workfront] antwoordt, ontvangen andere gebruikers in de commentaardraad geen berichten.
 
-**Wijzigingen in aangepaste gegevens veroorzaken vertraging**
+**Veranderingen in de vertraging van de douanegegevensoorzaak**
 
-_Aangepaste velden_
+_de gebieden van de Douane_
 
 Wanneer een gebruiker aangepaste gegevens wijzigt die wijzigingen in andere weergegeven gegevens activeren, worden de wijzigingen langzaam geladen.
 
-**Groeperen &quot;[!UICONTROL Collapse or Expand All]Pictogram wordt niet weergegeven**
+**groeperen &quot;[!UICONTROL Collapse or Expand All]&quot;pictogram toont niet**
 
-_Rapportage_
+_Meldend_
 
-De &quot;[!UICONTROL Collapse or Expand All]Het pictogram &#39;&#39; wordt niet weergegeven in de koptekst van een lijst of rapport wanneer groepen worden toegepast op de lijst of het rapport.
+Het pictogram &quot;[!UICONTROL Collapse or Expand All]&quot;toont niet in de kopbal van een lijst of een rapport wanneer de groeperingen op de lijst of het rapport worden toegepast.
 
-**[!UICONTROL Check]en [!UICONTROL Cancel] opties niet zichtbaar bij het wijzigen van taaktoewijzingen**
+**[!UICONTROL Check]en [!UICONTROL Cancel] opties niet zichtbaar wanneer het veranderen van taaktoewijzingen**
 
 _[!UICONTROL Workload Balancer]_
 
-Wanneer een gebruiker de taaktoewijzing voor een taak probeert te wijzigen, en het tijdkader van die taak zich tot of voorbij de rand van de zichtbare pagina uitstrekt, [!UICONTROL Check] en [!UICONTROL Cancel] De knoppen zijn niet zichtbaar en de gebruiker kan de toewijzingswijzigingen niet opslaan of annuleren.
+Wanneer een gebruiker de taaktoewijzing voor een taak probeert te wijzigen en het tijdkader van die taak zich tot of buiten de rand van de zichtbare pagina uitstrekt, zijn de knoppen [!UICONTROL Check] en [!UICONTROL Cancel] niet zichtbaar en kan de gebruiker de toewijzingswijzigingen niet opslaan of annuleren.
 
-**Een aangepast veld toevoegen aan [!UICONTROL Home] veroorzaakt ontbrekende veldgegevens**
+**Toevoegend een douanegebied aan [!UICONTROL Home] veroorzaakt ontbrekende gebiedsgegevens**
 
 _[!UICONTROL Home]_
 
-Wanneer een aangepast veld wordt toegevoegd aan [!UICONTROL Home]In andere velden ontbreken gegevens en worden deze onjuist weergegeven.
+Wanneer een aangepast veld wordt toegevoegd aan [!UICONTROL Home] , worden ontbrekende gegevens in andere velden onjuist weergegeven.
 
-**Kan gekoppelde items niet weergeven wanneer u bent aangemeld als een andere gebruiker**
+**kan geen verbonden punten bekijken wanneer het programma geopend als een andere gebruiker**
 
 _Integraties_
 
@@ -657,9 +657,9 @@ Als een beheerder probeerde om verbonden punten van een externe leverancier te b
 
 +++
 
-+++**Onderhoudsupdate op 2 september 2021**
++++**Update van het Onderhoud op 2 September, 2021**
 
-**Kan aangepast dashboard niet vastzetten**
+**kan douane dashboard** vastzetten niet
 
 _Dashboards_
 
@@ -667,7 +667,7 @@ Wanneer een gebruiker een aangepast dashboard probeert vast te zetten, wordt het
 
 &quot;[!UICONTROL Something went wrong while pinning. Please contact [!DNL Workfront] so we can fix this.]&quot;
 
-**[!DNL Workfront Proof]samenvatting afdrukken is leeg**
+**[!DNL Workfront Proof]print summary is blank**
 
 [!DNL Workfront Proof]
 
@@ -678,15 +678,15 @@ Wanneer een gebruiker het afdrukoverzicht opent om een proefdruk af te drukken, 
 
 ## Updates in augustus 2021
 
-+++**Onderhoudsupdate op 26 augustus 2021**
++++**Update van het Onderhoud op 26 augustus, 2021**
 
-**In [!DNL Safari] er is een donkergrijze achtergrond op kolomkopteksten**
+**In [!DNL Safari] is er een donkergrijze achtergrond op de tekst van kolomkopballen**
 
 _Lijsten_
 
-In de [!DNL Safari] in de browser is er een donkergrijze achtergrond op kolomkoppen, waardoor de tekst wordt gemarkeerd. Dit is geen probleem met andere ondersteunde browsers.
+In de browser van [!DNL Safari] is er een donkergrijze achtergrond op kolomkoppen, die de tekst markeert. Dit is geen probleem met andere ondersteunde browsers.
 
-**Onverwachte fout bij het instellen van voorgangers**
+**Onverwachte fout wanneer het plaatsen van predecessors**
 
 _Taken_
 
@@ -696,210 +696,210 @@ Wanneer een gebruiker een taak probeert in te stellen als een voorganger die inl
 
 +++
 
-+++**Onderhoudsupdate op 19 augustus 2021**
++++**Update van het Onderhoud op 19 augustus, 2021**
 
-**Opgeslagen filters ontbreken na het selecteren van een filter dat geen problemen weergeeft**
+**Bewaarde filters vermist na het selecteren van een filter dat geen kwesties** toont
 
 _Lijsten_
 
 Opgeslagen filters ontbreken in een lijst met problemen nadat u een filter hebt geselecteerd dat geen resultaten weergeeft.
 
-**Problemen geven geen details weer**
+**de Kwesties tonen geen uitgiftedetails**
 
-_[!UICONTROL Home]samenvatting_
+_[!UICONTROL Home]summary_
 
-Wanneer een gebruiker [!DNL Adobe Workfront Classic] selecteert een uitgave in het menu [!UICONTROL Work List]In de voorvertoning in het rechterdeelvenster worden bepaalde velden weergegeven als waar geen waarden zijn ingevoerd. Als u echter naar de uitgave navigeert en de [!UICONTROL Issue Details]Voor deze velden zijn waarden ingevoerd.
+Wanneer een gebruiker in [!DNL Adobe Workfront Classic] een uitgave selecteert in [!UICONTROL Work List] , wordt in de voorvertoning in het rechterdeelvenster aangegeven dat er in bepaalde velden geen waarden zijn ingevoerd. Als u echter naar de uitgave navigeert en [!UICONTROL Issue Details] bekijkt, worden voor deze velden waarden ingevoerd.
 
 +++
 
-+++**Onderhoudsupdate op 12 augustus 2021**
++++**Update van het Onderhoud op 12 augustus, 2021**
 
-**Kan de bestandsweergave in het project niet aanpassen**
+**kan niet veranderlijke mening op project** aanpassen
 
-_Agile_
+_Gelijk_
 
 Wanneer een gebruiker probeert een eerder bestaande bestandsweergave aan te passen op een project, wordt het venster gesloten en kan de gebruiker de weergave niet bewerken.
 
-**Naam verandert niet in nieuwe documentversies**
+**Naam verandert niet op nieuwe documentversies**
 
 _Documenten_
 
 Wanneer een gebruiker een nieuwe versie van een document uploadt, wordt de naam van het document niet bijgewerkt zodat deze overeenkomt met de naam van de nieuwste versie.
 
-**Het voorgangspictogram wordt niet groen als de voorganger is voltooid.**
+**het pictogram van de Voorganger wordt niet groen wanneer voorganger volledig is.**
 
 _Taken_
 
 Wanneer een taak een voorgangstaak heeft, en die voorgangstaak volledig is, wordt het voorgangerpictogram in de afhankelijke taak niet groen.
 
-Wanneer een aangepast formulier in het nieuwe [!DNL Adobe Workfront] De ervaring is zo ingesteld dat deze in het hele systeem zichtbaar is. Alle gebruikers kunnen dit aangepaste formulier aan een object koppelen. Ze moeten het aangepaste formulier echter alleen kunnen bekijken en het alleen aan een object kunnen koppelen als het specifiek met hen is gedeeld.
+Wanneer een aangepast formulier in de nieuwe [!DNL Adobe Workfront] -ervaring is ingesteld op systeembreed zichtbaar, kunnen alle gebruikers dit aangepaste formulier aan een object koppelen. Ze moeten het aangepaste formulier echter alleen kunnen bekijken en het alleen aan een object kunnen koppelen als het specifiek met hen is gedeeld.
 
 +++
 
-+++**Onderhoudsupdate (Hot Fix) op 6 augustus 2021**
++++**Update van het Onderhoud (Hete Fix) op 6 augustus, 2021**
 
-**Kan kalenders niet selecteren in [!DNL Outloo]k Kalenderinstellingen**
+**Onbekwaam om kalenders in [!DNL Outloo] k de montages van de Kalender** te selecteren
 
-_Home_
+_Huis_
 
-Wanneer een gebruiker in de nieuwe [!DNL Workfront] hun ervaring bekijken [!DNL Outlook] Kalender thuis, en opent de montages, ontbreken checkboxes om kalenders te selecteren. Als de gebruiker klikt op de plaats waar het selectievakje zich bevindt, reageert de kalender alsof het selectievakje aanwezig is.
+Wanneer een gebruiker in de nieuwe [!DNL Workfront] -ervaring zijn [!DNL Outlook] -agenda thuis bekijkt en de instellingen opent, ontbreken de selectievakjes voor het selecteren van kalenders. Als de gebruiker klikt op de plaats waar het selectievakje zich bevindt, reageert de kalender alsof het selectievakje aanwezig is.
 
-**Kan verbinding niet opnieuw autoriseren of verifiëren naar[!UICONTROL Webdam]**
+**Kan verbinding met[!UICONTROL Webdam]** niet opnieuw autoriseren of verifiëren
 
 _[!DNL Workfront Fusion]_
 
-[!DNL Adobe Workfront Fusion] gebruikers met scenario&#39;s die verbinden met [!UICONTROL Webdam] dient zich ervan bewust te zijn dat [!UICONTROL Webdam] de verbindingen vereisen handreauthenticatie om de 14 dagen. De [!UICONTROL Webdam] API biedt momenteel geen ondersteuning voor automatische herautorisatie.
+[!DNL Adobe Workfront Fusion] -gebruikers met scenario&#39;s die verbinding maken met [!UICONTROL Webdam] moeten er rekening mee houden dat [!UICONTROL Webdam] -verbindingen elke 14 dagen handmatig opnieuw moeten worden geverifieerd. De API van [!UICONTROL Webdam] ondersteunt momenteel geen automatische herautorisatie.
 
 +++
 
-+++**Onderhoudsupdate op 5 augustus 2021**
++++**Update van het Onderhoud op 5 Augustus, 2021**
 
-**Kan niet communiceren met document in [!UICONTROL Summary panel] of [!UICONTROL More] menu**
+**Onbekwaam om met document in [!UICONTROL Summary panel] of [!UICONTROL More] menu** in wisselwerking te staan
 
 _Documenten_
 
-Wanneer een gebruiker in de nieuwe [!DNL Workfront] de ervaring is met het weergeven van een document en probeert een selectie te maken in het dialoogvenster [!UICONTROL Summary panel] of de [!UICONTROL More] wordt de selectie van het document opgeheven, waardoor de [!UICONTROL Summary panel] of [!UICONTROL More] te openen.
+Wanneer een gebruiker in de nieuwe [!DNL Workfront] -ervaring een document weergeeft en probeert een selectie te maken in het menu [!UICONTROL Summary panel] of [!UICONTROL More] , wordt het document uitgeschakeld, waardoor het menu [!UICONTROL Summary panel] of [!UICONTROL More] leeg blijft.
 
 **[!UICONTROL New Request]knop ontbreekt**
 
 _Verzoeken_
 
-Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] de ervaring gaat naar de [!UICONTROL Requests] pagina, de [!UICONTROL New Request] wordt niet weergegeven en kunnen geen verzoek indienen.
+Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] -ervaring naar de [!UICONTROL Requests] -pagina gaat, wordt de knop [!UICONTROL New Request] niet weergegeven en kan hij of zij geen aanvraag indienen.
 
-**Gebruikers zonder de juiste machtigingen voor delen kunnen aangepaste formulieren aan objecten koppelen**
+**de Gebruikers zonder de juiste het delen toestemmingen kunnen douanevormen aan voorwerpen vastmaken**
 
 _Aangepaste Forms_
 
-Wanneer een aangepast formulier in het nieuwe [!DNL Adobe Workfront] De ervaring is zo ingesteld dat deze in het hele systeem zichtbaar is. Alle gebruikers kunnen dit aangepaste formulier aan een object koppelen. Ze moeten het aangepaste formulier echter alleen kunnen bekijken en het alleen aan een object kunnen koppelen als het specifiek met hen is gedeeld.
+Wanneer een aangepast formulier in de nieuwe [!DNL Adobe Workfront] -ervaring is ingesteld op systeembreed zichtbaar, kunnen alle gebruikers dit aangepaste formulier aan een object koppelen. Ze moeten het aangepaste formulier echter alleen kunnen bekijken en het alleen aan een object kunnen koppelen als het specifiek met hen is gedeeld.
 
-**De proefdrukinstellingen kunnen niet worden gewijzigd wanneer u een nieuwe proefdruk maakt**
+**kan proefdrukmontages niet veranderen wanneer het creëren van een nieuwe proef**
 
 _[!DNL Workfront Proof]_
 
 Wanneer een gebruiker een nieuwe proefdruk maakt en de instellingen probeert te wijzigen, wordt de instelling hersteld naar de vorige instelling.
 
-**[!UICONTROL Story Board]niet correct laden**
+**[!UICONTROL Story Board]wordt niet correct geladen**
 
-_Agile_
+_Gelijk_
 
-Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] ervaring navigeert naar een [!UICONTROL Story Board], kan het tot 10 seconden duren om het bord te laden. De vertraging bij het laden is te wijten aan het feit dat het systeem alle kaarten laadt terwijl het slechts 50 kaarten tegelijk moet laden.
+Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] -ervaring naar een [!UICONTROL Story Board] navigeert, kan het 10 seconden duren om het board te laden. De vertraging bij het laden is te wijten aan het feit dat het systeem alle kaarten laadt terwijl het slechts 50 kaarten tegelijk moet laden.
 
 +++
 
 
 ## Updates in juli 2021
 
-+++**Onderhoudsupdate (Hot Fix) op 29 juli 2021**
++++**Update van het Onderhoud (Hete Fix) op 29 Juli, 2021**
 
-**Kan nieuwe proefdruk of nieuwe proefdrukversie niet uploaden**
+**Onbekwaam om nieuwe proef of nieuwe proefdrukversie** te uploaden
 
 _[!DNL Workfront Proof]_
 
-Wanneer een gebruiker een nieuwe proefdruk of een nieuwe proefversie probeert te uploaden in de klassieke versie [!DNL Workfront] De nieuwe proefdruk of nieuwe versiepagina is leeg en de gebruiker kan de proefdruk of versie niet uploaden.
+Wanneer een gebruiker een nieuwe proefdruk of een nieuwe versie van een proefdruk probeert te uploaden in de klassieke [!DNL Workfront] ervaring, is de nieuwe proefdruk of de nieuwe versiepagina leeg, en de gebruiker kan de proef of de versie niet uploaden.
 
 +++
 
-+++**Onderhoudsupdate op 29 juli 2021**
++++**Update van het Onderhoud op 29 Juli, 2021**
 
 **[!UICONTROL Proof Activity]en [!UICONTROL Proof Viewer Settings] pagina&#39;s altijd beschikbaar**
 
 _[!DNL Workfront Proof]_
 
-De [!UICONTROL Proof Activity] en [!UICONTROL Proof Viewer] Instellingspagina&#39;s zijn nu altijd zichtbaar, zelfs als de gebruiker geen toegang heeft om die pagina&#39;s bij te werken.
+De instellingenpagina&#39;s [!UICONTROL Proof Activity] en [!UICONTROL Proof Viewer] zijn nu altijd zichtbaar, zelfs als de gebruiker geen toegang heeft om deze pagina&#39;s bij te werken.
 
-Als een gebruiker met een aangepast machtigingsprofiel eerder naar een document navigeert, wordt [!UICONTROL Proof Activity] en [!UICONTROL Proof Viewer Settings] pagina&#39;s aan de linkerkant waren niet altijd zichtbaar.
+Eerder waren de pagina&#39;s [!UICONTROL Proof Activity] en [!UICONTROL Proof Viewer Settings] aan de linkerkant niet altijd zichtbaar wanneer een gebruiker met een aangepast machtigingsprofiel voor proefdrukken naar een document navigeerde.
 
-**Foutbericht bij gebruik [!UICONTROL Percentage] optie voor[!UICONTROL Allocated hours]**
+**Foutbericht bij gebruik van [!UICONTROL Percentage] option for[!UICONTROL Allocated hours]**
 
 _[!UICONTROL Workload Balancer]_
 
-Wanneer een gebruiker de optie [!UICONTROL Percentage] optie voor [!UICONTROL Allocated hours]en er wordt een lijst met werkzaamheden in de [!UICONTROL Unassigned work] de gebruiker de volgende fout ziet:
+Wanneer een gebruiker de optie [!UICONTROL Percentage] voor [!UICONTROL Allocated hours] selecteert en het werk wordt vermeld in de sectie [!UICONTROL Unassigned work] , krijgt de gebruiker de volgende fout te zien:
 
 &quot;[!UICONTROL An error has occurred and we are working to resolve the issue. To continue with your work, try refreshing this browser page.]&quot;
 
 +++
 
-+++**Onderhoudsupdate op 22 juli 2021**
++++**Update van het Onderhoud op 22 Juli, 2021**
 
-**Nieuwe namen van proefversies worden afgesneden**
+**Nieuwe namen van de proefdrukversie die** worden afgesneden
 
 _[!DNL Workfront Proof]_
 
-Wanneer een gebruiker [!DNL Adobe Workfront Classic] Hiermee uploadt u een nieuwe versie van een proefdruk die een punt in de bestandsnaam bevat. De bestandsnaam wordt aan het einde afgesneden.
+Wanneer een gebruiker in [!DNL Adobe Workfront Classic] een nieuwe versie van een proefdruk uploadt die een punt in filename bevat, wordt filename geschrapt aan het eind.
 
 +++
 
-+++**Onderhoudsupdate (Hot Fix) op 19 juli 2021**
++++**Update van het Onderhoud (Hete Fix) op 19 Juli, 2021**
 
-**Fout tijdens het navigeren naar projecten, tijdschriften, taken of programma&#39;s**
+**Fout terwijl het proberen om aan projecten, timesheets, taken, of programma&#39;s te navigeren**
 
-In het nieuwe [!DNL Adobe Workfront] ervaren, wanneer een gebruiker probeert om aan projecten, timesheets, taken, of programma&#39;s te navigeren, zien zij het foutenbericht &quot;[!UICONTROL Whoops! Something went wrong. Please contact [!DNL Workfront] so we can figure out what went wrong and fix it.]&quot;
+In de nieuwe [!DNL Adobe Workfront] ervaring, wanneer een gebruiker probeert om aan projecten, timesheets, taken, of programma&#39;s te navigeren, zien zij het foutenbericht &quot; [!UICONTROL Whoops! Something went wrong. Please contact [!DNL Workfront] so we can figure out what went wrong and fix it.]&quot;
 
 +++
 
-+++**Onderhoudsupdate op 15 juli 2021**
++++**Update van het Onderhoud op 15 Juli, 2021**
 
-**De standaardprioriteit voor nieuwe aanvragen is onjuist**
+**Standaard prioriteit op nieuwe verzoeken is onjuist**
 
 _Verzoeken_
 
-Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] de ervaring leidt tot een verzoek, respecteert het verzoek niet de standaardprioriteit die in [!UICONTROL Project Preferences] en zij kunnen de prioriteit niet aanpassen alvorens het verzoek in te dienen.
+Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] ervaring een verzoek creeert, respecteert het verzoek niet de standaardprioriteit die in [!UICONTROL Project Preferences] wordt geplaatst en zij kunnen niet de prioriteit aanpassen alvorens het verzoek te voorleggen.
 
-**[!UICONTROL Go to proof]koppeling is niet direct voor commentaar**
+**[!UICONTROL Go to proof]koppeling is niet rechtstreeks naar opmerking**
 
-_E-mailmeldingen_
+_E-mailberichten_
 
-Wanneer een gebruiker een e-mailbericht voor een proefdrukopmerking ontvangt en op [!UICONTROL Go to proof], worden zij verwezen naar de verkeerde opmerking in het bewijs of worden zij helemaal niet naar een opmerking verwezen.
+Wanneer een gebruiker een e-mailbericht voor een proefdrukopmerking ontvangt en op [!UICONTROL Go to proof] klikt, wordt hij of zij naar de verkeerde opmerking in de proefdrukproef verwezen of wordt hij of zij helemaal niet naar een opmerking verwezen.
 
-**Waarden voor rijke tekstvelden worden niet overgedragen na conversie van een uitgave naar een taak**
+**Rich het gebiedswaarden van de Tekst niet overgebracht na het omzetten van een kwestie in een taak**
 
 _Aangepaste Forms_
 
 Wanneer een gebruiker een uitgave in een taak omzet en de uitgave een douaneformulier in bijlage met een waarde in een tekstgebied met Rich Text het formatteren heeft, neemt de waarde in het tekstgebied niet na omzetting over.
 
-**Aangepaste veldwaarden worden gewijzigd na selectie**
+**de gebiedswaarden van de Douane veranderen na selectie**
 
 _[!DNL Workfront Proof]_
 
-Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] De ervaring leidt tot een nieuwe proef en zij gaan een waarde in sommige douanevelden op een proef in, de waarde van sommige vorige gebieden aan de standaardwaarden in plaats van de waarde terug de gebruiker inging.
+Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] ervaring een nieuwe proef creeert en zij een waarde in sommige douanevelden op een proef ingaan, keert de waarde van sommige vorige gebieden aan de standaardwaarden in plaats van de waarde terug de gebruiker inging.
 
 **[!UICONTROL Assign to]typeahead werkt niet**
 
 _[!UICONTROL Home]_
 
-Wanneer een gebruiker [!DNL Adobe Workfront Classic] maakt een project, taak of verzoek van de [!UICONTROL Home] gebied, [!UICONTROL Assign to] in het veld typeahead worden geen gebruikersnamen ingevuld.
+Wanneer een gebruiker in [!DNL Adobe Workfront Classic] een project, taak of verzoek maakt vanuit het [!UICONTROL Home] -gebied, worden in het [!UICONTROL Assign to] -veld typeahead geen gebruikersnamen ingevuld.
 
-**Uren onjuist afgerond**
+**het ronden van uren verkeerd**
 
 _Timesheets_
 
-Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] ervaringsnavigatie naar [!UICONTROL Timesheets] > [!UICONTROL All Timesheets], zien zij dat de totale urenaantallen voor sommige timesheets aan één decimaal in plaats van in .25 toename afronden, maar de totale uren correct in individuele timesheet tonen. In het gebied All Timesheets wordt bijvoorbeeld in totaal 44,8 uur op het tijdschrift vermeld, maar bij het openen van het tijdschrift wordt in totaal 44,75 uur weergegeven.
+Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] ervaring naar [!UICONTROL Timesheets] > [!UICONTROL All Timesheets] navigeert, ziet hij of zij dat de totale urenaantallen voor sommige tijdbladen tot één decimaal in plaats van in stappen van 0,25 worden afgerond, maar dat het totale aantal uren correct in de individuele tijdspagina wordt weergegeven. In het gebied All Timesheets wordt bijvoorbeeld in totaal 44,8 uur op het tijdschrift vermeld, maar bij het openen van het tijdschrift wordt in totaal 44,75 uur weergegeven.
 
-**Kan goedkeuringen niet delegeren**
+**Onbekwaam om goedkeuringen** te delegeren
 
 _[!UICONTROL Home]_
 
-Wanneer een gebruiker [!DNL Adobe Workfront Classic] klikken [!UICONTROL Delegate My Approvals] in de [!UICONTROL Home] en ze beginnen de naam te typen van de gebruiker aan wie ze proberen te delegeren. Geen resultaten worden weergegeven in het dialoogvenster [!UICONTROL typeahead] en kunnen geen gebruiker selecteren.
+Wanneer een gebruiker in [!DNL Adobe Workfront Classic] [!UICONTROL Delegate My Approvals] in het [!UICONTROL Home] gebied klikt en hij of zij de naam begint te typen van de gebruiker aan wie hij of zij probeert af te vaardigen, worden er geen resultaten weergegeven in de lijst van [!UICONTROL typeahead] en kunnen hij of zij geen gebruiker selecteren.
 
-**[!UICONTROL Gantt Chart]weergave is niet beschikbaar voor taakrapporten**
+**[!UICONTROL Gantt Chart]de mening is niet beschikbaar voor de rapporten van de Taak**
 
 _Rapporten_
 
-OPMERKING: Dit is ook van invloed op projectrapporten.
+NOTA: Dit beïnvloedt ook de rapporten van het Project.
 
-Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] de ervaring opent een rapport van de Taak, de optie om een [!UICONTROL Gantt Chart] de weergave ontbreekt op de werkbalk Rapport. Als de [!UICONTROL Gantt Chart] de mening wordt geselecteerd om door gebrek in het rapport te tonen, toont een lijstformaat in plaats daarvan.
+Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] ervaring een Taakrapport opent, ontbreekt de optie om een [!UICONTROL Gantt Chart] mening van de rapporttoolbar te selecteren. Als de weergave [!UICONTROL Gantt Chart] standaard in het rapport wordt weergegeven, wordt een lijstopmaak weergegeven.
 
-**Klikken [!UICONTROL See More] in rapport wordt niets geladen**
+**het klikken [!UICONTROL See More] op rapport laadt niets**
 
 _Dashboards_
 
-Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] de ervaring bekijkt een rapport op een dashboard en zij klikken [!UICONTROL See More] gebeurt er niets en kunnen niet alle items in het rapport weergeven.
+Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] ervaring een rapport op een dashboard bekijkt en zij [!UICONTROL See More] klikken, gebeurt niets en kunnen zij niet alle punten in het rapport bekijken.
 
 +++
 
 +++**[!DNL Adobe Workfront Fusion]Onderhoudsupdate op 1 juli 2021**
 
-**Het kopiëren van modules werkt niet**
+**het kopiëren modules werkt niet**
 
 _[!DNL Adobe Workfront Fusion]_
 
@@ -907,21 +907,21 @@ Wanneer een gebruiker meerdere modules selecteert en probeert te kopiëren en pl
 
 +++
 
-+++**Onderhoudsupdate op 1 juli 2021**
++++**Update van het Onderhoud op 1 Juli, 2021**
 
-**Kleurenset voor kaarten die niet worden gebruikt**
+**Kleur die voor kaarten wordt geplaatst niet gerespecteerd**
 
 _Kanban_
 
-Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] de ervaring plaatst specifieke kaartkleuren in de teammontages, worden die kleuren niet weerspiegeld op de kaarten Kanban.
+Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] ervaring specifieke kaartkleuren in de teammontages plaatst, worden die kleuren niet weerspiegeld op de kaarten Kanban.
 
-**Kan tekst niet plakken in aangepast berichtveld**
+**Onbekwaam om tekst op het gebied van het douanebericht te kleven**
 
 _[!DNL Workfront Proof]_
 
-Wanneer een gebruiker een nieuwe proefdruk maakt in het dialoogvenster [!UICONTROL Web Proofing Viewer] en wordt geprobeerd tekst in de [!UICONTROL Message] in het [!UICONTROL Email notification] niet kunnen plakken. Dit lijkt alleen te gebeuren wanneer de tekst alinea-opmaak heeft en er een alinea-einde is.
+Wanneer een gebruiker een nieuwe proefdruk maakt in [!UICONTROL Web Proofing Viewer] en probeert tekst te plakken in het [!UICONTROL Message] -veld in de [!UICONTROL Email notification] -sectie, kan de gebruiker de tekst niet plakken. Dit lijkt alleen te gebeuren wanneer de tekst alinea-opmaak heeft en er een alinea-einde is.
 
-**Verzoeken worden verzonden met lege vereiste velden**
+**de verzoeken worden voorgelegd met lege vereiste gebieden**
 
 _Verzoeken_
 
@@ -931,22 +931,22 @@ Wanneer een gebruiker een verzoek indient en het verzendt, wordt de informatie o
 
 _Verzoeken_
 
-Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] de ervaring gaat naar de [!UICONTROL Requests] pagina, de [!UICONTROL New Request] wordt niet weergegeven en kunnen geen verzoek indienen.
+Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] -ervaring naar de [!UICONTROL Requests] -pagina gaat, wordt de knop [!UICONTROL New Request] niet weergegeven en kan hij of zij geen aanvraag indienen.
 
-**Fout bij het uitbreiden van een aangepast formulier**
+**Fout wanneer het uitbreiden van een douanevorm**
 
 _Projecten_
 
-Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] ervaren pogingen om een aangepast formulier dat is gekoppeld aan een project uit te vouwen, ze kunnen het aangepaste formulier niet openen en het foutbericht zien &quot;[!UICONTROL An error has occurred and we are working to resolve the issue. To continue with your work, try refreshing this browser page.]&quot; De pagina vernieuwen lost het probleem niet op.
+Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] ervaring probeert om een douaneformulier uit te breiden in bijlage aan een project, kunnen zij niet het douaneformulier openen en het foutenbericht &quot; [!UICONTROL An error has occurred and we are working to resolve the issue. To continue with your work, try refreshing this browser page.]&quot;zien verfrist de pagina niet de kwestie oplossen.
 
-**[!DNL Adobe Workfront]de branding verschijnt nu op aankondigingscentrum e-mails**
+**[!DNL Adobe Workfront]branding wordt nu weergegeven in e-mails van het aankondigingscentrum**
 
 E-mails
 
-Als de [!DNL Adobe Workfront] branding wordt ingevoerd over de toepassing, zijn de volgende updates gemaakt aan aankondigingscentrum e-mails:
+Aangezien de [!DNL Adobe Workfront] -branding in de hele toepassing wordt geïmplementeerd, zijn de volgende updates uitgevoerd om e-mailberichten in het aankondigingscentrum te verzenden:
 
-* De [!DNL Adobe Workfront] lion is toegevoegd aan het hoofdinhoudsgebied.
-* De [!DNL Adobe Workfront] logo is toegevoegd aan de voettekst.
+* De [!DNL Adobe Workfront] leeuw is toegevoegd aan het hoofdinhoudsgebied.
+* Het [!DNL Adobe Workfront] -logo is toegevoegd aan de voettekst.
 
 In de toekomst wordt deze branding weergegeven op extra soorten e-mails van Workfront.
 
@@ -955,152 +955,152 @@ In de toekomst wordt deze branding weergegeven op extra soorten e-mails van Work
 
 ## Updates in juni 2021
 
-+++**Onderhoudsupdate op 24 juni 2021**
++++**Update van het Onderhoud op 24 juni, 2021**
 
-**Een team kan niet worden bewerkt**
+**kan geen team** uitgeven
 
-_Agile_
+_Gelijk_
 
-Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] ervaringsklikken [!UICONTROL Edit] om de [!DNL Edit] De pagina van het team voor een team van de Gateway, laadt aanvankelijk de pagina, dan verdwijnen de montages en het gaat leeg.
+Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] -ervaring op [!UICONTROL Edit] klikt om de [!DNL Edit] Team-pagina voor een Agile-team te openen, wordt de pagina in eerste instantie geladen, verdwijnen de instellingen en wordt de pagina leeg gelaten.
 
-**Gegevens uit ingediend verzoek verwijderd**
+**Gegevens die uit voorgelegd verzoek worden verwijderd**
 
 _Verzoeken_
 
-Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] de ervaring vult een verzoek uit, mist het voorgelegde verzoek de ingegaan waarden voor sommige douanevelden, soms met inbegrip van gebieden die worden vereist.
+Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] -ervaring een aanvraag invult, ontbreekt in de verzonden aanvraag de ingevoerde waarden voor sommige aangepaste velden, soms inclusief vereiste velden.
 
-**Kolommen worden niet weergegeven**
+**Kolommen tonen niet**
 
 _Kanban_
 
-Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] ervaring voegt een op maat gemaakt toe [!UICONTROL Additional Fields] alle kolomkoppen aan een Kanban Board worden niet meer weergegeven op het bord.
+Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] -ervaring een aangepaste [!UICONTROL Additional Fields] -kolom toevoegt aan een Kanban Board, worden alle kolomkoppen niet meer weergegeven op het bord.
 
 +++
 
 +++**[!DNL Adobe Workfront Fusion]Onderhoudsupdate op 23 juni 2021**
 
-**Gebroken koppeling in e-mailberichten voor meldingen is verwijderd**
+**Verwijderde gebroken verbinding in berichte-mails**
 
 _[!DNL Adobe Workfront Fusion]_
 
-De koppeling naar meldingsinstellingen is verwijderd uit [!DNL Adobe Workfront Fusion] e-mailberichten.
-Voor informatie over het wijzigen van meldingsinstellingen raadpleegt u [!DNL Adobe Workfront Fusion] organisaties en teams.
+De koppeling naar meldingsinstellingen is verwijderd uit e-mailberichten van [!DNL Adobe Workfront Fusion] .
+Zie [!DNL Adobe Workfront Fusion] Organisaties en teams voor informatie over het wijzigen van meldingsinstellingen.
 
 +++
 
-+++**Onderhoudsupdate op 17 juni 2021**
++++**Update van het Onderhoud op 17 Juni, 2021**
 
-**[!UICONTROL Gantt Chart]weergave is niet beschikbaar voor taakrapport**
+**[!UICONTROL Gantt Chart]de mening is niet beschikbaar voor het rapport van de Taak**
 
 _Rapporten_
 
-Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] de ervaring opent een rapport van de Taak, de optie om een [!UICONTROL Gantt Chart] de weergave ontbreekt op de werkbalk Rapport. Als de [!UICONTROL Gantt Chart] de mening wordt geselecteerd om door gebrek in het rapport te tonen, toont een lijstformaat in plaats daarvan.
+Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] ervaring een Taakrapport opent, ontbreekt de optie om een [!UICONTROL Gantt Chart] mening van de rapporttoolbar te selecteren. Als de weergave [!UICONTROL Gantt Chart] standaard in het rapport wordt weergegeven, wordt een lijstopmaak weergegeven.
 
-**Fout tekenlimiet die niet optreedt bij verzenden van verzoek**
+**fout van de de grensbeperking van het Karakter die niet op verzoekvoorlegging voorkomt**
 
 _Verzoeken_
 
-Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] de ervaring probeert om een verzoek voor te leggen en zij overschrijden de karaktergrens voor een gebied, kunnen zij het verzoek niet voorleggen en geen foutenmeldingsvertoningen. In [!DNL Adobe Workfront Classic]wordt de waarschuwing &quot;[!UICONTROL [number] characters over" and when they attempt to submit the request, they see the error message "Please check the following: Please enter no more than 2000 characters (you entered [number] characters).]&quot;
+Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] -ervaring een aanvraag probeert in te dienen en de tekenlimiet voor een veld overschrijdt, kunnen deze de aanvraag niet verzenden en wordt er geen foutbericht weergegeven. In [!DNL Adobe Workfront Classic] ziet de gebruiker de waarschuwing &quot;[!UICONTROL [number] characters over" and when they attempt to submit the request, they see the error message "Please check the following: Please enter no more than 2000 characters (you entered [number] characters).]&quot;
 
 +++
 
-+++**Onderhoudsupdate op 10 juni 2021**
++++**Update van het Onderhoud op 10 Juni, 2021**
 
-**Gewijzigde sjabloontaken worden niet verplaatst**
+**Geherordende malplaatjetaken bewegen zich niet**
 
-_Sjablonen_
+_Malplaatjes_
 
-Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] Ervaring sleept een malplaatjetaak aan een nieuwe plaats in een lijst, het aantal updates van de malplaatjetaak, maar het reorder niet.
+Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] ervaring een malplaatjetaak aan een nieuwe plaats in een lijst sleept, werkt het aantal van de malplaatjetaak bij, maar het verandert niet in orde.
 
-**Onderliggende taken die niet zijn geselecteerd met bovenliggende taken**
+**de taken van het Kind selecteerden niet met oudertaken**
 
-_Sjablonen_
+_Malplaatjes_
 
 Wanneer een gebruiker een oudertaak op een project selecteert dat van een malplaatje wordt gecreeerd, worden de kindtaken niet automatisch geselecteerd.
 
-**Alle mijlpalen voor inlinebewerking in een takenlijst worden weergegeven**
+**Inline het uitgeven mijlpalen op een taaklijst toont alle mijlpalen**
 
 _Projecten_
 
-Wanneer aan een project een milestone-pad is toegevoegd en een gebruiker in het nieuwe project [!DNL Adobe Workfront] Ervaar inline geeft uit [!UICONTROL Milestone: Name] in die takenlijst worden alle paden met mijlpalen weergegeven in het vervolgkeuzemenu, in plaats van alleen de paden met mijlpalen die aan dat project zijn gekoppeld.
+Wanneer er een milestone-pad aan een project is toegevoegd en een gebruiker in de nieuwe [!DNL Adobe Workfront] -ervaring de [!UICONTROL Milestone: Name] -kolom in die takenlijst inline bewerkt, worden alle milestone-paden weergegeven in het vervolgkeuzemenu, in plaats van alleen de milestone-paden die aan dat project zijn gekoppeld.
 
 +++
 
-+++**Onderhoudsupdate op 3 juni 2021**
++++**Update van het Onderhoud op 3 Juni, 2021**
 
-**Door Vragen wordt de pagina schudd**
+**Vragen veroorzaakt pagina om te schudden**
 
 _Rapporten_
 
-Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] de ervaring stelt een rapport met een herinnering in werking, de kolommen in het rapport gaan snel van links naar rechts.
+Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] ervaring een rapport met een herinnering in werking stelt, bewegen de kolommen in het rapport snel van links naar rechts.
 
-**Sommige zinnen op de [!UICONTROL New proof] pagina&#39;s worden niet goed vertaald**
-
-_[!DNL Workfront Proof]_
-
-Wanneer een gebruiker naar de [!UICONTROL New proof creation] pagina in [!DNL Workfront Proof] en de inhoud wordt vertaald naar een andere taal dan het Engels, worden sommige uitdrukkingen nog steeds in het Engels weergegeven.
-
-**Gedetactiveerde en verwijderde labels die aan gebruikers zijn toegevoegd[!DNL Workfront Proof]**
+**Sommige uitdrukkingen op de [!UICONTROL New proof] pagina vertalen niet behoorlijk**
 
 _[!DNL Workfront Proof]_
 
-[!UICONTROL Deactivated] en [!UICONTROL Deleted] gebruikerslabels zijn toegevoegd aan de volgende gebieden in [!DNL Workfront] Proef:
+Wanneer een gebruiker naar de pagina [!UICONTROL New proof creation] in [!DNL Workfront Proof] navigeert en de inhoud naar een andere taal dan het Engels wordt vertaald, worden sommige woorden nog steeds in het Engels weergegeven.
 
-* [!UICONTROL Proof details] page
+**Gedeactiveerde en verwijderde labels die aan gebruikers zijn toegevoegd[!DNL Workfront Proof]**
+
+_[!DNL Workfront Proof]_
+
+[!UICONTROL Deactivated] en [!UICONTROL Deleted] -gebruikerslabels zijn toegevoegd aan de volgende gebieden in [!DNL Workfront] Proef:
+
+* [!UICONTROL Proof details] pagina
 * [!UICONTROL Proofing views]
 * [!UICONTROL Proofing viewer]
 * [!UICONTROL Proofing workflows]
-* [!UICONTROL Print comments] page
-* [!UICONTROL User] page
+* [!UICONTROL Print comments] pagina
+* [!UICONTROL User] pagina
 
 +++
 
 
 ## Updates in mei 2021
 
-+++**Onderhoudsupdate op 27 mei 2021**
++++**Update van het Onderhoud op 27 Mei, 2021**
 
-**[!UICONTROL Commit Date]kalenderweergaven voor updates**
+**[!UICONTROL Commit Date]Kalender wordt weergegeven voor updates**
 
 _Taken_
 
-Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] de ervaring gaat een update op een taak in, [!UICONTROL Commit Date] De kalender wordt weergegeven zonder dat de gebruiker de kalender [!UICONTROL Commit Date] veld.
+Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] -ervaring een update voor een taak invoert, wordt de [!UICONTROL Commit Date] -kalender weergegeven zonder dat de gebruiker het [!UICONTROL Commit Date] -veld selecteert.
 
-**[!UICONTROL More]ontbreken in filters, weergaven en groepen**
+**[!UICONTROL More]ontbreekt in filters, weergaven en groepen**
 
 _Lijsten_
 
-Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] ervaren bekijkt de filters, de meningen, of de groepen voor een lijst, [!UICONTROL More] menupictogram ontbreekt. Hiermee voorkomt u dat ze worden gedeeld of, als ze toegang hebben, dat filters, weergaven of groepen worden verwijderd.
+Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] ervaring de filters, meningen, of groepen voor een lijst bekijkt, mist het [!UICONTROL More] menupictogram, die hen verhindert te delen of - als zij toegang hebben - verwijderend filters, meningen, of groeperingen.
 
-**Een project kopiëren en plakken [!UICONTROL Reference Number] voegt &quot;[!UICONTROL This]&quot;**
+**het kopiëren en het Plakken van een project [!UICONTROL Reference Number] voegt &quot;[!UICONTROL This] toe&quot;**
 
 _Projecten_
 
-Wanneer een gebruiker in de nieuwe [!DNL Workfront] de ervaring navigeert aan een project, kopieert [!UICONTROL Reference Number] van de [!UICONTROL Overview] gebied, plakt het vervolgens met het woord &quot;[!UICONTROL This]&quot; wordt toegevoegd aan het einde van het getal.
+Wanneer een gebruiker in de nieuwe [!DNL Workfront] ervaring aan een project navigeert, kopieert [!UICONTROL Reference Number] van het [!UICONTROL Overview] gebied, dan kleeft het, wordt het woord &quot;[!UICONTROL This]&quot;toegevoegd aan het eind van het aantal.
 
-**[!UICONTROL Daily Digest]e-mails worden verzonden wanneer ze zijn uitgeschakeld**
+**[!UICONTROL Daily Digest]E-mails worden verzonden wanneer deze zijn uitgeschakeld**
 
-_E-mailmeldingen_
+_E-mailberichten_
 
-Sommige gebruikers ontvangen [!UICONTROL Daily Digest] e-mailmeldingen als deze niet zijn ingeschakeld in de gebruikersinstellingen.
+Sommige gebruikers ontvangen [!UICONTROL Daily Digest] e-mailmeldingen wanneer deze niet zijn ingeschakeld in hun gebruikersinstellingen.
 
-**Fout: het object bestaat niet meer**
+**het voorwerp bestaat niet meer fout**
 
-_Objecten_
+_Voorwerpen_
 
-Wanneer een gebruiker in de nieuwe [!DNL Workfront] ervaren pogingen om bepaalde objecten te openen, zien ze het foutbericht &quot;[!UICONTROL The (object) no longer exists: You may have mistyped the web address. Double check it and try entering the address again.]&quot; De objectkoppeling staat nog steeds in lijsten, verlopen, favorieten, zoekresultaten, enz., maar ze hebben er geen toegang toe en wordt niet weergegeven in de prullenbak met verwijderde objecten.
+Wanneer een gebruiker in de nieuwe [!DNL Workfront] ervaring probeert om bepaalde voorwerpen te openen, zien zij het foutenbericht &quot; [!UICONTROL The (object) no longer exists: You may have mistyped the web address. Double check it and try entering the address again.]&quot;De objecten verbinding verschijnt nog in lijsten, recents, favorieten, onderzoeksresultaten, enz., maar zij kunnen niet tot het toegang hebben en het verschijnt niet in de Bak met geschrapte voorwerpen.
 
 
 
 +++
 
-+++**Onderhoudsupdate op 20 mei 2021**
++++**Update van het Onderhoud op 20 Mei, 2021**
 
-**Proefopties ontbreken**
+**de opties van het Bewijs ontbreken**
 
-_Proefdrukken_
+_Proofs_
 
-Wanneer een gebruiker een andere versie van een proefdruk uploadt in [!DNL Workfront]de [!UICONTROL Open Proof] en [!UICONTROL Proofing Workflow] koppelingen ontbreken, waardoor het lijkt alsof het een document is in plaats van een bewijs. Wanneer deze koppelingen ontbreken, wordt het label [!UICONTROL Pending] ook beeldschermen weergeven en andere gebruikers kunnen de proefdruk niet genereren terwijl deze zich in deze modus bevindt [!UICONTROL Pending] status.
+Wanneer een gebruiker een andere versie van een proefdruk uploadt in [!DNL Workfront] , ontbreken de koppelingen [!UICONTROL Open Proof] en [!UICONTROL Proofing Workflow] , zodat het lijkt alsof het een document in plaats van een proefdruk is. Wanneer deze koppelingen ontbreken, wordt het label [!UICONTROL Pending] ook weergegeven en kunnen andere gebruikers de proefdruk niet genereren wanneer deze de status [!UICONTROL Pending] heeft.
 
 **Gebruikers die geen geplande rapportleveringen ontvangen**
 
@@ -1108,41 +1108,41 @@ _Rapporten_
 
 Wanneer sommige rapporten voor rapportlevering gepland zijn, ontvangen de gebruikers soms niet de rapporten.
 
-**Kan toegang voor lay-outsjabloon niet verwijderen**
+**Onbekwaam om toegang voor het Malplaatje van de Lay-out te verwijderen**
 
 _Dashboards_
 
-Wanneer een gebruiker opent [!UICONTROL Sharing] opties voor een dashboard om toegang voor een Malplaatje van de Lay-out te verwijderen, geen [!UICONTROL Delete] wordt weergegeven naast de sjabloon Indeling en ze kunnen de toegang niet verwijderen.
+Wanneer een gebruiker [!UICONTROL Sharing] -opties opent voor een dashboard om de toegang voor een lay-outsjabloon te verwijderen, verschijnt er geen pictogram [!UICONTROL Delete] naast de sjabloon voor lay-out en kunnen de gebruikers de toegang niet verwijderen.
 
 +++
 
 +++**[!DNL Workfront Fusion]Onderhoudsupdate op 17 mei 2021**
 
-**In het dashboard van de organisatie wordt nu het aantal actieve scenario&#39;s correct weergegeven**
+**Dashboard van de Organisatie toont nu correct het aantal actieve scenario&#39;s**
 
 _[!DNL Workfront Fusion]_
 
-De [!UICONTROL Organization] op het dashboard werd eerder een leeg veld weergegeven in plaats van het aantal scenario&#39;s dat wordt gebruikt.
+Op het dashboard van [!UICONTROL Organization] werd eerder een leeg veld weergegeven in plaats van het aantal scenario&#39;s dat wordt gebruikt.
 
-**Bladeren in de gegevenswinkel geeft nu kolomlabels weer**
+**de opslag die van Gegevens nu doorbladert toont kolometiketten**
 
 _[!DNL Workfront Fusion]_
 
-Gegevensstructuren die gebruikmaakten van kolomlabels die eerder de kolomnaam in het dialoogvenster [!UICONTROL data store browsing] weergeven.  Nu wordt het kolomlabel weergegeven.  Als er geen label voor de kolom wordt geïdentificeerd, wordt de kolomnaam weergegeven.
+Gegevensstructuren die gebruik maakten van kolomlabels, gaven de kolomnaam eerder weer in de weergave [!UICONTROL data store browsing] .  Nu wordt het kolomlabel weergegeven.  Als er geen label voor de kolom wordt geïdentificeerd, wordt de kolomnaam weergegeven.
 
-**De initialisatiefout van het scenario heeft niet langer invloed op de webhaakgegevens**
+**de initialisatiefout van het scenario beïnvloedt niet meer webhaakgegevens**
 
 _[!DNL Workfront Fusion]_
 
 Eerder, zou een WebHaak-in werking gesteld scenario (met inbegrip van die die een gebeurtenis in real time gebruiken om teweeg te brengen) dat een fout tijdens scenario initialisering ontmoette potentieel in het verliezen van toegang tot die WebHaakgegevens resulteren.  Nu, als een fout tijdens scenario initialisatie voorkomt (zoals het niet kunnen verifiëren van een verbinding), zullen de WebHaakgegevens in de WebHaakrij worden gehandhaafd en de uitvoering wordt automatisch opnieuw geprobeerd.  Na drie mislukte pogingen, wordt het scenario gedeactiveerd en de informatie zal nog in de rij blijven.
 
-**Records in webhaakwachtrijen worden nu in kleinere batches verwerkt**
+**Verslagen in webhaakrijen worden nu verwerkt in kleinere partijen**
 
 _[!DNL Workfront Fusion]_
 
-Eerder, als een gebruiker een inactief scenario activeerde dat een bijbehorende webharij van vele verslagen had, [!DNL Workfront Fusion] zou worden geprobeerd de volledige wachtrij in één uitvoering te verwerken (maar dan met meerdere cycli).  Afhankelijk van de hoeveelheid verwerkte verslagen, kon dit soms de enige uitvoering veroorzaken om de maximumhoeveelheid uitvoeringstijd (40 minuten) te overschrijden.  Nu, wanneer u een inactief scenario activeert dat een bijbehorende webharij van verslagen heeft, zal Workfront Fusion tot het maximumaantal verslagen verwerken die in één enkele uitvoering worden geïdentificeerd (gewoonlijk 2 verslagen per uitvoering).
+Eerder, als een gebruiker een inactief scenario activeerde dat een bijbehorende webharij van vele verslagen had, [!DNL Workfront Fusion] zou proberen om de volledige rij in één enkele uitvoering (alhoewel veelvoudige cycli) te verwerken.  Afhankelijk van de hoeveelheid verwerkte verslagen, kon dit soms de enige uitvoering veroorzaken om de maximumhoeveelheid uitvoeringstijd (40 minuten) te overschrijden.  Nu, wanneer u een inactief scenario activeert dat een bijbehorende webharij van verslagen heeft, zal Workfront Fusion tot het maximumaantal verslagen verwerken die in één enkele uitvoering worden geïdentificeerd (gewoonlijk 2 verslagen per uitvoering).
 
-**In de gegevensopslag worden nu de waarden &quot;0&quot; correct weergegeven**
+**de opslag van Gegevens toont nu correct &quot;0&quot;waarden**
 
 _[!DNL Workfront Fusion]_
 
@@ -1150,45 +1150,45 @@ Eerder werden de waarden voor de gegevensopslagruimte 0 als leeg weergegeven. &l
 
 +++
 
-+++**Onderhoudsupdate op 13 mei 2021**
++++**Update van het Onderhoud op 13 Mei, 2021**
 
-**Vervolgkeuzelijst wordt achter de [!UICONTROL Unassigned Work] header**
+**drop-down kalender verschijnt achter de [!UICONTROL Unassigned Work] kopbal**
 
 _[!UICONTROL Workload Balancer]_
 
-Wanneer een gebruiker naar de [!UICONTROL Workload Balancer] in [!DNL Workfront Classic], wordt de bovenkant van de datepicker verborgen achter de [!UICONTROL Unassigned Work] header, die voorkomt dat de gebruiker naar andere maanden navigeert.
+Wanneer een gebruiker naar de [!UICONTROL Workload Balancer] in [!DNL Workfront Classic] navigeert, wordt de bovenkant van de datepicker verborgen achter de header [!UICONTROL Unassigned Work] , waardoor de gebruiker niet naar andere maanden kan navigeren.
 
-**Kan tekst niet plakken in aangepast berichtveld**
+**Onbekwaam om tekst op het gebied van het douanebericht te kleven**
 
 _[!DNL Workfront Proof]_
 
-Opmerking: Deze kwestie lijkt alleen van invloed te zijn op de [!DNL Google Chrome] webbrowser op dit moment.
+Opmerking: dit probleem heeft momenteel alleen invloed op de webbrowser van [!DNL Google Chrome] .
 
-Wanneer een gebruiker een nieuwe proefdruk maakt in [!DNL Workfront Proof] en wordt geprobeerd tekst uit een e-mailbericht te plakken in de [!UICONTROL Message] in het [!UICONTROL Email notification] niet kunnen plakken.
+Wanneer een gebruiker een nieuwe proefdruk maakt in [!DNL Workfront Proof] en probeert tekst uit een e-mail te plakken in het veld [!UICONTROL Message] in de sectie [!UICONTROL Email notification] , kan hij of zij de tekst niet plakken.
 
-**Niet-ondersteunde velden worden weergegeven in de builder**
+**Niet gesteunde gebieden tonen in de bouwer**
 
 _Aangepaste Forms_
 
-Wanneer een gebruiker een aangepast formulier maakt en een berekend veld maakt met een dynamisch veld, bijvoorbeeld [!UICONTROL Number of Open Risks]—in het berekeningsvak wordt rood gemarkeerd en kunt u de wijzigingen niet opslaan. Dynamische velden mogen niet worden weergegeven in de kiezer voor berekende velden.
+Wanneer een gebruiker een aangepast formulier maakt en probeert een berekend veld te maken met een dynamisch veld, bijvoorbeeld [!UICONTROL Number of Open Risks] , wordt het berekeningsvak rood gemarkeerd en kunt u de wijzigingen niet opslaan. Dynamische velden mogen niet worden weergegeven in de kiezer voor berekende velden.
 
-**Voorvertonen voor taken in [!UICONTROL Work List] niet laden**
+**Voorproef voor taken in [!UICONTROL Work List] zal niet laden**
 
-_Home_
+_Huis_
 
-Wanneer een gebruiker in de nieuwe [!DNL Workfront] de ervaring wordt toegewezen aan een lay-outsjabloon die aangepaste velden bevat op [!UICONTROL Home], reageert de pagina niet en worden taken van de [!UICONTROL Work List] als de gebruikers deze selecteren.
+Wanneer een gebruiker in de nieuwe [!DNL Workfront] -ervaring wordt toegewezen aan een lay-outsjabloon die aangepaste velden op [!UICONTROL Home] bevat, reageert de pagina niet en worden taken niet geladen vanuit de [!UICONTROL Work List] als de gebruikers deze selecteren.
 
-**Objecten in [!UICONTROL Work List] niet laden in[!UICONTROL Home]**
+**Objecten in [!UICONTROL Work List] worden niet geladen in[!UICONTROL Home]**
 
 _[!UICONTROL Home]_
 
-Wanneer een gebruiker op een object in het dialoogvenster [!UICONTROL Home Work List]verschijnt de koptekst van het object in het rechterdeelvenster, maar de details van het object worden niet weergegeven. Uiteindelijk ziet de gebruiker het bericht &quot;[!UICONTROL Pages Unresponsive.]&quot;
+Wanneer een gebruiker op een object in de [!UICONTROL Home Work List] klikt, wordt de koptekst van het object in het rechterdeelvenster weergegeven, maar worden de details van het object niet weergegeven. Uiteindelijk ziet de gebruiker het bericht &quot;[!UICONTROL Pages Unresponsive.]&quot;
 
-**Problemen met RTF-velden[!DNL Microsoft Outlook]**
+**Rich text field issues in[!DNL Microsoft Outlook]**
 
-_Workfront-integratie_
+_de Integraties van Workfront_
 
-Wanneer een gebruiker een RTF-veld bijwerkt met de [!DNL Workfront for Outlook] integratie, kunnen zij niet:
+Wanneer een gebruiker een RTF-veld bijwerkt met de integratie met [!DNL Workfront for Outlook] , kunnen deze niet:
 
 * Backspace
 * Tekst kopiëren
@@ -1197,35 +1197,35 @@ Wanneer een gebruiker een RTF-veld bijwerkt met de [!DNL Workfront for Outlook] 
 
 +++
 
-+++**Onderhoudsupdate op 6 mei 2021**
++++**Update van het Onderhoud op 6 Mei, 2021**
 
-**[!UICONTROL Currency]veld werkt niet naar behoren**
+**[!UICONTROL Currency]-veld werkt niet zoals verwacht**
 
 _Lijsten_
 
-Wanneer een gebruiker probeert de curve inline te bewerkenin een lijst kunnen wijzigingen niet worden opgeslagen vanwege de volgende problemen:
+Wanneer een gebruiker probeert om het gebied van de Kromme  ency in een lijst inline uit te geven, kunnen zij geen veranderingen wegens de volgende kwesties bewaren:
 
 * Taak- en emissielijsten staan invoer van valutasymbolen niet toe
 * Lijsten die geen input van muntafkortingen toestaan wanneer het gebruiken van een scène buiten het Engels
 * Subtask- en Issue-lijsten die alleen de valutakorting van USD toestaan, ongeacht de vastgestelde projectvaluta
 
-**Naam wordt niet bijgewerkt met nieuwe proefdruknaam**
+**Naam die niet bijwerkt om nieuwe proefnaam** aan te passen
 
 _Documenten_
 
-Wanneer een gebruiker een nieuwe versie van een proefdruk maakt en de proefdruknaam bijwerkt, wordt het documentobject in [!DNL Workfront] behoudt de oorspronkelijke naam in plaats van de nieuwe proefdruknaam.
+Wanneer een gebruiker een nieuwe versie van een proefdruk maakt en de proefdruknaam bijwerkt, behoudt het documentobject in [!DNL Workfront] de oorspronkelijke naam in plaats van de nieuwe proefdruknaam.
 
-**[!UICONTROL Business Case]knoppen werken niet wanneer aangepaste formulieren worden gekoppeld**
+**[!UICONTROL Business Case]De knoppen werken niet wanneer aangepaste formulieren worden gekoppeld.**
 
 _Projecten_
 
-Wanneer een project in het nieuwe [!DNL Workfront] de ervaring wordt gecreeerd van een projectmalplaatje en er is een douaneformulier in bijlage, kunnen de gebruikers, een bedrijfsgeval voorleggen verwerpen of goedkeuren niet.
+Wanneer een project in de nieuwe [!DNL Workfront] ervaring van een projectmalplaatje wordt gecreeerd en er een douaneformulier in bijlage is, kunnen de gebruikers een bedrijfscase voorleggen, verwerpen of goedkeuren niet.
 
-**Gearchiveerde proefdrukken weergegeven in lijsten en rapporten**
+**Gearchiveerde proeven die op lijsten en rapporten** tonen
 
-_Proefdrukken_
+_Proofs_
 
-Wanneer een gebruiker zijn werklijst bekijkt in [!UICONTROL Home] of [!UICONTROL My Work]worden proeven die al zijn gearchiveerd, weergegeven in de lijst. Gearchiveerde proefdrukken worden ook weergegeven in rapporten en dashboards.
+Wanneer een gebruiker zijn werklijst in [!UICONTROL Home] of [!UICONTROL My Work] weergeeft, worden proefdrukken die al zijn gearchiveerd, weergegeven in de lijst. Gearchiveerde proefdrukken worden ook weergegeven in rapporten en dashboards.
 
 **Project dat van malplaatje wordt gecreeerd heeft onjuiste toegangsmontages**
 
@@ -1233,144 +1233,144 @@ _Projecten_
 
 Wanneer een gebruiker een project van een malplaatje creeert, dragen de de toegangsmontages van het malplaatje niet over aan het nieuwe gecreeerde project.
 
-**Objecten in [!UICONTROL Work List] niet laden in[!UICONTROL Home]**
+**Objecten in [!UICONTROL Work List] worden niet geladen in[!UICONTROL Home]**
 
 _[!UICONTROL Home]_
 
-Wanneer een gebruiker op een object in het dialoogvenster [!UICONTROL Home Work List]verschijnt de koptekst van het object in het rechterdeelvenster, maar de details van het object worden niet weergegeven. Uiteindelijk ziet de gebruiker het bericht &quot;[!UICONTROL Pages Unresponsive.]&quot;
+Wanneer een gebruiker op een object in de [!UICONTROL Home Work List] klikt, wordt de koptekst van het object in het rechterdeelvenster weergegeven, maar worden de details van het object niet weergegeven. Uiteindelijk ziet de gebruiker het bericht &quot;[!UICONTROL Pages Unresponsive.]&quot;
 
 +++
 
 
 ## Updates in april 2021
 
-+++**Onderhoudsupdate op 29 april 2021**
++++**Update van het Onderhoud op 29 April, 2021**
 
 **[!DNL SharePoint]de integratie verifieert gebruikend geloofsbrieven van een afzonderlijke integratie**
 
-_Workfront-integratie_
+_de Integraties van Workfront_
 
-Wanneer een gebruiker meer dan één [!DNL SharePoint] integratie, één [!DNL SharePoint] verificatiepogingen om te verifiëren met behulp van de referenties van een andere [!DNL SharePoint] integratie.
+Wanneer een gebruiker meer dan één [!DNL SharePoint] integratie heeft, probeert één [!DNL SharePoint] authentificatie om voor authentiek te verklaren gebruikend de geloofsbrieven van een andere [!DNL SharePoint] integratie.
 
-**Kan bestanden niet uploaden of exporteren vanuit [!DNL Adobe] producten**
+**kan geen dossiers van [!DNL Adobe] producten** uploaden of uitvoeren
 
-_Workfront-integratie_
+_de Integraties van Workfront_
 
-Wanneer een gebruiker bestanden probeert te uploaden of te exporteren met de opdracht [!DNL Workfront for Adobe Creative Cloud] integratie, zien ze het foutbericht &quot;[!UICONTROL Cannot read property 'stages' of undefined]&quot; en kunnen de bestanden niet uploaden of exporteren.
+Wanneer een gebruiker bestanden probeert te uploaden of te exporteren met [!DNL Workfront for Adobe Creative Cloud] integratie, wordt het foutbericht &quot; [!UICONTROL Cannot read property 'stages' of undefined]&quot; weergegeven en kunnen de bestanden niet worden geüpload of geëxporteerd.
 
 **Bestanden zijn niet zichtbaar in[!DNL Internet Explorer]**
 
 _Documenten_
 
-Wanneer een gebruiker met een [!DNL Internet Explorer] browser navigeert naar de [!UICONTROL Documents] gebied van een object, het [!UICONTROL Documents] is leeg en laadt de bestanden niet. Voor sommige gebruikers laadt het scherm sommige bestanden wel, maar het aantal weergegeven bestanden komt niet overeen met het aantal dat wordt weergegeven naast het dialoogvenster [!UICONTROL Documents] sectie.
+Wanneer een gebruiker met een [!DNL Internet Explorer] browser naar het [!UICONTROL Documents] gebied van een voorwerp navigeert, is het [!UICONTROL Documents] scherm leeg en laadt niet de dossiers. Voor sommige gebruikers laadt het scherm sommige bestanden wel, maar het aantal weergegeven bestanden komt niet overeen met het aantal dat wordt weergegeven naast de sectie [!UICONTROL Documents] .
 
 +++
 
-+++**Onderhoudsupdate op 22 april 2021**
++++**Update van het Onderhoud op 22 April, 2021**
 
-**Taken die in de verkeerde volgorde zijn toegevoegd**
+**Taken die in de verkeerde orde** worden toegevoegd
 
-_Sjablonen_
+_Malplaatjes_
 
 Wanneer een gebruiker een taak aan een malplaatje toevoegt, ontvangt de taak niet het taakaantal zij verwachten en de taak wordt toegevoegd op de verkeerde plaats.
 
-**Proefdrukken worden nu gecombineerd in één e-mail**
+**De proef wordt nu gecombineerd in één enkele e-mail**
 
-_Proefdrukken_
+_Proofs_
 
-[!DNL Workfront] verzendt nu één e-mail voor gecombineerde proefdrukken eerder dan het verzenden van een e-mail voor elk inbegrepen dossier.
+[!DNL Workfront] verzendt nu één e-mail voor gecombineerde proefdrukken in plaats van een e-mail voor elk inbegrepen dossier te verzenden.
 +++
 
 +++**[!DNL Workfront Fusion]Onderhoudsupdate op 15 april 2021**
 
-**&quot;[!UICONTROL Scenario rejected]&quot; fout bij het uitvoeren van een scenario**
+**&quot;[!UICONTROL Scenario rejected]&quot;fout wanneer het runnen van een scenario**
 
 _[!DNL Workfront Fusion]_
 
-Wanneer een gebruiker een scenario probeert in werking te stellen, voert het scenario niet uit en de gebruiker ontvangt het bericht &quot;[!UICONTROL Scenario rejected.]&quot;
+Wanneer een gebruiker probeert om een scenario in werking te stellen, voert het scenario niet uit en de gebruiker ontvangt het bericht &quot;[!UICONTROL Scenario rejected.]&quot;
 
 +++
 
-+++**Onderhoudsupdate op 15 april 2021**
++++**Update van het Onderhoud op 15 April, 2021**
 
-**[!UICONTROL Workload Balancer]onjuist geplande uren weergeven**
+**[!UICONTROL Workload Balancer]geeft onjuiste geplande uren weer**
 
 _[!UICONTROL Workload Balancer]_
 
-Wanneer een gebruiker de geplande uren van een taak in de [!UICONTROL Workload Balancer] de waarde van de geplande uren komt niet overeen met de geplande uren die aan de taak zijn toegewezen.
+Wanneer een gebruiker de geplande uren van een taak in [!UICONTROL Workload Balancer] bekijkt, komt de waarde van de geplande uren niet overeen met de geplande uren die aan de taak zijn toegewezen.
 
 **De bovenste navigatiebalk is niet zichtbaar in[!DNL Workfront Proof]**
 
 _[!DNL Workfront Proof]_
 
-Wanneer een gebruiker naar een [!DNL Workfront Proof] op een andere pagina dan de pagina Dashboard verdwijnt de bovenste navigatiebalk. De gebruiker heeft geen toegang tot de functionaliteit op de navigatiebalk, zoals de accountinstellingen of het profiel.
+Wanneer een gebruiker naar een andere [!DNL Workfront Proof] pagina dan de dashboardpagina navigeert, verdwijnt de bovenste navigatiebalk. De gebruiker heeft geen toegang tot de functionaliteit op de navigatiebalk, zoals de accountinstellingen of het bijbehorende profiel.
 
-**Verbetering van aangepaste formulieren**
+**Verbetering van de Vorm van de Douane**
 
-_Aangepaste formulieren_
+_de vormen van de Douane_
 
 Voor een betere ervaring bij het invullen van een aangepast formulier hebben we de manier verbeterd waarop de lange aangepaste veldlabels worden weergegeven. Wanneer er voldoende horizontale ruimte is om deze in hun geheel weer te geven, worden deze labels niet meer afgekapt.
 
 +++
 
-+++**Onderhoudsupdate op 8 april 2021**
++++**Update van het Onderhoud op 8 April, 2021**
 
-**Kan proefdrukken niet maken in [!DNL Adobe Creative Cloud] integratie**
+**kan geen proefdrukken in [!DNL Adobe Creative Cloud] integratie** tot stand brengen
 
-_Workfront-integratie_
+_de Integraties van Workfront_
 
-Wanneer een gebruiker rechtstreeks vanuit de [!DNL Adobe Creative Cloud], wordt het bewijs niet gegenereerd.
+Wanneer een gebruiker rechtstreeks vanuit [!DNL Adobe Creative Cloud] een proefdruk probeert te maken, wordt deze niet gegenereerd.
 
 +++
 
-+++**Onderhoudsupdate op 1 april 2021**
++++**Update van het Onderhoud op 1 April, 2021**
 
-**Problemen met weergaveoverzicht in[!DNL Chrome]**
+**Problemen bij weergave van overzichtsvenster in[!DNL Chrome]**
 
 _[!UICONTROL Summary]_
 
-Wanneer een gebruiker de [!UICONTROL Summary] deelvenster tijdens het gebruik van het [!DNL Chrome] de interface van het deelvenster Samenvatting zich niet naar behoren gedraagt. De gebruiker kan niet schuiven, de pictogrammen kunnen verdwijnen en de inhoud kan andere inhoud overlappen.
+Wanneer een gebruiker het deelvenster [!UICONTROL Summary] opent terwijl de [!DNL Chrome] -browser wordt gebruikt, gedraagt de interface van het deelvenster Samenvatting zich niet zoals verwacht. De gebruiker kan niet schuiven, de pictogrammen kunnen verdwijnen en de inhoud kan andere inhoud overlappen.
 
-**[!UICONTROL Teams]gebied in [!UICONTROL Setup] niet alle teams weergeven**
+**[!UICONTROL Teams]in [!UICONTROL Setup] niet alle teams weergeven**
 
 _[!UICONTROL Setup]_
 
-Wanneer een beheerder naar de [!UICONTROL Teams] gebied van [!UICONTROL Setup]kunnen alleen de teams weergeven die ze hebben gemaakt. Teams die door andere beheerders zijn gemaakt, zijn niet zichtbaar.
+Wanneer een beheerder naar het [!UICONTROL Teams] -gebied van [!UICONTROL Setup] gaat, kunnen alleen de teams worden weergegeven die ze hebben gemaakt. Teams die door andere beheerders zijn gemaakt, zijn niet zichtbaar.
 
-**Kan geen updates toevoegen aan project in [!UICONTROL Pending Approval] status**
+**kan geen updates aan project in [!UICONTROL Pending Approval] status** toevoegen
 
 _Projecten_
 
-Als een gebruiker een update probeert toe te voegen aan een project in [!UICONTROL Pending Approval] status, en zij zijn niet de gebruiker die wordt toegewezen om het project goed te keuren, wordt de update niet toegevoegd en zij zien de volgende kennisgeving:
+Als een gebruiker probeert om een update aan een project in [!UICONTROL Pending Approval] status toe te voegen, en zij niet de gebruiker zijn die wordt toegewezen om het project goed te keuren, wordt de update niet toegevoegd en zij zien de volgende verklaring:
 
-Een project met een &#39;[!DNL Pending Approval]&#39; status kan niet worden bewerkt. U kunt het project wijzigen door de status te wijzigen.
+Een project met een &quot;[!DNL Pending Approval]&quot;status kan niet worden uitgegeven. U kunt het project wijzigen door de status te wijzigen.
 
 +++
 
 
 ## Updates in maart 2021
 
-+++**Onderhoudsupdate op 26 maart 2021**
++++**Update van het Onderhoud op 26 Maart, 2021**
 
-**Knoppen in een bedrijfscase worden onjuist weergegeven**
+**Knopen in een bedrijfscasevertoning verkeerd**
 
 _Projecten_
 
-Wanneer een gebruiker een bedrijfscase weergeeft en het venster in de modus Volledig scherm wordt weergegeven, [!UICONTROL Save] en [!UICONTROL Cancel] de knoppen staan midden in het scherm en overlappen elkaar in de business case-elementen.
+Wanneer een gebruiker een business case bekijkt en het venster in de modus Volledig scherm wordt weergegeven, staan de knoppen [!UICONTROL Save] en [!UICONTROL Cancel] midden in het scherm, met overlappende business case-elementen.
 
-**Kan sorteren van een rapport niet wijzigen**
+**kan het sorteren van een rapport niet veranderen**
 
 _Rapporten_
 
-Wanneer een gebruiker probeert om het sorteren van een rapport in nieuw te veranderen [!DNL Workfront] Tijdens het maken van het rapport verandert de sortering niet van de geselecteerde sortering.
+Wanneer een gebruiker probeert de sortering van een rapport te wijzigen in de nieuwe [!DNL Workfront] -ervaring, verandert de sortering niet van de geselecteerde sortering op het moment dat het rapport werd gemaakt.
 
-**Delen uitgeschakeld op nieuwe proefdrukken**
+**het Delen gehandicapt op nieuwe proefdrukken**
 
 _[!DNL Workfront Proof]_
 
-Wanneer een gebruiker die [!UICONTROL Public Sharing] Als deze optie is ingeschakeld in de standaardproefdrukinstellingen, wordt een proefdruk gemaakt. Delen is uitgeschakeld. Andere gebruikers kunnen de [!UICONTROL Share] of deel de proefdruk.
+Wanneer een gebruiker die [!UICONTROL Public Sharing] in de standaardinstellingen voor proefdrukken heeft ingeschakeld, een proefdruk maakt, wordt de proefdruk gemaakt met Delen uitgeschakeld. Andere gebruikers kunnen de knop [!UICONTROL Share] niet zien of de proefdruk delen.
 
-**&quot;[!UICONTROL Proof failed to generate]&quot;-fout bij maken van proefdruk**
+**&quot;[!UICONTROL Proof failed to generate]&quot;fout wanneer het creëren van proef**
 
 _[!DNL Workfront Proof]_
 
@@ -1382,88 +1382,88 @@ Wanneer een gebruiker een proef probeert tot stand te brengen, wordt de proef ni
 
 +++**[!DNL Workfront Fusion]Onderhoudsupdate op 25 maart 2021**
 
-**Overbodige verzameling of verwijzingsveld verwijderd uit deelvenster voor toewijzing**
+**Verwijderd overtollige inzameling of verwijzingsgebied van het kaartpaneel**
 
 _[!DNL Workfront Fusion]2.0_
 
-Wanneer een gebruiker een term uit de [!DNL Workfront] API om een verzameling of verwijzingsveld te selecteren dat moet worden opgenomen in de uitvoer van een [!DNL Workfront] in de uitvoer van die module wordt dat veld met een dubbele punt weergegeven (bijvoorbeeld [!UICONTROL owner:name]) en ook in de kenmerken (naam is een veld onder eigenaar). Het veld met een dubbele punt bevat geen gegevens en bevat onjuiste gegevens als deze later in het scenario aan een module worden toegewezen.
+Wanneer een gebruiker een term uit de [!DNL Workfront] API gebruikt om een verzameling of een verwijzingsveld te selecteren dat moet worden opgenomen in de uitvoer van een [!DNL Workfront] -module, geeft de uitvoer van die module dat veld weer met een dubbele punt (zoals [!UICONTROL owner:name] ) en ook in de kenmerken (de naam is een veld onder de eigenaar). Het veld met een dubbele punt bevat geen gegevens en bevat onjuiste gegevens als deze later in het scenario aan een module worden toegewezen.
 
 +++
 
 +++**[!DNL Workfront Fusion]Onderhoudsupdate op 18 maart 2021**
 
-**De sjablooninstellingen voor projecten zijn nu van toepassing op projecten die zijn gemaakt via [!DNL Workfront Fusion] 2,0**
+**het malplaatjemontages van het Project zijn nu van toepassing op projecten die door [!DNL Workfront Fusion] 2.0** worden gecreeerd
 
 _[!DNL Workfront Fusion]2.0_
 
-Wanneer u een project maakt op basis van een sjabloon [!DNL Workfront Fusion] 2.0, worden de malplaatjemontages toegepast op het nieuwe project. Dit gedrag is het zelfde wanneer het creëren van een project van een malplaatje in [!DNL Workfront] toepassing.
+Wanneer u een project maakt op basis van een sjabloon met [!DNL Workfront Fusion] 2.0, worden de sjablooninstellingen toegepast op het nieuwe project. Dit gedrag is hetzelfde wanneer u een project maakt op basis van een sjabloon in de [!DNL Workfront] -toepassing.
 
 +++
 
-+++**Onderhoudsupdate op 18 maart 2021**
++++**Update van het Onderhoud op 18 Maart, 2021**
 
-**De montages van het malplaatje van het project zijn nu van toepassing op projecten die door API worden gecreeerd**
+**het malplaatjemontages van het Project zijn nu van toepassing op projecten die door API** worden gecreeerd
 
 _[!DNL Workfront]API_
 
-Wanneer u een project maakt op basis van een sjabloon [!DNL Workfront] API, worden de malplaatjemontages toegepast op het nieuwe project. Dit gedrag is het zelfde wanneer het creëren van een project van een malplaatje in [!DNL Workfront] toepassing.
+Wanneer u een project maakt op basis van een sjabloon met de [!DNL Workfront] API, worden de sjablooninstellingen toegepast op het nieuwe project. Dit gedrag is hetzelfde wanneer u een project maakt op basis van een sjabloon in de [!DNL Workfront] -toepassing.
 
 +++
 
-+++**Onderhoudsupdate (Hot Fix) op 15 maart 2021**
++++**Update van het Onderhoud (Hete Fix) op 15 Maart, 2021**
 
-**Gedeelde component functioneert niet naar behoren**
+**Gedeelde component die niet zoals verwacht functioneert**
 
 _[!DNL Workfront Proof]_
 
-Indien zelfstandig [!DNL Workfront Proof] accounts worden verplaatst naar een gedeelde component. De volgende functionaliteit kan optreden wanneer een gebruiker een nieuwe versie van een proefdruk of document toevoegt:
+Als zelfstandige [!DNL Workfront Proof] -accounts naar een gedeelde component worden verplaatst, kan de volgende functionaliteit optreden wanneer een gebruiker een nieuwe versie van een proefdruk of document toevoegt:
 
-* De gebruiker kan de gebruiker niet verwijderen [!UICONTROL Studio Proof].
+* De gebruiker kan de gebruiker [!UICONTROL Studio Proof] niet verwijderen.
 * Het standaardbericht wordt niet weergegeven in de nieuwe versie.
 
-**Delen van openbare koppelingen is niet ingeschakeld voor een nieuwe versie van een proefdruk**
+**Openbare verbinding die niet op nieuwe versie van een proef** deelt
 
 _Documenten_
 
 Wanneer een gebruiker het delen van openbare koppelingen op een proefdruk inschakelt en vervolgens een nieuwe versie van de proefdruk uploadt, wordt het delen van openbare koppelingen niet automatisch ingeschakeld voor de nieuwe versie van de proefdruk.
 
-**[!UICONTROL Approve], [!UICONTROL Changes], [!UICONTROL Reject] knoppen ontbreken in proefdruk**
+**[!UICONTROL Approve], [!UICONTROL Changes] , [!UICONTROL Reject] knoppen ontbreken in proefdruk**
 
 _[!DNL Workfront Proof]_
 
-Wanneer een gebruiker een proef in de Kijker van het Bewijs bekijkt, [!UICONTROL Approve], [!UICONTROL Changes], en [!UICONTROL Reject] knoppen ontbreken boven in het scherm.
+Wanneer een gebruiker een proef in de Kijker van het Bewijs bekijkt, ontbreken de [!UICONTROL Approve], [!UICONTROL Changes], en [!UICONTROL Reject] knopen van de bovenkant van het scherm.
 
-**Kan sorteren van een rapport niet wijzigen**
+**kan het sorteren van een rapport niet veranderen**
 
 _Rapporten_
 
-Wanneer een gebruiker probeert om het sorteren van een rapport in nieuw te veranderen [!DNL Workfront] Tijdens het maken van het rapport verandert de sortering niet van de geselecteerde sortering.
+Wanneer een gebruiker probeert de sortering van een rapport te wijzigen in de nieuwe [!DNL Workfront] -ervaring, verandert de sortering niet van de geselecteerde sortering op het moment dat het rapport werd gemaakt.
 
-**Aangepast bericht als proefdruk niet naar nieuwe versie is overgedragen**
+**het bericht van de Douane op proef die niet aan nieuwe versie** draagt
 
 _[!DNL Workfront Proof]_
 
 Wanneer een gebruiker een aangepast bericht aan een proefdruk toevoegt en vervolgens een nieuwe versie van die proefdruk uploadt, wordt het aangepaste bericht niet weergegeven op de nieuwe proefdruk.
 
-**Gebruikerslijst wordt niet weergegeven**
+**lijst van de Gebruiker toont niet**
 
 _Lijsten_
 
-Wanneer een gebruiker een gebruikerslijst probeert weer te geven en de weergave de waarde &quot;[!UICONTROL Status Icons]&quot;, wordt de lijst niet weergegeven.
+Wanneer een gebruiker probeert om een lijst van de Gebruiker te bekijken, en de mening omvat &quot;[!UICONTROL Status Icons]&quot;kolom, toont de lijst niet.
 
-**&quot;[!UICONTROL Notify recipients about this proof]&quot; optie uitgeschakeld, ongeacht workflowinstellingen**
+**&quot;[!UICONTROL Notify recipients about this proof]&quot; optie gehandicapt ongeacht werkschemamontages**
 
 _[!DNL Workfront Proof]_
 
-Wanneer een gebruiker een nieuwe proefdruk maakt en niet handmatig de optie &quot;[!UICONTROL Notify recipients about this proof]&quot;, wordt de beoogde ontvanger niet op de hoogte gesteld. Dit geldt ook als de optie is ingeschakeld in workflowinstellingen.
+Wanneer een gebruiker tot een nieuwe proef leidt, en niet manueel de &quot;[!UICONTROL Notify recipients about this proof]&quot;optie aanzet, wordt de voorgenomen ontvanger niet op de hoogte gebracht. Dit geldt ook als de optie is ingeschakeld in workflowinstellingen.
 
-**Kan tijdkader niet wijzigen**
+**Onbekwaam om tijdkader** te veranderen
 
 _[!UICONTROL Enhanced Analytics]_
 
-Wanneer een gebruiker een weergave maakt [!UICONTROL Enhanced analytics] en klikt u op de kalender om het datumbereik aan te passen. De datums blijven ongewijzigd.
+Wanneer een gebruiker [!UICONTROL Enhanced analytics] bekijkt en op de kalender klikt om het datumbereik aan te passen, veranderen de datums niet.
 
-**Kan openbaar gedeeld document niet downloaden**
+**kan openbaar gedeeld document niet downloaden**
 
 _Documenten_
 
@@ -1471,167 +1471,167 @@ Wanneer een gebruiker op een gedeelde koppeling klikt om een document te downloa
 
 +++
 
-+++**Onderhoudsupdate op 11 maart 2021**
++++**Update van het Onderhoud op 11 Maart, 2021**
 
-**Sectie van aangepast formulier wordt niet geëxporteerd voor niet-beheerders**
+**Sectie van douanevorm die niet voor niet-admins uitvoert**
 
 _Aangepaste Forms_
 
-Als een aangepast formulier dat aan een object is gekoppeld een sectie-einde heeft dat iets boven &quot;[!UICONTROL View]&quot; toegang nodig om de inhoud van de sectie weer te geven, kan de inhoud van de sectie niet worden geëxporteerd door iemand anders dan een beheerder.
+Als een douaneformulier in bijlage aan een voorwerp een sectieonderbreking heeft die om het even wat boven &quot; [!UICONTROL View]&quot;toegang nodig heeft om de inhoud van de sectie te bekijken, kan de inhoud van de sectie niet door iemand buiten Admin worden uitgevoerd.
 
-**Het gedownloade document heeft een onjuiste naam**
+**Gedownload document heeft onjuiste naam**
 
 _[!DNL Workfront Proof]_
 
-Wanneer een gebruiker een document downloadt uit de [!UICONTROL Proof viewer], heeft het document de naam van een vorige versie van het document, niet de versie die werd gedownload.
+Wanneer gebruikers een document downloaden van [!UICONTROL Proof viewer], heeft het document de naam van een vorige versie van het document, niet de versie die werd gedownload.
 
 +++
 
-+++**Onderhoudsupdate op 4 maart 2021**
++++**Update van het Onderhoud op 4 Maart, 2021**
 
-**Fout bij benaderen van lay-outsjabloon**
+**Fout wanneer het toegang tot van het Malplaatje van de Lay-out**
 
-_Lay-outsjablonen_
+_Malplaatjes van de Lay-out_
 
-Wanneer een gebruiker zich heeft ingeschreven voor de nieuwe [!DNL Workfront] Ervaar schakelaars aan [!DNL Classic] ervaring en pogingen om [!DNL Classic] lay-outsjabloon, wordt de fout &quot;[!UICONTROL That Page does not exist.]&quot;
+Wanneer een gebruiker die is ingeschreven voor de nieuwe [!DNL Workfront] -ervaring overschakelt naar de [!DNL Classic] -ervaring en probeert toegang te krijgen tot een [!DNL Classic] -lay-outsjabloon, wordt de fout &quot; [!UICONTROL That Page does not exist.]&quot; weergegeven
 
-**Kan filters in het dialoogvenster[!UICONTROL Workload Balancer]**
+**Kan filters in[!UICONTROL Workload Balancer]** niet uitgeven
 
 _[!UICONTROL Workload Balancer]_
 
-Wanneer een gebruiker een filter probeert te bewerken in het dialoogvenster [!UICONTROL Workload Balancer], wordt de filterbuilder niet geopend.
+Wanneer een gebruiker een filter in [!UICONTROL Workload Balancer] probeert te bewerken, wordt de filterconstructor niet geopend.
 
-**&quot;[!UICONTROL See All Notifications]&quot; koppeling in e-mailmelding wordt omgeleid naar onjuiste pagina**
+**&quot;[!UICONTROL See All Notifications]&quot;verbinding in e-mailbericht richt aan onjuiste pagina** opnieuw
 
-_E-mailmeldingen_
+_E-mailberichten_
 
-Wanneer een gebruiker op &quot;[!UICONTROL See All Notifications]&quot; in een e-mailbericht worden ze omgeleid naar een pagina met het volgende bericht:
+Wanneer een gebruiker op de &quot;[!UICONTROL See All Notifications]&quot;verbinding in een e-mailbericht klikt, worden zij opnieuw gericht aan een pagina met het volgende bericht:
 
 &quot;[!UICONTROL The User no longer exists. You may have mistyped the web address. Double check it and try entering the address again.]&quot;
 
-**De gebruiker wordt niet verwezen naar de proefdrukopmerking waarin deze is gelabeld**
+**Gebruiker wordt niet geleid aan de proefdrukcommentaar zij in** worden geëtiketteerd
 
-_E-mailmeldingen_
+_E-mailberichten_
 
-Wanneer een gebruiker is gelabeld in een proefdrukopmerking en op de knop [!UICONTROL Go To Proof] in een e-mailbericht worden ze naar de proefdruk gestuurd, maar niet naar de specifieke opmerking. Als de gebruiker binnen is [!DNL Workfront Classic], worden zij naar de [!UICONTROL Document Details] in plaats van de opmerking in de proefdruk.
+Wanneer een gebruiker in een proefdrukopmerking is gelabeld en in een e-mailmelding op de koppeling [!UICONTROL Go To Proof] klikt, wordt hij of zij naar de proefdrukopmerking verwezen, maar niet naar de specifieke opmerking. Als de gebruiker zich in [!DNL Workfront Classic] bevindt, worden ze naar de [!UICONTROL Document Details] -pagina geleid in plaats van naar de opmerking in de proefdruk.
 
-**Gebruikers toegevoegd aan [!DNL Workfront] ontvangen van e-mailberichten in het werkgebied**
+**Gebruikers toegevoegd aan [!DNL Workfront] stadium die e-mailberichten ontvangen**
 
 _[!DNL Workfront Proof]_
 
-Wanneer een gebruiker die niet op de werkstroom staat een proef opent van [!DNL Workfront], maakt het systeem automatisch een werkgebied, voegt deze gebruiker aan de proefdruk toe en verzendt een [!UICONTROL New Proof] e-mailmelding.
+Wanneer een gebruiker die zich niet in de workflow bevindt, een proefdruk opent vanuit [!DNL Workfront] , maakt het systeem automatisch een werkgebied, voegt deze gebruiker aan de proefdruk toe en verzendt het e-mailbericht van [!UICONTROL New Proof] .
 
-**Handelingen niet beschikbaar maken in het overzichtsvenster van document**
+**het summiere paneel van het Document verdonkert, makend acties niet beschikbaar**
 
 _Documenten_
 
 Wanneer een gebruiker zich op een documentpagina bevindt en boven het documentoverzichtsvenster beweegt, wordt het deelvenster donkerder en worden mogelijk andere knoppen weergegeven. De gebruiker kan niet op de acties in het overzichtspaneel klikken.
 
-**Wijzigingen in stroomprestaties bijwerken**
+**de veranderingen van de stroomprestaties van de Update**
 
-_Stream bijwerken_
+_stroom van de Update_
 
-Het aantal gebruikersupdates dat wordt weergegeven in het dialoogvenster [!UICONTROL Updates] van 50 tot 25 tegelijk gebruiken om de prestaties te verbeteren.
+We hebben het aantal gebruikersupdates dat op het tabblad [!UICONTROL Updates] wordt weergegeven, teruggebracht van 50 naar 25 tegelijk om de prestaties te verbeteren.
 
 +++
 
-+++**Onderhoudsupdate (Hot Fix) op 1 maart 2021**
++++**Update van het Onderhoud (Hete Fix) op 1 Maart, 2021**
 
-**Nieuwe e-mails met bewijs worden niet verzonden**
+**Nieuwe proefe-mails worden niet verzonden**
 
 _[!DNL Workfront Proof]_
 
-OPMERKING: Dit probleem is opgelost in het nieuwe [!DNL Workfront] ervaring op 26 februari 2021.
-Het is in de [!DNL Classic] ervaring op 1 maart 2021.
+OPMERKING: dit probleem is opgelost in de nieuwe [!DNL Workfront] -ervaring op 26 februari 2021.
+Deze is vastgelegd in de [!DNL Classic] -ervaring op 1 maart 2021.
 
-Wanneer een gebruiker een nieuwe proefdruk maakt en de optie inschakelt [!UICONTROL Notify recipients about this proof]Er wordt geen e-mail verzonden om de ontvanger hiervan op de hoogte te stellen.
+Wanneer een gebruiker een nieuwe proefdruk maakt en de optie [!UICONTROL Notify recipients about this proof] inschakelt, wordt geen e-mail verzonden om de ontvanger op de hoogte te stellen.
 
 +++
 
 
 ## Updates in februari 2021
 
-+++**Onderhoudsupdate op 25 februari 2021**
++++**Update van het Onderhoud op 25 Februari, 2021**
 
-**[!UICONTROL Scheduling]wordt in geen enkel gebied geladen**
+**[!UICONTROL Scheduling]-gereedschap wordt in geen enkel gebied geladen.**
 
-_Bronbeheer_
+_Beheer van het Middel_
 
-Wanneer een gebruiker met een apostrof in zijn gebruikersnaam toegang probeert te krijgen tot de [!UICONTROL Scheduling] in [!DNL Workfront Classic], is de pagina leeg en wordt het gereedschap nooit geladen.
+Wanneer een gebruiker met een apostrof in de gebruikersnaam toegang probeert te krijgen tot het gereedschap [!UICONTROL Scheduling] in [!DNL Workfront Classic] , is de pagina leeg en wordt het gereedschap nooit geladen.
 
-**Naam verandert niet in nieuwe proefversies**
+**Naam verandert niet op nieuwe proefversies**
 
 _Documenten_
 
-Wanneer een gebruiker in de nieuwe [!DNL Workfront] Ervaar uploadt een nieuwe versie van een document met een verschillende naam, werkt de naam niet bij om aan de naam van de nieuwste versie aan te passen.
+Wanneer een gebruiker in de nieuwe [!DNL Workfront] ervaring een nieuwe versie van een document met een verschillende naam uploadt, past de naam niet aan de naam van de nieuwste versie aan.
 
-**[!UICONTROL Document Share]fout bij verwijderen van projecten**
+**[!UICONTROL Document Share]fout bij het verwijderen van projecten**
 
 _Projecten_
 
-Wanneer een gebruiker van de Beheerder van het Systeem een toegang tot een project heeft dat is gekopieerd en zij proberen om het te schrappen of een document in het project te schrappen, kunnen zij niet het voorwerp schrappen en zij zien de fout &quot;[!UICONTROL Document Share with primary key value(s) not found.]&quot;
+Wanneer een de beheerdergebruiker van het Systeem een toegang tot een project heeft dat is gekopieerd en zij proberen om het te schrappen of een document in het project te schrappen, kunnen zij niet het voorwerp schrappen en zij zien de fout &quot;[!UICONTROL Document Share with primary key value(s) not found.]&quot;
 
-**Gebruikersrapport past niet alle filters toe**
+**het rapport van de Gebruiker past niet alle filters** toe
 
 _Rapporten_
 
-Wanneer een gebruiker in de nieuwe [!DNL Workfront] De ervaring leidt tot een rapport van de Gebruiker met een filterregel die omvat [!UICONTROL Top Parent ID] worden geen andere filterregels in het rapport toegepast.
+Wanneer een gebruiker in de nieuwe [!DNL Workfront] ervaring tot een rapport van de Gebruiker met een filterregel leidt die het [!UICONTROL Top Parent ID] gebied omvat, worden geen andere filterregels in het rapport toegepast.
 
-**Berekende velden worden na bewerkingen niet opnieuw berekend**
-
-_Aangepaste Forms_
-
-Wanneer een gebruiker in de nieuwe [!DNL Workfront] U kunt bewerkingen uitvoeren en een aangepast formulier opslaan dat berekende velden bevat. Deze velden worden niet bijgewerkt.
-
-**Documenten verwijderen wanneer aangepast formulier wordt verwijderd**
+**Berekende gebieden niet herberekenen na geeft uit**
 
 _Aangepaste Forms_
 
-Wanneer een gebruiker in de nieuwe [!DNL Workfront] De ervaring schrapt een douaneformulier van Documenten die aan documenten in bijlage is, worden die documenten eveneens geschrapt.
+Wanneer een gebruiker in de nieuwe [!DNL Workfront] een aangepast formulier bewerkt en opslaat dat berekende velden bevat, worden deze velden niet bijgewerkt.
+
+**Documenten die schrappen wanneer de douanevorm wordt geschrapt**
+
+_Aangepaste Forms_
+
+Wanneer een gebruiker in de nieuwe [!DNL Workfront] ervaring een douaneformulier schrapt dat aan documenten in bijlage is, worden die documenten eveneens geschrapt.
 
 +++
 
-+++**Onderhoudsupdate op 18 februari 2021**
++++**Update van het Onderhoud op 18 Februari, 2021**
 
-**Onnodig selectievakje verwijderd uit [!UICONTROL Requests] gebied**
+**Unnecessary checkbox verwijderd uit [!UICONTROL Requests] gebied**
 
 _Verzoeken_
 
-We hebben het selectievakje links van de aanvraagnamen verwijderd in de lijst Verzenden van het dialoogvenster [!UICONTROL Requests] gebied. Dit selectievakje was niet verbonden met enige functionaliteit, dus we hebben het verwijderd om verwarring te voorkomen.
+Het selectievakje links van de aanvraagnamen in de lijst Verzenden van het gebied [!UICONTROL Requests] is verwijderd. Dit selectievakje was niet verbonden met enige functionaliteit, dus we hebben het verwijderd om verwarring te voorkomen.
 
-**Kan geen toegang krijgen tot documenten van koppelingen**
+**Onbekwaam om tot documenten van verbindingen** toegang te hebben
 
 _Documenten_
 
-Wanneer een gebruiker in de nieuwe [!DNL Workfront] ervaren klikken op sommige documentkoppelingen, ze hebben geen toegang tot het document en ze zien het foutbericht &quot;[!UICONTROL The Document no longer exists: You may have mistyped the web address. Double check it and try entering the address again.]&quot; Deze fout treedt ook op bij de [!UICONTROL View Details] koppeling in e-mailmeldingen met proefdrukken.
+Wanneer een gebruiker in de nieuwe [!DNL Workfront] -ervaring op enkele documentkoppelingen klikt, heeft hij of zij geen toegang tot het document en wordt het foutbericht &quot; [!UICONTROL The Document no longer exists: You may have mistyped the web address. Double check it and try entering the address again.]&quot; weergegeven. Dezelfde fout treedt op met de koppeling [!UICONTROL View Details] in proefdrukken van e-mailberichten.
 
 +++
 
-+++**Workfront Fusion Maintenance Update op 16 februari 2021**
++++**Update van het Onderhoud van de Fusie van Workfront op 16 Februari, 2021**
 
 **[!DNL Workfront Fusion]2.0 geeft onjuiste tijdzones weer**
 
-_Scenarios_
+_Scenario&#39;s_
 
-Deze update verhelpt een probleem waarbij [!DNL Fusion] In 2.0 werden de tijdzones van de gebruiker onjuist weergegeven. Gebruikers kunnen hun tijdzone nu zien onder invoervelden voor datums.
+Deze update verhelpt een probleem waarbij in [!DNL Fusion] 2.0 de tijdzones van de gebruiker onjuist werden weergegeven. Gebruikers kunnen hun tijdzone nu zien onder invoervelden voor datums.
 
 +++
 
-+++**Onderhoudsupdate op 11 februari 2021**
++++**Update van het Onderhoud op 11 Februari, 2021**
 
-**Proefdrukken worden niet naar de geselecteerde map geüpload**
+**Proofs uploadt niet aan geselecteerde omslag**
 
 _[!DNL Workfront Proof]_
 
-Wanneer een gebruiker een map opent en een nieuwe proefdruk toevoegt, wordt de proefdruk geüpload naar de algemene [!UICONTROL Documents] in plaats van in de map.
+Wanneer een gebruiker een map opent en een nieuwe proefdruk toevoegt, wordt de proefdruk geüpload naar het algemene gedeelte [!UICONTROL Documents] van het object in plaats van naar de map.
 
-**Bij te veel vastgezette pagina&#39;s verdwijnt de bovenste navigatie**
+**Te veel vastgezette pagina&#39;s veroorzaakt Bovenste Navigatie om te verdwijnen**
 
 _Navigatie_
 
-Wanneer een gebruiker meer dan 60 vastgezette pagina&#39;s heeft, houdt de hoogste Navigatie op tonend, verhinderend de gebruiker tot [!UICONTROL Search]de [!UICONTROL Main Menu], [!UICONTROL Notifications]en meer.
+Wanneer een gebruiker meer dan 60 vastgezette pagina&#39;s heeft, stopt de bovenste navigatie met het weergeven, waardoor de gebruiker geen toegang krijgt tot [!UICONTROL Search] , de [!UICONTROL Main Menu] , [!UICONTROL Notifications] en meer.
 
-**Gebruiker kan geen tekst typen in RTF-veld**
+**de Gebruiker kan geen tekst in rijk tekstgebied** typen
 
 _Lijsten_
 
@@ -1639,78 +1639,78 @@ Wanneer een gebruiker een RTF-veld inline probeert te bewerken, kan hij slechts 
 
 +++
 
-+++**Onderhoudsupdate op 4 februari 2021**
++++**Update van het Onderhoud op 4 Februari, 2021**
 
-**Geëxporteerd rapport toont [!DNL Workfront Classic] brandmerken**
+**Geëxporteerd rapport toont [!DNL Workfront Classic] branding**
 
 _Rapporten_
 
-Wanneer een gebruiker in de nieuwe Workfront-ervaring een rapport exporteert, komt het logo dat in het geëxporteerde rapport wordt weergegeven overeen met het [!DNL Workfront Classic] instellingen gevonden onder [!UICONTROL Setup] > [!UICONTROL System] > [!UICONTROL Branding].
+Wanneer een gebruiker in de nieuwe Workfront een rapport exporteert, komt het logo dat in het geëxporteerde rapport wordt weergegeven, overeen met de [!DNL Workfront Classic] -instellingen onder [!UICONTROL Setup] > [!UICONTROL System] > [!UICONTROL Branding] .
 
 +++
 
 
 ## Updates in januari 2021
 
-+++**Onderhoudsupdate op 28 januari 2021**
++++**Update van het Onderhoud op 28 Januari, 2021**
 
-**Opmerkingen worden niet weergegeven &quot;[!UICONTROL on behalf of]&quot;**
+**Commentaren tonen niet &quot;[!UICONTROL on behalf of]&quot;**
 
 _Updates_
 
-Wanneer een [!DNL Workfront] beheerder meldt zich aan als een andere gebruiker en zij antwoorden op een opmerking in [!UICONTROL Updates] gebied van een object, de tekst &quot;[!UICONTROL on behalf of]&quot; niet vóór de gebruikersnaam wordt weergegeven.
+Wanneer een [!DNL Workfront] beheerder zich als een andere gebruiker aanmeldt en op een opmerking in het [!UICONTROL Updates] -gebied van een object reageert, wordt de tekst &quot;[!UICONTROL on behalf of]&quot; niet vóór de gebruikersnaam weergegeven.
 
-**Kan een document niet bijvoegen**
+**Onbekwaam om een document** vast te maken
 
 _Verzoeken_
 
-Wanneer een gebruiker in de nieuwe [!DNL Workfront] de ervaring probeert een document aan een nieuw verzoek van een externe documentleverancier toe te voegen, [!UICONTROL Documents] wordt niet geladen, waardoor de gebruiker het document niet kan selecteren en de aanvraag kan invullen.
+Wanneer een gebruiker in de nieuwe [!DNL Workfront] -ervaring een document probeert toe te voegen aan een nieuwe aanvraag van een externe documentprovider, wordt de lijst van [!UICONTROL Documents] niet geladen. Hierdoor kan de gebruiker het document niet selecteren en de aanvraag voltooien.
 
-**Schermbreedte breidt zich naar rechts uit, waardoor navigatieproblemen ontstaan**
+**de breedte die van het Scherm aan het recht uitbreidt, veroorzakend navigatiekwesties**
 
 _[!UICONTROL Home Calendar]_
 
-Wanneer een gebruiker in de nieuwe [!DNL Workfront] de ervaring opent [!UICONTROL Home Calendar] en ze hebben items die op een paar weken vervallen , breidt het scherm uit naar rechts , zodat ze de hele week niet tegelijk kunnen bekijken . Als de gebruiker een item selecteert om het dialoogvenster [!UICONTROL Details] in deze status en ze willen details voor een ander item bekijken, moeten naar links schuiven, waardoor het venster [!UICONTROL Details] deelvenster.
+Wanneer een gebruiker in de nieuwe [!DNL Workfront] ervaring [!UICONTROL Home Calendar] opent en zij punten hebben die op sommige weken worden verouderd, breidt het scherm zich aan het recht uit, die hen verhinderen de volledige week in één keer te bekijken. Als de gebruiker een item selecteert om het deelvenster [!UICONTROL Details] in deze toestand te openen en details voor een ander item wilt bekijken, moet hij naar links schuiven, waardoor het deelvenster [!UICONTROL Details] wordt gesloten.
 
-**Goedkeuringsprocedurelabel voor eenmalig gebruik gecorrigeerd**
-
-_Projecten_
-
-Wanneer het gebruiken van een enig-gebruiksgoedkeuringsproces voor een project in nieuw [!DNL Workfront] ervaart, wordt nu weergegeven als &quot;[!UICONTROL Single-use approval process]&quot; in plaats van &quot;\&lt;custom>&quot; in de [!UICONTROL Edit Project] doos. Dit is nog niet beschikbaar voor taken en problemen.
-
-**Verbeterde vormgeving voor aangepaste formulieren**
+**Enige-gebruiks verbeterd etiket van het goedkeuringsproces**
 
 _Projecten_
 
-We hebben het uiterlijk van het werken met aangepaste formulieren verbeterd in de nieuwe [!DNL Workfront] ervaring met projecten.
+Wanneer u een goedkeuringsproces voor één gebruik gebruikt voor een project in de nieuwe [!DNL Workfront] ervaring, wordt het nu weergegeven als &quot;[!UICONTROL Single-use approval process]&quot; in plaats van &quot;\&lt;Custom\>&quot; in het vak [!UICONTROL Edit Project] . Dit is nog niet beschikbaar voor taken en problemen.
 
-**API-functionaliteit voor projectvaluta komt nu overeen met in-app-functionaliteit**
+**Verbeterde blik en voelt voor douanevormen**
 
 _Projecten_
 
-U kunt de valuta van een project niet wijzigen als er al financiële informatie over het project beschikbaar is. Met de meest recente onderhoudsupdate komt de API-functionaliteit voor dit geval nu overeen met de ervaring in de [!DNL Workfront] interface.
+In de nieuwe [!DNL Workfront] -ervaring voor projecten hebben we de vormgeving van aangepaste formulieren verbeterd.
 
-**De volgende week niet automatisch genereren**
+**API functionaliteit voor projectmunt past nu in-app functionaliteit aan**
+
+_Projecten_
+
+U kunt de valuta van een project niet wijzigen als er al financiële informatie over het project beschikbaar is. Met de meest recente onderhoudsupdate komt de API-functionaliteit voor dit geval nu overeen met de ervaring in de [!DNL Workfront] -interface.
+
+**produceert automatisch niet de volgende week**
 
 _Timesheets_
 
-Wanneer een gebruiker naar de [!UICONTROL Timesheets] ze zien alleen het tijdschema voor de huidige week . Het tijdschema voor de komende weken wordt niet automatisch gegenereerd.
+Wanneer een gebruiker naar het [!UICONTROL Timesheets] -gebied navigeert, wordt alleen de tijdpagina voor de huidige week weergegeven. Het tijdschema voor de komende weken wordt niet automatisch gegenereerd.
 
 +++
 
-+++**Onderhoudsupdate op 21 januari 2021**
++++**Update van het Onderhoud op 21 Januari, 2021**
 
-**Alle resultaten worden handmatig gesorteerd op een kolom**
+**manueel sorterend door een kolom toont alle resultaten**
 
 _Rapporten_
 
-Wanneer een gebruiker in de nieuwe [!DNL Workfront] de ervaring klikt een bar in de grafiek van een rapport, dan klikt een kolomkopbal om resultaten voor die groepering manueel te sorteren, tonen alle rapportresultaten, niet alleen resultaten voor oorspronkelijk geselecteerde groepering.
+Wanneer een gebruiker in de nieuwe [!DNL Workfront] ervaring een bar in de grafiek van een rapport klikt, dan klikt een kolomkopbal om resultaten voor die groepering manueel te sorteren, tonen alle rapportresultaten, niet alleen resultaten voor de oorspronkelijk geselecteerde groepering.
 
-**&quot;[!UICONTROL Allow sharing proof via URL or embed code]Wijzigingen instellen**
+**&quot;[!UICONTROL Allow sharing proof via URL or embed code]&quot;het plaatsen verandert**
 
 _[!DNL Workfront Proof]_
 
-Wanneer een gebruiker een proef creeert en het plaatsen ongedaan maakt [!UICONTROL Allow sharing proof via URL or embed code], wordt de instelling opnieuw gecontroleerd nadat de proefdruk is gegenereerd. Als de gebruiker de instelling heeft ingeschakeld, wordt deze uitgeschakeld nadat de proefdruk is gegenereerd.
+Wanneer een gebruiker een proefdruk maakt en de instelling [!UICONTROL Allow sharing proof via URL or embed code] uitschakelt, wordt de instelling opnieuw gecontroleerd nadat de proefdruk is gegenereerd. Als de gebruiker de instelling heeft ingeschakeld, wordt deze uitgeschakeld nadat de proefdruk is gegenereerd.
 
 **[!DNL Mac]gebruikers kunnen niet in tekstvelden in de proefdrukviewer plakken**
 
@@ -1720,46 +1720,46 @@ Wanneer een gebruiker tekst probeert te plakken in bepaalde velden in de proefdr
 
 +++
 
-+++**Onderhoudsupdate op 14 januari 2021**
++++**Update van het Onderhoud op 14 Januari, 2021**
 
-**Kan instellingen voor e-mailmeldingen niet bijwerken**
+**Onbekwaam om de montages van E-mailberichten bij te werken**
 
-_Instellen_
+_Opstelling_
 
-Wanneer een gebruiker instellingen voor e-mailmeldingen probeert bij te werken, hebben deze gebruikers geen toegang tot de [!UICONTROL Email Notifications] gebied en zie de foutenmelding &quot;[!UICONTROL Let's try that again. Whoops! Something went wrong. Please contact [!DNL Workfront] so we can figure out what went wrong and fix it.]&quot;
+Wanneer een gebruiker instellingen voor e-mailmeldingen probeert bij te werken, heeft hij of zij geen toegang tot het gebied [!UICONTROL Email Notifications] en ziet hij het foutbericht &quot;[!UICONTROL Let's try that again. Whoops! Something went wrong. Please contact [!DNL Workfront] so we can figure out what went wrong and fix it.]&quot;
 
-**[!UICONTROL Gantt chart]sommige velden worden afgekapt**
+**[!UICONTROL Gantt chart]zorgt ervoor dat sommige velden worden afgekapt**
 
 _Lijsten_
 
-Wanneer een gebruiker de [!UICONTROL Gantt chart] in bepaalde lijstgebieden, bepaalde gebieden-zoals [!UICONTROL Description]—kapt de tekst af. De gebruiker moet dubbelklikken op het veld om de volledige tekst weer te geven.
+Wanneer een gebruiker de [!UICONTROL Gantt chart] in bepaalde lijstgebieden opent, beknotten bepaalde gebieden-zoals [!UICONTROL Description] - de tekst. De gebruiker moet dubbelklikken op het veld om de volledige tekst weer te geven.
 
-**Kan bestanden niet verzenden van[!UICONTROL Document Details]**
+**Kan geen bestanden verzenden vanuit[!UICONTROL Document Details]**
 
 _Documenten_
 
-Wanneer een gebruiker in de nieuwe [!DNL Workfront] de ervaring probeert een document van te verzenden [!UICONTROL Document Details] pagina, wordt het foutbericht &quot;[!UICONTROL An error has occurred and we are working to resolve the issue. To continue with your work, try refreshing this browser page.]&quot;
+Wanneer een gebruiker in de nieuwe [!DNL Workfront] ervaring probeert om een document van de [!UICONTROL Document Details] pagina te verzenden, zien zij het foutenbericht &quot; [!UICONTROL An error has occurred and we are working to resolve the issue. To continue with your work, try refreshing this browser page.]&quot;
 
 +++
 
-+++**Onderhoudsupdate op 7 januari 2021**
++++**Update van het Onderhoud op 7 Januari, 2021**
 
-**Het dialoogvenster Goedkeuringen delegeren wordt gesloten**
+**Afgevaardigde sluit de dialoog van Goedkeuringen**
 
-_Home_
+_Huis_
 
-Wanneer een gebruiker goedkeuringen binnen probeert te delegeren [!UICONTROL Home] en ze klikken op een willekeurige datum, wordt het dialoogvenster gesloten zonder de datum te selecteren of de gebruiker toe te staan de gebruikersdelegatie te voltooien.
+Wanneer een gebruiker goedkeuringen probeert te delegeren in [!UICONTROL Home] en op een willekeurige datum klikt, wordt het dialoogvenster gesloten zonder de datum te selecteren of de gebruiker toe te staan de gebruikersdelegatie te voltooien.
 
-**Probleem met het verplaatsen van een document naar een taak**
+**Uitgave met het bewegen van een document aan een taak**
 
 _Documenten_
 
-Wanneer een gebruiker een document of proef in het nieuwe probeert te bewegen [!DNL Workfront] ervaring, maken sommige taken buiten het project geen lijst van het ouderproject zoals verwacht.
+Wanneer een gebruiker een document of proef in de nieuwe [!DNL Workfront] ervaring probeert te bewegen, sommige taken buiten het project niet van het ouderproject zoals verwacht een lijst maken.
 
 **Gedownloade PDF heeft onjuiste naam**
 
 _[!DNL Workfront Proof]_
 
-Wanneer een gebruiker een downloadkoppeling via e-mail ontvangt ([!UICONTROL Proof] > [!UICONTROL Print Comments] > [!UICONTROL PDF]) en het bestand wordt geëxporteerd, krijgt het gedownloade bestand een naam met willekeurige nummers in plaats van met de proef-id.
+Wanneer een gebruiker via e-mail ([!UICONTROL Proof] > [!UICONTROL Print Comments] > [!UICONTROL PDF] ) een downloadkoppeling ontvangt en het bestand exporteert, krijgt het gedownloade bestand de naam met willekeurige nummers in plaats van met de proef-id.
 
 +++

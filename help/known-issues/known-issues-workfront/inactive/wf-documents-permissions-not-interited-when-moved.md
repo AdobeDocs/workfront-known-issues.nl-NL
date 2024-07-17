@@ -23,10 +23,10 @@ Wanneer een gebruiker een document naar een ander project verplaatst, erft het d
 
 1. Navigeer naar het bovenliggende object van het document, zoals Project, Task of Issue.
 
-1. Geërfte machtigingen verwijderen uit de lijst voor delen van het bovenliggende object door op de X naast de overgeërfde machtigingen te klikken en vervolgens op **[!UICONTROL Save]**.
+1. Verwijder overgeërfde machtigingen uit de lijst voor delen van het bovenliggende object door op de X naast de overgeërfde machtigingen te klikken en vervolgens op **[!UICONTROL Save]** te klikken.
 
-1. Overerfde machtigingen opnieuw toevoegen door terug te navigeren naar de lijst voor gedeelde items van het bovenliggende object en op **[!UICONTROL Undo]** naast overgeërfde machtigingen klikt u op **[!UICONTROL Save]**.
+1. Voeg overerfde machtigingen opnieuw toe door terug te navigeren naar de lijst voor gedeelde items van het bovenliggende object en op **[!UICONTROL Undo]** te klikken naast de overerfde machtigingen en vervolgens op **[!UICONTROL Save]** te klikken.
 
-U kunt ook een notitie maken van de id van het document (in de URL van het dialoogvenster [!UICONTROL Document Details] pagina) en contact opnemen [!DNL Workfront] klantenondersteuning.
+U kunt ook een notitie maken van de id van het document (in de URL van de [!UICONTROL Document Details] -pagina) en contact opnemen met de [!DNL Workfront] -klantenondersteuning.
 
-_Eerste rapportage op 6 januari 2023._
+_Eerste rapporteerde op 6 Januari, 2023._

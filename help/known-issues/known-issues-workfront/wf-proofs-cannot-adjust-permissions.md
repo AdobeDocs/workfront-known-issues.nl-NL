@@ -24,8 +24,8 @@ Dit is gemeld met de volgende machtigingen:
 * Opmerkingen oplossen en handelingen toepassen
 * Proef delen door labels toe te wijzen
 
-**Workaround**
+**Oplossing**
 
 Wijzig de rol van de moderator in Revisor en fiatteur.
 
-_Voor het eerst gerapporteerd op 24 april 2024._
+_Eerste rapporteerde op 24 April, 2024._

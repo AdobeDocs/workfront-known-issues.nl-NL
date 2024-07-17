@@ -1,6 +1,6 @@
 ---
-title: '[!DNL Workfront]: Problemen met het indienen van een Workfront-ondersteuningskwestie op Experience League'
-description: '""Als u een [!DNL Workfront] Bel ons op de onderstaande nummers om u te helpen.'
+title: '[!DNL Workfront]: Problemen bij het indienen van een Workfront-ondersteuningskwestie op Experience League'
+description: '""Als u een  [!DNL Workfront]  Gemachtigd Contact van de Steun bent en kwesties hebben die een steungeval voorleggen, gelieve ons bij de aantallen hieronder te roepen zodat kunnen wij u helpen."'
 hidefromtoc: true
 exl-id: f19b3e67-d31d-48f8-b847-dd4d309e11fc
 feature: System Setup and Administration
@@ -11,12 +11,12 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Workfront]: Kwesties die een [!DNL Workfront] support case on [!DNL Experience League]
+# [!DNL Workfront]: problemen met het indienen van een [!DNL Workfront] case over ondersteuning [!DNL Experience League]
 
-Als u een [!DNL Workfront] Geautoriseerde contactpersoon voor ondersteuning. Er zijn problemen met het indienen van een ondersteuningsaanvraag. Ga naar de volgende communautaire blogs voor instructies:
+Als u een contactpersoon voor [!DNL Workfront] geautoriseerde ondersteuning bent en problemen hebt met het indienen van een ondersteuningsaanvraag, gaat u naar de volgende communautaire blogs voor instructies:
 
-* [Hoe te om een Ticket van de Steun op de liga van de Ervaring voor te leggen](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/how-to-submit-a-support-ticket-on-experience-league/ba-p/461737)
-* [Voor het eerst aanmelden als nieuw of bestaand lid van de Workfront Experience League Community](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/logging-in-for-the-first-time-as-a-new-or-existing-workfront/ba-p/461472)
+* [ hoe te om een Ticket van de Steun op de liga van de Ervaring voor te leggen ](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/how-to-submit-a-support-ticket-on-experience-league/ba-p/461737)
+* [ het Aanmelden voor het eerst als nieuw of bestaand Communautair lid van het Experience League van Workfront ](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/logging-in-for-the-first-time-as-a-new-or-existing-workfront/ba-p/461472)
 
 Als je nog steeds problemen hebt, kun je ons bellen op de onderstaande nummers zodat we je kunnen helpen.
 

@@ -19,9 +19,9 @@ ht-degree: 0%
 >
 >Dit probleem is opgelost.
 
-Lay-outsjablonen vanuit de klassieke [!DNL Workfront] de ervaring is niet meer beschikbaar in het dialoogvenster [!DNL Workfront] interface, maar kan nog beïnvloeden [!DNL Workfront] gegevens. Dit kan inconsistenties veroorzaken in velden die worden beïnvloed door lay-outsjablonen (zoals [!UICONTROL Shared with]) op rapporten of dashboards.
+Lay-outsjablonen uit de klassieke [!DNL Workfront] ervaring zijn niet meer beschikbaar in de [!DNL Workfront] -interface, maar kunnen nog steeds invloed hebben op [!DNL Workfront] -gegevens. Dit kan inconsistenties veroorzaken in velden die worden beïnvloed door lay-outsjablonen (zoals [!UICONTROL Shared with] ) in rapporten of dashboards.
 
-**Workaround**
+**Oplossing**
 
 Verwijder de klassieke lay-outsjablonen met een API-aanroep. U moet zijn aangemeld bij Workfront.
 

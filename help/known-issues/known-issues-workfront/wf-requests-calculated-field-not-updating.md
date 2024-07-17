@@ -19,5 +19,5 @@ ht-degree: 0%
 
 Wanneer een gebruiker een aangepast formulier invult dat is gekoppeld aan een aanvraag en het formulier een berekend veld bevat, wordt het veld niet bijgewerkt. De gebruiker kan de berekende waarde pas zien nadat het formulier is verzonden.
 
-_Voor het eerst gerapporteerd op 18 maart 2024._
+_Eerste rapporteerde op 18 Maart, 2024._
 

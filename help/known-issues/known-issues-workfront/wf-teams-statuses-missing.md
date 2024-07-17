@@ -1,29 +1,29 @@
 ---
-title: "Teams: Issues with setting team statussen for Done button"
-description: "Problemen met de status van de [!UICONTROL Done] wanneer u een team bewerkt of maakt. Er is een oplossing beschikbaar."
+title: 'Teams: problemen met het instellen van teamstatussen voor de knop Gereed '
+description: Er zijn problemen gemeld met betrekking tot de status van de knop [!UICONTROL Done] bij het bewerken of maken van een team. Er is een tijdelijke oplossing beschikbaar.
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
+exl-id: b5d1ed7c-02af-49d0-ac0e-284f615f4daa
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
 
 ---
 
-
-# Teams: problemen met het instellen van teamstatussen voor [!UICONTROL Done] knop
+# Teams: problemen met het instellen van teamstatussen voor de knop [!UICONTROL Done]
 
 >[!NOTE]
 >
 >Deze kwestie is gesloten omdat het geen kwestie is.
 
-De volgende kwesties zijn gemeld met betrekking tot de status van de [!UICONTROL Done] knop bij het bewerken of maken van een team:
+De volgende problemen zijn gemeld met betrekking tot de status van de knop [!UICONTROL Done] bij het bewerken of maken van een team:
 
-* Sommige statussen ontbreken mogelijk in het knopgebied Gereed van het dialoogvenster [!UICONTROL New team] of het [!UICONTROL Team Settings] deel van een bestaand team.
+* Sommige statussen ontbreken mogelijk in het knopgebied Gereed van het [!UICONTROL New team] -venster of in het [!UICONTROL Team Settings] -gebied van een bestaand team.
 * Als de gebruiker probeert het team op te slaan, wordt mogelijk de fout &quot;U moet ten minste één status in elke categorie selecteren&quot; weergegeven.
 
-**Workaround**
+**Oplossing**
 
-De lijst met statussen weergeven in [!UICONTROL Setup] > [!UICONTROL Project Preferences] > [!UICONTROL Statuses] kan de problemen tijdelijk oplossen.
+Als u de lijst met statussen weergeeft in [!UICONTROL Setup] > [!UICONTROL Project Preferences] > [!UICONTROL Statuses] , kunnen de problemen tijdelijk worden opgelost.
 
-_Voor het eerst gerapporteerd op 5 december 2023._
+_Eerste rapporteerde op 5 December, 2023._

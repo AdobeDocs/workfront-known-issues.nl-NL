@@ -20,8 +20,8 @@ De volgende problemen zijn gerapporteerd met betrekking tot de documentlijst:
 * Miniaturen worden niet weergegeven.
 * Als een gebruiker in de lijstweergave van de geselecteerde map overschakelt, werken de opties Filter, Weergave en Groeperen niet meer.
 
-**Workaround**
+**Oplossing**
 
 Als u Filter-, Weergave- en groeperingsopties wilt herstellen, schakelt u over naar de standaardweergave en gaat u weer terug naar de lijstweergave.
 
-_Voor het eerst gerapporteerd op 1 juni 2023._
+_Eerste rapporteerde op 1 Juni, 2023._

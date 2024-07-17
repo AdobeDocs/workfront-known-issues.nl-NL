@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Wanneer een gebruiker een bestaande subgroep aan een groep probeert toe te voegen, is de knop Opslaan niet effectief en wordt de subgroep niet toegevoegd.
 
-_Voor het eerst gerapporteerd op 1 mei 2024._
+_Eerste rapporteerde op 1 Mei, 2024._

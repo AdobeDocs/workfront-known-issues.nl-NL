@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Wanneer een gebruiker een verzoek in een project gebruikend een malplaatje omzet, past de prioriteit van het pas gecreëerde project niet het malplaatje of het verzoek aan.
 
-_Voor het eerst gerapporteerd op 2 mei 2024._
+_Eerste rapporteerde op 2 Mei, 2024._

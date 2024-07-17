@@ -11,16 +11,16 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Updates]: Kan de tijd voor het aanmelden van de huidige dag in het dialoogvenster [!UICONTROL Updates] gebied
+# [!UICONTROL Updates]: Kan de tijd voor de huidige dag in het [!UICONTROL Updates] -gebied niet vastleggen
 
 >[!NOTE]
 >
 >Dit probleem is gesloten omdat het niet opnieuw kan worden weergegeven.
 
-Wanneer een gebruiker probeert tijd voor de huidige dag in te loggen [!UICONTROL Updates] , wordt de huidige dag grijs weergegeven en kan de gebruiker geen uren invoeren.
+Wanneer een gebruiker probeert tijd voor de huidige dag in het [!UICONTROL Updates] gebied te registreren, wordt de huidige dag grayed uit, en de gebruiker kan geen uren ingaan.
 
-**Workaround**
+**Oplossing**
 
 Het probleem kan tijdelijk worden opgelost door de cache van de browser te wissen of een incognitovenster te gebruiken.
 
-_Voor het eerst gerapporteerd op 7 maart 2023._
+_Eerste rapporteerde op 7 Maart, 2023._

@@ -17,12 +17,12 @@ ht-degree: 0%
 >
 >Dit probleem is op 27 juni 2024 opgelost.
 
-Als een gebruiker een koppeling uit een update kopieert door met de rechtermuisknop te klikken en &quot;[!UICONTROL Copy link address]&quot;, plakt de koppeling vervolgens in een update, de koppeling wordt niet correct geplakt. Alleen het eerste deel van de koppeling is een koppeling en de rest van de URL wordt genegeerd.
+Als een gebruiker een verbinding van een update door [!UICONTROL Copy link address] met de rechtermuisknop aan te klikken en te selecteren kopieert, dan kleeft de verbinding in een update, correct kleeft de verbinding niet. Alleen het eerste deel van de koppeling is een koppeling en de rest van de URL wordt genegeerd.
 
-De koppeling kopiëren met een andere methode dan &quot;[!UICONTROL Copy link address]&quot; staat de verbinding toe om te kleven zoals verwacht.
+Het kopiëren van de verbinding gebruikend een methode buiten &quot;[!UICONTROL Copy link address]&quot;staat de verbinding toe om zoals verwacht te kleven.
 
-**Workaround**
+**Oplossing**
 
-Gebruik de &quot;[!UICONTROL Copy]&quot; in plaats van &quot;[!UICONTROL Copy link address]&quot;.
+Gebruik de optie &quot;[!UICONTROL Copy]&quot; in plaats van &quot;[!UICONTROL Copy link address]&quot;.
 
-_Voor het eerst gerapporteerd op 29 mei 2024._
+_Eerste rapporteerde op 29 Mei, 2024._

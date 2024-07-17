@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Wanneer een gebruiker probeert om tijd in het gebied van Updates te registreren, is de huidige dag grayed uit, en de gebruiker kan geen tijd voor de huidige dag registreren.
 
-_Voor het eerst gerapporteerd op 4 maart 2024._
+_Eerste rapporteerde op 4 Maart, 2024._

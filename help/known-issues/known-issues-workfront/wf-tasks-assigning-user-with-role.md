@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Wanneer een baanrol aan een taak wordt toegewezen, en die taak wordt toegewezen aan een gebruiker die de baanrol heeft, verdwijnt de baanrol niet uit de lijst van taken.
 
-_Voor het eerst gerapporteerd op 21 mei 2024._
+_Eerste rapporteerde op 21 Mei, 2024._

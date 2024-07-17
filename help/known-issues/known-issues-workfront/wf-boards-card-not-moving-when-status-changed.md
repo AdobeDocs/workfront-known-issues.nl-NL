@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Wanneer de status van het gekoppelde object van een aangesloten kaart rechtstreeks op het object wordt gewijzigd, wordt de kaart niet naar de juiste kolom verplaatst. Als de objectstatus op de kaart wordt gewijzigd of als de kaart naar de nieuwe kolom wordt gesleept, gedraagt de kaart zich zoals verwacht.
 
-_Voor het eerst gerapporteerd op 28 november 2023._
+_Eerste rapporteerde op 28 November, 2023._

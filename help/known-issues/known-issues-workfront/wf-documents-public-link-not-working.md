@@ -23,4 +23,4 @@ Wanneer een gebruiker op een openbare koppeling klikt om naar een document in Wo
 * &quot;[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]&quot;
 
 
-_Voor het eerst gerapporteerd op 30 mei 2024._
+_Eerste rapporteerde op 30 Mei, 2024._

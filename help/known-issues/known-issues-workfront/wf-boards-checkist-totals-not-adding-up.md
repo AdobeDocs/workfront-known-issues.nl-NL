@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Wanneer een gebruiker een kaart bekijkt die controlelijstitems heeft, en een verandering dusdanig aanbrengt dat het totaal van controlelijsten zou moeten veranderen, verandert het totaal niet.
 
-Dit is zowel in de [!UICONTROL Boards] en de [!UICONTROL Boards] widget in de nieuwe [!UICONTROL Home] ervaring.
+Dit is zowel in het gebied [!UICONTROL Boards] als in de widget [!UICONTROL Boards] in de nieuwe [!UICONTROL Home] ervaring gemeld.
 
-_Eerste verslag op 16 februari 2024._
+_Eerste rapporteerde op 16 februari, 2024._

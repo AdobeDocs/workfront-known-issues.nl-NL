@@ -1,5 +1,5 @@
 ---
-title: 'Workfront Proof API: Body is not a valid XML error'
+title: 'Workfront Proof API: body is geen geldige XML-fout'
 description: Een aanroep van de Workfront Proof API retourneert een fout.
 hidefromtoc: true
 exl-id: f3bf3adb-5760-465d-a42a-dc6919d423d0
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Workfront Proof] API: &quot;[!UICONTROL Body is not a valid XML]&quot;-fout
+# [!DNL Workfront Proof] API: fout [!UICONTROL Body is not a valid XML]
 
 <!--On WFP and WFF TOCs-->
 
@@ -19,10 +19,10 @@ ht-degree: 0%
 >
 >Dit probleem is gesloten omdat het niet opnieuw kan worden weergegeven.
 
-Een oproep aan de [!DNL Workfront Proof] API retourneert de volgende fout:
+Een aanroep van de [!DNL Workfront Proof] API retourneert de volgende fout:
 
 &quot;[!UICONTROL Body is not a valid XML. Unclosed root tag]&quot;
 
-Dit kan voorkomen wanneer u het dialoogvenster [!DNL Workfront Proof] rechtstreeks of via [!DNL Workfront Fusion].
+Dit kan voorkomen wanneer u de [!DNL Workfront Proof] API rechtstreeks opent of wanneer u deze benadert via [!DNL Workfront Fusion] .
 
-_Voor het eerst gerapporteerd op 15 september 2022._
+_Eerste rapporteerde op 15 September, 2022._

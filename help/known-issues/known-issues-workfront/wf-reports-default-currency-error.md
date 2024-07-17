@@ -19,8 +19,8 @@ ht-degree: 0%
 
 Wanneer een gebruiker probeert om een rapport te bekijken dat de standaardmunt als USD heeft, laadt het rapport niet.
 
-**Workaround**
+**Oplossing**
 
-De standaardvaluta wijzigen in &quot;[!UICONTROL Project's default currency].&quot;
+Wijzig de standaardvaluta in &quot;[!UICONTROL Project's default currency]&quot;.
 
-_Voor het eerst gerapporteerd op 20 juni 2024._
+_Eerste rapporteerde op 20 juni, 2024._

@@ -17,6 +17,6 @@ ht-degree: 0%
 >
 >Het team van het Product evalueert momenteel deze probleemoplossing, die productverbeteringen kan vereisen. De verbeteringen van het product worden meegedeeld in de Mededelingen van het Product en niet met de Updates van het Onderhoud.
 
-Wanneer een gebruiker een rapport bekijkt dat proefgoedkeuringsbesluiten omvat, toont het rapport niet [!UICONTROL Approved] besluit voor alle goedgekeurde proefstukken. Wanneer de gebruiker de proef zelf bekijkt, kunnen zij zien dat het is goedgekeurd.
+Wanneer een gebruiker een rapport bekijkt dat goedkeuringsbesluiten voor proefdrukken bevat, geeft het rapport niet de [!UICONTROL Approved] -beslissing voor alle goedgekeurde proefdrukken weer. Wanneer de gebruiker de proef zelf bekijkt, kunnen zij zien dat het is goedgekeurd.
 
-_Voor het eerst gerapporteerd op 26 juni 2023._
+_Eerste rapporteerde op 26 juni, 2023._

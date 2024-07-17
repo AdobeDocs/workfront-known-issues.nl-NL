@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Wanneer een gebruiker een proef bekijkt, het meethulpmiddel opent, en probeert om een aantal met een decimaal punt in om het even welk vakje te zetten, verschijnt het decimale punt niet. Als de gebruiker een decimaalteken invoert voordat cijfers worden ingevoerd, wordt &quot;NaN&quot; weergegeven.
 
-_Voor het eerst gerapporteerd op 21 oktober 2022._
+_Eerste rapporteerde op 21 oktober, 2022._

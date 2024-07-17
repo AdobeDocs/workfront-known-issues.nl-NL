@@ -24,7 +24,7 @@ De taken van projecten die de goedgekeurde status of de Planning hebben worden n
 
 Dit is omdat de taken van projecten in deze statussen momenteel inbegrepen in de 2000 grens van de puntvraag zijn, maar zij worden niet getoond in Mijn Taken of de Lijst van het Werk van het Huis. Hierdoor kan een situatie ontstaan waarin een gebruiker met minder dan 2000 taken deze taken niet zichtbaar is.
 
-**Workaround**
+**Oplossing**
 
 Maak een aangepast toewijzingsrapport dat de volgende tekstmodusfilters bevat:
 
@@ -52,4 +52,4 @@ OR:1:task:statusEquatesWith=CPL
 OR:1:task:statusEquatesWith_Mod=ne
 ```
 
-_Voor het eerst gerapporteerd op 6 november 2023._
+_Eerste rapporteerde op 6 November, 2023._

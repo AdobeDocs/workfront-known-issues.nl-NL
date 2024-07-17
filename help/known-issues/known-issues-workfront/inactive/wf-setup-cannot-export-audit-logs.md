@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Setup]: Kan auditlogs niet exporteren
+# [!UICONTROL Setup]: kan auditlogs niet exporteren
 
 >[!NOTE]
 >
@@ -19,8 +19,8 @@ ht-degree: 0%
 
 Wanneer een gebruiker probeert om een groot aantal controlelogboeken uit te voeren, de logboeken niet uitvoeren. Er zijn geen aanwijzingen dat de export is mislukt.
 
-**Workaround**
+**Oplossing**
 
 U kunt minder logbestanden exporteren in één exportbewerking.
 
-_Voor het eerst gerapporteerd op 20 juni 2023._
+_Eerste rapporteerde op 20 juni, 2023._

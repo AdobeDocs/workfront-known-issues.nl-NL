@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Wanneer een gebruiker de uren voor een taak of uitgave probeert te bewerken, worden de wijzigingen niet opgeslagen.
 
-_Voor het eerst gemeld op 1 april 2024._
+_Eerste rapporteerde op 1 April, 2024._

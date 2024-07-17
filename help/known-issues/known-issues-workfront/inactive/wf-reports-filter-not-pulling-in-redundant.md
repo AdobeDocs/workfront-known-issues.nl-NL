@@ -1,15 +1,15 @@
 ---
-title: "Rapporten: het filter Rapport retourneert geen verwachte resultaten"
-description: "Een filter in een rapport kan niet alle verwachte resultaten terugkeren. Er is een oplossing beschikbaar."
+title: 'Rapporten: het filter Rapport retourneert geen verwachte resultaten'
+description: Een filter in een rapport retourneert mogelijk niet alle verwachte resultaten. Er is een tijdelijke oplossing beschikbaar.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: ed1fbb6e6c13ad41430e7351e0c9a28cefd46d12
+exl-id: d9ca1eac-1478-4ee0-a713-24743c1487c5
+source-git-commit: 9457b520c469c729f8727b1efd21bbde117b9546
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
 
 ---
-
 
 # Rapporten: het filter Rapport retourneert geen verwachte resultaten
 
@@ -21,9 +21,8 @@ Een filter in een rapport retourneert mogelijk niet alle verwachte resultaten.
 
 Dit kan voorkomen wanneer de filter wordt gevormd om resultaten met bepaalde criteria te retourneren, en omvat OF regel die resultaten terugkeert die een ondergroep van die zelfde criteria zijn.
 
-**Workaround**
+**Oplossing**
 
 Zorg ervoor dat de blokken OF blokken van uw filter geen identieke evaluatiecriteria omvatten.
 
-_Voor het eerst gerapporteerd op 11 maart 2024._
-
+_Eerste rapporteerde op 11 Maart, 2024._

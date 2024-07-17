@@ -11,15 +11,15 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Home]: Aangepaste terminologie wordt niet toegepast op het thuisgebied
+# [!UICONTROL Home]: aangepaste terminologie wordt niet toegepast op het gebied Home
 
 >[!NOTE]
 >
 >Het team van het Product evalueert momenteel deze probleemoplossing, die productverbeteringen kan vereisen. De verbeteringen van het product worden meegedeeld in de Mededelingen van het Product en niet met de Updates van het Onderhoud.
 
-De [!UICONTROL Home] in dit gebied worden standaardnamen voor objecten weergegeven in plaats van de terminologie die door de organisatie is ingesteld. Dit is gemeld op de volgende gebieden:
+In het gebied [!UICONTROL Home] worden standaardnamen voor objecten weergegeven in plaats van de terminologie die door de organisatie is ingesteld. Dit is gemeld op de volgende gebieden:
 
-* De [!UICONTROL Work List] filter
-* De &quot;[!UICONTROL Start] (object)&quot; in het dialoogvenster [!UICONTROL Work List]
+* Het filter [!UICONTROL Work List]
+* De knop &quot;[!UICONTROL Start] (object)&quot; in [!UICONTROL Work List]
 
-_Eerste verslag op 8 april 2022._
+_Eerste rapporteerde op 8 April, 2022._

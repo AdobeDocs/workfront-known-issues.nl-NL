@@ -17,8 +17,8 @@ ht-degree: 0%
 >
 >Dit probleem is op 20 juni 2024 opgelost.
 
-Wanneer een gebruiker een goedkeuringsbericht per e-mail ontvangt en op &quot;[!UICONTROL Make Approval Decision]&quot;, wordt de gebruiker niet omgeleid naar het object dat goedkeuring nodig heeft. In plaats daarvan ziet de gebruiker de volgende fout:
+Wanneer een gebruiker een goedkeuringsbericht e-mail ontvangt en &quot;[!UICONTROL Make Approval Decision]&quot;knoop klikt, wordt de gebruiker niet geleid aan het voorwerp dat goedkeuring vereist. In plaats daarvan ziet de gebruiker de volgende fout:
 
 &quot;[!UICONTROL This page isn't working (domain).my.workfront.com redirected you too many times.]&quot;
 
-_Voor het eerst gerapporteerd op 19 juni 2024._
+_Eerste rapporteerde op 19 Juni, 2024._

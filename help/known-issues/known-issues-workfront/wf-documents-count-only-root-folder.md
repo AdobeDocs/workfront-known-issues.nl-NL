@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Wanneer een gebruiker een object weergeeft waaraan documenten zijn gekoppeld, wordt op het tabblad Documenten in de linkernavigatie mogelijk een onjuist aantal documenten weergegeven. Het weergegeven aantal is het aantal documenten in de hoofdmap. Documenten in submappen worden niet geteld.
 
-_Voor het eerst gerapporteerd op 20 juni 2024._
+_Eerste rapporteerde op 20 juni, 2024._

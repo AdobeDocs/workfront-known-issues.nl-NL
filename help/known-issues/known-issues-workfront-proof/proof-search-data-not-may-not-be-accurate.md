@@ -11,10 +11,10 @@ ht-degree: 0%
 
 ---
 
-# Workfront Proof: zoekgegevens zijn niet altijd correct
+# Workfront Proof: zoekgegevens zijn niet altijd nauwkeurig
 
 De gegevens die op de resultatenpagina in proefdruk worden weergegeven, geven niet altijd de meest actuele informatie weer.
 
 We raden u aan een aangepaste weergave te maken en die te gebruiken om de meest actuele informatie over uw gegevens te verkrijgen.
 
-_Voor het eerst gerapporteerd op 1 maart 2023._
+_Eerste rapporteerde op 1 Maart, 2023._

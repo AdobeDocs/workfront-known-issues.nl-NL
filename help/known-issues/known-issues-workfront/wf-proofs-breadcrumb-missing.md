@@ -19,8 +19,8 @@ ht-degree: 0%
 
 Wanneer een gebruiker een proefdruk weergeeft door op de knop Ga naar proef te klikken in een e-mailbericht met een proefdruk, ontbreekt de koppeling breadcrumb naar het bovenliggende object van de proefdruk.
 
-**Workaround**
+**Oplossing**
 
 Bekijk de proefdruk vanuit Workfront in plaats van via de e-mail met de proefdrukmelding.
 
-_Voor het eerst gerapporteerd op 16 oktober 2023._
+_Eerste rapporteerde op 16 oktober, 2023._

@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Als een gebruiker een rapport op een dashboard bekijkt en probeert om het rapport horizontaal te scrollen, of het rapport scrolt niet, of de kolomkopballen liggen achter de daadwerkelijke kolommen. Als het rapport een groot aantal kolommen bevat, kan het schuiven horizontaal de pagina sluiten.
 
-_Eerste verslag op 24 februari 2021._
+_Eerste rapporteerde op 24 Februari, 2021._

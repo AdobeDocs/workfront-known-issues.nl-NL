@@ -25,8 +25,8 @@ De gebruiker moet de pagina verfrissen om terug naar de projectlijst of het rapp
 
 Dit is gemeld bij bulkbewerking uit een projectlijst of uit een projectrapport.
 
-**Workaround**
+**Oplossing**
 
 Vernieuw de pagina en probeer deze opnieuw te bewerken.
 
-_Voor het eerst gerapporteerd op 13 juni 2024._
+_Eerste rapporteerde op 13 juni, 2024._

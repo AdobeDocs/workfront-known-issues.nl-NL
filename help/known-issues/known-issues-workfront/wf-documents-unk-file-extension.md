@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Wanneer een gebruiker een document koppelt vanuit een documentintegratie, wordt het document weergegeven in Workfront met een UNK-bestandsextensie.
 
-_Voor het eerst gerapporteerd op 12 mei 2024._
+_Eerste rapporteerde op 12 Mei, 2024._
