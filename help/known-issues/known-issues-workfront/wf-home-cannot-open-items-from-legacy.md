@@ -3,15 +3,19 @@ title: "Home: Kan geen items openen vanuit de startagenda of de werklijst"
 description: "Wanneer een gebruiker een werkitem of proefdruk probeert te openen via de thuisagenda of de thuiswerklijst, wordt het item niet geopend."
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: e64b507317a384626b33f81802737c17b210af24
+source-git-commit: 7b149f8f117d778efaa35ae650ed8b6f47c06311
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
 
 # Home: Kan items niet openen vanuit [!UICONTROL Home Calendar] of [!UICONTROL Work List]
+
+>[!NOTE]
+>
+>Dit probleem is op 18 juli 2024 opgelost.
 
 Wanneer een gebruiker een tijdelijk item of een proefdruk probeert te openen vanuit [!UICONTROL Home Calendar] of [!UICONTROL Home Work List] , wordt het item niet geopend.
 

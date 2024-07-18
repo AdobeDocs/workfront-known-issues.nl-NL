@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor  [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
+source-git-commit: 7b149f8f117d778efaa35ae650ed8b6f47c06311
 workflow-type: tm+mt
-source-wordcount: '451'
+source-wordcount: '435'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,6 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | [ Aangepaste vormen: De vorm van de douane wordt niet geschrapt van document ](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 8 juli 2024 |
 | [ Documenten: De telling van het document is onnauwkeurig ](known-issues-workfront/wf-documents-count-only-root-folder.md) | 28 juni 2024 |
 | [ Integraties: Het verbinden van omslag van  [!DNL Google Drive]  verbindt geen activa in omslag ](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
-| [ Proofs: Het sluiten van een proef leidt tot de pagina van de Documenten van het Product ](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | 24 juni 2024 |
 | [ Integraties: Kan geen nieuwe versie van een document van  [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) toevoegen | 24 juni 2024 |
 | [ Integraties: Kwesties met de integratie van de Dropbox ](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 14 juni 2024 |
 | [ Meldingen: Meldingen van documentgoedkeuringen bèta niet correct geformatteerd ](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 22 april 2024 |
@@ -45,7 +44,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | -----------------------------------------------------------------| ----------------- |
 | [ kan geen mening voor de lijst van Documenten tot stand brengen ](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 15 juli 2024 |
 | [ Documenten: Fout wanneer het gebruiken van een openbare verbinding aan een document ](known-issues-workfront/wf-documents-public-link-not-working.md) | 5 juni 2024 |
-| [ Proofs: Kan proefdrukkijker niet sluiten ](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 5 juni 2024 |
 | [ Huis: De widget van goedkeuringen is niet nauwkeurig ](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8 mei 2024 |
 | [ Project: Kan kwestie in project omzetten als de Webproef ](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) in bijlage is | 22 maart 2024 |
 | [ Bewijzen: Broodcrumb die wanneer het toegang tot van bewijs van e-mailverbinding ontbreekt ](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 november 2023 |

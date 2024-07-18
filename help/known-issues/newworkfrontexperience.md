@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
+source-git-commit: 7b149f8f117d778efaa35ae650ed8b6f47c06311
 workflow-type: tm+mt
-source-wordcount: '829'
+source-wordcount: '779'
 ht-degree: 0%
 
 ---
@@ -25,16 +25,12 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [ Gelijk: Het raad van het Verhaal gaat leeg wanneer het toevoegen van een subtask ](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 10 juli 2024 |
-| [ Home: Kan items niet openen vanuit [!UICONTROL Home Calendar] of [!UICONTROL Work List]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md) | 8 juli 2024 |
 | [ Meldingen: De miniaturen niet zichtbaar in e-mailberichten ](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 juli 2024 |
 | [ Aangepaste vormen: De vorm van de douane wordt niet geschrapt van document ](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 8 juli 2024 |
-| [ het Factureren verslagen: Voeg meer het facturerings verslagenknoop toe ontbreekt ](known-issues-workfront/wf-billing-records-new-button-missing.md) | 28 juni 2024 |
 | [ Documenten: De telling van het document is onnauwkeurig ](known-issues-workfront/wf-documents-count-only-root-folder.md) | 28 juni 2024 |
 | [ Navigatie: De rug knoop gaat niet terug naar vorige pagina ](known-issues-workfront/wf-navigation-back-button-not-work.md) | 28 juni 2024 |
 | [ Taken: Het zoeken naar voornaam in taaktaak keert geen gebruikers ](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md) terug | 27 juni 2024 |
 | [ Integraties: Het verbinden van omslag van  [!DNL Google Drive]  verbindt geen activa in omslag ](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
-| [ Proofs: Het sluiten van een proef leidt tot de pagina van de Documenten van het Product ](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | 24 juni 2024 |
 | [ Integraties: Kan geen nieuwe versie van een document van  [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) toevoegen | 24 juni 2024 |
 | [ Boeken: bord wordt niet weergegeven als gebruiker bij gebruik van [!UICONTROL Log in as]](known-issues-workfront/wf-boards-log-in-as.md) | 21 juni 2024 |
 | [ Integraties: Kwesties met de integratie van de Dropbox ](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 14 juni 2024 |
@@ -51,9 +47,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 |----------------------------------| ----------------- |
 | [ kan geen mening voor de lijst van Documenten tot stand brengen ](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 15 juli 2024 |
 | [ Gebruikers: De pagina van het gebruikersprofiel laadt onophoudelijk ](known-issues-workfront/wf-users-profile-continuously-reloads.md) | 10 juli 2024 |
-| [ Proofs: Kan proefdrukkijker niet sluiten ](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 9 juli 2024 |
 | [ Portfolio&#39;s: De gebruiker kan geen portefeuille ](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) plaatsen | 8 juli 2024 |
-| [ Workfront: De terminologie van de Douane wordt niet toegepast ](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md) | 8 juli 2024 |
 | [ Teams: Kan teameigenaar niet bekijken of team schrappen ](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 april 2024 |
 | [ Taken: De fout van Bizcontext wanneer het toevoegen van of het schrappen van een taak ](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 4 april 2024 |
 | [[!DNL Workfront]: Kwesties die a  [!DNL Workfront]  steungeval op Experience League ](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) voorleggen | 2 augustus 2022 |
