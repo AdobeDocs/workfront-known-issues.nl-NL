@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
+source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
 workflow-type: tm+mt
-source-wordcount: '1732'
+source-wordcount: '1759'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Projecten: valutasymbool is onjuist bij exporteren](known-issues-workfront/wf-projects-currency-symbol-incorrect.md)
+      + [Aangepaste formulieren: vervolgkeuzelijst wordt gesloten wanneer meerdere waarden worden geselecteerd](known-issues-workfront/wf-custom-forms-dropdown-closes.md)
+      + [Borden: Fout bij het laden van een bord](known-issues-workfront/wf-boards-error-when-loading-board.md)
+      + [Proefdrukken: goedgekeurde proefdrukken worden weergegeven in rapporten](known-issues-workfront/wf-proofs-approved-showing-on-reports.md)
       + [Kan geen weergave maken voor documentenlijst](known-issues-workfront/wf-documents-cannot-add-new-view.md)
       + [Stijl: het artikelbord wordt leeg weergegeven wanneer u een subtaak toevoegt](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
       + [Gebruikers: pagina met gebruikersprofielen wordt continu geladen](known-issues-workfront/wf-users-profile-continuously-reloads.md)

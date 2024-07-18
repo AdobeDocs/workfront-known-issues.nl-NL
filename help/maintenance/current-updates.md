@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: b618463ab3321b711836c17e167fe34a5b859472
+source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
 workflow-type: tm+mt
-source-wordcount: '4328'
+source-wordcount: '4355'
 ht-degree: 0%
 
 ---
@@ -24,9 +24,9 @@ Voor onderhoudsupdates voorafgaand aan 2024, zie [ Vorige Updates van het Onderh
 
 
 
-+++**(Gepland) Onderhoudsupdate op 18 juli 2024**
++++**Update van het Onderhoud op 18 juli, 2024**
 
-### (Geplande) onderhoudsupdate op 18 juli 2024
+### Onderhoudsupdate op 18 juli 2024
 
 #### Agile
 
@@ -39,6 +39,10 @@ Wanneer een gebruiker een subtaak aan een artikelbord probeert toe te voegen ter
 **Kan geen items openen vanuit [!UICONTROL Home Calendar] of[!UICONTROL Work List]**
 
 Wanneer een gebruiker een tijdelijk item of een proefdruk probeert te openen vanuit [!UICONTROL Home Calendar] of [!UICONTROL Home Work List] , wordt het item niet geopend.
+
+**de eigen vertoningen van het Huis van Admin wanneer het programma geopend als een andere gebruiker**
+
+Als een beheerder is aangemeld als een andere gebruiker en het startpunt van die gebruiker weergeeft, wordt het eigen startpunt van de beheerder weergegeven.
 
 #### Proefdrukken
 
