@@ -3,15 +3,19 @@ title: "Workfront Mobile: kan geen proefdrukken openen"
 description: "Wanneer een gebruiker een proefdruk probeert te openen in de Workfront Mobile-app, ziet de gebruiker de draaiende laadindicator, maar de proefdruk wordt niet geladen."
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
+source-git-commit: ecd8588333404b8effc26111f34618c8e9cec459
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
 
 # Workfront Mobile: kan geen proefdrukken openen
+
+>[!NOTE]
+>
+>Dit probleem is opgelost met de app-versie die op 15 juli 2024 is uitgebracht.
 
 Wanneer een gebruiker een proefdruk probeert te openen in de Workfront Mobile-app, ziet de gebruiker de draaiende laadindicator, maar de proefdruk wordt niet geladen.
 
