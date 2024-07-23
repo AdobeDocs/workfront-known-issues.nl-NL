@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
+source-git-commit: 35106dcf97314734dec36ddc05a821aa2b54b234
 workflow-type: tm+mt
-source-wordcount: '4355'
+source-wordcount: '4440'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,28 @@ Voor onderhoudsupdates voorafgaand aan 2024, zie [ Vorige Updates van het Onderh
 ## Updates in juli 2024
 
 
+
++++**Update van het Onderhoud op 18 juli, 2024**
+
+### Onderhoudsupdate op 18 juli 2024
+
+#### Aangepaste formulieren
+
+**Dropdown sluit wanneer het selecteren van veelvoudige waarden**
+
+Wanneer een gebruiker meerdere waarden in een aangepast formulierveld probeert te selecteren, wordt het vervolgkeuzemenu gesloten nadat de eerste waarde is geselecteerd.
+
+Dit gebeurt wanneer het veld is gekoppeld aan de weergavelogica in het aangepaste formulier.
+
+#### Meldingen
+
+**Miniaturen niet zichtbaar in e-mailberichten**
+
+Wanneer een gebruiker een e-mailbericht over een documentgoedkeuring weergeeft, wordt de documentminiatuur niet weergegeven in de e-mail.
+
+Dit is gemeld in Gmail.
+
++++
 
 +++**Update van het Onderhoud op 18 juli, 2024**
 

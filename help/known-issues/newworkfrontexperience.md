@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
+source-git-commit: 35106dcf97314734dec36ddc05a821aa2b54b234
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '806'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [ Boards: De kaart omvat geen subtasks ](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 23 juli 2024 |
 | [ Gebruikers: Kan het toegangsniveau van de gebruiker niet wijzigen ](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 18 juli 2024 |
 | [ Borden: Fout wanneer het laden van een raad ](known-issues-workfront/wf-boards-error-when-loading-board.md) | 18 juli 2024 |
 | [ Proofs: Goedgekeurde proefdrukken verschijnen in rapporten ](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 18 juli 2024 |
