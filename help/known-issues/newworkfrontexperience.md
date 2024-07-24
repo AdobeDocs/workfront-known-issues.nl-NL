@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 35106dcf97314734dec36ddc05a821aa2b54b234
+source-git-commit: 689e979b0598017911ad86f2f16e30733eadd2bb
 workflow-type: tm+mt
-source-wordcount: '806'
+source-wordcount: '799'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,6 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | [ Boards: De kaart omvat geen subtasks ](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 23 juli 2024 |
 | [ Gebruikers: Kan het toegangsniveau van de gebruiker niet wijzigen ](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 18 juli 2024 |
 | [ Borden: Fout wanneer het laden van een raad ](known-issues-workfront/wf-boards-error-when-loading-board.md) | 18 juli 2024 |
-| [ Proofs: Goedgekeurde proefdrukken verschijnen in rapporten ](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 18 juli 2024 |
 | [ Documenten: De telling van het document is onnauwkeurig ](known-issues-workfront/wf-documents-count-only-root-folder.md) | 28 juni 2024 |
 | [ Navigatie: De rug knoop gaat niet terug naar vorige pagina ](known-issues-workfront/wf-navigation-back-button-not-work.md) | 28 juni 2024 |
 | [ Integraties: Het verbinden van omslag van  [!DNL Google Drive]  verbindt geen activa in omslag ](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
