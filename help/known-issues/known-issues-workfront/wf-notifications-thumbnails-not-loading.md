@@ -1,17 +1,21 @@
 ---
-title: "Meldingen: Miniaturen zijn niet zichtbaar in e-mailmeldingen"
-description: "Wanneer een gebruiker een e-mailbericht over een documentgoedkeuring weergeeft, is de documentminiatuur niet zichtbaar in de e-mail."
+title: 'Meldingen: miniaturen zijn niet zichtbaar in e-mailmeldingen'
+description: Wanneer een gebruiker een e-mailbericht over een documentgoedkeuring weergeeft, wordt de documentminiatuur niet weergegeven in de e-mail.
 hidefromtoc: true
 feature: Updates and Notifications, Digital Content and Documents
-source-git-commit: e64b507317a384626b33f81802737c17b210af24
+exl-id: 8f378ff6-5a44-40a2-b28e-c613b63a1b76
+source-git-commit: 349f5a14e77cd710a3566ece5985caf731969f0f
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
 
-
 # Meldingen: Miniaturen zijn niet zichtbaar in e-mailmeldingen
+
+>[!NOTE]
+>
+>Dit probleem is op 25 juli 2024 opgelost.
 
 Wanneer een gebruiker een e-mailbericht over een documentgoedkeuring weergeeft, wordt de documentminiatuur niet weergegeven in de e-mail.
 

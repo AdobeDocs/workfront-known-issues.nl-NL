@@ -1,17 +1,21 @@
 ---
-title: "Portfolio's: gebruiker kan portfolio niet instellen"
-description: "Gebruikers kunnen geen portfolio's voor een project wijzigen als ze geen toegang tot het portfolio hebben."
+title: '''Portfolio''s: gebruiker kan portfolio niet instellen'''
+description: Gebruikers kunnen portfolio's van een project niet wijzigen als ze geen toegang hebben tot het portfolio.
 hidefromtoc: true
 feature: Work Management
-source-git-commit: e64b507317a384626b33f81802737c17b210af24
+exl-id: 38ad277a-2087-486c-8715-93e275488697
+source-git-commit: 83768065b8ab38a516a5f1a51039ad6df05b5788
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
-
 # Portfolio&#39;s: gebruiker kan portfolio niet instellen
+
+>[!NOTE]
+>
+>Deze kwestie is gesloten omdat het zoals ontworpen werkt.
 
 Gebruikers kunnen portfolio&#39;s van een project niet wijzigen als ze geen toegang hebben tot het portfolio.
 

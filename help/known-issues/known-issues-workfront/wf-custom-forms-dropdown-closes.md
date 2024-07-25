@@ -1,17 +1,21 @@
 ---
-title: " Aangepaste formulieren: het keuzemenu wordt gesloten wanneer u meerdere waarden selecteert"
-description: "Wanneer een gebruiker meerdere waarden in een aangepast formulierveld probeert te selecteren, wordt het vervolgkeuzemenu gesloten nadat de eerste waarde is geselecteerd. "
+title: 'Aangepaste formulieren: vervolgkeuzelijst wordt gesloten wanneer meerdere waarden worden geselecteerd'
+description: 'Wanneer een gebruiker meerdere waarden in een aangepast formulierveld probeert te selecteren, wordt het vervolgkeuzemenu gesloten nadat de eerste waarde is geselecteerd. '
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
+exl-id: 0313e7d9-b5b2-4871-a133-da3e78052ab9
+source-git-commit: 349f5a14e77cd710a3566ece5985caf731969f0f
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
 
-
 # Aangepaste formulieren: vervolgkeuzelijst wordt gesloten wanneer meerdere waarden worden geselecteerd
+
+>[!NOTE]
+>
+>Dit probleem is op 25 juli 2024 opgelost.
 
 Wanneer een gebruiker meerdere waarden in een aangepast formulierveld probeert te selecteren, wordt het vervolgkeuzemenu gesloten nadat de eerste waarde is geselecteerd.
 

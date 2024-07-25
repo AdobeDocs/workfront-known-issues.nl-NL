@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
+source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
 workflow-type: tm+mt
-source-wordcount: '1759'
+source-wordcount: '1803'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,11 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Updates: gebruikers worden niet op de hoogte gesteld van gestuurde updates](known-issues-workfront/wf-updates-users-not-getting-email.md)
+      + [Proefdrukken: bij het openen van een proefdruk worden meerdere exemplaren geopend](known-issues-workfront/wf-proofs-two-proofs-open.md)
+      + [Aanmelden als: Startpagina en punten worden onjuist weergegeven wanneer u zich afmeldt bij &quot;Aanmelden als&quot;](known-issues-workfront/wf-login-as-displays-when-logged-out.md)
+      + [Taken: voor taken ontbreken overgeërfde machtigingen](known-issues-workfront/wf-tasks-inherited-permissions-missing.md)
+      + [Toegangsniveaus: dubbele toegangsniveaus in het gebied van de Opstelling](known-issues-workfront/wf-access-duplicate-level.md)
       + [Projecten: valutasymbool is onjuist bij exporteren](known-issues-workfront/wf-projects-currency-symbol-incorrect.md)
       + [Aangepaste formulieren: vervolgkeuzelijst wordt gesloten wanneer meerdere waarden worden geselecteerd](known-issues-workfront/wf-custom-forms-dropdown-closes.md)
       + [Borden: Fout bij het laden van een bord](known-issues-workfront/wf-boards-error-when-loading-board.md)

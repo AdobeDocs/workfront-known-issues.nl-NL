@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 689e979b0598017911ad86f2f16e30733eadd2bb
+source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
 workflow-type: tm+mt
-source-wordcount: '799'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
@@ -25,8 +25,9 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [ Proofs: Het openen van een proef opent veelvoudige exemplaren ](known-issues-workfront/wf-proofs-two-proofs-open.md) | 25 juli 2024 |
+| [ Login zoals: Huis en spelden tonen onjuist wanneer het programma openen van &quot;Login als&quot;](known-issues-workfront/wf-login-as-displays-when-logged-out.md) | 25 juli 2024 |
 | [ Boards: De kaart omvat geen subtasks ](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 23 juli 2024 |
-| [ Gebruikers: Kan het toegangsniveau van de gebruiker niet wijzigen ](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 18 juli 2024 |
 | [ Borden: Fout wanneer het laden van een raad ](known-issues-workfront/wf-boards-error-when-loading-board.md) | 18 juli 2024 |
 | [ Documenten: De telling van het document is onnauwkeurig ](known-issues-workfront/wf-documents-count-only-root-folder.md) | 28 juni 2024 |
 | [ Navigatie: De rug knoop gaat niet terug naar vorige pagina ](known-issues-workfront/wf-navigation-back-button-not-work.md) | 28 juni 2024 |
@@ -45,12 +46,12 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Uitgave** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [ Updates: De gebruikers worden niet op de hoogte gebracht van geleide updates ](known-issues-workfront/wf-updates-users-not-getting-email.md) | 25 juli 2024 |
+| [ Taken: De taken ontbreken geërfte toestemmingen ](known-issues-workfront/wf-tasks-inherited-permissions-missing.md) | 25 juli 2024 |
+| [ Niveaus van de Toegang: Dubbele toegangsniveaus in het gebied van de Opstelling ](known-issues-workfront/wf-access-duplicate-level.md) | 25 juli 2024 |
 | [ Projecten: Het symbool van de Valuta is onjuist wanneer het uitvoeren ](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | 18 juli 2024 |
-| [ De vormen van de Douane: De sluiting van Dropdown wanneer het selecteren van veelvoudige waarden ](known-issues-workfront/wf-custom-forms-dropdown-closes.md) | 18 juli 2024 |
-| [ Meldingen: De miniaturen niet zichtbaar in e-mailberichten ](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 18 juli 2024 |
 | [ Aangepaste vormen: De vorm van de douane wordt niet geschrapt van document ](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 18 juli 2024 |
 | [ kan geen mening voor de lijst van Documenten tot stand brengen ](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 15 juli 2024 |
-| [ Portfolio&#39;s: De gebruiker kan geen portefeuille ](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) plaatsen | 8 juli 2024 |
 | [ Teams: Kan teameigenaar niet bekijken of team schrappen ](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 april 2024 |
 | [ Taken: De fout van Bizcontext wanneer het toevoegen van of het schrappen van een taak ](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 4 april 2024 |
 | [[!DNL Workfront]: Kwesties die a  [!DNL Workfront]  steungeval op Experience League ](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) voorleggen | 2 augustus 2022 |
