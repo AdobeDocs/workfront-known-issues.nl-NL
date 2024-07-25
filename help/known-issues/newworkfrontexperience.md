@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
+source-git-commit: d88a785bb980ad4dcbb5ccb6b1b1bfb0cb61a161
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '802'
 ht-degree: 0%
 
 ---
@@ -27,12 +27,9 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | -----------------------------------------------------------------| ----------------- |
 | [ Proofs: Het openen van een proef opent veelvoudige exemplaren ](known-issues-workfront/wf-proofs-two-proofs-open.md) | 25 juli 2024 |
 | [ Login zoals: Huis en spelden tonen onjuist wanneer het programma openen van &quot;Login als&quot;](known-issues-workfront/wf-login-as-displays-when-logged-out.md) | 25 juli 2024 |
-| [ Boards: De kaart omvat geen subtasks ](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 23 juli 2024 |
 | [ Borden: Fout wanneer het laden van een raad ](known-issues-workfront/wf-boards-error-when-loading-board.md) | 18 juli 2024 |
-| [ Documenten: De telling van het document is onnauwkeurig ](known-issues-workfront/wf-documents-count-only-root-folder.md) | 28 juni 2024 |
 | [ Navigatie: De rug knoop gaat niet terug naar vorige pagina ](known-issues-workfront/wf-navigation-back-button-not-work.md) | 28 juni 2024 |
 | [ Integraties: Het verbinden van omslag van  [!DNL Google Drive]  verbindt geen activa in omslag ](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
-| [ Integraties: Kan geen nieuwe versie van een document van  [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) toevoegen | 24 juni 2024 |
 | [ Boeken: bord wordt niet weergegeven als gebruiker bij gebruik van [!UICONTROL Log in as]](known-issues-workfront/wf-boards-log-in-as.md) | 21 juni 2024 |
 | [ Integraties: Kwesties met de integratie van de Dropbox ](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 14 juni 2024 |
 | [ Rapporten: Fout wanneer het bekijken van rapportdetails die door douanedatum ](known-issues-workfront/wf-reports-error-with-custom-date-field.md) worden gegroepeerd | 14 juni 2024 |
@@ -46,6 +43,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Uitgave** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [ Boards: De kaart omvat geen subtasks ](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 25 juli 2024 |
 | [ Updates: De gebruikers worden niet op de hoogte gebracht van geleide updates ](known-issues-workfront/wf-updates-users-not-getting-email.md) | 25 juli 2024 |
 | [ Taken: De taken ontbreken geërfte toestemmingen ](known-issues-workfront/wf-tasks-inherited-permissions-missing.md) | 25 juli 2024 |
 | [ Niveaus van de Toegang: Dubbele toegangsniveaus in het gebied van de Opstelling ](known-issues-workfront/wf-access-duplicate-level.md) | 25 juli 2024 |

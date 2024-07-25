@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor  [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
+source-git-commit: d88a785bb980ad4dcbb5ccb6b1b1bfb0cb61a161
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | -----------------------------------------------------------------| ----------------- |
 | [ Proofs: Het openen van een proef opent veelvoudige exemplaren ](known-issues-workfront/wf-proofs-two-proofs-open.md) | 25 juli 2024 |
 | [ Aangepaste vormen: De vorm van de douane wordt niet geschrapt van document ](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 8 juli 2024 |
-| [ Documenten: De telling van het document is onnauwkeurig ](known-issues-workfront/wf-documents-count-only-root-folder.md) | 28 juni 2024 |
 | [ Integraties: Het verbinden van omslag van  [!DNL Google Drive]  verbindt geen activa in omslag ](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
-| [ Integraties: Kan geen nieuwe versie van een document van  [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) toevoegen | 24 juni 2024 |
 | [ Integraties: Kwesties met de integratie van de Dropbox ](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 14 juni 2024 |
 | [ Meldingen: Meldingen van documentgoedkeuringen bèta niet correct geformatteerd ](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 22 april 2024 |
 
