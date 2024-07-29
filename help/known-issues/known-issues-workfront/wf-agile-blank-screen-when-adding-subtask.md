@@ -1,21 +1,24 @@
 ---
-title: "Artikel: het whiteboard wordt leeg gelaten wanneer een subtaak wordt toegevoegd"
-description: "Wanneer een gebruiker een subtaak aan een artikelbord probeert toe te voegen terwijl een filter wordt geselecteerd, gaat het scherm leeg, en de gebruiker kan niet de subtaak toevoegen."
+title: 'Gelijk: het artikelbord wordt leeg weergegeven wanneer u een subtaak toevoegt'
+description: Wanneer een gebruiker een subtaak aan een artikelbord probeert toe te voegen terwijl een filter wordt geselecteerd, gaat het scherm leeg, en de gebruiker kan niet de subtaak toevoegen.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 7b149f8f117d778efaa35ae650ed8b6f47c06311
+exl-id: 3d4ad64a-31a3-4205-a469-80bf680659b3
+source-git-commit: e3290a00e93e0faf6b944ac02c2820dc3a26fb4b
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
 
-
 # Stijl: het artikelbord wordt leeg weergegeven wanneer u een subtaak toevoegt
 
+
+<!--
 >[!NOTE]
 >
->Dit probleem is op 18 juli 2024 opgelost.
+>This issue was fixed on July 18, 2024.
+-->
 
 Wanneer een gebruiker een subtaak aan een artikelbord probeert toe te voegen terwijl een filter wordt geselecteerd, gaat het scherm leeg, en de gebruiker kan niet de subtaak toevoegen.
 

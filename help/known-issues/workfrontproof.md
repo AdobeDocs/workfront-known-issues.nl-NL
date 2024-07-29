@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor  [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: d88a785bb980ad4dcbb5ccb6b1b1bfb0cb61a161
+source-git-commit: e5895c67ae8b4f63bc9c1d4872521263909a8c6c
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '431'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [ Gelijk: Het raad van het Verhaal gaat leeg wanneer het toevoegen van een subtask ](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 26 juli 2024 |
 | [ Proofs: Het openen van een proef opent veelvoudige exemplaren ](known-issues-workfront/wf-proofs-two-proofs-open.md) | 25 juli 2024 |
 | [ Aangepaste vormen: De vorm van de douane wordt niet geschrapt van document ](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 8 juli 2024 |
 | [ Integraties: Het verbinden van omslag van  [!DNL Google Drive]  verbindt geen activa in omslag ](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
