@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ee8a402825303927035fea84fd52751c26a46189
+source-git-commit: 476d10ffa4de9094a76a011b69b9a7acd11b0339
 workflow-type: tm+mt
-source-wordcount: '798'
+source-wordcount: '788'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Uitgave** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
-| [ Meldingen: De miniaturen niet zichtbaar in e-mailberichten ](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 29 juli 2024 |
 | [ Boards: De kaart omvat geen subtasks ](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 25 juli 2024 |
 | [ Updates: De gebruikers worden niet op de hoogte gebracht van geleide updates ](known-issues-workfront/wf-updates-users-not-getting-email.md) | 25 juli 2024 |
 | [ Niveaus van de Toegang: Dubbele toegangsniveaus in het gebied van de Opstelling ](known-issues-workfront/wf-access-duplicate-level.md) | 25 juli 2024 |
