@@ -1,17 +1,17 @@
 ---
-title: "Kan weergave voor documentenlijst niet maken"
-description: "Wanneer een gebruiker een nieuwe weergave probeert te maken in een documentlijst, wordt het scherm leeg weergegeven en kan de gebruiker de weergave niet maken. "
+title: Kan geen weergave maken voor documentenlijst
+description: 'Wanneer een gebruiker een nieuwe weergave probeert te maken in een documentlijst, wordt het scherm leeg weergegeven en kan de gebruiker de weergave niet maken. '
 hidefromtoc: true
 feature: Digital Content and Documents, Work Management
-source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
+exl-id: 19fe57f9-fea3-48da-8c82-51e2991958d7
+source-git-commit: a04d80ecff08c17a0e4006f71e23c841c20581b1
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
-
-# Kan geen weergave maken voor documentenlijst
+# Documenten: kan geen weergave maken voor documentenlijst
 
 Wanneer een gebruiker een nieuwe weergave probeert te maken in een documentlijst, wordt het scherm leeg weergegeven en kan de gebruiker de weergave niet maken.
 

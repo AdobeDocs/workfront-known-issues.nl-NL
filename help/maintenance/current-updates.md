@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 349f5a14e77cd710a3566ece5985caf731969f0f
+source-git-commit: 3d966ae45f5a1a6c6e34dc49c801186178e7635d
 workflow-type: tm+mt
-source-wordcount: '4440'
+source-wordcount: '4571'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,34 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2024.
 
 Voor onderhoudsupdates voorafgaand aan 2024, zie [ Vorige Updates van het Onderhoud ](#previous-maintenance-updates)
 
+## Updates in augustus 2024
+
++++**(Gepland) Onderhoudsupdate op 1 augustus 2024**
+
+### (Geplande) onderhoudsupdate op 1 augustus 2024
+
+#### Documenten
+
+**kan geen mening voor de lijst van Documenten tot stand brengen**
+
+Wanneer een gebruiker een nieuwe weergave probeert te maken in een documentlijst, wordt het scherm leeg weergegeven en kan de gebruiker de weergave niet maken.
+
+Bestaande weergaven werken naar behoren.
+
+#### Integraties
+
+**Kwesties met de integratie van de Dropbox**
+
+Over de integratie van de Dropbox zijn de volgende punten gemeld:
+
+* Wanneer een gebruiker naar een bestand in de bestandskiezer van de Dropbox zoekt, wordt een foutbericht over de autorisatie weergegeven en wordt het bestand niet opgehaald uit de Dropbox door de bestandskiezer.
+* Wanneer een gebruiker een gekoppelde map probeert te openen, ziet de gebruiker een fout die aangeeft dat de bestanden of map niet meer in de Dropbox aanwezig zijn.
+
+Deze problemen zijn te wijten aan problemen met Dropbox, niet met Workfront.
+
++++
+
 ## Updates in juli 2024
-
-
 
 +++**Update van het Onderhoud op 25 Juli, 2024**
 
