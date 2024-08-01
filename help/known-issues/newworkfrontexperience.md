@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 476d10ffa4de9094a76a011b69b9a7acd11b0339
+source-git-commit: 4a75c9135e2b1ba7dab0ab8d69d52b6d1469aa49
 workflow-type: tm+mt
-source-wordcount: '788'
+source-wordcount: '766'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,6 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | [ Navigatie: De rug knoop gaat niet terug naar vorige pagina ](known-issues-workfront/wf-navigation-back-button-not-work.md) | 28 juni 2024 |
 | [ Integraties: Het verbinden van omslag van  [!DNL Google Drive]  verbindt geen activa in omslag ](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
 | [ Boeken: bord wordt niet weergegeven als gebruiker bij gebruik van [!UICONTROL Log in as]](known-issues-workfront/wf-boards-log-in-as.md) | 21 juni 2024 |
-| [ Integraties: Kwesties met de integratie van de Dropbox ](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 14 juni 2024 |
 | [ Rapporten: Fout wanneer het bekijken van rapportdetails die door douanedatum ](known-issues-workfront/wf-reports-error-with-custom-date-field.md) worden gegroepeerd | 14 juni 2024 |
 | [ Opstelling: &quot;Aangemeld als&quot;banner verschijnt niet wanneer het programma geopend als een andere gebruiker ](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 mei 2024 |
 
@@ -44,11 +43,9 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | **Uitgave** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
 | [ Boards: De kaart omvat geen subtasks ](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 25 juli 2024 |
-| [ Updates: De gebruikers worden niet op de hoogte gebracht van geleide updates ](known-issues-workfront/wf-updates-users-not-getting-email.md) | 25 juli 2024 |
 | [ Niveaus van de Toegang: Dubbele toegangsniveaus in het gebied van de Opstelling ](known-issues-workfront/wf-access-duplicate-level.md) | 25 juli 2024 |
 | [ Projecten: Het symbool van de Valuta is onjuist wanneer het uitvoeren ](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | 18 juli 2024 |
 | [ Aangepaste vormen: De vorm van de douane wordt niet geschrapt van document ](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 18 juli 2024 |
-| [ kan geen mening voor de lijst van Documenten tot stand brengen ](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 15 juli 2024 |
 | [ Teams: Kan teameigenaar niet bekijken of team schrappen ](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 april 2024 |
 | [ Taken: De fout van Bizcontext wanneer het toevoegen van of het schrappen van een taak ](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 4 april 2024 |
 | [[!DNL Workfront]: Kwesties die a  [!DNL Workfront]  steungeval op Experience League ](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) voorleggen | 2 augustus 2022 |
