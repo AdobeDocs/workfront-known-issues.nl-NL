@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
+source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
 workflow-type: tm+mt
-source-wordcount: '1803'
+source-wordcount: '1886'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,17 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Meldingen: Er treedt een fout op bij het instellen van meldingsvoorkeuren](known-issues-workfront/wf-notifications-whoops-error.md)
+      + [Aangepaste formulieren: browser loopt vast bij het maken van grote formulieren](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
+      + [Rapporten: leveringen van rapporten zijn uitgesteld of ontbreken](known-issues-workfront/wf-reports-not-delivered.md)
+      + [Taken: problemen met tijdlijnherberekening](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md)
+      + [Aangepaste formulieren: de formulierbuilder crasht bij het invoeren van weergavelogica](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md)
+      + [Documenten: als u op een documentnaam klikt, wordt de lege pagina weergegeven](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md)
+      + [Aangepaste formulieren: kan niet schuiven in extern opzoekveld](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md)
+      + [Aangepaste formulieren: berekend veld met onjuiste waarde](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md)
+      + [Workfront Fusion: kan een verbinding niet verifiëren met Workfront Log in als functionaliteit](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
+      + [Instellen: &quot;Aanmelden als&quot; leidt tot een leeg scherm](known-issues-workfront/wf-setup-blank-screen-for-login-as.md)
+      + [API: time-out voor aanvragen](known-issues-workfront/wf-api-request-timing-out.md)
       + [Updates: gebruikers worden niet op de hoogte gesteld van gestuurde updates](known-issues-workfront/wf-updates-users-not-getting-email.md)
       + [Proefdrukken: bij het openen van een proefdruk worden meerdere exemplaren geopend](known-issues-workfront/wf-proofs-two-proofs-open.md)
       + [Aanmelden als: Startpagina en punten worden onjuist weergegeven wanneer u zich afmeldt bij &quot;Aanmelden als&quot;](known-issues-workfront/wf-login-as-displays-when-logged-out.md)
