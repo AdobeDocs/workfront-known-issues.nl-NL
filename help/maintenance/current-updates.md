@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4a75c9135e2b1ba7dab0ab8d69d52b6d1469aa49
+source-git-commit: 6a969ff30fbc8299786ceda421f615c0c6322a4d
 workflow-type: tm+mt
-source-wordcount: '4569'
+source-wordcount: '4678'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,30 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2024.
 Voor onderhoudsupdates voorafgaand aan 2024, zie [ Vorige Updates van het Onderhoud ](#previous-maintenance-updates)
 
 ## Updates in augustus 2024
+
++++**(Gepland) Onderhoudsupdate op 8 augustus 2024**
+
+### (Geplande) onderhoudsupdate op 8 augustus 2024
+
+#### Borden
+
+**Kaart omvat geen subtasks**
+
+Wanneer een gebruiker een kaart weergeeft voor een taak die een bovenliggende taak is, worden de subtaken van die bovenliggende taak niet weergegeven op de kaart. In plaats daarvan toont de kaart aan dat er 0 subtaken zijn.
+
+### Rapporten
+
+**de leveringen van het Rapport worden vertraagd of ontbreken**
+
+Rapporten met geplande leveringen worden niet op de verwachte wijze geleverd. Ze kunnen te laat zijn of helemaal niet geleverd worden.
+
+#### Instellen
+
+**&quot;Login als&quot;leidt tot leeg scherm**
+
+Wanneer een beheerder zich aanmeldt als een andere gebruiker in plaats van de account van die gebruiker te zien, ziet de beheerder een leeg scherm.
+
++++
 
 +++**Update van het Onderhoud op 1 Augustus, 2024**
 
