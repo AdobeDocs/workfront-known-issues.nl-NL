@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: da6a28494f7550727031bc4eee4947b86bfd9fea
+source-git-commit: 550eddafb8d52aae6eb89066d74907cd0bcbb4e9
 workflow-type: tm+mt
-source-wordcount: '4676'
+source-wordcount: '4799'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,41 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2024.
 Voor onderhoudsupdates voorafgaand aan 2024, zie [ Vorige Updates van het Onderhoud ](#previous-maintenance-updates)
 
 ## Updates in augustus 2024
+
++++**Update van het Onderhoud op 15 augustus, 2024**
+
+### Onderhoudsupdate op 15 augustus 2024
+
+#### Borden
+
+**Kwesties betreffende dubbele kaarten**
+
+De volgende kwesties zijn gemeld met betrekking tot dubbele kaarten in de raden van bestuur:
+
+* Er wordt tweemaal een kaart weergegeven. Dit kan worden opgelost door de pagina te vernieuwen.
+* Als een gebruiker een van de dubbele kaarten verwijdert, worden alle exemplaren van die gedupliceerde kaart verwijderd.
+
+#### Meldingen
+
+**De fout van Hele toen het plaatsen van berichtvoorkeur**
+
+Wanneer een gebruiker probeert om berichtvoorkeur te bekijken, zien zij de volgende fout:
+
+&quot;[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]&quot;
+
+Dit is gemeld op de volgende gebieden:
+
+* Meldingsinstellingen voor een gebruikersprofiel
+* Gebeurtenismeldingen in venster Setup
+
+#### Projecten
+
+**symbool van de Valuta is onjuist wanneer het uitvoeren**
+
+Wanneer een gebruiker een emissie exporteert, komt het valutasymbool in de exportbewerking niet overeen met de valuta die is ingesteld in het project of de uitgave.
+
+
++++
 
 +++**Update van het Onderhoud op 8 augustus, 2024**
 
