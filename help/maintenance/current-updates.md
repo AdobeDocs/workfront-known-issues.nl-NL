@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3bd94e7fbed03e3394f01043b3af32f29cc6d09e
+source-git-commit: b6ed840df25684f16f88bc30fe7a8138e37fbe53
 workflow-type: tm+mt
-source-wordcount: '4801'
+source-wordcount: '4821'
 ht-degree: 0%
 
 ---
@@ -53,6 +53,12 @@ Dit is gemeld op de volgende gebieden:
 **symbool van de Valuta is onjuist wanneer het uitvoeren**
 
 Wanneer een gebruiker een emissie exporteert, komt het valutasymbool in de exportbewerking niet overeen met de valuta die is ingesteld in het project of de uitgave.
+
+#### Proefdrukken
+
+**de markeringen van het Bewijs zijn onjuist**
+
+Proefmarkeringen worden verkeerd uitgelijnd op PDF-afdrukken die via e-mail van de functie Afdrukken proefdrukken zijn ontvangen.
 
 
 +++

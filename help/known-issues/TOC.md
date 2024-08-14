@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
+source-git-commit: dbbedf12a1af39e5668b7a5288c47f3be327555e
 workflow-type: tm+mt
-source-wordcount: '1886'
+source-wordcount: '1953'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,14 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Workfront: Workfront meldt zich af met meerdere browsertabs](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
+      + [Rapporten: Kan niet op een rapport van het gebied van de Gebieden van de Douane van Opstelling klikken](known-issues-workfront/wf-reports-cannot-click-on-report.md)
+      + [Verzoeken: de gebruiker kan de status wijzigen bij gebrek aan machtigingen](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
+      + [Borden: Verbonden kaart bevindt zich in onjuiste kolom](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
+      + [Workfront Mobile: kan niet aanmelden zonder SSO te gebruiken](known-issues-workfront/wf-mobile-cannot-bypass-sso.md)
+      + [Rapporten: Fout bij exporteren van rapport](known-issues-workfront/wf-reports-error-cache-content.md)
+      + [Gebruikers: landinstelling voor e-mail voor gebruiker wordt niet opgeslagen](known-issues-workfront/wf-users-email-locale-not-saving.md)
+      + [Integratie: fout bij het maken van een aanvraag vanuit Outlook](known-issues-workfront/wf-integrations-outlook-attachment-error.md)
       + [Meldingen: Er treedt een fout op bij het instellen van meldingsvoorkeuren](known-issues-workfront/wf-notifications-whoops-error.md)
       + [Aangepaste formulieren: browser loopt vast bij het maken van grote formulieren](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
       + [Rapporten: leveringen van rapporten zijn uitgesteld of ontbreken](known-issues-workfront/wf-reports-not-delivered.md)
