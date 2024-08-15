@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
+source-git-commit: 9f8167f06da0121f32f9fba22d51c667efd415e3
 workflow-type: tm+mt
-source-wordcount: '970'
+source-wordcount: '960'
 ht-degree: 0%
 
 ---
@@ -64,7 +64,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | [ Vormen van de Douane: Browser loopt vast wanneer het bouwen van grote vormen ](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 5 augustus 2024 |
 | [ Aangepaste vormen: De bouwer van de vorm crasht wanneer het ingaan van vertoningslogica ](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 5 augustus 2024 |
 | [ Documenten: Het klikken van een documentnaam leidt tot lege pagina ](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md) | 5 augustus 2024 |
-| [ De vormen van de Douane: Kan extern raadplegingsgebied niet scrollen ](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md) | 5 augustus 2024 |
 | [ de vormen van de Douane: Berekend gebied dat onjuiste waarde ](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) toont | 5 augustus 2024 |
 | [ Niveaus van de Toegang: Dubbele toegangsniveaus in het gebied van de Opstelling ](known-issues-workfront/wf-access-duplicate-level.md) | 25 juli 2024 |
 | [ Aangepaste vormen: De vorm van de douane wordt niet geschrapt van document ](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 18 juli 2024 |
