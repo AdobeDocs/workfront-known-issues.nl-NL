@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: dbbedf12a1af39e5668b7a5288c47f3be327555e
+source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
 workflow-type: tm+mt
-source-wordcount: '930'
+source-wordcount: '970'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,9 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [ Workfront: De veelvoudige browser lusjes veroorzaken Workfront aan logout ](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 14 augustus 2024 |
+| [ Huis: &quot;Geen toegang&quot;vertoningen als projectnaam ](known-issues-workfront/wf-home-no-access-project-name.md) | 15 augustus 2024 |
+| [ Huis: Het huis loopt vast met &quot;uit geheugen&quot;fout ](known-issues-workfront/wf-home-crashes-with-error.md) | 15 augustus 2024 |
+| [ Workfront: De veelvoudige browser lusjes veroorzaken Workfront aan logout ](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 15 augustus 2024 |
 | [ Verzoeken: De gebruiker kan status ondanks gebrek aan toestemmingen veranderen ](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | 14 augustus 2024 |
 | [ Borden: Verbonden kaart is in onjuiste kolom ](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 14 augustus 2024 |
 | [ Workfront Mobile: Kan binnen ondertekenen zonder SSO ](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) te gebruiken niet | 14 augustus 2024 |
@@ -49,12 +51,15 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Uitgave** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [ Documenten: Kan voorproefdocumenten met voorproefverbinding niet ](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 15 augustus 2024 |
+| [ de vormen van de Douane: De fout van het type van vertoning omzette op douaneformulieren ](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 15 augustus 2024 |
+| [ Aangepaste vormen: Kan gebieden op de pagina van de gebiedslijst niet uitgeven ](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md) | 15 augustus 2024 |
+| [ Opstelling: Kwesties wanneer het programma openen als een andere gebruiker ](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 15 augustus 2024 |
 | [ Rapporten: Kan niet op een rapport van het gebied van de Gebieden van de Douane van Opstelling klikken ](known-issues-workfront/wf-reports-cannot-click-on-report.md) | 14 augustus 2024 |
 | [ Integraties: Fout wanneer het creëren van een verzoek van Vooruitzichten ](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | 14 augustus 2024 |
 | [ Meldingen: De fout van Wiops wanneer het plaatsen van berichtvoorkeur ](known-issues-workfront/wf-notifications-whoops-error.md) | 8 augustus 2024 |
 | [ Borden: Fout wanneer het laden van een raad ](known-issues-workfront/wf-boards-error-when-loading-board.md) | 8 augustus 2024 |
 | [ Meldingen: De miniaturen niet zichtbaar in e-mailberichten ](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 augustus 2024 |
-| [ Boards: Kwesties betreffende dubbele kaarten ](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 5 augustus 2024 |
 | [ Meldingen: De miniaturen niet zichtbaar in e-mailberichten ](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 augustus 2024 |
 | [ Vormen van de Douane: Browser loopt vast wanneer het bouwen van grote vormen ](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 5 augustus 2024 |
 | [ Aangepaste vormen: De bouwer van de vorm crasht wanneer het ingaan van vertoningslogica ](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 5 augustus 2024 |
@@ -62,7 +67,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | [ De vormen van de Douane: Kan extern raadplegingsgebied niet scrollen ](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md) | 5 augustus 2024 |
 | [ de vormen van de Douane: Berekend gebied dat onjuiste waarde ](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) toont | 5 augustus 2024 |
 | [ Niveaus van de Toegang: Dubbele toegangsniveaus in het gebied van de Opstelling ](known-issues-workfront/wf-access-duplicate-level.md) | 25 juli 2024 |
-| [ Projecten: Het symbool van de Valuta is onjuist wanneer het uitvoeren ](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | 18 juli 2024 |
 | [ Aangepaste vormen: De vorm van de douane wordt niet geschrapt van document ](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 18 juli 2024 |
 | [ Teams: Kan teameigenaar niet bekijken of team schrappen ](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 april 2024 |
 | [ Taken: De fout van Bizcontext wanneer het toevoegen van of het schrappen van een taak ](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 4 april 2024 |

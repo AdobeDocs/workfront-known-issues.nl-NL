@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor  [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
+source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: '451'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [ Documenten: Kan voorproefdocumenten met voorproefverbinding niet ](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 15 augustus 2024 |
 | [ Documenten: Het klikken van een documentnaam leidt tot lege pagina ](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md) | 5 augustus 2024 |
 | [ Meldingen: De miniaturen niet zichtbaar in e-mailberichten ](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 juli 2024 |
 | [ kan geen mening voor de lijst van Documenten tot stand brengen ](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 15 juli 2024 |

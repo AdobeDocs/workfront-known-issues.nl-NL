@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: dbbedf12a1af39e5668b7a5288c47f3be327555e
+source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
 workflow-type: tm+mt
-source-wordcount: '1953'
+source-wordcount: '2001'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,12 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Home: &quot;Geen toegang&quot; wordt weergegeven als projectnaam](known-issues-workfront/wf-home-no-access-project-name.md)
+      + [Documenten: kan geen voorbeeld van documenten weergeven met koppeling voor voorvertoning](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
+      + [Aangepaste formulieren: fout bij het converteren van typen weergeven op aangepaste formulieren](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md)
+      + [Aangepaste formulieren: kan velden op pagina met veldlijsten niet bewerken](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md)
+      + [Home: Home crasht met fout &quot;Onvoldoende geheugen&quot;](known-issues-workfront/wf-home-crashes-with-error.md)
+      + [Setup: Problemen bij het afmelden als een andere gebruiker](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md)
       + [Workfront: Workfront meldt zich af met meerdere browsertabs](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
       + [Rapporten: Kan niet op een rapport van het gebied van de Gebieden van de Douane van Opstelling klikken](known-issues-workfront/wf-reports-cannot-click-on-report.md)
       + [Verzoeken: de gebruiker kan de status wijzigen bij gebrek aan machtigingen](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
