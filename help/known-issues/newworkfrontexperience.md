@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9f8167f06da0121f32f9fba22d51c667efd415e3
+source-git-commit: 654b13c25c7a69da5b14b2846cf1c1db4d527fba
 workflow-type: tm+mt
-source-wordcount: '960'
+source-wordcount: '952'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,6 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | [ Huis: Het huis loopt vast met &quot;uit geheugen&quot;fout ](known-issues-workfront/wf-home-crashes-with-error.md) | 15 augustus 2024 |
 | [ Workfront: De veelvoudige browser lusjes veroorzaken Workfront aan logout ](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 15 augustus 2024 |
 | [ Verzoeken: De gebruiker kan status ondanks gebrek aan toestemmingen veranderen ](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | 14 augustus 2024 |
-| [ Borden: Verbonden kaart is in onjuiste kolom ](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 14 augustus 2024 |
 | [ Workfront Mobile: Kan binnen ondertekenen zonder SSO ](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) te gebruiken niet | 14 augustus 2024 |
 | [ Rapporten: Fout wanneer het uitvoeren van rapport ](known-issues-workfront/wf-reports-error-cache-content.md) | 14 augustus 2024 |
 | [ Gebruikers: Het e-maillandinstelling voor gebruiker bewaart niet ](known-issues-workfront/wf-users-email-locale-not-saving.md) | 14 augustus 2024 |

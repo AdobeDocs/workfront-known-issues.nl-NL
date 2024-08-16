@@ -3,15 +3,19 @@ title: "Borden: Verbonden kaart bevindt zich in onjuiste kolom"
 description: "Problemen met verbonden kaarten zijn in de verkeerde kolom gemeld."
 hidefromtoc: true
 feature: Agile
-source-git-commit: b6ed840df25684f16f88bc30fe7a8138e37fbe53
+source-git-commit: 5a6d6b7d8866d234340bb816531353495e1e7f1c
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
 
 # Borden: Verbonden kaart bevindt zich in onjuiste kolom
+
+>[!NOTE]
+>
+>Dit probleem is opgelost op 15 augustus 2024.
 
 De volgende problemen zijn gerapporteerd met betrekking tot verbonden kaarten in de verkeerde kolom:
 
