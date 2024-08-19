@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
+source-git-commit: 32bed5a9c917cab2cc3a6ccd1065f38c074ca917
 workflow-type: tm+mt
-source-wordcount: '2001'
+source-wordcount: '2008'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Home: In afwachting van goedkeuring, widget toont verwijderde documenten](known-issues-workfront/wf-home-deleted-documents.md)
       + [Home: &quot;Geen toegang&quot; wordt weergegeven als projectnaam](known-issues-workfront/wf-home-no-access-project-name.md)
       + [Documenten: kan geen voorbeeld van documenten weergeven met koppeling voor voorvertoning](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
       + [Aangepaste formulieren: fout bij het converteren van typen weergeven op aangepaste formulieren](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md)
