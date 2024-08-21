@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 32bed5a9c917cab2cc3a6ccd1065f38c074ca917
+source-git-commit: 411c1488a5d7ba1c0065f96763c191d609059675
 workflow-type: tm+mt
-source-wordcount: '2008'
+source-wordcount: '2034'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Integratie: kan zich niet aanmelden bij Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
+      + [Home: &quot;widget.list.view&quot; gemaakt wanneer de gebruiker kolommen verplaatst in de thuiswidget](known-issues-workfront/wf-home-widget-list-view.md)
+      + [Documenten: opmerkingen over proefdrukken worden niet weergegeven op documentupdates](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
       + [Home: In afwachting van goedkeuring, widget toont verwijderde documenten](known-issues-workfront/wf-home-deleted-documents.md)
       + [Home: &quot;Geen toegang&quot; wordt weergegeven als projectnaam](known-issues-workfront/wf-home-no-access-project-name.md)
       + [Documenten: kan geen voorbeeld van documenten weergeven met koppeling voor voorvertoning](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)

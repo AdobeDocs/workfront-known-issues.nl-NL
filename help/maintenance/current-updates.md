@@ -3,22 +3,26 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: dfb204f364643c92ebce34916c8a926661dd0383
+source-git-commit: 684f28db9c0eff8a7503912032af176da27dc9e2
 workflow-type: tm+mt
-source-wordcount: '4895'
+source-wordcount: '4923'
 ht-degree: 0%
 
 ---
 
 # [!DNL Workfront] Updates voor onderhoud
 
-De volgende onderhoudsupdates zijn uitgevoerd in 2024.
-
 >[!NOTE]
 >
->Deze updates bevatten ook andere kleine of minder duidelijke foutoplossingen. [!DNL Workfront] Ondersteuning geeft een melding wanneer een probleem dat u hebt verzonden, is opgelost.
+>Voor informatie over onderhoudstekorten voor alle producten van de Adobe, met inbegrip van Workfront, zie de [ pagina van de Status van de Adobe ](https://status.adobe.com/).
+
+Op deze pagina worden de problemen beschreven die zijn opgelost in de wekelijkse Workfront-updates.
+
+Deze updates bevatten ook andere kleine of minder duidelijke foutoplossingen. [!DNL Workfront] Ondersteuning geeft een melding wanneer een probleem dat u hebt verzonden, is opgelost.
 
 Voor onderhoudsupdates voorafgaand aan 2024, zie [ Vorige Updates van het Onderhoud ](#previous-maintenance-updates)
+
+De volgende onderhoudsupdates zijn uitgevoerd in 2024.
 
 ## Updates in augustus 2024
 
