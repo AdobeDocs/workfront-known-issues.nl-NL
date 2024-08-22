@@ -4,7 +4,7 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7e512694b62cdcf9db71fe4d658855e7b7e8c335
+source-git-commit: f8183b30f86ffade75a6f80b2d5a4a7befd3b0ae
 workflow-type: tm+mt
 source-wordcount: '970'
 ht-degree: 0%
@@ -29,7 +29,6 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | [ Documenten: De commentaren van het bewijs niet getoond op documentupdates ](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | 21 augustus 2024 |
 | [ Huis: &quot;Geen toegang&quot;vertoningen als projectnaam ](known-issues-workfront/wf-home-no-access-project-name.md) | 15 augustus 2024 |
 | [ Huis: Het huis loopt vast met &quot;uit geheugen&quot;fout ](known-issues-workfront/wf-home-crashes-with-error.md) | 15 augustus 2024 |
-| [ Workfront: De veelvoudige browser lusjes veroorzaken Workfront aan logout ](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 15 augustus 2024 |
 | [ Verzoeken: De gebruiker kan status ondanks gebrek aan toestemmingen veranderen ](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | 14 augustus 2024 |
 | [ Workfront Mobile: Kan binnen ondertekenen zonder SSO ](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) te gebruiken niet | 14 augustus 2024 |
 | [ Rapporten: Fout wanneer het uitvoeren van rapport ](known-issues-workfront/wf-reports-error-cache-content.md) | 14 augustus 2024 |
@@ -52,6 +51,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Uitgave** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [ Workfront: De veelvoudige browser lusjes veroorzaken Workfront aan logout ](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 22 augustus 2024 |
 | [ de vormen van de Douane: Forms gebreken aan de vormen van het Project ](known-issues-workfront/wf-custom-forms-default-to-project.md) | 22 augustus 2024 |
 | [ Huis: In afwachting van goedkeuringen toont widget geschrapte documenten ](known-issues-workfront/wf-home-deleted-documents.md) | 19 augustus 2024 |
 | [ Boards: De kaart omvat geen subtasks ](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 19 augustus 2024 |
