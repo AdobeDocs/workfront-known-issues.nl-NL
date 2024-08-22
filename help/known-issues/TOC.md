@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 411c1488a5d7ba1c0065f96763c191d609059675
+source-git-commit: 7e512694b62cdcf9db71fe4d658855e7b7e8c335
 workflow-type: tm+mt
-source-wordcount: '2034'
+source-wordcount: '2041'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Aangepaste formulieren: Forms is standaard ingesteld op projectformulieren](known-issues-workfront/wf-custom-forms-default-to-project.md)
       + [Integratie: kan zich niet aanmelden bij Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
       + [Home: &quot;widget.list.view&quot; gemaakt wanneer de gebruiker kolommen verplaatst in de thuiswidget](known-issues-workfront/wf-home-widget-list-view.md)
       + [Documenten: opmerkingen over proefdrukken worden niet weergegeven op documentupdates](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
