@@ -3,15 +3,19 @@ title: "Aangepaste formulieren: kan velden op pagina met veldlijsten niet bewerk
 description: "Wanneer een gebruiker een groot veld op de pagina met veldlijsten probeert te bewerken, loopt de pagina vast met een fout. Er is een oplossing beschikbaar."
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: d74148711b4709355ca869f9808bed0cdcf6f6c7
+source-git-commit: 2531eb3fd75a0f6c9b26780f521c61b2be464e83
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
 
 # Aangepaste formulieren: kan velden op pagina met veldlijsten niet bewerken
+
+>[!NOTE]
+>
+>Dit probleem is opgelost op 22 augustus 2024.
 
 Wanneer een gebruiker een groot veld op de pagina met veldlijsten probeert te bewerken, loopt de pagina vast met de volgende fout:
 
