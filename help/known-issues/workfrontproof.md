@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor  [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
+source-git-commit: 6247cac863561cbe7a58dc61dff163356e8cd4c0
 workflow-type: tm+mt
-source-wordcount: '451'
+source-wordcount: '424'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,6 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | [ Aangepaste vormen: De vorm van de douane wordt niet geschrapt van document ](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 8 juli 2024 |
 | [ Integraties: Het verbinden van omslag van  [!DNL Google Drive]  verbindt geen activa in omslag ](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
 | [ Integraties: Kwesties met de integratie van de Dropbox ](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 14 juni 2024 |
-| [ Meldingen: Meldingen van documentgoedkeuringen bèta niet correct geformatteerd ](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 22 april 2024 |
 
 {style="table-layout:auto"}
 
@@ -47,7 +46,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | [ Documenten: Fout wanneer het gebruiken van een openbare verbinding aan een document ](known-issues-workfront/wf-documents-public-link-not-working.md) | 5 juni 2024 |
 | [ Huis: De widget van goedkeuringen is niet nauwkeurig ](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8 mei 2024 |
 | [ Project: Kan kwestie in project omzetten als de Webproef ](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) in bijlage is | 22 maart 2024 |
-| [ Bewijzen: Broodcrumb die wanneer het toegang tot van bewijs van e-mailverbinding ontbreekt ](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 november 2023 |
 
 {style="table-layout:auto"}
 
@@ -80,7 +78,6 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 | [ Proofs: [!UICONTROL Active Proof Stages] gebied is leeg ](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md) | 14 september 2022 |
 | [[!DNL Workfront Proof]: Kan gebruiker aan proef niet toevoegen door de gebruiker in een commentaar te etiketteren ](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 23 maart 2022 |
 | [[!UICONTROL Home]: [!UICONTROL Reply in Proof] het gedrag van de knop is inconsistent ](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 21 juni 2021 |
-| [[!DNL Workfront Proof]: Automatische toegang tot proefdrukken wordt vertraagd ](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md) | 14 juni 2021 |
 | [[!DNL Workfront Proof]: [!UICONTROL Proof Approval] rapport kan deadlines niet nauwkeurig bepalen ](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 21 april 2021 |
 | [ Documenten: Het pictogram van het werkschema van het Bewijs toont niet ](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 5 maart 2021 |
 
