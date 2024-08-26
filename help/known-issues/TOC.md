@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2814d94459436c93607756b72cd7943a266fb676
+source-git-commit: 368856cd75b3c09c09442f4cb5ffe479425211af
 workflow-type: tm+mt
-source-wordcount: '1535'
+source-wordcount: '1549'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Gebruikers: kan gebruiker niet opnieuw activeren](known-issues-workfront/wf-users-reactivate-user.md)
+      + [Toewijzingen: pictogram Tijd uit wordt niet weergegeven wanneer taken worden toegewezen](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
       + [Aangepaste formulieren: Forms is standaard ingesteld op projectformulieren](known-issues-workfront/wf-custom-forms-default-to-project.md)
       + [Integratie: kan zich niet aanmelden bij Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
       + [Home: &quot;widget.list.view&quot; gemaakt wanneer de gebruiker kolommen verplaatst in de thuiswidget](known-issues-workfront/wf-home-widget-list-view.md)
