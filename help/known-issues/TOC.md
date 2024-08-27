@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 368856cd75b3c09c09442f4cb5ffe479425211af
+source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
 workflow-type: tm+mt
-source-wordcount: '1549'
+source-wordcount: '1557'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Workfront: kan SSO niet gebruiken](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [Gebruikers: kan gebruiker niet opnieuw activeren](known-issues-workfront/wf-users-reactivate-user.md)
       + [Toewijzingen: pictogram Tijd uit wordt niet weergegeven wanneer taken worden toegewezen](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
       + [Aangepaste formulieren: Forms is standaard ingesteld op projectformulieren](known-issues-workfront/wf-custom-forms-default-to-project.md)
@@ -211,6 +212,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Bekende problemen in Workfront Fusion](workfrontfusion.md)
    + Huidige problemen in [!DNL Workfront Fusion] {#fusion-current}
+      + [Workfront Fusion: 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
       + [Workfront Fusion: veld ontbreekt in module](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
       + [Workfront Fusion: uitvoeropmaak voor datums](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: RuntimeError met 200 respons van Workfront module](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)
