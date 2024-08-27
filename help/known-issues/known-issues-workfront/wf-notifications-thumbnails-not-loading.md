@@ -4,24 +4,27 @@ description: Wanneer een gebruiker een e-mailbericht over een documentgoedkeurin
 hidefromtoc: true
 feature: Updates and Notifications, Digital Content and Documents
 exl-id: 8f378ff6-5a44-40a2-b28e-c613b63a1b76
-source-git-commit: 9f8167f06da0121f32f9fba22d51c667efd415e3
+source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
 
 # Meldingen: Miniaturen zijn niet zichtbaar in e-mailmeldingen
 
+<!-- 
 >[!NOTE]
 >
->Dit probleem is op 29 juli 2024 opgelost.
+>This issue was fixed on July 29, 2024.
+
+-->
 
 >[!IMPORTANT]
 >
 >Miniaturen worden niet ondersteund in Gmail.
 
-Wanneer een gebruiker een e-mailbericht over een documentgoedkeuring weergeeft, wordt de documentminiatuur niet weergegeven in de e-mail.
+Wanneer een gebruiker een e-mailbericht over een documentgoedkeuring weergeeft, wordt de documentminiatuur niet weergegeven in de e-mail. In plaats daarvan ziet de gebruiker een pictogram voor een gebroken afbeelding.
 
 Dit is gemeld in Gmail.
 

@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 7e512694b62cdcf9db71fe4d658855e7b7e8c335
+source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
 workflow-type: tm+mt
-source-wordcount: '4923'
+source-wordcount: '5049'
 ht-degree: 0%
 
 ---
@@ -26,9 +26,33 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2024.
 
 ## Updates in augustus 2024
 
++++**(Gepland) Onderhoudsupdate op 29 augustus 2024**
+
+### (Geplande) onderhoudsupdate op 29 augustus 2024
+
+#### Aangepaste formulieren
+
+**Forms blijft aan de vormen van het Project** in gebreke
+
+Wanneer een gebruiker een aangepast formulier maakt en een objecttype voor het formulier selecteert, wordt het objecttype genegeerd en wordt het formulier gemaakt als een aangepast projectformulier.
+
+#### Documenten
+
+**het klikken van een documentnaam leidt tot lege pagina**
+
+Wanneer een gebruiker documentdetails probeert te bekijken door de naam van het document in een documentlijst te klikken, verdwijnt de lijst, en de gebruiker wordt niet geleid aan de documentdetails.
+
+#### Home
+
+**In afwachting van goedkeurings widget toont geschrapte documenten**
+
+Wanneer een gebruiker zijn of haar goedkeurings-widget Home Pending bekijkt, ziet hij of zij documenten die zijn verwijderd. Als de gebruiker op een van deze documenten klikt, wordt naar een lege pagina gegaan.
+
++++
+
 +++**Update van het Onderhoud op 22 augustus, 2024**
 
-### Onderhoudsupdate op 22 augustus,
+### Onderhoudsupdate op 22 augustus 2024
 
 #### Rapporten
 

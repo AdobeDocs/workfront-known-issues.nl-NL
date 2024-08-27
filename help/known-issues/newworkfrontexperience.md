@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
+source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
 workflow-type: tm+mt
-source-wordcount: '987'
+source-wordcount: '995'
 ht-degree: 0%
 
 ---
@@ -85,6 +85,7 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [ Meldingen: De miniaturen niet zichtbaar in e-mailberichten ](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 27 augustus 2024 |
 | [ Huis: Mijn widget van Kwesties toont geen gesloten of voltooide kwesties ](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | 20 juni 2024 |
 | [ Huis: Kan widget van Onthoudingen ](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) verwijderen niet | 12 juni 2024 |
 | [ Proofs: Het bewijs verhindert omzetting van taak of kwestie aan project ](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 7 juni 2024 |
