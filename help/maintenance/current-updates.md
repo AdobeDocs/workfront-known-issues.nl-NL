@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
+source-git-commit: a24b19521ec110b10d0a6920c54300d0d22ceaba
 workflow-type: tm+mt
-source-wordcount: '5049'
+source-wordcount: '5130'
 ht-degree: 0%
 
 ---
@@ -47,6 +47,14 @@ Wanneer een gebruiker documentdetails probeert te bekijken door de naam van het 
 **In afwachting van goedkeurings widget toont geschrapte documenten**
 
 Wanneer een gebruiker zijn of haar goedkeurings-widget Home Pending bekijkt, ziet hij of zij documenten die zijn verwijderd. Als de gebruiker op een van deze documenten klikt, wordt naar een lege pagina gegaan.
+
+#### Gebruikers
+
+**het gebied van de Landinstelling van e-mail van het gebruikersprofiel is onbruikbaar gemaakt**
+
+Voor organisaties op IMS worden taalvoorkeuren opgeslagen in het Adobe Experience Cloud-profiel van elke gebruiker. Het veld Landinstelling e-mail in het Workfront-gebruikersprofiel is uitgeschakeld (alleen voor IMS-organisaties) en knopinfo in dat veld bevat instructies voor toegang tot taalinstellingen in het profiel Adobe.
+
+Hiermee wordt een probleem opgelost dat wanneer een beheerder probeert de landinstelling voor e-mail voor een gebruiker te wijzigen, dit weer in het Engels wordt weergegeven.
 
 +++
 

@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: fd5f9e71787db377b5b1d8c9767036debccfc852
+source-git-commit: a24b19521ec110b10d0a6920c54300d0d22ceaba
 workflow-type: tm+mt
-source-wordcount: '1002'
+source-wordcount: '1011'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [ Meldingen: De gebruikers van de medewerker ontvangen geen e-mailberichten ](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md) | 28 augustus 2024 |
 | [ Workfront: Kan SSO ](known-issues-workfront/wf-workfront-cannot-use-sso.md) niet gebruiken | 26 augustus 2024 |
 | [ Rapporten: De leveringen van het rapport worden vertraagd of ontbreken ](known-issues-workfront/wf-reports-not-delivered.md) | 26 augustus 2024 |
 | [ Toewijzingen: Tijd van pictogram verschijnt niet wanneer het toewijzen van taken ](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | 26 augustus 2024 |
