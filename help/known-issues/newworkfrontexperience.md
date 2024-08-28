@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
+source-git-commit: fd5f9e71787db377b5b1d8c9767036debccfc852
 workflow-type: tm+mt
-source-wordcount: '995'
+source-wordcount: '1002'
 ht-degree: 0%
 
 ---
@@ -53,6 +53,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Uitgave** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [ Groepen: De subgroepen tonen correct ](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md) | 28 augustus 2024 |
 | [ Gebruikers: Kan gebruiker ](known-issues-workfront/wf-users-reactivate-user.md) niet opnieuw activeren | 26 augustus 2024 |
 | [ Boards: Kwesties betreffende dubbele kaarten ](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 26 augustus 2024 |
 | [ Workfront: De veelvoudige browser lusjes veroorzaken Workfront aan logout ](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 22 augustus 2024 |

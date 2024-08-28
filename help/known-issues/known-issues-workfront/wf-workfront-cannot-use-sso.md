@@ -3,9 +3,9 @@ title: "Workfront: kan SSO niet gebruiken"
 description: "De functionaliteit van Workfront die SSO gebruikt keert een fout van het Hele terug."
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
+source-git-commit: fd5f9e71787db377b5b1d8c9767036debccfc852
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->* Dit is gemeld in de omgeving van de voorvertoningssandbox.
->* Dit is gemeld voor organisaties die gebruikmaken van een verouderde (niet-Adobe) SSO
+>* Dit is gemeld in de omgeving van de voorvertoningssandbox en in de omgeving van de aangepaste vernieuwingssandbox.
+>* Dit is gemeld voor organisaties die gebruikmaken van een verouderde (niet-Adobe) SSO.
 
 Workfront-functionaliteit die SSO gebruikt retourneert de volgende fout:
 
