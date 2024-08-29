@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a24b19521ec110b10d0a6920c54300d0d22ceaba
+source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
 workflow-type: tm+mt
-source-wordcount: '1011'
+source-wordcount: '990'
 ht-degree: 0%
 
 ---
@@ -54,12 +54,12 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Uitgave** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [ Huis: Het huis loopt vast met &quot;uit geheugen&quot;fout ](known-issues-workfront/wf-home-crashes-with-error.md) | 29 augustus 2024 |
 | [ Groepen: De subgroepen tonen correct ](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md) | 28 augustus 2024 |
 | [ Gebruikers: Kan gebruiker ](known-issues-workfront/wf-users-reactivate-user.md) niet opnieuw activeren | 26 augustus 2024 |
 | [ Boards: Kwesties betreffende dubbele kaarten ](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 26 augustus 2024 |
 | [ Workfront: De veelvoudige browser lusjes veroorzaken Workfront aan logout ](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 22 augustus 2024 |
 | [ de vormen van de Douane: Forms gebreken aan de vormen van het Project ](known-issues-workfront/wf-custom-forms-default-to-project.md) | 22 augustus 2024 |
-| [ Huis: In afwachting van goedkeuringen toont widget geschrapte documenten ](known-issues-workfront/wf-home-deleted-documents.md) | 19 augustus 2024 |
 | [ Boards: De kaart omvat geen subtasks ](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 19 augustus 2024 |
 | [ Documenten: Kan voorproefdocumenten met voorproefverbinding niet ](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 15 augustus 2024 |
 | [ de vormen van de Douane: De fout van het type van vertoning omzette op douaneformulieren ](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 15 augustus 2024 |
@@ -71,10 +71,8 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | [ Meldingen: De miniaturen niet zichtbaar in e-mailberichten ](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 augustus 2024 |
 | [ Vormen van de Douane: Browser loopt vast wanneer het bouwen van grote vormen ](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 5 augustus 2024 |
 | [ Aangepaste vormen: De bouwer van de vorm crasht wanneer het ingaan van vertoningslogica ](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 5 augustus 2024 |
-| [ Documenten: Het klikken van een documentnaam leidt tot lege pagina ](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md) | 5 augustus 2024 |
 | [ de vormen van de Douane: Berekend gebied dat onjuiste waarde ](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) toont | 5 augustus 2024 |
 | [ Niveaus van de Toegang: Dubbele toegangsniveaus in het gebied van de Opstelling ](known-issues-workfront/wf-access-duplicate-level.md) | 25 juli 2024 |
-| [ Aangepaste vormen: De vorm van de douane wordt niet geschrapt van document ](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 18 juli 2024 |
 | [ Teams: Kan teameigenaar niet bekijken of team schrappen ](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 april 2024 |
 | [ Taken: De fout van Bizcontext wanneer het toevoegen van of het schrappen van een taak ](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 4 april 2024 |
 | [[!DNL Workfront]: Kwesties die a  [!DNL Workfront]  steungeval op Experience League ](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) voorleggen | 2 augustus 2022 |

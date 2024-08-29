@@ -1,21 +1,17 @@
 ---
-title: "Home: Home crasht met fout als gevolg van onvoldoende geheugen"
-description: "Wanneer een gebruiker het nieuwe startpunt probeert weer te geven, loopt de site vast met een foutbericht. Er is een oplossing beschikbaar."
+title: 'Home: Home crasht met fout als gevolg van onvoldoende geheugen'
+description: Wanneer een gebruiker het nieuwe startpunt probeert weer te geven, loopt de site vast met een foutbericht. Er is een tijdelijke oplossing beschikbaar.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
+exl-id: befeb093-6376-4c91-a4c4-f956b85660aa
+source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
 
-
 # Home: Home crasht met fout &quot;Onvoldoende geheugen&quot;
-
->[!NOTE]
->
->Het team van het Product evalueert momenteel deze probleemoplossing, die productverbeteringen kan vereisen. De verbeteringen van het product worden meegedeeld in de Mededelingen van het Product en niet met de Updates van het Onderhoud.
 
 Wanneer een gebruiker het nieuwe startpunt probeert weer te geven, loopt de site vast met het volgende foutbericht:
 
