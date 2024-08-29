@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
+source-git-commit: c73aa8451c52e4c6f5091b549d9f0a35b8e8d1f8
 workflow-type: tm+mt
-source-wordcount: '990'
+source-wordcount: '998'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [ Borden: Verbonden kaart is in onjuiste kolom ](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 28 augustus 2024 |
 | [ Meldingen: De gebruikers van de medewerker ontvangen geen e-mailberichten ](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md) | 28 augustus 2024 |
 | [ Workfront: Kan SSO ](known-issues-workfront/wf-workfront-cannot-use-sso.md) niet gebruiken | 26 augustus 2024 |
 | [ Rapporten: De leveringen van het rapport worden vertraagd of ontbreken ](known-issues-workfront/wf-reports-not-delivered.md) | 26 augustus 2024 |
