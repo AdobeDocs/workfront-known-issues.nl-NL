@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 5883bf2455640b180072be228eae4d11d1c7b6c9
+source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
 workflow-type: tm+mt
-source-wordcount: '1001'
+source-wordcount: '972'
 ht-degree: 0%
 
 ---
@@ -31,19 +31,14 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | [ Rapporten: De leveringen van het rapport worden vertraagd of ontbreken ](known-issues-workfront/wf-reports-not-delivered.md) | 26 augustus 2024 |
 | [ Toewijzingen: Tijd van pictogram verschijnt niet wanneer het toewijzen van taken ](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | 26 augustus 2024 |
 | [ Integraties: Kan login aan Workfront voor Vooruitzichten ](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) niet | 21 augustus 2024 |
-| [ Documenten: De commentaren van het bewijs niet getoond op documentupdates ](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | 21 augustus 2024 |
 | [ Huis: &quot;Geen toegang&quot;vertoningen als projectnaam ](known-issues-workfront/wf-home-no-access-project-name.md) | 15 augustus 2024 |
 | [ Huis: Het huis loopt vast met &quot;uit geheugen&quot;fout ](known-issues-workfront/wf-home-crashes-with-error.md) | 15 augustus 2024 |
 | [ Workfront Mobile: Kan binnen ondertekenen zonder SSO ](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) te gebruiken niet | 14 augustus 2024 |
 | [ Rapporten: Fout wanneer het uitvoeren van rapport ](known-issues-workfront/wf-reports-error-cache-content.md) | 14 augustus 2024 |
-| [ Gebruikers: Het e-maillandinstelling voor gebruiker bewaart niet ](known-issues-workfront/wf-users-email-locale-not-saving.md) | 14 augustus 2024 |
-| [ Taken: Kwesties met chronologieherberekening ](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 5 augustus 2024 |
 | [ API: De timing van verzoeken uit ](known-issues-workfront/wf-api-request-timing-out.md) | 5 augustus 2024 |
 | [ Proofs: Het openen van een proef opent veelvoudige exemplaren ](known-issues-workfront/wf-proofs-two-proofs-open.md) | 25 juli 2024 |
 | [ Boards: De kaart omvat geen subtasks ](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 23 juli 2024 |
-| [ Navigatie: De rug knoop gaat niet terug naar vorige pagina ](known-issues-workfront/wf-navigation-back-button-not-work.md) | 28 juni 2024 |
 | [ Integraties: Het verbinden van omslag van  [!DNL Google Drive]  verbindt geen activa in omslag ](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
-| [ Boeken: bord wordt niet weergegeven als gebruiker bij gebruik van [!UICONTROL Log in as]](known-issues-workfront/wf-boards-log-in-as.md) | 21 juni 2024 |
 | [ Rapporten: Fout wanneer het bekijken van rapportdetails die door douanedatum ](known-issues-workfront/wf-reports-error-with-custom-date-field.md) worden gegroepeerd | 14 juni 2024 |
 | [ Opstelling: &quot;Aangemeld als&quot;banner verschijnt niet wanneer het programma geopend als een andere gebruiker ](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 mei 2024 |
 
@@ -55,8 +50,8 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Uitgave** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [ Taken: Kwesties met chronologieherberekening ](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 30 augustus 2024 |
 | [ Workfront: De vertoningen van de datum in onjuist formaat ](known-issues-workfront/wf-home-crashes-with-error.md) | 30 augustus 2024 |
-| [ Documenten: Het klikken van een documentnaam leidt tot lege pager ](known-issues-workfront/wf-home-crashes-with-error.md) | 30 augustus 2024 |
 | [ Huis: Het huis loopt vast met &quot;uit geheugen&quot;fout ](known-issues-workfront/wf-home-crashes-with-error.md) | 29 augustus 2024 |
 | [ Groepen: De subgroepen tonen correct ](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md) | 28 augustus 2024 |
 | [ Gebruikers: Kan gebruiker ](known-issues-workfront/wf-users-reactivate-user.md) niet opnieuw activeren | 26 augustus 2024 |
@@ -86,6 +81,8 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [ Boeken: bord wordt niet weergegeven als gebruiker bij gebruik van [!UICONTROL Log in as]](known-issues-workfront/wf-boards-log-in-as.md) | 30 augustus 2024 |
+| [ Navigatie: De rug knoop gaat niet terug naar vorige pagina ](known-issues-workfront/wf-navigation-back-button-not-work.md) | 30 augustus 2024 |
 | [ Meldingen: De miniaturen niet zichtbaar in e-mailberichten ](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 27 augustus 2024 |
 | [ Huis: Mijn widget van Kwesties toont geen gesloten of voltooide kwesties ](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | 20 juni 2024 |
 | [ Huis: Kan widget van Onthoudingen ](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) verwijderen niet | 12 juni 2024 |

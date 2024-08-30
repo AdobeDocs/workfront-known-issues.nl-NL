@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: cc5305d58c51c2944c992682dedbcc61bce56166
+source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
 workflow-type: tm+mt
-source-wordcount: '1577'
+source-wordcount: '1568'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,6 @@ ht-degree: 0%
       + [Borden: Verbonden kaart bevindt zich in onjuiste kolom](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
       + [Workfront Mobile: kan niet aanmelden zonder SSO te gebruiken](known-issues-workfront/wf-mobile-cannot-bypass-sso.md)
       + [Rapporten: Fout bij exporteren van rapport](known-issues-workfront/wf-reports-error-cache-content.md)
-      + [Gebruikers: landinstelling voor e-mail voor gebruiker wordt niet opgeslagen](known-issues-workfront/wf-users-email-locale-not-saving.md)
       + [Integratie: fout bij het maken van een aanvraag vanuit Outlook](known-issues-workfront/wf-integrations-outlook-attachment-error.md)
       + [Meldingen: Er treedt een fout op bij het instellen van meldingsvoorkeuren](known-issues-workfront/wf-notifications-whoops-error.md)
       + [Aangepaste formulieren: browser loopt vast bij het maken van grote formulieren](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
