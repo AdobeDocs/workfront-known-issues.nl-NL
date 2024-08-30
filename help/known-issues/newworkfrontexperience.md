@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c73aa8451c52e4c6f5091b549d9f0a35b8e8d1f8
+source-git-commit: 5883bf2455640b180072be228eae4d11d1c7b6c9
 workflow-type: tm+mt
-source-wordcount: '998'
+source-wordcount: '1001'
 ht-degree: 0%
 
 ---
@@ -55,14 +55,14 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Uitgave** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [ Workfront: De vertoningen van de datum in onjuist formaat ](known-issues-workfront/wf-home-crashes-with-error.md) | 30 augustus 2024 |
+| [ Documenten: Het klikken van een documentnaam leidt tot lege pager ](known-issues-workfront/wf-home-crashes-with-error.md) | 30 augustus 2024 |
 | [ Huis: Het huis loopt vast met &quot;uit geheugen&quot;fout ](known-issues-workfront/wf-home-crashes-with-error.md) | 29 augustus 2024 |
 | [ Groepen: De subgroepen tonen correct ](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md) | 28 augustus 2024 |
 | [ Gebruikers: Kan gebruiker ](known-issues-workfront/wf-users-reactivate-user.md) niet opnieuw activeren | 26 augustus 2024 |
-| [ Boards: Kwesties betreffende dubbele kaarten ](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 26 augustus 2024 |
 | [ Workfront: De veelvoudige browser lusjes veroorzaken Workfront aan logout ](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 22 augustus 2024 |
 | [ de vormen van de Douane: Forms gebreken aan de vormen van het Project ](known-issues-workfront/wf-custom-forms-default-to-project.md) | 22 augustus 2024 |
 | [ Boards: De kaart omvat geen subtasks ](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 19 augustus 2024 |
-| [ Documenten: Kan voorproefdocumenten met voorproefverbinding niet ](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 15 augustus 2024 |
 | [ de vormen van de Douane: De fout van het type van vertoning omzette op douaneformulieren ](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 15 augustus 2024 |
 | [ Opstelling: Kwesties wanneer het programma openen als een andere gebruiker ](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 15 augustus 2024 |
 | [ Integraties: Fout wanneer het creëren van een verzoek van Vooruitzichten ](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | 14 augustus 2024 |

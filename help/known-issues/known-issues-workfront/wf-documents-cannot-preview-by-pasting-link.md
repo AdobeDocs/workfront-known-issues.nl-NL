@@ -1,17 +1,21 @@
 ---
-title: "Documenten: kan geen voorbeeld van documenten weergeven met voorvertoningskoppeling"
-description: "Gebruikers kunnen geen voorvertoning van een document weergeven."
+title: 'Documenten: kan geen voorbeeld van documenten weergeven met voorvertoningskoppeling'
+description: Gebruikers kunnen geen voorvertoning van een document weergeven.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
+exl-id: ef149cc4-fe45-4f90-a0f8-850db9c33425
+source-git-commit: 5883bf2455640b180072be228eae4d11d1c7b6c9
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-
 # Documenten: kan geen voorbeeld van documenten weergeven met koppeling voor voorvertoning
+
+>[!NOTE]
+>
+>Dit probleem is opgelost op 29 augustus 2024.
 
 Gebruikers kunnen een voorvertoning van een document niet weergeven op:
 
