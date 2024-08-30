@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: a24b19521ec110b10d0a6920c54300d0d22ceaba
+source-git-commit: cc5305d58c51c2944c992682dedbcc61bce56166
 workflow-type: tm+mt
-source-wordcount: '1571'
+source-wordcount: '1577'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Workfront: Datum wordt onjuist weergegeven](known-issues-workfront/wf-workfront-date-format-incorrect.md)
       + [Meldingen: gebruikers van contribuanten ontvangen geen e-mailmeldingen](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
       + [Groepen: subgroepen worden niet correct weergegeven](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
       + [Workfront: kan SSO niet gebruiken](known-issues-workfront/wf-workfront-cannot-use-sso.md)
