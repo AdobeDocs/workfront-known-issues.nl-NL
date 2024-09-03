@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
+source-git-commit: 8f0104f86d2dd3703b82bce8fc40dbbf58ad40f1
 workflow-type: tm+mt
-source-wordcount: '1568'
+source-wordcount: '1600'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Mobiel: kan zich niet afmelden en er ontbreken gebruikersprofielgegevens](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
+      + [Borden: Kaartstatus komt niet overeen met verbonden object en omzeilt filter](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
+      + [Dashboards: Selecterend de knoop van de Uitvoer in een rapport scrolt aan bovenkant van pagina](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
       + [Workfront: Datum wordt onjuist weergegeven](known-issues-workfront/wf-workfront-date-format-incorrect.md)
       + [Meldingen: gebruikers van contribuanten ontvangen geen e-mailmeldingen](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
       + [Groepen: subgroepen worden niet correct weergegeven](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
