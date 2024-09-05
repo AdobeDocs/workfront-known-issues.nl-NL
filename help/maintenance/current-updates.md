@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
+source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
-source-wordcount: '5128'
+source-wordcount: '5254'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,30 @@ Deze updates bevatten ook andere kleine of minder duidelijke foutoplossingen. [!
 Voor onderhoudsupdates voorafgaand aan 2024, zie [ Vorige Updates van het Onderhoud ](#previous-maintenance-updates)
 
 De volgende onderhoudsupdates zijn uitgevoerd in 2024.
+
+## Updates in september 2024
+
++++**Update van het Onderhoud op 5 September, 2024**
+
+### Onderhoudsupdate op 5 september 2024
+
+#### Groepen
+
+**Subgroups tonen correct niet**
+
+Wanneer een gebruiker de lijst van Groepen in het gebied van de Opstelling bekijkt, zien zij dat de subgroepen niet correct onder de oudergroep worden vermeld. De subgroep wordt correct opgeslagen onder de bovenliggende groep, maar de lijst kan leiden tot verwarring.
+
+Als de gebruiker de subgroep opent, kunnen zij in breadcrumbs zien dat subgroup correct onder de oudergroep wordt bewaard.
+
+#### Gebruikers
+
+**kan gebruiker** niet opnieuw activeren
+
+Wanneer een gebruiker een gebruiker probeert opnieuw te activeren met de optie &quot;Gebruiker opnieuw activeren&quot; in het menu Meer, kan hij of zij een toegangsniveau voor de gebruiker selecteren, maar de wijziging wordt niet opgeslagen. In plaats daarvan ziet de gebruiker de volgende fout:
+
+&quot;homeGroupID mag niet null zijn&quot;
+
++++
 
 ## Updates in augustus 2024
 

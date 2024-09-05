@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9da826677fc6a00f85d5add27c4fa73cf8fc3361
+source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
-source-wordcount: '1007'
+source-wordcount: '978'
 ht-degree: 0%
 
 ---
@@ -25,17 +25,16 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [ Borden: Kan voorproef of download documenten van kaart ](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) niet | 5 september 2024 |
 | [ Mobiel: Onbekwaam aan logout en ontbrekende informatie van het gebruikersprofiel ](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | 3 september 2024 |
 | [ Borden: De status van de kaart past verbonden voorwerp en omringt filter ](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) niet aan | 3 september 2024 |
 | [ Dashboards: Het selecteren van de knoop van de Uitvoer in een rapport scrolt aan bovenkant van pagina ](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md) | 3 september 2024 |
 | [ Borden: Verbonden kaart is in onjuiste kolom ](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 28 augustus 2024 |
-| [ Meldingen: De gebruikers van de medewerker ontvangen geen e-mailberichten ](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md) | 28 augustus 2024 |
 | [ Workfront: Kan SSO ](known-issues-workfront/wf-workfront-cannot-use-sso.md) niet gebruiken | 26 augustus 2024 |
 | [ Rapporten: De leveringen van het rapport worden vertraagd of ontbreken ](known-issues-workfront/wf-reports-not-delivered.md) | 26 augustus 2024 |
 | [ Toewijzingen: Tijd van pictogram verschijnt niet wanneer het toewijzen van taken ](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | 26 augustus 2024 |
 | [ Integraties: Kan login aan Workfront voor Vooruitzichten ](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) niet | 21 augustus 2024 |
 | [ Huis: &quot;Geen toegang&quot;vertoningen als projectnaam ](known-issues-workfront/wf-home-no-access-project-name.md) | 15 augustus 2024 |
-| [ Huis: Het huis loopt vast met &quot;uit geheugen&quot;fout ](known-issues-workfront/wf-home-crashes-with-error.md) | 15 augustus 2024 |
 | [ Workfront Mobile: Kan binnen ondertekenen zonder SSO ](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) te gebruiken niet | 14 augustus 2024 |
 | [ Rapporten: Fout wanneer het uitvoeren van rapport ](known-issues-workfront/wf-reports-error-cache-content.md) | 14 augustus 2024 |
 | [ API: De timing van verzoeken uit ](known-issues-workfront/wf-api-request-timing-out.md) | 5 augustus 2024 |
@@ -54,10 +53,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | **Uitgave** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
 | [ Taken: Kwesties met chronologieherberekening ](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 30 augustus 2024 |
-| [ Workfront: De vertoningen van de datum in onjuist formaat ](known-issues-workfront/wf-home-crashes-with-error.md) | 30 augustus 2024 |
 | [ Huis: Het huis loopt vast met &quot;uit geheugen&quot;fout ](known-issues-workfront/wf-home-crashes-with-error.md) | 29 augustus 2024 |
-| [ Groepen: De subgroepen tonen correct ](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md) | 28 augustus 2024 |
-| [ Gebruikers: Kan gebruiker ](known-issues-workfront/wf-users-reactivate-user.md) niet opnieuw activeren | 26 augustus 2024 |
 | [ Workfront: De veelvoudige browser lusjes veroorzaken Workfront aan logout ](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 22 augustus 2024 |
 | [ de vormen van de Douane: Forms gebreken aan de vormen van het Project ](known-issues-workfront/wf-custom-forms-default-to-project.md) | 22 augustus 2024 |
 | [ Boards: De kaart omvat geen subtasks ](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 19 augustus 2024 |
@@ -66,7 +62,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | [ Integraties: Fout wanneer het creëren van een verzoek van Vooruitzichten ](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | 14 augustus 2024 |
 | [ Meldingen: De fout van Wiops wanneer het plaatsen van berichtvoorkeur ](known-issues-workfront/wf-notifications-whoops-error.md) | 8 augustus 2024 |
 | [ Borden: Fout wanneer het laden van een raad ](known-issues-workfront/wf-boards-error-when-loading-board.md) | 8 augustus 2024 |
-| [ Meldingen: De miniaturen niet zichtbaar in e-mailberichten ](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 augustus 2024 |
 | [ Meldingen: De miniaturen niet zichtbaar in e-mailberichten ](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 augustus 2024 |
 | [ Vormen van de Douane: Browser loopt vast wanneer het bouwen van grote vormen ](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 5 augustus 2024 |
 | [ Aangepaste vormen: De bouwer van de vorm crasht wanneer het ingaan van vertoningslogica ](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 5 augustus 2024 |
@@ -142,6 +137,7 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 | [ Lijsten: De naam van de vertoning wordt niet toegepast op de groepering van het douanegebied ](known-issues-workfront/inactive/wf-lists-display-name-not-applied-to-grouping.md) | 9 november 2020 |
 | [ Huis: De data van de delegatie van de goedkeuring veranderend na verfrissen en het verzenden van 2 e-mails ](known-issues-workfront/inactive/wf-home-approval-delegation-dates-changing.md) | 9 november 2020 |
 | [ Kalender: De taken tonen niet ](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md) | 9 november 2020 |
+| [ Huis: Het huis loopt vast met &quot;uit geheugen&quot;fout ](known-issues-workfront/wf-home-crashes-with-error.md) | 5 september 2024 |
 
 {style="table-layout:auto"}
 

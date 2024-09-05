@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9da826677fc6a00f85d5add27c4fa73cf8fc3361
+source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
-source-wordcount: '1606'
+source-wordcount: '1614'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Borden: Kan geen documenten voorvertonen of downloaden van kaart](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md)
       + [Mobiel: kan zich niet afmelden en er ontbreken gebruikersprofielgegevens](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
       + [Borden: Kaartstatus komt niet overeen met verbonden object en omzeilt filter](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
       + [Dashboards: Selecterend de knoop van de Uitvoer in een rapport scrolt aan bovenkant van pagina](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
