@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
+source-git-commit: 62011540c9d8a33335ddb97ed15033ff5614657d
 workflow-type: tm+mt
-source-wordcount: '978'
+source-wordcount: '961'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,6 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | [ Rapporten: Fout wanneer het uitvoeren van rapport ](known-issues-workfront/wf-reports-error-cache-content.md) | 14 augustus 2024 |
 | [ API: De timing van verzoeken uit ](known-issues-workfront/wf-api-request-timing-out.md) | 5 augustus 2024 |
 | [ Proofs: Het openen van een proef opent veelvoudige exemplaren ](known-issues-workfront/wf-proofs-two-proofs-open.md) | 25 juli 2024 |
-| [ Boards: De kaart omvat geen subtasks ](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 23 juli 2024 |
 | [ Integraties: Het verbinden van omslag van  [!DNL Google Drive]  verbindt geen activa in omslag ](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
 | [ Rapporten: Fout wanneer het bekijken van rapportdetails die door douanedatum ](known-issues-workfront/wf-reports-error-with-custom-date-field.md) worden gegroepeerd | 14 juni 2024 |
 | [ Opstelling: &quot;Aangemeld als&quot;banner verschijnt niet wanneer het programma geopend als een andere gebruiker ](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 mei 2024 |
@@ -54,15 +53,14 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 |----------------------------------| ----------------- |
 | [ Taken: Kwesties met chronologieherberekening ](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 30 augustus 2024 |
 | [ Huis: Het huis loopt vast met &quot;uit geheugen&quot;fout ](known-issues-workfront/wf-home-crashes-with-error.md) | 29 augustus 2024 |
-| [ Workfront: De veelvoudige browser lusjes veroorzaken Workfront aan logout ](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 22 augustus 2024 |
+| [ Workfront: De veelvoudige browser lusjes veroorzaken Workfront aan logout ](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 22 augustus 2024 |
 | [ de vormen van de Douane: Forms gebreken aan de vormen van het Project ](known-issues-workfront/wf-custom-forms-default-to-project.md) | 22 augustus 2024 |
-| [ Boards: De kaart omvat geen subtasks ](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 19 augustus 2024 |
+| [ Boards: De kaart omvat geen subtasks ](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 19 augustus 2024 |
 | [ de vormen van de Douane: De fout van het type van vertoning omzette op douaneformulieren ](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 15 augustus 2024 |
 | [ Opstelling: Kwesties wanneer het programma openen als een andere gebruiker ](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 15 augustus 2024 |
 | [ Integraties: Fout wanneer het creëren van een verzoek van Vooruitzichten ](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | 14 augustus 2024 |
 | [ Meldingen: De fout van Wiops wanneer het plaatsen van berichtvoorkeur ](known-issues-workfront/wf-notifications-whoops-error.md) | 8 augustus 2024 |
 | [ Borden: Fout wanneer het laden van een raad ](known-issues-workfront/wf-boards-error-when-loading-board.md) | 8 augustus 2024 |
-| [ Meldingen: De miniaturen niet zichtbaar in e-mailberichten ](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 augustus 2024 |
 | [ Vormen van de Douane: Browser loopt vast wanneer het bouwen van grote vormen ](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 5 augustus 2024 |
 | [ Aangepaste vormen: De bouwer van de vorm crasht wanneer het ingaan van vertoningslogica ](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 5 augustus 2024 |
 | [ de vormen van de Douane: Berekend gebied dat onjuiste waarde ](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) toont | 5 augustus 2024 |
