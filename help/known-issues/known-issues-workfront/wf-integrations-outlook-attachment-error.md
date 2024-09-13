@@ -4,18 +4,14 @@ description: Wanneer een gebruiker probeert om een verzoek van Workfront voor de
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Work Management
 exl-id: cd7e5de2-eb82-4cb6-a8e7-ed59b120fffd
-source-git-commit: 73c65fa752d5bf75f4ec03c18bc06930fc1f4a7b
+source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
 # Integratie: fout bij het maken van een aanvraag vanuit Outlook
-
->[!NOTE]
->
->Dit artikel is vastgesteld op 12 september 2024.
 
 Wanneer een gebruiker probeert om een verzoek van Workfront voor de integratie van Vooruitzichten tot stand te brengen, en een gehechtheid toevoegt. De gebruiker ziet het bericht &quot;Er is iets misgegaan. Probeer het later opnieuw.&quot;
 
