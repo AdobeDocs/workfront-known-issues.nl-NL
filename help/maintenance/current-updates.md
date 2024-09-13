@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
+source-git-commit: 73c65fa752d5bf75f4ec03c18bc06930fc1f4a7b
 workflow-type: tm+mt
-source-wordcount: '5254'
+source-wordcount: '5328'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,20 @@ Voor onderhoudsupdates voorafgaand aan 2024, zie [ Vorige Updates van het Onderh
 De volgende onderhoudsupdates zijn uitgevoerd in 2024.
 
 ## Updates in september 2024
+
++++**Update van het Onderhoud op 12 September, 2024**
+
+### Onderhoudsupdate op 12 september 2024
+
+#### Integraties
+
+**Fout wanneer het creëren van een verzoek van Vooruitzichten**
+
+Wanneer een gebruiker probeert om een verzoek van Workfront voor de integratie van Vooruitzichten tot stand te brengen, en een gehechtheid toevoegt. De gebruiker ziet het bericht &quot;Er is iets misgegaan. Probeer het later opnieuw.&quot;
+
+De aanvraag wordt gemaakt en er staat een map voor e-mailbijlagen in de aanvraag, maar de map is leeg en de bijlage is niet toegevoegd aan de aanvraag.
+
++++
 
 +++**Update van het Onderhoud op 5 September, 2024**
 

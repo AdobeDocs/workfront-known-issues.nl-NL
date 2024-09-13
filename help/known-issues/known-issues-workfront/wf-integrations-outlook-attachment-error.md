@@ -1,17 +1,21 @@
 ---
-title: "Integrations: Error when creating a request from Outlook"
-description: "Wanneer een gebruiker probeert om een verzoek van Workfront voor de integratie van Vooruitzichten tot stand te brengen, en een gehechtheid toevoegt. De gebruiker ziet het bericht Er is iets misgegaan. Probeer het later opnieuw."
+title: 'Integrations: Error when creating a request from Outlook'
+description: Wanneer een gebruiker probeert om een verzoek van Workfront voor de integratie van Vooruitzichten tot stand te brengen, en een gehechtheid toevoegt. De gebruiker ziet het bericht Er is iets misgegaan. Probeer het later opnieuw.
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Work Management
-source-git-commit: bdf56413a3b704ef6020bd2093c6bddbb3b64913
+exl-id: cd7e5de2-eb82-4cb6-a8e7-ed59b120fffd
+source-git-commit: 73c65fa752d5bf75f4ec03c18bc06930fc1f4a7b
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-
 # Integratie: fout bij het maken van een aanvraag vanuit Outlook
+
+>[!NOTE]
+>
+>Dit artikel is vastgesteld op 12 september 2024.
 
 Wanneer een gebruiker probeert om een verzoek van Workfront voor de integratie van Vooruitzichten tot stand te brengen, en een gehechtheid toevoegt. De gebruiker ziet het bericht &quot;Er is iets misgegaan. Probeer het later opnieuw.&quot;
 
