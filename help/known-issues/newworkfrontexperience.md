@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 5e8dde28f6cc4e646e55eb2263211af5e7ce86df
+source-git-commit: c94e9f4cbe23fe5f9e681eb672585dca237f0c79
 workflow-type: tm+mt
-source-wordcount: '1002'
+source-wordcount: '973'
 ht-degree: 0%
 
 ---
@@ -25,18 +25,15 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [ API: API de vraag ontbreekt toe te schrijven aan SQL fout ](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 12 september 2024 |
 | [ Gelijk: Voeg aan de optie van de Interlatie toe tweemaal wordt vermeld wanneer het toewijzen van het ramteam ](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md) | 12 september 2024 |
 | [ Proofs: De actieve gebruikers verschijnen als gedeactiveerd ](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md) | 12 september 2024 |
 | [ Borden: Kan voorproef of download documenten van kaart ](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) niet | 5 september 2024 |
 | [ Mobiel: Onbekwaam aan logout en ontbrekende informatie van het gebruikersprofiel ](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | 3 september 2024 |
-| [ Borden: De status van de kaart past verbonden voorwerp en omringt filter ](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) niet aan | 3 september 2024 |
 | [ Dashboards: Het selecteren van de knoop van de Uitvoer in een rapport scrolt aan bovenkant van pagina ](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md) | 3 september 2024 |
 | [ Borden: Verbonden kaart is in onjuiste kolom ](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 28 augustus 2024 |
 | [ Workfront: Kan SSO ](known-issues-workfront/wf-workfront-cannot-use-sso.md) niet gebruiken | 26 augustus 2024 |
 | [ Rapporten: De leveringen van het rapport worden vertraagd of ontbreken ](known-issues-workfront/wf-reports-not-delivered.md) | 26 augustus 2024 |
 | [ Toewijzingen: Tijd van pictogram verschijnt niet wanneer het toewijzen van taken ](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | 26 augustus 2024 |
-| [ Integraties: Kan login aan Workfront voor Vooruitzichten ](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) niet | 21 augustus 2024 |
 | [ Huis: &quot;Geen toegang&quot;vertoningen als projectnaam ](known-issues-workfront/wf-home-no-access-project-name.md) | 15 augustus 2024 |
 | [ Workfront Mobile: Kan binnen ondertekenen zonder SSO ](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) te gebruiken niet | 14 augustus 2024 |
 | [ Rapporten: Fout wanneer het uitvoeren van rapport ](known-issues-workfront/wf-reports-error-cache-content.md) | 14 augustus 2024 |

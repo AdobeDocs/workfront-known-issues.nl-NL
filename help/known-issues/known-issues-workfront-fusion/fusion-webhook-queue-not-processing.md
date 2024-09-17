@@ -1,17 +1,21 @@
 ---
-title: "Workfront Fusion: Webhaak queue not processing"
-description: "Wanneer een gebeurtenis plaatsvindt die een webhaakscenario in Workfront Fusion zou moeten teweegbrengen, wordt het scenario niet uitgevoerd en blijft de gebeurtenis in de wachtrij van de webhaak."
+title: 'Workfront Fusion: Webhaak queue not processing'
+description: Wanneer een gebeurtenis plaatsvindt die een webhaakscenario in Workfront Fusion zou moeten teweegbrengen, wordt het scenario niet uitgevoerd en blijft de gebeurtenis in de wachtrij van de webhaak.
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 7e872b20658c7d5b330dafce98c80d624d17bae8
+exl-id: 3388eaae-61cf-4a86-a946-925892c9633a
+source-git-commit: c94e9f4cbe23fe5f9e681eb672585dca237f0c79
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
 
-
 # Workfront Fusion: Webhaakwachtrij wordt niet verwerkt
+
+>[!NOTE]
+>
+>Dit probleem is op 13 september 2024 opgelost.
 
 Wanneer een gebeurtenis plaatsvindt die een webhaakscenario in Workfront Fusion zou moeten teweegbrengen, wordt het scenario niet uitgevoerd en blijft de gebeurtenis in de wachtrij van de webhaak.
 
