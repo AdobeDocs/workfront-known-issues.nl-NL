@@ -1,17 +1,21 @@
 ---
-title: "Aangepaste formulieren: kan niet schuiven naar extern opzoekveld"
-description: "Wanneer een gebruiker de opties in een extern opzoekveld probeert weer te geven, wordt het vervolgkeuzemenu met opties niet verschoven en kan de gebruiker niet de volledige lijst met opties zien."
+title: 'Aangepaste formulieren: kan niet schuiven naar extern opzoekveld'
+description: Wanneer een gebruiker de opties in een extern opzoekveld probeert weer te geven, wordt het vervolgkeuzemenu met opties niet verschoven en kan de gebruiker niet de volledige lijst met opties zien
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: c05c388824293dcee4074eb76e2beec6e7cc5d6d
+exl-id: 62cc8f6b-cc1a-4861-a470-de4769b46d75
+source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
-
 # Aangepaste formulieren: kan niet schuiven in extern opzoekveld
+
+>[!NOTE]
+>
+>Dit probleem is op 5 september 2024 opgelost.
 
 Wanneer een gebruiker de opties in een extern opzoekveld probeert weer te geven, wordt het vervolgkeuzemenu met opties niet verschoven en kan de gebruiker niet de volledige lijst met opties zien
 

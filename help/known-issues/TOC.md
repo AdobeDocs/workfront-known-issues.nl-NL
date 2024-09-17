@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
+source-git-commit: ae9a8c6a8186b240b5482f51a08565d222301843
 workflow-type: tm+mt
-source-wordcount: '1614'
+source-wordcount: '1652'
 ht-degree: 0%
 
 ---
@@ -17,12 +17,17 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Toewijzingen: taaktoewijzing mislukt en overgeërfde machtigingen verwijderd](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
+      + [Groepen: verwijderde groepsstatus wordt opnieuw weergegeven](known-issues-workfront/wf-groups-deleted-status-reappears.md)
+      + [API: API-aanroep mislukt door SQL-fout](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md)
+      + [Agile: Voeg tweemaal de optie Toevoegen aan herhaling toe bij de toewijzing van een scrum-team](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md)
+      + [Proefdrukken: actieve gebruikers worden weergegeven als gedeactiveerd](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md)
       + [Borden: Kan geen documenten voorvertonen of downloaden van kaart](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md)
       + [Mobiel: kan zich niet afmelden en er ontbreken gebruikersprofielgegevens](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
       + [Borden: Kaartstatus komt niet overeen met verbonden object en omzeilt filter](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
       + [Dashboards: Selecterend de knoop van de Uitvoer in een rapport scrolt aan bovenkant van pagina](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
       + [Workfront: Datum wordt onjuist weergegeven](known-issues-workfront/wf-workfront-date-format-incorrect.md)
-      + [Meldingen: gebruikers van contribuanten ontvangen geen e-mailmeldingen](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
+      + [Meldingen: gebruikers van contribuanten ontvangen geen e-mailmeldingen](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md)
       + [Groepen: subgroepen worden niet correct weergegeven](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
       + [Workfront: kan SSO niet gebruiken](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [Gebruikers: kan gebruiker niet opnieuw activeren](known-issues-workfront/wf-users-reactivate-user.md)
