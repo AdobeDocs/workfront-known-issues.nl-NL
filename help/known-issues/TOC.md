@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: ae9a8c6a8186b240b5482f51a08565d222301843
+source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
 workflow-type: tm+mt
-source-wordcount: '1652'
+source-wordcount: '1680'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Rapporten: lange laadtijden van samenstellers van rapporten](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
+      + [Rapporten: kan niet schuiven om het hele diagramrapport te zien](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + [Toewijzingen: taaktoewijzing mislukt en overgeërfde machtigingen verwijderd](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
       + [Groepen: verwijderde groepsstatus wordt opnieuw weergegeven](known-issues-workfront/wf-groups-deleted-status-reappears.md)
       + [API: API-aanroep mislukt door SQL-fout](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md)
@@ -198,6 +200,7 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [Bekende problemen in  [!DNL Workfront Proof]](workfrontproof.md)
    + Huidige problemen in [!DNL Workfront Proof] {#proof-current}
+      + [Workfront Proof: Inhoud wordt onjuist geplakt in het gedeelte Updates van de Desktop Proofing Viewer](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md)
       + [[!UICONTROL Workfront Proof]: Kan elementen niet opnieuw ordenen tijdens het maken van een proefdruk](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]: Onnauwkeurige tijdstempel op [!UICONTROL Proof Summary]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!DNL Workfront Proof]: Kan werkstroom niet uitvouwen](known-issues-workfront-proof/proof-cannot-view-workflow.md)

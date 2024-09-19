@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 5346638be033d65ee86c7e991a70cea32fbbcc7f
+source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
 workflow-type: tm+mt
-source-wordcount: '1002'
+source-wordcount: '995'
 ht-degree: 0%
 
 ---
@@ -25,13 +25,12 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [ Rapporten: Lange tijden van de rapportbouwer ](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 19 september 2024 |
 | [ API: API de vraag ontbreekt toe te schrijven aan SQL fout ](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 12 september 2024 |
 | [ Gelijk: Voeg aan de optie van de Interlatie toe tweemaal wordt vermeld wanneer het toewijzen van het ramteam ](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md) | 12 september 2024 |
 | [ Proofs: De actieve gebruikers verschijnen als gedeactiveerd ](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md) | 12 september 2024 |
 | [ Borden: Kan voorproef of download documenten van kaart ](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) niet | 5 september 2024 |
-| [ Mobiel: Onbekwaam aan logout en ontbrekende informatie van het gebruikersprofiel ](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | 3 september 2024 |
 | [ Borden: De status van de kaart past verbonden voorwerp en omringt filter ](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) niet aan | 3 september 2024 |
-| [ Dashboards: Het selecteren van de knoop van de Uitvoer in een rapport scrolt aan bovenkant van pagina ](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md) | 3 september 2024 |
 | [ Borden: Verbonden kaart is in onjuiste kolom ](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 28 augustus 2024 |
 | [ Workfront: Kan SSO ](known-issues-workfront/wf-workfront-cannot-use-sso.md) niet gebruiken | 26 augustus 2024 |
 | [ Rapporten: De leveringen van het rapport worden vertraagd of ontbreken ](known-issues-workfront/wf-reports-not-delivered.md) | 26 augustus 2024 |
@@ -79,6 +78,7 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [ Rapporten: Onbekwaam om volledig grafiekrapport te scrollen ](known-issues-workfront/wf-reports-unable-to-scroll.md) | 19 september 2024 |
 | [ Workfront: De veelvoudige browser lusjes veroorzaken Workfront aan logout ](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 18 september 2024 |
 | [ de vormen van de Douane: Berekend gebied dat onjuiste waarde ](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) toont | 12 september 2024 |
 | [ Huis: Het huis loopt vast met &quot;uit geheugen&quot;fout ](known-issues-workfront/wf-home-crashes-with-error.md) | 12 september 2024 |
