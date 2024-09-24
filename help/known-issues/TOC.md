@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
+source-git-commit: 8641957b203a689fd881bc5a6b5979ca6372216b
 workflow-type: tm+mt
-source-wordcount: '1680'
+source-wordcount: '1688'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Borden: Fout bij het verplaatsen van kaarten of het toewijzen van gebruikers](known-issues-workfront/wf-boards-error-moving-cards.md)
       + [Rapporten: lange laadtijden van samenstellers van rapporten](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
       + [Rapporten: kan niet schuiven om het hele diagramrapport te zien](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + [Toewijzingen: taaktoewijzing mislukt en overgeërfde machtigingen verwijderd](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
