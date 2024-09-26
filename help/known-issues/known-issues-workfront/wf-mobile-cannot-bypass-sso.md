@@ -1,17 +1,21 @@
 ---
-title: "Workfront Mobile: kan zich niet aanmelden zonder SSO te gebruiken"
-description: "Wanneer een gebruiker zich aanmeldt bij de Workfront Mobile-app, moet hij of zij zich aanmelden met SSO. De gebruiker kan zijn Workfront-gegevens of Adobe ID niet gebruiken."
+title: 'Workfront Mobile: kan niet aanmelden zonder SSO te gebruiken'
+description: Wanneer een gebruiker zich aanmeldt bij de Workfront Mobile-app, moet hij of zij zich aanmelden met SSO. De gebruiker kan zijn Workfront-gegevens of Adobe ID niet gebruiken.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: b6ed840df25684f16f88bc30fe7a8138e37fbe53
+exl-id: fd3d2bc1-cb0c-4cf6-be39-7c5c3f7ac74b
+source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
 
-
 # Workfront Mobile: kan niet aanmelden zonder SSO te gebruiken
+
+>[!NOTE]
+>
+>Dit probleem is op 19 september 2024 opgelost.
 
 Wanneer een gebruiker zich aanmeldt bij de Workfront Mobile-app, moet hij of zij zich aanmelden met SSO. De gebruiker kan zijn Workfront-gegevens of Adobe ID niet gebruiken.
 

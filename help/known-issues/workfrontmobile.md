@@ -4,9 +4,9 @@ description: Gemelde bekende kwesties voor  [!DNL Adobe Workfront]  Mobiele App
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
 feature: Work Management
-source-git-commit: b6ed840df25684f16f88bc30fe7a8138e37fbe53
+source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
@@ -19,22 +19,21 @@ Deze pagina bevat problemen die momenteel zijn geïdentificeerd in de [!DNL Adob
 >
 >Voor informatie betreffende serveruptime of stroomonderbrekingen, zie [ status.adobe.com ](https://status.adobe.com). Voor informatie over kwesties die onlangs werden bevestigd, zie [[!DNL Workfront]  Updates van het Onderhoud ](../maintenance/current-updates.md).
 
-<!--**There are currently no known issues for [!DNL Workfront Mobile]**
-
--->
+**Er zijn momenteel geen bekende problemen voor[!DNL Workfront Mobile]**
 
 
+<!--
+## New
 
-## Nieuw
+These recently reported issues are currently under review.
 
-Deze onlangs gemelde problemen worden momenteel geëvalueerd.
-
-| **Uitgave** | **Laatst gewijzigd** |
+| **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [ Workfront Mobile: Kan binnen ondertekenen zonder SSO ](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) te gebruiken niet | 14 augustus 2024 |
 
-## Huidige problemen
 
-| Probleem | Laatst gewijzigd |
+## Current Issues
+
+|Issue  |Last Modified   | 
 |---|---|
-| Tekst van uitgave | YYYY/MM/DD |
+|Issue text  | YYYY/MM/DD  | 
+-->

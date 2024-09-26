@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
+source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
 workflow-type: tm+mt
-source-wordcount: '5380'
+source-wordcount: '5525'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,30 @@ Voor onderhoudsupdates voorafgaand aan 2024, zie [ Vorige Updates van het Onderh
 De volgende onderhoudsupdates zijn uitgevoerd in 2024.
 
 ## Updates in september 2024
+
++++**Update van het Onderhoud op 26 september, 2024**
+
+### Onderhoudsupdate op 26 september 2024
+
+#### Agile
+
+**voeg aan Optie van de Herhaling toe tweemaal wordt vermeld wanneer het toewijzen van het ramteam**
+
+Wanneer u een taak of uitgave toewijst aan een agile-scrumteam, wordt de optie &quot;Toevoegen aan herhaling&quot; tweemaal weergegeven in het menu Meer. Dit heeft geen invloed op de mogelijkheid om het team toe te wijzen en wordt niet weergegeven voor teams die geen rumoer zijn.
+
+#### Aangepaste Forms
+
+**het gebiedslijst van de Redacteur van de Berekening beperkt tot 200 punten**
+
+In de Rekeningeditor voor berekende velden op aangepaste formulieren is de veldlijst voor een object nu beperkt tot 200 items om de systeemprestaties te verbeteren. Als u de veldnaam kent, kunt u naar deze naam zoeken met de optie typekop in plaats van door de lijst te schuiven.
+
+#### Rapporten
+
+**de leveringen van het Rapport worden vertraagd of ontbreken**
+
+Rapporten met geplande leveringen worden niet op de verwachte wijze geleverd. Ze kunnen te laat zijn of helemaal niet geleverd worden.
+
++++
 
 +++**Update van het Onderhoud op 19 September, 2024**
 

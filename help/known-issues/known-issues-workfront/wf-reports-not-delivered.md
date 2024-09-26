@@ -1,27 +1,22 @@
 ---
-title: "Rapporten: leveringen van rapporten worden uitgesteld of ontbreken"
-description: "Rapporten met geplande leveringen worden niet geleverd zoals verwacht. Ze kunnen te laat zijn of helemaal niet geleverd worden."
+title: "Rapporten: leveringen rapporteren is uitgesteld of ontbreekt"
+description: Rapporten met geplande leveringen worden niet op de verwachte wijze geleverd. Ze kunnen te laat zijn of helemaal niet geleverd worden.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 99544be489735d604e5fde79ab84575d0c751ad6
+exl-id: 91d2561d-8edf-462b-8a36-beb727de064b
+source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-
 # Rapporten: leveringen van rapporten worden uitgesteld of ontbreken
-
-<!--
 
 >[!NOTE]
 >
->This issue was fixed on August 8, 2024.
-
--->
+>Dit probleem is op 26 september 2024 opgelost.
 
 Rapporten met geplande leveringen worden niet op de verwachte wijze geleverd. Ze kunnen te laat zijn of helemaal niet geleverd worden.
 
 _Eerste rapporteerde op 26 juli, 2024._
-
