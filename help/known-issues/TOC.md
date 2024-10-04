@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '1710'
+source-wordcount: '1751'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Aanmelden als omleiding naar aanmelding of veroorzaakt fout](known-issues-workfront/wf-login-as-redirects-to-login.md)
+      + [Home: Met &quot;Markeren als voltooid&quot; wordt het overzichtsvenster voor de widget Mijn problemen gesloten](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
+      + [Projecten: kan projecten niet delen door fout &quot;toegang tot verwijderen&quot;](known-issues-workfront/wf-projects-sharing-access-error.md)
+      + [Proefdrukken: Maken van proefdrukken mislukt voor documenten die via Fusion zijn gekoppeld vanuit AEM](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md)
       + [Borden: Fout bij het verplaatsen van kaarten of het toewijzen van gebruikers](known-issues-workfront/wf-boards-error-moving-cards.md)
       + [Rapporten: lange laadtijden van samenstellers van rapporten](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
       + [Rapporten: kan niet schuiven om het hele diagramrapport te zien](known-issues-workfront/wf-reports-unable-to-scroll.md)

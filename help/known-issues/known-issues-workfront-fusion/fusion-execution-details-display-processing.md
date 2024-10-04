@@ -3,15 +3,19 @@ title: "Workfront Fusion: details van uitvoering worden weergegeven als verwerki
 description: "Wanneer een gebruiker de details van een uitvoering probeert te bekijken, zien zij dat de uitvoering de verwerkingsbadge lang na de uitvoering toont."
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 25c18a4c5f65bbfb93c4d18e01e8a49e8ccb8699
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
 
 
 # Workfront Fusion: details van uitvoering worden weergegeven als verwerking
+
+>[!NOTE]
+>
+>Dit artikel is vastgesteld op 3 oktober 2024.
 
 Wanneer een gebruiker de details van een uitvoering probeert te bekijken, zien zij dat de uitvoering de &quot;verwerkings&quot;badge lang toont nadat de uitvoering wordt voltooid.
 

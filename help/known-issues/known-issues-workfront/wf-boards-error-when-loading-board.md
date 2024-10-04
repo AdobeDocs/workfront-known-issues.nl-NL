@@ -1,17 +1,21 @@
 ---
-title: "Borden: Fout bij het laden van een bord"
-description: "Wanneer een gebruiker een board probeert te laden, wordt het board niet geladen en ziet de gebruiker een foutbericht."
+title: 'Borden: Fout bij het laden van een bord'
+description: Wanneer een gebruiker een board probeert te laden, wordt het board niet geladen en ziet de gebruiker een foutbericht.
 hidefromtoc: true
 feature: Agile
-source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
+exl-id: 5ba4609f-9ad1-4fda-af28-913286acc327
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
-
 # Borden: Fout bij het laden van een bord
+
+>[!NOTE]
+>
+>Dit artikel is vastgesteld op 3 oktober 2024.
 
 Wanneer een gebruiker een board probeert te laden, wordt het board niet geladen en ziet de gebruiker het volgende bericht:
 

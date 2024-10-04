@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '5525'
+source-wordcount: '5708'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,47 @@ Deze updates bevatten ook andere kleine of minder duidelijke foutoplossingen. [!
 Voor onderhoudsupdates voorafgaand aan 2024, zie [ Vorige Updates van het Onderhoud ](#previous-maintenance-updates)
 
 De volgende onderhoudsupdates zijn uitgevoerd in 2024.
+
+## Updates in oktober 2024
+
++++**Update van het Onderhoud op 3 Oktober, 2024**
+
+### Onderhoudsupdate op 3 oktober 2024
+
+#### Borden
+
+**Gearchiveerde verbonden kaarten niet gesynchroniseerd**
+
+Om prestatieproblemen op te lossen, worden gearchiveerde verbonden kaarten niet meer gesynchroniseerd. Wijzigingen in de Workfront-taak of -uitgave worden niet weerspiegeld op de gearchiveerde kaarten. Als u een kaart herstelt, wordt deze opnieuw gesynchroniseerd.
+
+#### Aangepaste formulieren
+
+**het type van vertoning omzettingsfout op douaneformulieren**
+
+Veelzijdige tekstvelden veroorzaken de volgende fout op aangepaste formulieren:
+
+&quot;Fout: conversies van weergavetype tussen tekst naar RTF zijn niet toegestaan.&quot;
+
+Dit kan in de volgende omstandigheden voorkomen:
+
+* De gebruiker begint de formulieren te bewerken, maar klikt op Toepassen zonder wijzigingen aan te brengen.
+* De gebruiker maakt een aangepast formulier.
+
+In beide gevallen veroorzaken RTF-velden problemen.
+
+#### Meldingen
+
+**de gebruikers van de Medewerker ontvangen geen e-mailberichten**
+
+Gebruikers met een licentie voor contribuanten ontvangen geen e-mailberichten. Dit kan zowel invloed hebben op e-mailberichten voor directe meldingen als op e-mails voor dagelijkse samenvattingen.
+
+#### Proefdrukken
+
+**de elektronische handtekeningen kunnen niet worden toegevoegd wanneer het gebruiken van SSO voor Bewijs**
+
+Als gebruikers zich met SSO aanmelden bij Proef, kunnen ze geen bewijs instellen om elektronische handtekeningen te vereisen.
+
++++
 
 ## Updates in september 2024
 

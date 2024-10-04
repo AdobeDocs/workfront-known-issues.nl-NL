@@ -4,9 +4,9 @@ description: 'Gebruikers met een licentie voor contribuanten ontvangen geen e-ma
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: b4b6e898-1a30-4f47-919b-40d938e916f3
-source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Deze kwestie is gesloten omdat het zoals ontworpen werkt.
+>Dit artikel is vastgesteld op 3 oktober 2024.
 
 Gebruikers met een licentie voor contribuanten ontvangen geen e-mailberichten. Dit kan zowel invloed hebben op e-mailberichten voor directe meldingen als op e-mails voor dagelijkse samenvattingen.
 

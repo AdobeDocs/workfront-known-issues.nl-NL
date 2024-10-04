@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor  [!DNL Adobe Workfront Fusion]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,8 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [ de Fusie van Workfront: De kwesties van de opslagplaats van Gegevens ](known-issues-workfront-fusion/fusion-data-store-issues.md) | 26 september 2024 |
-| [ de Fusie van Workfront: De detailvertoning van de uitvoering als verwerking ](known-issues-workfront-fusion/fusion-execution-details-display-processing.md) | 26 september 2024 |
+| [ Bewijzen: Creeer proef ontbreekt voor documenten die van AEM door Fusie ](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) worden verbonden | 3 oktober 2024 |
 | [ de Fusie van Workfront: De rij van Webhaak verwerkt niet ](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md) | 19 september 2024 |
-| [ de Fusie van Workfront: 401 InvalidAccessTokenError ](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md) | 27 augustus 2024 |
 | [ API: De timing van verzoeken uit ](known-issues-workfront/wf-api-request-timing-out.md) | 5 augustus 2024 |
 
 {style="table-layout:auto"}
