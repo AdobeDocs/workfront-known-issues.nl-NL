@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
 workflow-type: tm+mt
-source-wordcount: '1751'
+source-wordcount: '1794'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Documenten: kan documenten niet verplaatsen vanaf het tabblad Objectdocumenten](known-issues-workfront/wf-documents-cannot-move-from-object.md)
+      + [Borden: dubbele statusopties voor taken en problemen](known-issues-workfront/wf-boards-duplicate-status-options.md)
+      + [Home: Verwijderde aangepaste velden blijven aanwezig in project-, taak- en uitgave-widgets](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
+      + [Prioriteiten: groeperingen voorkomen sorteren en inline bewerken](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
       + [Aanmelden als omleiding naar aanmelding of veroorzaakt fout](known-issues-workfront/wf-login-as-redirects-to-login.md)
       + [Home: Met &quot;Markeren als voltooid&quot; wordt het overzichtsvenster voor de widget Mijn problemen gesloten](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
       + [Projecten: kan projecten niet delen door fout &quot;toegang tot verwijderen&quot;](known-issues-workfront/wf-projects-sharing-access-error.md)
@@ -205,6 +209,7 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [Bekende problemen in  [!DNL Workfront Proof]](workfrontproof.md)
    + Huidige problemen in [!DNL Workfront Proof] {#proof-current}
+      + [Workfront Mobile: e-mailkoppelingen voor proefdrukken worden niet geopend op iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md)
       + [Workfront Proof: Inhoud wordt onjuist geplakt in het gedeelte Updates van de Desktop Proofing Viewer](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md)
       + [[!UICONTROL Workfront Proof]: Kan elementen niet opnieuw ordenen tijdens het maken van een proefdruk](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]: Onnauwkeurige tijdstempel op [!UICONTROL Proof Summary]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)

@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
 workflow-type: tm+mt
-source-wordcount: '986'
+source-wordcount: '1034'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,9 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [ Documenten: Kan documenten van objectenDocumenten tabel niet bewegen ](known-issues-workfront/wf-documents-cannot-move-from-object.md) | 9 oktober 2024 |
+| [ Borden: De dubbele statusopties voor taken en kwesties ](known-issues-workfront/wf-boards-duplicate-status-options.md) | 9 oktober 2024 |
+| [ Workfront Mobile: De e-mailverbindingen van het bewijs zullen niet op iPhone ](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) openen | 9 oktober 2024 |
 | [ Rapporten: Lange tijden van de rapportbouwer ](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 19 september 2024 |
 | [ API: API de vraag ontbreekt toe te schrijven aan SQL fout ](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 12 september 2024 |
 | [ Borden: Kan voorproef of download documenten van kaart ](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) niet | 5 september 2024 |
@@ -76,6 +79,8 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [ Huis: De geschrapte douanegebieden blijven in project, taak, en kwestie widgets ](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 8 oktober 2024 |
+| [ Prioriteiten: De groeperingen verhinderen sorterend en gealigneerd het uitgeven ](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | 8 oktober 2024 |
 | [ Rapporten: Onbekwaam om volledig grafiekrapport te scrollen ](known-issues-workfront/wf-reports-unable-to-scroll.md) | 19 september 2024 |
 | [ Workfront: De veelvoudige browser lusjes veroorzaken Workfront aan logout ](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 18 september 2024 |
 | [ de vormen van de Douane: Berekend gebied dat onjuiste waarde ](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) toont | 12 september 2024 |

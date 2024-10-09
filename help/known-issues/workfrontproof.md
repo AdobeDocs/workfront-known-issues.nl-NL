@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor  [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '424'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [ Workfront Mobile: De e-mailverbindingen van het bewijs zullen niet op iPhone ](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) openen | 9 oktober 2024 |
 | [ Bewijzen: Creeer proef ontbreekt voor documenten die van AEM door Fusie ](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) worden verbonden | 3 oktober 2024 |
 | [ Gelijk: Het raad van het Verhaal gaat leeg wanneer het toevoegen van een subtask ](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 26 juli 2024 |
 | [ Proofs: Het openen van een proef opent veelvoudige exemplaren ](known-issues-workfront/wf-proofs-two-proofs-open.md) | 25 juli 2024 |
