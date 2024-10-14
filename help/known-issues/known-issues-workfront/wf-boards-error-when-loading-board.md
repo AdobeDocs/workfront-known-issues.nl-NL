@@ -4,7 +4,7 @@ description: Wanneer een gebruiker een board probeert te laden, wordt het board 
 hidefromtoc: true
 feature: Agile
 exl-id: 5ba4609f-9ad1-4fda-af28-913286acc327
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Dit artikel is vastgesteld op 3 oktober 2024.
+>Dit artikel is vastgesteld op 10 oktober 2024.
 
 Wanneer een gebruiker een board probeert te laden, wordt het board niet geladen en ziet de gebruiker het volgende bericht:
 

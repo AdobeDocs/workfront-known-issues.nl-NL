@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
+source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
 workflow-type: tm+mt
-source-wordcount: '1034'
+source-wordcount: '975'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,6 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [ Documenten: Kan documenten van objectenDocumenten tabel niet bewegen ](known-issues-workfront/wf-documents-cannot-move-from-object.md) | 9 oktober 2024 |
 | [ Borden: De dubbele statusopties voor taken en kwesties ](known-issues-workfront/wf-boards-duplicate-status-options.md) | 9 oktober 2024 |
 | [ Workfront Mobile: De e-mailverbindingen van het bewijs zullen niet op iPhone ](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) openen | 9 oktober 2024 |
 | [ Rapporten: Lange tijden van de rapportbouwer ](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 19 september 2024 |
@@ -38,8 +37,6 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | [ Integraties: Kan login aan Workfront voor Vooruitzichten ](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) niet | 21 augustus 2024 |
 | [ Huis: &quot;Geen toegang&quot;vertoningen als projectnaam ](known-issues-workfront/wf-home-no-access-project-name.md) | 15 augustus 2024 |
 | [ Workfront Mobile: Kan binnen ondertekenen zonder SSO ](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) te gebruiken niet | 14 augustus 2024 |
-| [ Rapporten: Fout wanneer het uitvoeren van rapport ](known-issues-workfront/wf-reports-error-cache-content.md) | 14 augustus 2024 |
-| [ API: De timing van verzoeken uit ](known-issues-workfront/wf-api-request-timing-out.md) | 5 augustus 2024 |
 | [ Integraties: Het verbinden van omslag van  [!DNL Google Drive]  verbindt geen activa in omslag ](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
 | [ Rapporten: Fout wanneer het bekijken van rapportdetails die door douanedatum ](known-issues-workfront/wf-reports-error-with-custom-date-field.md) worden gegroepeerd | 14 juni 2024 |
 | [ Opstelling: &quot;Aangemeld als&quot;banner verschijnt niet wanneer het programma geopend als een andere gebruiker ](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 mei 2024 |
@@ -52,19 +49,14 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Uitgave** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
-| [ Login als redirects aan login of veroorzaakt fout ](known-issues-workfront/wf-login-as-redirects-to-login.md) | 3 oktober 2024 |
-| [ Huis: &quot;Teken zoals Gedaan&quot;sluit de summiere ruit voor Mijn Widget van Kwesties ](known-issues-workfront/wf-home-mark-as-done-closes-summary.md) | 3 oktober 2024 |
 | [ Projecten: Kan projecten wegens &quot;toegang delen om&quot;fout ](known-issues-workfront/wf-projects-sharing-access-error.md) te schrappen niet | 3 oktober 2024 |
 | [ Bewijzen: Creeer proef ontbreekt voor documenten die van AEM door Fusie ](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) worden verbonden | 3 oktober 2024 |
-| [ de vormen van de Douane: De fout van het type van vertoning omzette op douaneformulieren ](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 3 oktober 2024 |
 | [ Integraties: Kan login aan Workfront voor Vooruitzichten ](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) niet | 24 september 2024 |
 | [ Groepen: De geschrapte groepsstatus verschijnt ](known-issues-workfront/wf-groups-deleted-status-reappears.md) | 12 september 2024 |
 | [ Huis: In afwachting van goedkeuringen toont widget geschrapte documenten ](known-issues-workfront/wf-home-deleted-documents.md) | 12 september 2024 |
-| [ Taken: Kwesties met chronologieherberekening ](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 30 augustus 2024 |
 | [ de vormen van de Douane: Forms gebreken aan de vormen van het Project ](known-issues-workfront/wf-custom-forms-default-to-project.md) | 22 augustus 2024 |
 | [ Opstelling: Kwesties wanneer het programma openen als een andere gebruiker ](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 15 augustus 2024 |
 | [ Meldingen: De fout van Wiops wanneer het plaatsen van berichtvoorkeur ](known-issues-workfront/wf-notifications-whoops-error.md) | 8 augustus 2024 |
-| [ Borden: Fout wanneer het laden van een raad ](known-issues-workfront/wf-boards-error-when-loading-board.md) | 8 augustus 2024 |
 | [ Aangepaste vormen: De bouwer van de vorm crasht wanneer het ingaan van vertoningslogica ](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 5 augustus 2024 |
 | [ Niveaus van de Toegang: Dubbele toegangsniveaus in het gebied van de Opstelling ](known-issues-workfront/wf-access-duplicate-level.md) | 25 juli 2024 |
 | [ Teams: Kan teameigenaar niet bekijken of team schrappen ](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 april 2024 |
@@ -79,6 +71,7 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [ Rapporten: Fout wanneer het uitvoeren van rapport ](known-issues-workfront/wf-reports-error-cache-content.md) | 14 oktober 2024 |
 | [ Huis: De geschrapte douanegebieden blijven in project, taak, en kwestie widgets ](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 8 oktober 2024 |
 | [ Prioriteiten: De groeperingen verhinderen sorterend en gealigneerd het uitgeven ](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | 8 oktober 2024 |
 | [ Rapporten: Onbekwaam om volledig grafiekrapport te scrollen ](known-issues-workfront/wf-reports-unable-to-scroll.md) | 19 september 2024 |

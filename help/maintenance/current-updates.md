@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
 workflow-type: tm+mt
-source-wordcount: '5708'
+source-wordcount: '5959'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,49 @@ Voor onderhoudsupdates voorafgaand aan 2024, zie [ Vorige Updates van het Onderh
 De volgende onderhoudsupdates zijn uitgevoerd in 2024.
 
 ## Updates in oktober 2024
+
++++**Update van het Onderhoud op 10 oktober, 2024**
+
+### Onderhoudsupdate op 10 oktober 2024
+
+#### Borden
+
+**Fout wanneer het bewegen van kaarten of het toewijzen van gebruikers**
+
+Bij het verplaatsen van kaarten of het toewijzen van gebruikers gaat de actie af en toe niet door en produceert in plaats daarvan de fout &quot;Reactie niet succesvol: Ontvangen statuscode 502&quot;na een vertraging.
+
+**Fout wanneer het laden van een raad**
+
+Wanneer een gebruiker een board probeert te laden, wordt het board niet geladen en ziet de gebruiker het volgende bericht:
+
+&quot;Fout bij laden van board&quot;
+
+&quot;Er is iets misgegaan tijdens het laden van dit bord. Vernieuw de pagina om het opnieuw te proberen of neem contact op met de ondersteuning voor de onderstaande fout-id als het probleem zich blijft voordoen.&quot;
+
+#### Home
+
+**&quot;Markeren als Gereed&quot; sluit het overzichtsvenster voor de widget Mijn problemen**
+
+Wanneer wordt geprobeerd de knop &quot;Markeren als voltooid&quot; te gebruiken in het overzichtsvenster van een probleem dat is geopend via de widget Mijn problemen, wordt het overzichtsvenster onverwacht gesloten.
+
+**de montages van het Malplaatje van de Lay-out ontbreken om kolom** toe te voegen
+
+Als u via de instellingen van de widget voor een lay-outsjabloon een veld selecteert dat u aan een widget wilt toevoegen, kan een veld worden geselecteerd, maar wordt de bijbehorende kolom niet weergegeven in de widget.
+
+#### Taken
+
+**Kwesties met chronologieherberekening**
+
+De volgende punten zijn gerapporteerd met betrekking tot de herberekening van tijdlijnen:
+
+* Wanneer u de duur van een tijdlijntaak bijwerkt, duurt het opnieuw berekenen van het systeem veel tijd.
+* Wanneer de herberekening is voltooid, kunnen de datums uitgeschakeld blijven of worden uitgeschakeld, alsof de tijdlijn nog steeds opnieuw wordt berekend.
+
+**getoonde uitgaven van de Taak niet**
+
+Nadat u een uitgave aan een taak hebt toegevoegd, worden de kosten niet in de taakgegevens weergegeven ondanks de bevestiging van de API dat deze is ingevoerd.
+
++++
 
 +++**Update van het Onderhoud op 3 Oktober, 2024**
 
