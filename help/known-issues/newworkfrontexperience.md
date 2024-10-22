@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e33394c2aede0544d104c2b115b9ca302dcdb465
+source-git-commit: cfdbb6026edc39df8c89a100d6e6366216fd9bf7
 workflow-type: tm+mt
-source-wordcount: '957'
+source-wordcount: '1018'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,6 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | [ Borden: Verbonden kaart is in onjuiste kolom ](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 28 augustus 2024 |
 | [ Workfront: Kan SSO ](known-issues-workfront/wf-workfront-cannot-use-sso.md) niet gebruiken | 26 augustus 2024 |
 | [ Toewijzingen: Tijd van pictogram verschijnt niet wanneer het toewijzen van taken ](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | 26 augustus 2024 |
-| [ Integraties: Kan login aan Workfront voor Vooruitzichten ](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) niet | 21 augustus 2024 |
 | [ Huis: &quot;Geen toegang&quot;vertoningen als projectnaam ](known-issues-workfront/wf-home-no-access-project-name.md) | 15 augustus 2024 |
 | [ Workfront Mobile: Kan binnen ondertekenen zonder SSO ](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) te gebruiken niet | 14 augustus 2024 |
 | [ Integraties: Het verbinden van omslag van  [!DNL Google Drive]  verbindt geen activa in omslag ](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
@@ -47,6 +46,14 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Uitgave** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [ Projecten: De grafiek van Gantt is niet nauwkeurig ](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md) | 22 oktober 2024 |
+| [ Meldingen: De gebruikers van de medewerker ontvangen geen e-mailberichten ](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 22 oktober 2024 |
+| [ Projecten: Kan geen kwesties toevoegen aan voltooid project ](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md) | 22 oktober 2024 |
+| [ Meldingen: De gebruikers van de medewerker ontvangen geen e-mailberichten ](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 22 oktober 2024 |
+| [ de vormen van de Douane: Kan douanegegevens in voltooide projecten bijwerken ](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md) | 22 oktober 2024 |
+| [ Huis: Het gebied van Prioriteiten kan worden betreden wanneer het ](known-issues-workfront/wf-home-priorities-accessible.md) is onbruikbaar gemaakt | 22 oktober 2024 |
+| [ Huis: Mijn widget van Goedkeuringen werkte niet ](known-issues-workfront/wf-home-my-approval-not-working.md) | 22 oktober 2024 |
+| [ Proofs: Kan geen proefdrukken in het milieu van de Voorproef creëren ](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | 22 oktober 2024 |
 | [ Projecten: Kan projecten wegens &quot;toegang delen om&quot;fout ](known-issues-workfront/wf-projects-sharing-access-error.md) te schrappen niet | 3 oktober 2024 |
 | [ Bewijzen: Creeer proef ontbreekt voor documenten die van AEM door Fusie ](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) worden verbonden | 3 oktober 2024 |
 | [ Integraties: Kan login aan Workfront voor Vooruitzichten ](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) niet | 24 september 2024 |

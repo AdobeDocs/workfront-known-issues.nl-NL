@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0ab00df7f9b96ce840139a852345c3f9fff0ebe8
+source-git-commit: cfdbb6026edc39df8c89a100d6e6366216fd9bf7
 workflow-type: tm+mt
-source-wordcount: '1804'
+source-wordcount: '1850'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,12 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Projecten: Gantt-grafiek is niet correct](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md)
+      + [Projecten: kan geen problemen toevoegen aan voltooid project](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md)
+      + [Aangepaste formulieren: kan aangepaste gegevens in voltooide projecten niet bijwerken](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md)
+      + [Home: het prioriteitsgebied is toegankelijk wanneer het is uitgeschakeld](known-issues-workfront/wf-home-priorities-accessible.md)
+      + [Home: De widget Mijn goedkeuringen werkt niet](known-issues-workfront/wf-home-my-approval-not-working.md)
+      + [Proefdrukken: kan geen proefdrukken maken in de voorvertoningsomgeving](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md)
       + [Documenten: kan documenten niet verplaatsen vanaf het tabblad Objectdocumenten](known-issues-workfront/wf-documents-cannot-move-from-object.md)
       + [Borden: dubbele statusopties voor taken en problemen](known-issues-workfront/wf-boards-duplicate-status-options.md)
       + [Home: Verwijderde aangepaste velden blijven aanwezig in project-, taak- en uitgave-widgets](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
