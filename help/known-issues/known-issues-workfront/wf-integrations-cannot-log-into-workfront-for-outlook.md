@@ -4,14 +4,18 @@ description: Wanneer een gebruiker zich aanmeldt bij Workfront for Outlook, reag
 hidefromtoc: true
 feature: Workfront Integrations and Apps
 exl-id: 5ea65906-84c8-4aad-a4d9-a10b577a4c4c
-source-git-commit: b9206238976884e19b286d3a401ec32b58c144a4
+source-git-commit: e33394c2aede0544d104c2b115b9ca302dcdb465
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
 # Integratie: kan zich niet aanmelden bij Workfront for Outlook
+
+>[!NOTE]
+>
+>Dit probleem is op 21 oktober 2024 opgelost.
 
 Wanneer een gebruiker zich aanmeldt bij Workfront for Outlook, reageert de knop niet en kan de gebruiker zich niet aanmelden.
 
