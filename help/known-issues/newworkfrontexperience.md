@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: cfdbb6026edc39df8c89a100d6e6366216fd9bf7
+source-git-commit: f40e0fdd778b01e2fea1c5369bfbf979009cd839
 workflow-type: tm+mt
-source-wordcount: '1018'
+source-wordcount: '1015'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | **Uitgave** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
 | [ Projecten: De grafiek van Gantt is niet nauwkeurig ](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md) | 22 oktober 2024 |
-| [ Meldingen: De gebruikers van de medewerker ontvangen geen e-mailberichten ](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 22 oktober 2024 |
+| [ Proofs: Kan proefdrukkijker niet sluiten ](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 22 oktober 2024 |
 | [ Projecten: Kan geen kwesties toevoegen aan voltooid project ](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md) | 22 oktober 2024 |
 | [ Meldingen: De gebruikers van de medewerker ontvangen geen e-mailberichten ](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 22 oktober 2024 |
 | [ de vormen van de Douane: Kan douanegegevens in voltooide projecten bijwerken ](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md) | 22 oktober 2024 |
