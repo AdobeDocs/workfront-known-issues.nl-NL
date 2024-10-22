@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2044929db057509bea6200631336e53b76d4a1ff
+source-git-commit: 2f464b30a14ac8e8b8ce862e818c4d30c7cdf66f
 workflow-type: tm+mt
-source-wordcount: '6170'
+source-wordcount: '6177'
 ht-degree: 0%
 
 ---
@@ -67,7 +67,7 @@ Wanneer een gebruiker probeert om tijd op een timesheet te registreren die in Vo
 
 Dit is het verwachte gedrag en mag niet als een probleem worden beschouwd.
 
-Eerder konden de gebruikers tijd op voorgelegde of gesloten timesheets registreren.
+Eerder konden gebruikers zich aanmelden op verzonden of gesloten tijdbladen via de Workfront API of Workfront Fusion.
 
 +++
 
