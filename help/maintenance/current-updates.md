@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
+source-git-commit: c97902d01cc405c209eda11c53eb8b55ec5f9a6c
 workflow-type: tm+mt
-source-wordcount: '5959'
+source-wordcount: '6170'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,51 @@ Voor onderhoudsupdates voorafgaand aan 2024, zie [ Vorige Updates van het Onderh
 De volgende onderhoudsupdates zijn uitgevoerd in 2024.
 
 ## Updates in oktober 2024
+
++++**(Gepland) Onderhoudsupdate op 24 oktober 2024**
+
+### (Geplande) onderhoudsupdate op 24 oktober 2024
+
+#### Aangepaste formulieren
+
+**kan douanegegevens in voltooide projecten niet bijwerken**
+
+Wanneer een gebruiker probeert om douanegegevens in een project bij te werken dat volledig is, kunnen zij niet de gegevens bijwerken, en zij zien het volgende bericht:
+
+&quot;Kan bewerking voor een statusproject niet voltooien.&quot;
+
+#### Projecten
+
+**kan geen kwesties aan voltooid project** toevoegen
+
+Wanneer een gebruiker een uitgave aan een project in de Volledige status probeert toe te voegen, kan de gebruiker niet de kwestie toevoegen. Dit kan zich voordoen, ook al is de optie &quot;Problemen toevoegen en bewerken&quot; ingeschakeld
+
+**Gantt grafiek is niet nauwkeurig**
+
+Wanneer een gebruiker de Gantt-grafiek en de wisselweergaven weergeeft, worden in het Gantt-diagram geen nauwkeurige gegevens weergegeven of worden mogelijk geen gegevens weergegeven.
+
++++
+
+
++++**Update van het Onderhoud op 17 Oktober, 2024**
+
+### Onderhoudsupdate op 17 oktober 2024
+
+#### Proefdrukken
+
+**Proofs tonen onnauwkeurige datum**
+
+Datums die in de documentenlijst worden vermeld, geven de datum aan waarop de eerste versie van het document is gemaakt in plaats van de datum waarop de nieuwste versie is gemaakt.
+
+### Timesheets
+
+Wanneer een gebruiker probeert om tijd op een timesheet te registreren die in Voorgelegde of Gesloten status is, kunnen zij niet de tijd registreren.
+
+Dit is het verwachte gedrag en mag niet als een probleem worden beschouwd.
+
+Eerder konden de gebruikers tijd op voorgelegde of gesloten timesheets registreren.
+
++++
 
 +++**Update van het Onderhoud op 10 oktober, 2024**
 
