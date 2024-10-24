@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: cfdbb6026edc39df8c89a100d6e6366216fd9bf7
+source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
 workflow-type: tm+mt
-source-wordcount: '1850'
+source-wordcount: '1864'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Rapporten: filteroptie Tonen/verbergen ontbreekt](known-issues-workfront/wf-reports-show-filter-missing.md)
+      + [Home: Percentage complete wordt afgesneden](known-issues-workfront/wf-home-percent-complete-inaccurate.md)
       + [Projecten: Gantt-grafiek is niet correct](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md)
       + [Projecten: kan geen problemen toevoegen aan voltooid project](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md)
       + [Aangepaste formulieren: kan aangepaste gegevens in voltooide projecten niet bijwerken](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md)

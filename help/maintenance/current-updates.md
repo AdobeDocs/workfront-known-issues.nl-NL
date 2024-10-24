@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2f464b30a14ac8e8b8ce862e818c4d30c7cdf66f
+source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
 workflow-type: tm+mt
-source-wordcount: '6177'
+source-wordcount: '6244'
 ht-degree: 0%
 
 ---
@@ -26,9 +26,15 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2024.
 
 ## Updates in oktober 2024
 
-+++**(Gepland) Onderhoudsupdate op 24 oktober 2024**
++++**Update van het Onderhoud op 24 oktober, 2024**
 
-### (Geplande) onderhoudsupdate op 24 oktober 2024
+### Onderhoudsupdate op 24 oktober 2024
+
+#### Toewijzingen
+
+**Tijd van pictogram verschijnt niet wanneer het toewijzen van taken**
+
+wanneer een gebruiker een taak toewijst en de naam begint te typen van de toegewezen persoon die tijd van gepland tijdens de taak heeft, tonen de gebruikerspictogrammen onder het Voorgestelde gebied van Taken niet de tijd van (vliegtuig) pictogram. Als de gebruiker doorgaat met typen, zodat de naam wordt weergegeven onder het gebied Gebruikers en teams, wordt het pictogram wel weergegeven.
 
 #### Aangepaste formulieren
 
