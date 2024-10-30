@@ -3,16 +3,16 @@ title: "Reports: Long report builder loading times"
 description: "De rapportaannemer vergt een uitgebreide hoeveelheid tijd, tot één minuut in sommige gevallen."
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
+source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
 
-# Rapporten: lange laadtijden van samenstellers van rapporten
+# Rapporten: Lange laadtijden voor rapporten
 
-De rapportaannemer vergt een uitgebreide hoeveelheid tijd, tot één minuut in sommige gevallen.
+Rapporten duurt langer om te laden. Dit beïnvloedt het bekijken rapporten, en het uitgeven en het creëren van rapporten in de rapportbouwer.
 
 _Eerste rapporteerde op 11 September, 2024._
