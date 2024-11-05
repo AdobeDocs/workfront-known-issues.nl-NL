@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
+source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
 workflow-type: tm+mt
-source-wordcount: '6244'
+source-wordcount: '6274'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,14 @@ Voor onderhoudsupdates voorafgaand aan 2024, zie [ Vorige Updates van het Onderh
 De volgende onderhoudsupdates zijn uitgevoerd in 2024.
 
 ## Updates in oktober 2024
+
++++**Update van het Onderhoud op 31 Oktober, 2024**
+
+### Onderhoudsupdate op 31 oktober 2024
+
+Deze update bevat alleen kleine of minder belangrijke opgeloste problemen. Workfront Support geeft een melding wanneer een probleem dat je hebt verzonden, is opgelost.
+
++++
 
 +++**Update van het Onderhoud op 24 oktober, 2024**
 
@@ -55,7 +63,6 @@ Wanneer een gebruiker een uitgave aan een project in de Volledige status probeer
 Wanneer een gebruiker de Gantt-grafiek en de wisselweergaven weergeeft, worden in het Gantt-diagram geen nauwkeurige gegevens weergegeven of worden mogelijk geen gegevens weergegeven.
 
 +++
-
 
 +++**Update van het Onderhoud op 17 Oktober, 2024**
 
