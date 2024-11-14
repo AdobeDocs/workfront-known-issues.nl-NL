@@ -1,17 +1,21 @@
 ---
-title: "Home: Mijn widget voor goedkeuringen werkt niet"
-description: "Wanneer een gebruiker thuis de widget Mijn goedkeuringen probeert weer te geven, wordt de widget niet weergegeven en ziet de gebruiker een bericht."
+title: 'Home: Mijn widget voor goedkeuringen werkt niet'
+description: Wanneer een gebruiker de widget Mijn goedkeuringen thuis probeert weer te geven, wordt de widget niet weergegeven en ziet de gebruiker een bericht.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 6e06225c52775894d03605b0dbbf0182e43e53ed
+exl-id: dcfa4c2a-da19-4e62-bcbe-e8f93a99eb0b
+source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
-
 # Home: De widget Mijn goedkeuringen werkt niet
+
+>[!NOTE]
+>
+>Deze kwestie is vastgesteld op 24 oktober 2024.
 
 Wanneer een gebruiker probeert om Mijn widget goedkeurt thuis te bekijken, verschijnt widget niet, en de gebruiker ziet het volgende bericht:
 

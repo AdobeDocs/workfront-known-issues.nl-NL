@@ -1,17 +1,21 @@
 ---
-title: '"Proefdrukken: Maken van proefdrukken mislukt voor documenten die via Fusion van AEM zijn gekoppeld'
-description: "Wanneer u een document wilt omzetten in een proefdruk die via Fusion is gekoppeld aan Workfront, blijft het proces vastzitten en wordt de proefdruk nooit gegenereerd."
+title: 'Proofs: Maken van proefdrukken mislukt voor documenten die zijn gekoppeld vanuit AEM via Fusion'
+description: Wanneer u een document wilt omzetten in een proefdruk die via Fusion is gekoppeld aan Workfront, blijft het proces vastzitten en wordt de proefdruk nooit gegenereerd.
 hidefromtoc: true
 feature: Digital Content and Documents, Workfront Fusion
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+exl-id: 411b274e-7b93-4f15-ae0f-992eba40de84
+source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
-
 # Proefdrukken: Maken van proefdrukken mislukt voor documenten die via Fusion zijn gekoppeld vanuit AEM
+
+>[!NOTE]
+>
+>Deze kwestie is vastgesteld op 7 november 2024.
 
 Wanneer u een document wilt omzetten in een proefdruk die via Fusion is gekoppeld aan Workfront, blijft het proces vastzitten en wordt de proefdruk nooit gegenereerd.
 

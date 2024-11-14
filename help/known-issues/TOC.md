@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
+source-git-commit: 8b921bed9b740195decf545195baaa495c05c1e8
 workflow-type: tm+mt
-source-wordcount: '1919'
+source-wordcount: '2026'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,19 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Tijdschema&#39;s: gebruikers van de contribuant hebben een knop &quot;Ter goedkeuring verzenden&quot;](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
+      + [Meldingen: e-mailmeldingen voor updates worden niet verzonden](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
+      + [Aangepaste formulieren: kan de taakvelden &quot;estiméByHours&quot; of &quot;hoursPerPoint&quot; niet toevoegen](known-issues-workfront/wf-custom-forms-invalid-fields.md)
+      + [Documenten: bij goedkeuring &quot;snel toevoegen&quot; wordt geen deadline ingevoerd voor nieuwe versies](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md)
+      + [Lay-outsjablonen: beheerders kunnen sjablonen voor de lay-out Home niet bewerken](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md)
+      + [Gebruikers: de tag &quot;Niet-geregistreerd&quot; blijft bestaan na aanmelding](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md)
+      + [Workfront: gebruikers van Contribute hebben geen toegang tot programma&#39;s of Portfolio&#39;s](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
+      + [Goedkeuringen: &quot;Alle&quot; filters sluiten persoonlijk ingediende goedkeuringen uit](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
+      + [Taken: Verstreken tijdsduur dagen onjuist voor bovenliggende taken met onderliggende items](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
+      + [Rapporten: Bulkbewerking in grafieklijsten reageert niet](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
+      + [Workfront: geopende browsertabbladen kunnen niet worden geladen](known-issues-workfront/wf-workfront-browser-tabs-error.md)
+      + [Resource Planner: Kan geen toegang krijgen tot de Resource Planner](known-issues-workfront/wf-resource-planner-inaccessible.md)
+      + [Home: De widget Mijn taken wordt niet geladen](known-issues-workfront/wf-home-task-widget-wont-load.md)
       + [Lay-outsjablonen: aangepaste gegevensvelden worden niet weergegeven wanneer ze aan Taakoverzicht worden toegevoegd via Lay-outsjabloon](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
       + [Home: De widget Mijn updates werkt niet](known-issues-workfront/wf-home-my-updates-not-working.md)
       + [Documenten: de knop Goedkeuringsopties ontbreekt in documenten](known-issues-workfront/wf-documents-missing-approval-button.md)
