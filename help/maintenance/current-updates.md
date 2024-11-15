@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
-source-wordcount: '6308'
+source-wordcount: '6384'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,24 @@ Voor onderhoudsupdates voorafgaand aan 2024, zie [ Vorige Updates van het Onderh
 De volgende onderhoudsupdates zijn uitgevoerd in 2024.
 
 ## Updates in november 2024
+
++++**Update van het Onderhoud op 14 November, 2024**
+
+### Onderhoudsupdate op 14 november 2024
+
+#### Home
+
+**aan-doe widgetfouten voor nieuw en voltooid aan-doet**
+
+Wanneer gebruikers proberen een nieuwe taak te maken of een bestaande taak in te vullen in de widget voor thuistaken, wordt een fout aangetroffen die ze niet kunnen maken of voltooien.
+
+#### Gebruikers
+
+**Selectievakje Uitnodiging per e-mail naar deze personen verzenden ontbreekt**
+
+Wanneer u nieuwe gebruikers importeert naar Workfront, ontbreekt het selectievakje E-mails naar deze personen verzenden in het dialoogvenster.
+
++++
 
 +++**Update van het Onderhoud op 7 November, 2024**
 
@@ -52,7 +70,7 @@ Deze update bevat alleen kleine of minder belangrijke opgeloste problemen. Workf
 
 **Tijd van pictogram verschijnt niet wanneer het toewijzen van taken**
 
-wanneer een gebruiker een taak toewijst en de naam begint te typen van de toegewezen persoon die tijd van gepland tijdens de taak heeft, tonen de gebruikerspictogrammen onder het Voorgestelde gebied van Taken niet de tijd van (vliegtuig) pictogram. Als de gebruiker doorgaat met typen, zodat de naam wordt weergegeven onder het gebied Gebruikers en teams, wordt het pictogram wel weergegeven.
+Wanneer een gebruiker een taak toewijst en de naam begint te typen van de toegewezen persoon die tijd van gepland tijdens de taak heeft, tonen de gebruikerspictogrammen onder het Voorgestelde gebied van Taken niet de tijd van (vliegtuig) pictogram. Als de gebruiker doorgaat met typen, zodat de naam wordt weergegeven onder het gebied Gebruikers en teams, wordt het pictogram wel weergegeven.
 
 #### Aangepaste formulieren
 
@@ -84,7 +102,7 @@ Wanneer een gebruiker de Gantt-grafiek en de wisselweergaven weergeeft, worden i
 
 Datums die in de documentenlijst worden vermeld, geven de datum aan waarop de eerste versie van het document is gemaakt in plaats van de datum waarop de nieuwste versie is gemaakt.
 
-### Timesheets
+#### Timesheets
 
 Wanneer een gebruiker probeert om tijd op een timesheet te registreren die in Voorgelegde of Gesloten status is, kunnen zij niet de tijd registreren.
 

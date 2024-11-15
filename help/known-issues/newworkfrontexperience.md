@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
-source-wordcount: '1104'
+source-wordcount: '1073'
 ht-degree: 0%
 
 ---
@@ -36,13 +36,9 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | [ Taken: Verstreken de duur van Dagen onjuist voor oudertaken met kinderen ](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md) | 13 november 2024 |
 | [ Rapporten: Het Bulk die in grafieklijsten uitgeeft is niet ontvankelijk ](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 13 november 2024 |
 | [ Workfront: De Browser open lusjes verlaten niet om ](known-issues-workfront/wf-workfront-browser-tabs-error.md) te laden | 12 november 2024 |
-| [ Rapporten: De rapporten kunnen niet laden ](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 12 november 2024 |
-| [ Planner van het Middel: Kan tot de Planner van het Middel toegang hebben ](known-issues-workfront/wf-resource-planner-inaccessible.md) | 12 november 2024 |
-| [ Huis: Mijn widget van Taken zal niet laden ](known-issues-workfront/wf-home-task-widget-wont-load.md) | 12 november 2024 |
 | [ malplaatjes van de Lay-out: De gegevensgebieden van de Douane tonen niet wanneer toegevoegd aan de Samenvatting van de Taak door het Malplaatje van de Lay-out ](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 4 november 2024 |
 | [ Huis: Mijn widget van Updates werkt niet ](known-issues-workfront/wf-home-my-updates-not-working.md) | 4 november 2024 |
 | [ Documenten: De knoop van de opties van de Goedkeuring mist op documenten ](known-issues-workfront/wf-documents-missing-approval-button.md) | 4 november 2024 |
-| [ Huis: To-Do widgetfouten voor nieuw en voltooid aan-doet ](known-issues-workfront/wf-home-to-do-new-complete-error.md) | 4 november 2024 |
 | [ Workfront Mobile: De e-mailverbindingen van het bewijs zullen niet op iPhone ](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) openen | 9 oktober 2024 |
 | [ API: API de vraag ontbreekt toe te schrijven aan SQL fout ](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 12 september 2024 |
 | [ Borden: De status van de kaart past verbonden voorwerp en omringt filter ](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) niet aan | 3 september 2024 |

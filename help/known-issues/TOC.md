@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8b921bed9b740195decf545195baaa495c05c1e8
+source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
-source-wordcount: '2026'
+source-wordcount: '2031'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,7 @@ ht-degree: 0%
       + [Taken: Verstreken tijdsduur dagen onjuist voor bovenliggende taken met onderliggende items](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
       + [Rapporten: Bulkbewerking in grafieklijsten reageert niet](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
       + [Workfront: geopende browsertabbladen kunnen niet worden geladen](known-issues-workfront/wf-workfront-browser-tabs-error.md)
+      + [Rapporten: rapporten kunnen niet worden geladen](known-issues-workfront/wf-reports-fail-to-load.md)
       + [Resource Planner: Kan geen toegang krijgen tot de Resource Planner](known-issues-workfront/wf-resource-planner-inaccessible.md)
       + [Home: De widget Mijn taken wordt niet geladen](known-issues-workfront/wf-home-task-widget-wont-load.md)
       + [Lay-outsjablonen: aangepaste gegevensvelden worden niet weergegeven wanneer ze aan Taakoverzicht worden toegevoegd via Lay-outsjabloon](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)

@@ -4,20 +4,18 @@ description: Wanneer een gebruiker een proef in de het proefdrukken kijker bekij
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: b35d21a3-6d8b-48af-87fc-e0f63cf0194c
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
 
 # Proefdrukken: kan de proefdrukviewer niet sluiten
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on October 24, 2024.
--->
+>Dit probleem is op 12 november 2024 opgelost.
 
 Wanneer een gebruiker een proef in de het proefdrukken kijker bekijkt en probeert om de proef te sluiten door X in de hoger-juiste hoek te klikken, sluit de proef niet.
 
