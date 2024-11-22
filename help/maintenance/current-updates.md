@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
+source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
 workflow-type: tm+mt
-source-wordcount: '6384'
+source-wordcount: '6541'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,38 @@ Voor onderhoudsupdates voorafgaand aan 2024, zie [ Vorige Updates van het Onderh
 De volgende onderhoudsupdates zijn uitgevoerd in 2024.
 
 ## Updates in november 2024
+
++++**Update van het Onderhoud op 21 November, 2024**
+
+### Onderhoudsupdate op 21 november 2024
+
+#### Dashboards
+
+**kan niet met de bars van het bar grafiekrapport in dashboards** in wisselwerking staan
+
+Wanneer u probeert op een balk in een staafdiagramrapport binnen een dashboard te klikken of de muis erboven te plaatsen, wordt het detailmenu niet geopend of wordt er geen knopinfo weergegeven.
+
+#### Projecten
+
+**de Projecten kunnen niet laden**
+
+Wanneer u naar een project navigeert, kan de pagina soms geen inhoud laden.
+
+#### Rapporten
+
+**Bulk die in grafieklijsten uitgeeft is niet ontvankelijk**
+
+Wanneer een gebruiker een grafiek in een rapport bekijkt en veelvoudige punten in de lijst selecteert om bulksgewijs uit te geven, verdwijnt de curseur en de tekstvakjes voor bulksgewijs uitgeven worden niet ontvankelijk.
+
+**geef uit en schrap knopen niet antwoordend in timesheet rapporten**
+
+Er is geen reactie wanneer u in een timesheet-rapport op de pictogrammen Bewerken of Verwijderen probeert te klikken.
+
+**de Rapporten die typeahead gebieden bevatten slagen er niet in om** te laden
+
+Wanneer het openen van een rapport dat douanetypeahead gebieden bevat, ontbreekt het rapport af en toe om een foutenmelding te laden en te tonen.
+
++++
 
 +++**Update van het Onderhoud op 14 November, 2024**
 

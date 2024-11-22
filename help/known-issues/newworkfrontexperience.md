@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 77345937934851b8ebfdf257f44e25133eade971
+source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
 workflow-type: tm+mt
-source-wordcount: '1081'
+source-wordcount: '1056'
 ht-degree: 0%
 
 ---
@@ -34,11 +34,8 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | [ Workfront: De gebruikers van de medewerker kunnen tot Programma&#39;s of Portfolio&#39;s niet toegang hebben ](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | 13 november 2024 |
 | [ Goedkeuringen: &quot;Alle&quot;filter sluit persoonlijk voorgelegde goedkeuringen ](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md) uit | 13 november 2024 |
 | [ Taken: Verstreken de duur van Dagen onjuist voor oudertaken met kinderen ](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md) | 13 november 2024 |
-| [ Rapporten: Het Bulk die in grafieklijsten uitgeeft is niet ontvankelijk ](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 13 november 2024 |
 | [ Workfront: De Browser open lusjes verlaten niet om ](known-issues-workfront/wf-workfront-browser-tabs-error.md) te laden | 12 november 2024 |
 | [ malplaatjes van de Lay-out: De gegevensgebieden van de Douane tonen niet wanneer toegevoegd aan de Samenvatting van de Taak door het Malplaatje van de Lay-out ](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 4 november 2024 |
-| [ Huis: Mijn widget van Updates werkt niet ](known-issues-workfront/wf-home-my-updates-not-working.md) | 4 november 2024 |
-| [ Documenten: De knoop van de opties van de Goedkeuring mist op documenten ](known-issues-workfront/wf-documents-missing-approval-button.md) | 4 november 2024 |
 | [ Workfront Mobile: De e-mailverbindingen van het bewijs zullen niet op iPhone ](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) openen | 9 oktober 2024 |
 | [ API: API de vraag ontbreekt toe te schrijven aan SQL fout ](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 12 september 2024 |
 | [ Borden: De status van de kaart past verbonden voorwerp en omringt filter ](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) niet aan | 3 september 2024 |
@@ -58,8 +55,8 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Uitgave** | **Laatst gewijzigd** |
 |----------------------------------| ----------------- |
+| [ Rapporten: Lange tijden van de rapportbouwer ](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 21 november 2024 |
 | [ API: De timing van verzoeken uit ](known-issues-workfront/wf-api-request-timing-out.md) | 24 oktober 2024 |
-| [ Proofs: Kan geen proefdrukken in het milieu van de Voorproef creëren ](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | 22 oktober 2024 |
 | [ Projecten: Kan projecten wegens &quot;toegang delen om&quot;fout ](known-issues-workfront/wf-projects-sharing-access-error.md) te schrappen niet | 3 oktober 2024 |
 | [ Integraties: Kan login aan Workfront voor Vooruitzichten ](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) niet | 24 september 2024 |
 | [ Groepen: De geschrapte groepsstatus verschijnt ](known-issues-workfront/wf-groups-deleted-status-reappears.md) | 12 september 2024 |
