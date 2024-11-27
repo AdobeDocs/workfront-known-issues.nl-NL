@@ -4,7 +4,7 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
+source-git-commit: 8bb5041a13374ce5dde6a1db173487f50d049f17
 workflow-type: tm+mt
 source-wordcount: '1056'
 ht-degree: 0%
@@ -76,7 +76,7 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [ Workfront: De montages ZScalar kunnen verminderde prestaties veroorzaken ](known-issues-workfront//wf-workfront-zscalar.md) | 20 november 2024 |
+| [ Workfront: De montages ZScaler kunnen verminderde prestaties veroorzaken ](known-issues-workfront//wf-workfront-zscaler.md) | 20 november 2024 |
 | [ Meldingen: De gebruikers van de medewerker ontvangen geen e-mailberichten ](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 12 november 2024 |
 | [ Rapporten: Lange tijden van de rapportbouwer ](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 12 november 2024 |
 | [ Meldingen: E-mails van het documentbericht kunnen beeldvoorproeven niet tonen ](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | 29 oktober 2024 |
