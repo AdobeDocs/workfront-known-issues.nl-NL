@@ -1,5 +1,5 @@
 ---
-title: "E-mailmeldingen: ik ben toegewezen aan een uitgave-instelling die wordt weergegeven"
+title: 'E-mailmeldingen: ik ben toegewezen aan een emissie-instelling die wordt weergegeven'
 description: In het gebied [!UICONTROL Setup] worden de e-mailberichten met de instelling "Ik ben toegewezen aan een uitgave" weergegeven voor gebruikers met de licentie Revisie en Verzoek. Deze instelling is niet beschikbaar voor deze typen licenties en als u deze instelling inschakelt, worden geen e-mailmeldingen voor deze gebeurtenis geactiveerd.
 feature: Updates and Notifications
 exl-id: 2b8843e3-5f56-4a25-ba5f-2a8a503a1950

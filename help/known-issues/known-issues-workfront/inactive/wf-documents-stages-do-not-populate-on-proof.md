@@ -1,5 +1,5 @@
 ---
-title: 'Proofs: [!UICONTROL Active Proof Stages] -veld is leeg'
+title: 'Proefdrukken: veld [!UICONTROL Active Proof Stages] is leeg'
 description: Wanneer een gebruiker een proef maakt en deze proef dan in een rapport zoals een [!UICONTROL Document Version] of [!UICONTROL Proof Approval] rapport bekijkt, zien zij dat het [!UICONTROL Active Proof Stages] gebied leeg is. Dit gebeurt wanneer de proefdruk wordt gemaakt nadat het document is geüpload, als een [!UICONTROL Simple Proof] of een [!UICONTROL Advanced Proof] met een [!UICONTROL Basic Workflow] .
 feature: Digital Content and Documents
 hidefromtoc: true

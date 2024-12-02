@@ -1,5 +1,5 @@
 ---
-title: 'API: Verzoekt time-out'
+title: 'API: time-out voor aanvragen'
 description: Verzoeken die via de Workfront API zijn gedaan, vallen buiten de timing.
 hidefromtoc: true
 feature: Workfront API, Workfront Fusion

@@ -1,5 +1,5 @@
 ---
-title: "Integraties: problemen met de integratie van Dropboxxen"
+title: 'Integraties: problemen met de integratie van Dropboxxen'
 description: Er zijn problemen gemeld met betrekking tot de integratie van Dropboxxen.
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents

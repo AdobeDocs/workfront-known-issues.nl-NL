@@ -1,5 +1,5 @@
 ---
-title: 'Workfront Goals: Cannot delete target'
+title: 'Workfront-doelen: kan doel niet verwijderen'
 description: Wanneer een gebruiker probeert om een doel in  [!DNL Workfront Goals] te schrappen, wordt het doel niet geschrapt, en de gebruiker ziet een foutenmelding.
 hidefromtoc: true
 feature: Workfront Goals

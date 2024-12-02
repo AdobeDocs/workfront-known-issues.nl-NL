@@ -1,9 +1,10 @@
 ---
-title: '''Timesheets: Gebruikers van contribuanten hebben de knop ''Ter goedkeuring verzenden'''
-description: '"Hoewel gebruikers met het toegangsniveau van de contribuant geen uren kunnen invoeren in tijdbladen, hebben ze een knop "Ter goedkeuring verzenden" waarop ze kunnen klikken."'
+title: 'Tijdschema''s: gebruikers van de contribuant hebben een knop "Ter goedkeuring verzenden"'
+description: Hoewel gebruikers met het toegangsniveau voor Medewerker geen uren kunnen invoeren in tijdbladen, hebben ze een knop "Ter goedkeuring verzenden" waarop ze kunnen klikken.
 hidefromtoc: true
 feature: Timesheets
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+exl-id: 3c2f744e-e53e-47b5-bd8d-eee3063ef108
+source-git-commit: 894de7cfbd8798d700cd7707edae4a3e86902bec
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%

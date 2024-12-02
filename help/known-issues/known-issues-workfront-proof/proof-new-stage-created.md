@@ -1,5 +1,5 @@
 ---
-title: 'Proofs: nieuwe fase gemaakt omdat deadline niet kan overeenkomen met deadline van bestaande fase'
+title: 'Proefversies: nieuwe fase gemaakt omdat deadline niet kan overeenkomen met deadline van bestaande werkgebied'
 description: Wanneer nieuwe proefdrukken worden gemaakt, kan de deadline worden ingesteld in stappen van 15 minuten (10:00, 10:15, 10:30, 20:45, enz.). Wanneer een gebruiker echter aan een bewijs wordt toegevoegd nadat de proefdruk is gemaakt, kan de deadline alleen worden ingesteld in stappen van 30 minuten (10:00, 10:30, 11:00, enz.).
 hidefromtoc: true
 feature: Workfront Proof

@@ -1,5 +1,5 @@
 ---
-title: 'Layout template: bestemmingspagina is onjuist'
+title: 'Lay-outsjabloon: bestemmingspagina is onjuist'
 description: Wanneer een gebruiker die een vergunning van de Aanvrager heeft aan een lay-outmalplaatje wordt toegewezen dat de pagina van Verzoeken heeft die als het landen pagina wordt geplaatst, wordt die gebruiker in plaats daarvan geleid aan de Homepage als hun het landen pagina.
 hidefromtoc: true
 feature: System Setup and Administration

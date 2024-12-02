@@ -1,6 +1,6 @@
 ---
-title: "Workfront: de datum wordt in een onjuiste notatie weergegeven"
-description: "Datums in Workfront worden weergegeven als MM/DD/JJJJ. Dit geldt zelfs wanneer gebruikers hun browsers hebben ingesteld op de lokale voorkeuren voor datumweergave."
+title: 'Workfront: Datum wordt onjuist weergegeven'
+description: Datums in Workfront worden weergegeven als MM/DD/JJJJ. Dit geldt ook als de browsers van gebruikers zijn ingesteld op de weergavevoorkeuren voor lokale datums.
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 2afa4965-d261-48e4-9325-341caba75f8a

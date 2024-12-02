@@ -1,15 +1,15 @@
 ---
-title: "Workfront Fusion: Data store issues"
-description: "De volgende problemen zijn gemeld met betrekking tot Booleaanse velden in gegevensopslagruimten: gegevensopslagruimten retourneren geen waarde voor velden met de waarde EMPTY en gebruikers kunnen geen waarden instellen op FALSE rechtstreeks in de gegevensopslag."
+title: 'Workfront Fusion: problemen met gegevensopslag'
+description: 'De volgende problemen zijn gemeld met betrekking tot Booleaanse velden in gegevensopslagruimten: gegevensopslagruimten retourneren geen waarde voor velden met de waarde EMPTY en gebruikers kunnen geen waarden instellen op FALSE rechtstreeks in de gegevensopslag.'
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+exl-id: 1e0c807c-dab0-46ab-bdfa-f0a99f5db986
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
 
 ---
-
 
 # Workfront Fusion: problemen met gegevensopslag
 

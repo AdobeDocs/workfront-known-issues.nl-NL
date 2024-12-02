@@ -1,15 +1,15 @@
 ---
-title: "Factureringsrecords: knop Meer factureringsrecords toevoegen ontbreekt"
-description: "Wanneer een gebruiker een lijst met factureringsrecords weergeeft en een nieuwe probeert toe te voegen, ziet hij of zij dat de knop Nieuwe factureringsrecord toevoegen boven aan de pagina ontbreekt."
+title: 'Factureringsrecords: knop Meer factureringsrecords toevoegen ontbreekt'
+description: Wanneer een gebruiker een lijst met factureringsrecords weergeeft en een nieuwe probeert toe te voegen, ziet hij of zij dat de knop Nieuwe factureringsrecord toevoegen boven aan de pagina ontbreekt.
 hidefromtoc: true
 feature: Work Management
-source-git-commit: 7b149f8f117d778efaa35ae650ed8b6f47c06311
+exl-id: 131ac94b-af89-4e41-acba-e8eeacd290af
+source-git-commit: 18d44b25277610942a68227b9a3a9c17c874b966
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
 
 ---
-
 
 # Factureringsrecords: knop Meer factureringsrecords toevoegen ontbreekt
 

@@ -1,5 +1,5 @@
 ---
-title: '''Programma''s: alle toegang tot het programma gaat verloren wanneer de toegang van de gebruiker tot het programma wordt bijgewerkt'''
+title: 'Programma''s: alle toegang tot het programma gaat verloren wanneer de gebruiker toegang tot het programma wordt bijgewerkt'
 description: Wanneer een gebruiker probeert om gebruikerstoegang op een programma bij te werken, verliezen alle andere groepen, teams, rollen, en gebruikers toegang tot dat programma. Dit geldt ook voor geërfte machtigingen uit het portfolio.
 hidefromtoc: true
 feature: Work Management

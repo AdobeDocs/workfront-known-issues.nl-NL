@@ -1,15 +1,15 @@
 ---
-title: "Rapporten: filteroptie Tonen/verbergen ontbreekt"
-description: "Wanneer een gebruiker een rapport weergeeft, zijn de filteropties voor weergeven en verbergen niet zichtbaar."
+title: 'Rapporten: filteroptie Tonen/verbergen ontbreekt'
+description: Wanneer een gebruiker een rapport weergeeft, zijn de filteropties voor weergeven en verbergen niet zichtbaar.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
+exl-id: 4bd85c63-c7d5-41af-8a2f-2ebcdba84ca4
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
 
 ---
-
 
 # Rapporten: filteroptie Tonen/verbergen ontbreekt
 

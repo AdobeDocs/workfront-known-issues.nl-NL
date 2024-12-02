@@ -1,5 +1,5 @@
 ---
-title: 'Integraties: kan zich niet aanmelden bij Workfront for Outlook'
+title: 'Integratie: kan zich niet aanmelden bij Workfront for Outlook'
 description: Wanneer een gebruiker zich aanmeldt bij Workfront for Outlook, reageert de knop niet en kan de gebruiker zich niet aanmelden.
 hidefromtoc: true
 feature: Workfront Integrations and Apps

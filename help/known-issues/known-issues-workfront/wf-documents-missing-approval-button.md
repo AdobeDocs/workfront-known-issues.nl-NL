@@ -1,5 +1,5 @@
 ---
-title: 'Documenten: knop Goedkeuringsopties ontbreekt in documenten'
+title: 'Documenten: de knop Goedkeuringsopties ontbreekt in documenten'
 description: Wanneer een gebruiker die is toegewezen als fiatteur voor een document naar het document navigeert om een goedkeuringsbesluit te nemen, ontbreekt de knop met goedkeuringsopties.
 hidefromtoc: true
 feature: Digital Content and Documents

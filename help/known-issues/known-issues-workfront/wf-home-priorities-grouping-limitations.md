@@ -1,9 +1,10 @@
 ---
-title: "Prioriteiten: groeperingen voorkomen sorteren en inline bewerken"
-description: "Wanneer groepen zijn toegepast in de werklijst Prioriteiten, kan deze niet worden gesorteerd en werkt inline bewerken niet voor velden in de werklijst."
+title: 'Prioriteiten: groeperingen voorkomen sorteren en inline bewerken'
+description: Als in de werklijst Prioriteiten groepen zijn toegepast, kan deze niet worden gesorteerd en werkt inline bewerken niet voor velden in de werklijst.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
+exl-id: 9b36df42-30ea-47d2-b791-114d59429480
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%

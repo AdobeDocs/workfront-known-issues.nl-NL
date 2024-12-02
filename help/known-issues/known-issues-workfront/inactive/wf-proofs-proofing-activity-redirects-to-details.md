@@ -1,5 +1,5 @@
 ---
-title: 'Proofs: het tabblad Proefactiviteiten opent Proefgegevens'
+title: 'Proefdrukken: op het tabblad Proefactiviteiten worden Details proefdrukken geopend'
 description: Wanneer een gebruiker een proefdruk weergeeft en op het tabblad Proefactiviteit klikt, wordt het tabblad Proefdetails geopend. Dit gebeurt wanneer een proefdrukwerkgebied handmatig aan de workflow is toegevoegd.
 hidefromtoc: true
 exl-id: 214156cc-b4ac-454b-ac62-596dbaf5a96a

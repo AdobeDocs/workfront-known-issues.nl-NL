@@ -1,5 +1,5 @@
 ---
-title: "Updates: kan de tijd voor de huidige dag in het gebied van Updates niet registreren"
+title: 'Updates: kan de tijd voor de huidige dag in het gebied van Updates niet registreren'
 description: Wanneer een gebruiker probeert om tijd voor de huidige dag in het gebied van Updates te registreren, wordt de huidige dag grayed uit, en de gebruiker kan geen uren ingaan.
 hidefromtoc: true
 exl-id: 2cbdadb8-0ab1-4f94-bd1d-7f8151f865bc

@@ -1,5 +1,5 @@
 ---
-title: 'Rapporten: geen gegevens om weer te geven wanneer de naam van het groeperen een slash of backslash heeft'
+title: 'Rapporten: er zijn geen gegevens om weer te geven wanneer de naam van het groeperen een slash of backslash heeft'
 description: Wanneer een gebruiker een grafiek in een rapport bekijkt en een groepering op de grafiek klikt, en die groepering een voorwaartse of achterschuine streep in de naam heeft, tonen de details die open niet de punten in de groepering, en de gebruiker ziet Geen gegevens aan vertoningsbericht.
 hidefromtoc: true
 feature: Reports and Dashboards

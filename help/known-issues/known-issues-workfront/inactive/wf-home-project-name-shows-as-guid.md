@@ -1,5 +1,5 @@
 ---
-title: "Huis: De Naam van het project toont als GUID in de Lijst van het Werk"
+title: 'Home: De Naam van het project toont als GUID in de Lijst van het Werk'
 description: Wanneer een gebruiker wordt gevraagd om een proef goed te keuren hebben zij geen toegang tot en zij hun Lijst van het Werk in [!UICONTROL Home] wordt gesorteerd door de Naam van het Project, kan de gebruiker niet de projectnaam en de vertoningen in plaats daarvan zien GUID.
 exl-id: ca75430f-42ea-4239-9756-fd8d4f4aba89
 hidefromtoc: true

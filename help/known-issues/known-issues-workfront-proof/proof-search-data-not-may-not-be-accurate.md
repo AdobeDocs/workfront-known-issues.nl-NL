@@ -1,5 +1,5 @@
 ---
-title: 'Workfront Proof: Gegevens zoeken niet altijd nauwkeurig'
+title: 'Workfront Proof: zoekgegevens zijn niet altijd nauwkeurig'
 description: De gegevens die op de resultatenpagina in proefdruk worden weergegeven, geven niet altijd de meest actuele informatie weer. U wordt aangeraden een aangepaste weergave te maken en deze te gebruiken voor de meest actuele informatie over uw gegevens.
 hidefromtoc: true
 feature: Workfront Proof

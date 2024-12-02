@@ -1,5 +1,5 @@
 ---
-title: '''Portfolio''s: gebruiker kan portfolio niet instellen'''
+title: 'Portfolio''s: gebruiker kan portfolio niet instellen'
 description: Gebruikers kunnen portfolio's van een project niet wijzigen als ze geen toegang hebben tot het portfolio.
 hidefromtoc: true
 feature: Work Management

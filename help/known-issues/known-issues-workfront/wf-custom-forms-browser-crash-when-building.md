@@ -1,5 +1,5 @@
 ---
-title: 'Aangepaste formulieren: browser crasht bij het maken van grote formulieren'
+title: 'Aangepaste formulieren: browser loopt vast bij het maken van grote formulieren'
 description: Wanneer een gebruiker een groot formulier maakt of bewerkt in de formulierontwerper, loopt de browser mogelijk vast en kan de gebruiker het formulier niet maken of bewerken.
 hidefromtoc: true
 feature: Custom Forms

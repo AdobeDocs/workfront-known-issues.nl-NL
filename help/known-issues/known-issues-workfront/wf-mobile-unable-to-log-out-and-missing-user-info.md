@@ -1,5 +1,5 @@
 ---
-title: 'Mobiel: kan zich niet afmelden en er ontbreken gebruikersprofielgegevens.'
+title: 'Mobiel: kan zich niet afmelden en er ontbreken gebruikersprofielgegevens'
 description: Met de optie Afmelden in de mobiele toepassing kunnen sommige gebruikers zich niet afmelden. De pagina's met gebruikersprofielen worden ook leeg weergegeven en er wordt een foutbericht gegenereerd.
 hidefromtoc: true
 feature: Get Started with Workfront

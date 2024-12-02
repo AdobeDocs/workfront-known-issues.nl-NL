@@ -1,5 +1,5 @@
 ---
-title: 'Documenten: kan geen voorbeeld van documenten weergeven met voorvertoningskoppeling'
+title: 'Documenten: kan geen voorbeeld van documenten weergeven met koppeling voor voorvertoning'
 description: Gebruikers kunnen geen voorvertoning van een document weergeven.
 hidefromtoc: true
 feature: Digital Content and Documents

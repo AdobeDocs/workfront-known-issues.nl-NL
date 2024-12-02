@@ -1,5 +1,5 @@
 ---
-title: 'Documents: UNK-bestandsextensie bij het koppelen van documenten van integratie'
+title: 'Documenten: UNK-bestandsextensie bij het koppelen van documenten van integratie'
 description: Wanneer een gebruiker een document koppelt vanuit een documentintegratie, wordt het document weergegeven in Workfront met een UNK-bestandsextensie.
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents

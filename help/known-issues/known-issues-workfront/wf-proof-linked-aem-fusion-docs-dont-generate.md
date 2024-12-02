@@ -1,5 +1,5 @@
 ---
-title: 'Proofs: Maken van proefdrukken mislukt voor documenten die zijn gekoppeld vanuit AEM via Fusion'
+title: 'Proefdrukken: Maken van proefdrukken mislukt voor documenten die via Fusion zijn gekoppeld vanuit AEM'
 description: Wanneer u een document wilt omzetten in een proefdruk die via Fusion is gekoppeld aan Workfront, blijft het proces vastzitten en wordt de proefdruk nooit gegenereerd.
 hidefromtoc: true
 feature: Digital Content and Documents, Workfront Fusion

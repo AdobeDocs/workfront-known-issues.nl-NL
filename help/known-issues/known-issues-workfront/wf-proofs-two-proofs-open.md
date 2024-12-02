@@ -1,5 +1,5 @@
 ---
-title: 'Proofs: Bij het openen van een proefdruk worden meerdere exemplaren geopend'
+title: 'Proefdrukken: bij het openen van een proefdruk worden meerdere exemplaren geopend'
 description: 'Wanneer een gebruiker een proef opent, openen twee browser lusjes met de zelfde proef. '
 hidefromtoc: true
 feature: Digital Content and Documents

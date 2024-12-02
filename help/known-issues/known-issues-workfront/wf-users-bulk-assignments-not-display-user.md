@@ -1,6 +1,6 @@
 ---
-title: 'Gebruikers: gebruikers ontbreken bij het uitvoeren van bulktoewijzingen'
-description: 'Wanneer een gebruiker bulktoewijzingen probeert te maken en een taakrol aan de taak wordt toegewezen, verschijnen de gebruikers met die baanrol niet in de lijst, en de toewijzende gebruiker kan hen niet selecteren. '
+title: 'Gebruikers: gebruikers ontbreken bij het maken van bulktoewijzingen'
+description: 'Wanneer een gebruiker probeert om bulktoewijzingen te maken, en een baanrol wordt toegewezen aan de taak, verschijnen de gebruikers met die baanrol niet in de lijst, en de toewijzende gebruiker kan hen niet selecteren. '
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: a2331209-b8b4-402a-8478-7eb220c579bb

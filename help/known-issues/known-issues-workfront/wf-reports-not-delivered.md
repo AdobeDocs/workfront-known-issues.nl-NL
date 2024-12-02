@@ -1,5 +1,5 @@
 ---
-title: "Rapporten: leveringen rapporteren is uitgesteld of ontbreekt"
+title: 'Rapporten: leveringen van rapporten worden uitgesteld of ontbreken'
 description: Rapporten met geplande leveringen worden niet op de verwachte wijze geleverd. Ze kunnen te laat zijn of helemaal niet geleverd worden.
 hidefromtoc: true
 feature: Reports and Dashboards

@@ -1,5 +1,5 @@
 ---
-title: 'Boards: het toetsenbord wordt niet weergegeven als gebruiker wanneer u Aanmelden gebruikt als'
+title: 'Borden: bord wordt niet weergegeven als gebruiker wanneer Log in wordt gebruikt als'
 description: Wanneer een beheerder of groepsbeheerder zich aanmeldt als een andere gebruiker en Boards weergeeft, zijn de borden die worden weergegeven de borden van de beheerder, niet de borden van de gebruiker.
 hidefromtoc: true
 feature: Agile

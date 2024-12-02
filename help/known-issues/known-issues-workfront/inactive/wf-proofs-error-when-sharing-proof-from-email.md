@@ -1,5 +1,5 @@
 ---
-title: 'Proofs: Fout bij het delen van proefdrukken via e-mailkoppeling'
+title: 'Proefdrukken: fout bij het delen van proefdrukken via e-mailkoppeling'
 description: Wanneer een proef met een gast wordt gedeeld, en die gast probeert om deze proef met iemand anders optie in e-mail te gebruiken, ontvangen zij een fout wanneer het proberen om een e-mailadres voor te leggen om de proef met te delen. Het e-mailveld wordt rood en de gebruiker ziet een fout.
 hidefromtoc: true
 feature: Digital Content and Documents

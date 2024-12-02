@@ -1,6 +1,6 @@
 ---
-title: '[!DNL Workfront Fusion]: Kan verbindingsfout niet verifiëren'
-description: '''Workfront Fusion-verbindingen met een Workfront-account kunnen mislukken bij verificatie, waardoor scenario''s de volgende fout genereren: Kan de verbinding niet verifiëren.'''
+title: '[!DNL Workfront Fusion]: verbindingsfout is niet geverifieerd'
+description: 'Workfront Fusion-verbindingen met een Workfront-account kunnen mislukken bij verificatie, waardoor scenario''s de volgende fout genereren: Kan de verbinding niet verifiëren.'
 hidefromtoc: true
 exl-id: 89b6331d-8e5e-4139-9359-0afa7be07d2f
 feature: Workfront Fusion

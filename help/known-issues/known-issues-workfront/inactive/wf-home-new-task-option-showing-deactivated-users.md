@@ -1,5 +1,5 @@
 ---
-title: 'Home: Nieuwe taakoptie met gedeactiveerde gebruikers in veld Toewijzen aan'
+title: 'Home: Nieuwe taakoptie waarmee gedeactiveerde gebruikers worden weergegeven in het veld Toewijzen aan'
 description: Wanneer een gebruiker in de nieuwe  [!DNL Adobe Workfront]  ervaring tot een nieuwe taak of een kwestie in het gebied van het Huis leidt en zij proberen om een gebruiker toe te wijzen, verschijnen de gedeactiveerde gebruikers als selecties in de [!UICONTROL typeahead] drop-down lijst.
 exl-id: 32257ac1-9804-4793-9c37-62ca5608df3d
 feature: Get Started with Workfront, Tasks

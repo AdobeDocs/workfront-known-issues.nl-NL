@@ -1,5 +1,5 @@
 ---
-title: 'Kalenders: OR filterinstructie exclusief filterregel'
+title: 'Kalenders: OF filterinstructie exclusief filterregel'
 description: Wanneer een gebruiker een kalenderrapport instelt om taken te trekken die op een selectie van het douanegebied worden gebaseerd en zij OF verklaring toevoegen, worden de voorwerpen die aan de criteria van de filterregel in de eerste sectie voldoen uitgesloten van de resultaten.
 exl-id: d08d0a53-28c0-48bb-be89-701900b0f221
 feature: Reports and Dashboards

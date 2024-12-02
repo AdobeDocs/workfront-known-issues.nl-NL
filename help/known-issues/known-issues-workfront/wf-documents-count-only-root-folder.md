@@ -1,5 +1,5 @@
 ---
-title: 'Documents: Aantal documenten is onjuist'
+title: 'Documenten: aantal documenten is onjuist'
 description: Wanneer een gebruiker een object weergeeft waaraan documenten zijn gekoppeld, wordt op het tabblad Documenten in de linkernavigatie mogelijk een onjuist aantal documenten weergegeven. Het weergegeven aantal is het aantal documenten in de hoofdmap. Documenten in submappen worden niet geteld.
 hidefromtoc: true
 feature: Digital Content and Documents

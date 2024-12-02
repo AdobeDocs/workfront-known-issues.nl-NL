@@ -1,5 +1,5 @@
 ---
-title: 'Aangepaste formulieren: een fout in het gehele getal bij het instellen van een berekend veld'
+title: 'Aangepaste formulieren: Er is een fout opgetreden bij het instellen van een berekend veld'
 description: Wanneer een gebruiker een berekend veld maakt of bewerkt op een aangepast formulier en een aangepast veld opneemt in de berekende expressie van het veld, wordt de expressie als ongeldig beschouwd. De knop Opslaan is uitgeschakeld en de gebruiker kan niet weg navigeren van het aangepaste veld. Bovendien ziet de gebruiker een bericht van het Hele onder het gebied.
 hidefromtoc: true
 feature: Custom Forms

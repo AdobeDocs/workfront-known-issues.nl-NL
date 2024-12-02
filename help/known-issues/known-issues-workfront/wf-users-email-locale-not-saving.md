@@ -1,5 +1,5 @@
 ---
-title: 'Gebruikers: landinstelling voor e-mail voor gebruiker is niet opgeslagen'
+title: 'Gebruikers: landinstelling voor e-mail voor gebruiker wordt niet opgeslagen'
 description: Wanneer een beheerder probeert de landinstelling voor e-mail te wijzigen voor een gebruiker, wordt deze teruggezet naar het Engels.
 hidefromtoc: true
 feature: People Teams and Groups

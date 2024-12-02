@@ -1,5 +1,5 @@
 ---
-title: 'Home: de widget voor herinneringen in new Home is niet beperkt tot berichten waaraan de gebruiker is gelabeld.'
+title: 'Home: De widget voor herinneringen in het nieuwe Home is niet beperkt tot berichten waaraan de gebruiker is gekoppeld.'
 description: Wanneer een gebruiker de widget Onthoudingen weergeeft in de nieuwe Home-ervaring, ziet hij of zij opmerkingen die niet van tags zijn voorzien of in worden genoemd.
 hidefromtoc: true
 feature: Get Started with Workfront

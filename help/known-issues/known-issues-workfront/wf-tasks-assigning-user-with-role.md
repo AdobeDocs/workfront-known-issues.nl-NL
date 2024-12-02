@@ -1,5 +1,5 @@
 ---
-title: 'Taken: de rol van de baan verdwijnt niet uit lijst wanneer de gebruiker aan taak wordt toegewezen'
+title: 'Taken: De rol van de baan verdwijnt niet uit lijst wanneer de gebruiker aan taak wordt toegewezen'
 description: Wanneer een baanrol aan een taak wordt toegewezen, en die taak wordt toegewezen aan een gebruiker die de baanrol heeft, verdwijnt de baanrol niet uit de lijst van taken.
 hidefromtoc: true
 feature: Tasks

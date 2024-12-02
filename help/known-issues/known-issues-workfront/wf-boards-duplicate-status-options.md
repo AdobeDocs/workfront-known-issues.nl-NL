@@ -1,9 +1,10 @@
 ---
-title: 'Boeken: dubbele statusopties voor taken en problemen'
+title: 'Borden: dubbele statusopties voor taken en problemen'
 description: Bij het bijwerken van de status van een taak of uitgave in een board, wordt een dubbele optie weergegeven voor bepaalde statussen.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
+exl-id: 61f34f9e-6081-4ebc-bfcf-92bdd651a4db
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%

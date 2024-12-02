@@ -1,5 +1,5 @@
 ---
-title: 'Home: De widget Verzoeken geeft niet alle toegewezen teams weer.'
+title: 'Home: De widget Verzoeken geeft niet alle toegewezen teams weer'
 description: Wanneer een gebruiker de widget Verzoeken in de nieuwe Home-ervaring bekijkt, wordt bij verzoeken aangegeven dat er slechts één team is toegewezen, zelfs als er meer dan één toegewezen team is toegewezen.
 hidefromtoc: true
 feature: Get Started with Workfront

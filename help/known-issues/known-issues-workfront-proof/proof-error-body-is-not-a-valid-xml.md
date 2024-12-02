@@ -1,5 +1,5 @@
 ---
-title: 'Workfront Proof API: body is geen geldige XML-fout'
+title: 'Workfront Proof API: hoofdtekst is geen geldige XML-fout'
 description: Een aanroep van de Workfront Proof API retourneert een fout.
 hidefromtoc: true
 exl-id: f3bf3adb-5760-465d-a42a-dc6919d423d0

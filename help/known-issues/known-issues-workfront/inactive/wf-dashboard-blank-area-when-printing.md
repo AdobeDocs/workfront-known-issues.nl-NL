@@ -1,5 +1,5 @@
 ---
-title: 'Dashboard: Grote lege marge bij het afdrukken van dashboard naar PDF'
+title: 'Dashboard: grote lege marge bij afdrukken van dashboard naar PDF'
 description: Wanneer een gebruiker een dashboard naar PDF drukt met de stand Liggend, geeft de PDF een grote lege marge aan de rechterkant weer.
 hidefromtoc: true
 feature: Reports and Dashboards

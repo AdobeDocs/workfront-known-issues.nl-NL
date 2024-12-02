@@ -1,6 +1,6 @@
 ---
-title: 'Aangepaste formulieren: formulierbuilder crasht bij het invoeren van weergavelogica'
-description: Wanneer een gebruiker een aangepast formulier probeert te maken en weergavelogica invoert, loopt de formulierbuilder vast en ziet de gebruiker een bericht.
+title: 'Aangepaste formulieren: de formulierbuilder crasht bij het invoeren van weergavelogica'
+description: Wanneer een gebruiker een aangepast formulier probeert te maken en weergavelogica invoert, crasht de formulierbuilder en ziet de gebruiker een bericht.
 hidefromtoc: true
 feature: Custom Forms
 exl-id: e0eb16d0-fa9f-4f90-8c98-97c7291188a9
@@ -11,14 +11,14 @@ ht-degree: 0%
 
 ---
 
-# Aangepaste formulieren: formulierbuilder crasht bij het invoeren van weergavelogica
+# Aangepaste formulieren: de formulierbuilder crasht bij het invoeren van weergavelogica
 
 >[!NOTE]
 >
->Dit probleem is opgelost omdat het niet kan worden gereproduceerd.
+>Dit probleem is gesloten omdat het niet opnieuw kan worden weergegeven.
 
 Wanneer een gebruiker een aangepast formulier probeert te maken en weergavelogica invoert, loopt de formulierbuilder vast en ziet de gebruiker het volgende bericht:
 
-&quot;Er is een fout opgetreden en we werken eraan het probleem op te lossen&quot;
+&quot;Er is een fout opgetreden en we werken eraan het probleem op te lossen.&quot;
 
-_Eerste gerapporteerd op 23 Juli, 2024._
+_Eerste rapporteerde op 23 Juli, 2024._

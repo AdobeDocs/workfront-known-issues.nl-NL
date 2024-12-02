@@ -1,5 +1,5 @@
 ---
-title: "Proofs: het rapport van de Goedkeuring van het Bewijs kan termijnen niet nauwkeurig bepalen"
+title: 'Proofs: in het goedkeuringsrapport kunnen de termijnen niet nauwkeurig worden bepaald'
 description: Wanneer een gebruiker een [!UICONTROL Proof Approval] -rapport maakt dat proeftijddatums bevat, zijn de datums die in het rapport worden weergegeven onjuist. Dit leidt tot het rapporteren van onjuiste berekeningen en onjuiste informatie in de resultaten.
 exl-id: 1f636a74-9522-4f2b-8e91-4f0facf1cdbc
 hidefromtoc: true

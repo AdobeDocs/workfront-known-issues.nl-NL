@@ -1,5 +1,5 @@
 ---
-title: "Gebruikers: kan het toegangsniveau van de gebruiker niet wijzigen"
+title: 'Gebruikers: kan het toegangsniveau van de gebruiker niet wijzigen'
 description: Wanneer een groepsbeheerder probeert om het toegangsniveau van een gebruiker in de groep te wijzigen, wordt het gebied van het toegangsniveau onbruikbaar gemaakt, en de groepsbeheerder kan niet het toegangsniveau van de gebruiker veranderen.
 hidefromtoc: true
 feature: People Teams and Groups

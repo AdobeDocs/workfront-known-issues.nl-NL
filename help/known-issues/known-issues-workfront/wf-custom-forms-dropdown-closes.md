@@ -1,5 +1,5 @@
 ---
-title: 'Aangepaste formulieren: vervolgkeuzelijst wordt gesloten wanneer meerdere waarden worden geselecteerd'
+title: ' Aangepaste formulieren: vervolgkeuzelijst wordt gesloten wanneer meerdere waarden worden geselecteerd'
 description: 'Wanneer een gebruiker meerdere waarden in een aangepast formulierveld probeert te selecteren, wordt het vervolgkeuzemenu gesloten nadat de eerste waarde is geselecteerd. '
 hidefromtoc: true
 feature: Custom Forms

@@ -1,5 +1,5 @@
 ---
-title: 'Documenten: klikken op documentnaam leidt tot lege pagina'
+title: 'Documenten: als u op een documentnaam klikt, wordt de lege pagina weergegeven'
 description: Wanneer een gebruiker documentdetails probeert te bekijken door de naam van het document in een documentlijst te klikken, verdwijnt de lijst, en de gebruiker wordt niet geleid aan de documentdetails.
 hidefromtoc: true
 feature: Digital Content and Documents

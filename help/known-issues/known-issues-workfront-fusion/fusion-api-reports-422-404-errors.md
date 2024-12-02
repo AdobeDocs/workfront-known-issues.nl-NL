@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Workfront Fusion]: [!DNL Workfront] &gt; [!UICONTROL Custom API Call] module die 404 of 422 fouten terugkeert'
+title: '[!DNL Workfront Fusion]: [!DNL Workfront] &gt; [!UICONTROL Custom API Call] -module retourneert 404 of 422 fouten'
 description: De Workfront &gt; Aangepaste API module retourneert een fout.
 hidefromtoc: true
 exl-id: 6b9effaa-f35a-4bff-ad9c-750f836c2ef9

@@ -1,5 +1,5 @@
 ---
-title: "Proofs: proefdrukken worden niet getoond in goedgekeurde rapporten"
+title: 'Proefdrukken: proefdrukken worden niet weergegeven in goedgekeurde rapporten'
 description: Wanneer een gebruiker een rapport bekijkt dat proefgoedkeuringsbesluiten omvat, toont het rapport niet de Goedgekeurde beslissing voor alle goedgekeurde proefdrukken. Wanneer de gebruiker de proef zelf bekijkt, kunnen zij zien dat het is goedgekeurd.
 hidefromtoc: true
 feature: Digital Content and Documents

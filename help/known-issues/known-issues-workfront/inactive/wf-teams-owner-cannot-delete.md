@@ -1,5 +1,5 @@
 ---
-title: 'Teams: kan eigenaar van team niet weergeven of team verwijderen'
+title: 'Teams: kan teameigenaar niet weergeven of team verwijderen'
 description: Deze handelingen zijn niet beschikbaar voor groepsbeheerders.
 hidefromtoc: true
 feature: People Teams and Groups

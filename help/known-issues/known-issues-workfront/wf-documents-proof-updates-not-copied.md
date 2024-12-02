@@ -1,5 +1,5 @@
 ---
-title: 'Documenten: opmerkingen van proefdrukken worden niet weergegeven op documentupdates'
+title: 'Documenten: opmerkingen over proefdrukken worden niet weergegeven op documentupdates'
 description: Wanneer een gebruiker een opmerking maakt over een proefdruk, wordt die opmerking niet gekopieerd naar het updategebied van het proefdrukdocument in Workfront.
 hidefromtoc: true
 feature: Digital Content and Documents, Updates and Notifications

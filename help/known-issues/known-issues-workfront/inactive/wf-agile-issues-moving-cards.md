@@ -1,5 +1,5 @@
 ---
-title: 'Agile: Issues when moving cards on the Agile board'
+title: 'Agile: Problemen bij het verplaatsen van kaarten op het Klembord'
 description: Verschillende problemen zijn gemeld bij het verplaatsen van kaarten op het Agile-bord.
 exl-id: ef347a24-efe6-4b11-b108-4db540005604
 feature: Agile

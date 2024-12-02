@@ -1,5 +1,5 @@
 ---
-title: 'Boards: kan geen voorvertoning weergeven van documenten of documenten downloaden van de kaart'
+title: 'Borden: Kan geen documenten voorvertonen of downloaden van kaart'
 description: Word-documenten (.docx) kunnen niet worden voorvertoond of gedownload vanuit de documentensectie van de gedetailleerde kaartweergave.
 hidefromtoc: true
 feature: Agile

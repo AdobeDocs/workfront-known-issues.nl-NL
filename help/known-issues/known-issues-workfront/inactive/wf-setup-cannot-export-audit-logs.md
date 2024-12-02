@@ -1,5 +1,5 @@
 ---
-title: 'Setup: kan auditlogs niet exporteren'
+title: 'Instellen: kan auditlogs niet exporteren'
 description: Wanneer een gebruiker probeert om een groot aantal controlelogboeken uit te voeren, de logboeken niet uitvoeren. Er zijn geen aanwijzingen dat de export is mislukt.
 hidefromtoc: true
 feature: System Setup and Administration

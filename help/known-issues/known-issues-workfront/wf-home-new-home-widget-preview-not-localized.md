@@ -1,5 +1,5 @@
 ---
-title: 'Home: Nieuwe voorvertoning van widget Home geeft de juiste naam van het object niet weer'
+title: 'Home: De nieuwe voorvertoning van de widget Home geeft de juiste naam van het object niet weer'
 description: Wanneer een gebruiker zijn startpagina in de nieuwe Home-ervaring configureert, wordt in voorvertoningen van widgets mogelijk niet de juiste naam weergegeven van het object dat de widget vertegenwoordigt. Dit komt omdat Workfront het aanpassen van objectnamen toestaat. In de voorbeeldafbeeldingen wordt echter de standaardnaam van het object gebruikt. Dit betekent dat als een organisatie de naam van een object heeft aangepast, in de voorvertoning een andere objectnaam wordt weergegeven dan de organisatie gebruikt.
 hidefromtoc: true
 feature: Get Started with Workfront

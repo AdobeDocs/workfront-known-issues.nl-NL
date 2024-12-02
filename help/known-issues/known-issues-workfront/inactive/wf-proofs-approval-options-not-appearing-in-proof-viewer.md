@@ -1,5 +1,5 @@
 ---
-title: 'Proofs: goedkeuringsopties worden niet weergegeven in de proefdrukweergave'
+title: 'Proefdrukken: goedkeuringsopties worden niet weergegeven in de proefdrukweergave'
 description: Wanneer een gebruiker probeert een proef goed te keuren in de Desktop Proofing Viewer, kort nadat de goedkeuring is aangevraagd, zijn de goedkeuringsopties niet zichtbaar en kan de gebruiker de proef niet goedkeuren. De goedkeuringsopties worden weergegeven enkele uren nadat de goedkeuring is aangevraagd.
 hidefromtoc: true
 feature: Digital Content and Documents

@@ -1,5 +1,5 @@
 ---
-title: "Boards: kaart omvat geen subtaken"
+title: 'Borden: Kaart omvat geen subtaken'
 description: Wanneer een gebruiker een kaart weergeeft voor een taak die een bovenliggende taak is, worden de subtaken van die bovenliggende taak niet weergegeven op de kaart. In plaats daarvan toont de kaart aan dat er 0 subtaken zijn.
 hidefromtoc: true
 feature: Agile

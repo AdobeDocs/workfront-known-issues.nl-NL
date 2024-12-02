@@ -1,5 +1,5 @@
 ---
-title: 'Documenten: het pictogram van de proefwerkstroom wordt niet weergegeven'
+title: 'Documenten: Proefwerkstroompictogram wordt niet weergegeven'
 description: Wanneer een gebruiker in de nieuwe  [!DNL Workfront]  ervaring tot een bewijs leidt, het pictogram van de proefdrukstatus "SOCD"soms niet in de lijst van Documenten toont tot de gebruiker de pagina vernieuwt.
 exl-id: ed99c9f3-412d-4e56-9b0a-84a1d53bdcfc
 hidefromtoc: true

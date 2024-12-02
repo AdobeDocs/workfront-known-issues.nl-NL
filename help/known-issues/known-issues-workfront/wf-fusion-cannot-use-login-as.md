@@ -1,15 +1,15 @@
 ---
-title: "Workfront Fusion: kan een verbinding niet verifiëren met Workfront Log in als functionaliteit"
-description: "Bij het maken van een verbinding in Workfront Fusion kan een gebruiker de verbinding niet verifiëren wanneer hij of zij zich als een andere gebruiker heeft aangemeld."
+title: 'Workfront Fusion: kan een verbinding niet verifiëren met Workfront Log in als functionaliteit'
+description: Wanneer u een verbinding maakt in Workfront Fusion, kan een gebruiker de verbinding niet verifiëren wanneer hij of zij zich als een andere gebruiker heeft aangemeld.
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: c05c388824293dcee4074eb76e2beec6e7cc5d6d
+exl-id: 2cd5e6df-d56c-43e1-948c-78c3c83dbbbb
+source-git-commit: 9a8c1695bc2469c3c29849e7ed735a71c347bcce
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%
 
 ---
-
 
 # Workfront Fusion: kan een verbinding niet verifiëren met Workfront Log in als functionaliteit
 

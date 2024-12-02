@@ -1,5 +1,5 @@
 ---
-title: 'Proofs: proefdrukken worden langzaam gemaakt in de voorvertoningsomgeving'
+title: 'Proefdrukken: proefdrukken worden langzaam gemaakt in de voorvertoningsomgeving'
 description: Wanneer een gebruiker een proef in het milieu van de Voorproef creeert, wordt de proef zeer langzaam gecreeerd.
 hidefromtoc: true
 feature: Digital Content and Documents

@@ -1,9 +1,10 @@
 ---
-title: "Toewijzingen: taaktoewijzing mislukt en overgeërfde machtigingen verwijderd"
-description: "Wanneer het toewijzen van een taak aan een team, ontbreekt de taak en keert een fout terug. Bovendien worden overgeërfde machtigingen verwijderd, waardoor de gebruiker geen toegang meer heeft tot de taak die hij of zij probeerde toe te wijzen."
+title: 'Toewijzingen: taaktoewijzing mislukt en overgeërfde machtigingen verwijderd'
+description: Wanneer u een taak toewijst aan een team, mislukt de toewijzing en wordt een fout geretourneerd. Bovendien, worden de geërfte toestemmingen verwijderd, die de toegang van de gebruiker tot de taak verwijderen zij probeerden toe te wijzen.
 hidefromtoc: true
 feature: Tasks, People Teams and Groups
-source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
+exl-id: 7fca38c0-04e0-4af3-b47d-76b540fbcf06
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%

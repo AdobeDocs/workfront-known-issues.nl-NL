@@ -1,5 +1,5 @@
 ---
-title: 'Home: Mijn widget voor goedkeuringen werkt niet'
+title: 'Home: De widget Mijn goedkeuringen werkt niet'
 description: Wanneer een gebruiker de widget Mijn goedkeuringen thuis probeert weer te geven, wordt de widget niet weergegeven en ziet de gebruiker een bericht.
 hidefromtoc: true
 feature: Get Started with Workfront

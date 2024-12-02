@@ -1,5 +1,5 @@
 ---
-title: 'Proofs: goedgekeurde proefdrukken worden weergegeven in rapporten'
+title: 'Proefdrukken: goedgekeurde proefdrukken worden weergegeven in rapporten'
 description: Wanneer een gebruiker een rapport van de proefgoedkeuring bekijkt, kunnen sommige goedgekeurde proefdrukken in het rapport verschijnen. Dit kan voorkomen alhoewel het rapport wordt gefiltreerd om slechts proefdrukken te tonen die op goedkeuring wachten.
 hidefromtoc: true
 feature: Digital Content and Documents, Reports and Dashboards

@@ -1,5 +1,5 @@
 ---
-title: 'Proofs: status van proef wordt niet bijgewerkt in documentlijsten'
+title: 'Proefdrukken: de status van het bewijs wordt niet bijgewerkt in documentlijsten'
 description: Wanneer de status van een bewijs verandert, een documentlijst die dat bewijs toont niet de correcte nieuwe status toont.
 hidefromtoc: true
 exl-id: f5f9b16c-4ec5-4625-b8c6-277fdd080d45

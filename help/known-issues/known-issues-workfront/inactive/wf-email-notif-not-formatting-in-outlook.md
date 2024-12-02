@@ -1,5 +1,5 @@
 ---
-title: 'E-mailmeldingen: e-mailberichten maken de opmaak in Outlook niet correct uit.'
+title: 'E-mailberichten: E-mailberichten maken de opmaak niet correct in Outlook'
 description: Wanneer een gebruiker met een het e-mailadres van Vooruitzichten hun e-mail wordt geplaatst om automatisch het downloaden van een beeld niet toe te staan en zij een e-mailbericht van  [!DNL Workfront] ontvangen, toont het het profielbeeld van de gebruiker in het bericht niet behoorlijk, met de naam van het beeld dat soms verticaal toont. Wanneer u deze afbeeldingen handmatig downloadt, wordt het indelingsprobleem niet opgelost.
 feature: Updates and Notifications, Workfront Integrations and Apps
 exl-id: 15624837-b6bb-4e75-bb9c-1d034d3571f4

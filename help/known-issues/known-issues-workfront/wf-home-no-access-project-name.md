@@ -1,15 +1,15 @@
 ---
-title: "Home: Geen toegang wordt weergegeven als projectnaam"
-description: "Wanneer een gebruiker hun Mijn taakwidget thuis bekijkt, verschijnt Geen toegang in de de naamkolom van het Project. Dit komt voor alhoewel de projectnaam in Mijn het werkwidget zichtbaar is."
+title: 'Home: Geen toegang wordt weergegeven als projectnaam'
+description: Wanneer een gebruiker hun Mijn taakwidget thuis bekijkt, verschijnt Geen toegang in de de naamkolom van het Project. Dit komt voor alhoewel de projectnaam in Mijn het werkwidget zichtbaar is.
 hidefromtoc: true
 feature: Get Started with Workfront, Work Management
-source-git-commit: 944b2342e35f70d095380312a8742e7e97734818
+exl-id: d31cd7ee-4c2b-43e4-9534-9cd075a80699
+source-git-commit: 9a8c1695bc2469c3c29849e7ed735a71c347bcce
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
 
 ---
-
 
 # Home: &quot;Geen toegang&quot; wordt weergegeven als projectnaam
 

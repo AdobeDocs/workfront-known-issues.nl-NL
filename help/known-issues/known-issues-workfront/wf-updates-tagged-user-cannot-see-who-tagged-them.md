@@ -1,5 +1,5 @@
 ---
-title: 'Updates: gecodeerde gebruikers kunnen niet zien wie ze hebben getagd'
+title: 'Updates: gecodeerde gebruikers kunnen niet zien wie ze labelde'
 description: Wanneer een gebruiker in een update van tags is voorzien, kan hij of zij niet zien wie deze tags heeft. Dit gebeurt wanneer de instelling Personen in andere bedrijven alleen gebruikers mogen bekijken vanaf... is ingesteld op Hun bedrijf.
 hidefromtoc: true
 feature: Updates and Notifications

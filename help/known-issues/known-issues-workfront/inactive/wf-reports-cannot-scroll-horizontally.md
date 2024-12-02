@@ -1,5 +1,5 @@
 ---
-title: 'Rapporten: kan niet horizontaal schuiven rapport bij weergave op dashboard'
+title: 'Rapporten: kan rapport niet horizontaal schuiven wanneer het bekijken op dashboard'
 description: Als een gebruiker een rapport op een dashboard bekijkt en probeert om het rapport horizontaal te scrollen, of het rapport scrolt niet, of de kolomkopballen liggen achter de daadwerkelijke kolommen. Als het rapport een groot aantal kolommen bevat, kan het schuiven horizontaal de pagina sluiten.
 exl-id: d308ee88-9265-4fa7-8574-ec7d5eb9d306
 hidefromtoc: true

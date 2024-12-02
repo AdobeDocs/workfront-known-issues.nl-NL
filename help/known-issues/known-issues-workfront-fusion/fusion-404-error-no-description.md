@@ -1,5 +1,5 @@
 ---
-title: 'Workfront Fusion: Fusion module geeft 404 foutmelding zonder verdere informatie'
+title: 'Workfront Fusion: Fusion-module retourneert een fout van 404 zonder verdere informatie'
 description: Wanneer een Workfront Fusion-module een fout van 404 retourneert, geeft de fout geen verdere details over de oorzaak van de fout. De reden hiervoor is dat de fout van 404 naar Workfront Fusion wordt verzonden vanuit de toepassing waarmee de module verbinding maakt en die toepassing geen aanvullende details naar Workfront Fusion heeft verzonden.
 hidefromtoc: true
 exl-id: 07a93454-2647-4c60-bdfd-3779e3c6f9b3

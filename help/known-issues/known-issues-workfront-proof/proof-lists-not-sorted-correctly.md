@@ -1,5 +1,5 @@
 ---
-title: 'Workfront Proof: lijsten zijn niet correct gesorteerd'
+title: 'Workfront Proof: lijsten worden niet correct gesorteerd'
 description: Wanneer een gebruiker een lijst in Workfront Proof bekijkt waarop sorteren is toegepast (zoals Naam), is het sorteren niet correct.
 hidefromtoc: true
 exl-id: 89dcfc45-0ea3-4ba6-8778-865adff9c456

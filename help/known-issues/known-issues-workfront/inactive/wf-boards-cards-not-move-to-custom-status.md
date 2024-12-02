@@ -1,5 +1,5 @@
 ---
-title: 'Kaarten: kaarten die naar een kolom zijn verplaatst en na het vernieuwen terugkeren naar de oorspronkelijke kolom'
+title: 'Kaarten: kaarten die na het vernieuwen naar een kolom zijn verplaatst, worden teruggezet naar de oorspronkelijke kolom'
 description: Wanneer een gebruiker een kaart naar een andere kolom verplaatst en deze vervolgens vernieuwt of terugkeert naar het bord, is de kaart teruggegaan naar de oorspronkelijke kolom.
 hidefromtoc: true
 feature: Agile

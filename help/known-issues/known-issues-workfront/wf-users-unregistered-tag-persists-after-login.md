@@ -1,9 +1,10 @@
 ---
-title: '''Gebruikers: tag ''Niet-geregistreerd'' blijft bestaan na aanmelding'''
-description: '''Ondanks het met succes aanmelden minstens één keer, verdwijnt de tag ''unregistered'' niet zoals verwacht voor nieuwe gebruikers.'''
+title: 'Gebruikers: de tag "Niet-geregistreerd" blijft bestaan na aanmelding'
+description: Hoewel u zich minstens één keer met succes hebt aangemeld, verdwijnt de tag 'unregistered' niet zoals verwacht voor nieuwe gebruikers.
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+exl-id: 74bfb5e2-d6a1-47c9-9972-f2167ee2909b
+source-git-commit: 894de7cfbd8798d700cd7707edae4a3e86902bec
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%

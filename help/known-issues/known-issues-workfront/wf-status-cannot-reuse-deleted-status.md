@@ -1,5 +1,5 @@
 ---
-title: 'Status: kan eerder verwijderde status niet opnieuw gebruiken'
+title: 'Statussen: kan eerder verwijderde status niet opnieuw gebruiken'
 description: Wanneer een gebruiker een status probeert te maken met dezelfde statussleutel als een eerder verwijderde status, wordt de status niet gemaakt en ziet de gebruiker een bericht.
 hidefromtoc: true
 feature: Work Management, Projects, Tasks

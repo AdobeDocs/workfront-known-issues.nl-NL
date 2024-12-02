@@ -1,6 +1,6 @@
 ---
-title: "Rapporten: openbare koppelingen naar een rapport werken niet"
-description: '"Wanneer een gebruiker een openbare verbinding aan een rapport klikt, zien zij een fout. De specifieke fout is afhankelijk van de browser die de gebruiker gebruikt. '''
+title: 'Rapporten: openbare koppelingen naar een rapport werken niet'
+description: 'Wanneer een gebruiker een openbare verbinding aan een rapport klikt, zien zij een fout. De specifieke fout is afhankelijk van de browser die de gebruiker gebruikt. '
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 12fe08b3-1aa5-442e-ab23-ecc6d491359c

@@ -1,5 +1,5 @@
 ---
-title: 'Proofs: kan de proefdrukviewer niet sluiten'
+title: 'Proefdrukken: kan de proefdrukviewer niet sluiten'
 description: Wanneer een gebruiker een proef in de het proefdrukken kijker bekijkt en probeert om de proef te sluiten door X in de hoger-juiste hoek te klikken, sluit de proef niet. Er is een tijdelijke oplossing beschikbaar.
 hidefromtoc: true
 feature: Digital Content and Documents

@@ -1,5 +1,5 @@
 ---
-title: 'Toegangsniveaus: dubbel toegangsniveaus in het gebied van de Opstelling'
+title: 'Toegangsniveaus: dubbele toegangsniveaus in het gebied van de Opstelling'
 description: Wanneer een gebruiker de lijst van toegangsniveaus in het gebied van de Opstelling bekijkt, zien zij dat sommige toegangsniveaus worden gedupliceerd. Dit geldt alleen voor ingebouwde niveaus.
 hidefromtoc: true
 feature: System Setup and Administration

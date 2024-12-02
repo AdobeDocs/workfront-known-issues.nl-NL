@@ -1,15 +1,15 @@
 ---
-title: "Home: Markeren als Gereed sluit het overzichtsvenster voor de widget Mijn problemen"
-description: "Wanneer u probeert de knop Markeren als voltooid te gebruiken in het overzichtsvenster van een probleem dat is geopend via de widget Mijn problemen, wordt het overzichtsvenster onverwacht gesloten."
+title: 'Home: Markeren als Gereed sluit het overzichtsvenster voor de widget Mijn problemen'
+description: Wanneer u probeert de knop Markeren als voltooid te gebruiken in het overzichtsvenster van een probleem dat is geopend via de widget Mijn problemen, wordt het overzichtsvenster onverwacht gesloten.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
+exl-id: 3df55091-6285-4a15-9436-80fa08839acf
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
 
 ---
-
 
 # Home: Met &quot;Markeren als voltooid&quot; wordt het overzichtsvenster voor de widget Mijn problemen gesloten
 

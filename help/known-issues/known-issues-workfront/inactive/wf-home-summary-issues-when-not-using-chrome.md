@@ -1,5 +1,5 @@
 ---
-title: 'Home: Overzicht van homepages bij het gebruik van andere browsers dan Chrome'
+title: 'Home: Samenvattingsproblemen bij het gebruik van andere browsers dan Chrome'
 description: Wanneer een gebruiker zijn startpagina bekijkt en een andere browser dan Chrome gebruikt, kunnen de verschillende problemen worden weergegeven.
 exl-id: 7e1935e4-2814-4527-a65a-301f4b9a9669
 hidefromtoc: true

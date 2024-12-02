@@ -1,5 +1,5 @@
 ---
-title: 'Updates: koppeling in opmerking gaat naar leeg scherm'
+title: 'Updates: Koppeling in opmerking gaat naar leeg scherm'
 description: Wanneer een gebruiker op een verbinding klikt die in een commentaar is, leidt de verbinding de gebruiker aan een leeg scherm. Er is een tijdelijke oplossing beschikbaar.
 hidefromtoc: true
 feature: Updates and Notifications

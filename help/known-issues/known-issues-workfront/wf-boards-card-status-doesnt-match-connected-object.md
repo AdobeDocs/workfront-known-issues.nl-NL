@@ -1,5 +1,5 @@
 ---
-title: "Borden: Kaartstatus komt niet overeen met verbonden object en omzeilen, filter"
+title: 'Borden: Kaartstatus komt niet overeen met verbonden object en omzeilt filter'
 description: Kaarten in de inlaatkolom van een dynamisch bord geven onjuiste statusinformatie weer en filteren niet correct op basis van hun status.
 hidefromtoc: true
 feature: Agile

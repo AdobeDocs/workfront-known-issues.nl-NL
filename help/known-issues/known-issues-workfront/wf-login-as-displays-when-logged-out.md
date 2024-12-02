@@ -1,5 +1,5 @@
 ---
-title: 'Aanmelden als: begin en punten worden onjuist weergegeven wanneer u zich afmeldt bij Aanmelden als'
+title: 'Aanmelden als: Startpagina en punten worden onjuist weergegeven wanneer u zich afmeldt bij Aanmelden als'
 description: Wanneer een gebruiker die is aangemeld als een andere gebruiker zich afmeldt als die gebruiker, ziet hij of zij de volgende problemen op zijn of haar startscherm.
 hidefromtoc: true
 feature: System Setup and Administration, Get Started with Workfront

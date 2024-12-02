@@ -1,5 +1,5 @@
 ---
-title: 'Proofs: Kan geen proefdrukken maken in de voorbeeldomgeving'
+title: 'Proefdrukken: kan geen proefdrukken maken in de voorvertoningsomgeving'
 description: Wanneer een gebruiker een proef in een milieu van de Sandbox van de Voorproef probeert tot stand te brengen, wordt de proef niet gecreeerd, en de gebruiker ziet geen Ontbroken bericht produceren.
 hidefromtoc: true
 feature: Digital Content and Documents

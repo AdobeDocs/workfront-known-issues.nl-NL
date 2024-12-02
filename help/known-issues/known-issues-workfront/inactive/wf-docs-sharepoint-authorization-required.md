@@ -1,5 +1,5 @@
 ---
-title: 'Documents: Cannot access SharePoint'
+title: 'Documenten: heeft geen toegang tot SharePoint'
 description: Wanneer een gebruiker een SharePoint-map probeert te openen in Workfront, wordt de map niet geopend en wordt een bericht weergegeven.
 hidefromtoc: true
 feature: Digital Content and Documents

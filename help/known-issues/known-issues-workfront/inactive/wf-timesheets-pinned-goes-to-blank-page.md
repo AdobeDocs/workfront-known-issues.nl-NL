@@ -1,5 +1,5 @@
 ---
-title: 'Timesheets: Vastgezet tijdblad gaat naar lege pagina'
+title: 'Timesheets: Vastgezet tijdblad verwijst naar lege pagina'
 description: Wanneer een gebruiker op een speldenknop in Workfront klikt die naar zijn tijdspagina moet gaan, gaat het speldenpakket naar een lege pagina. Er is een tijdelijke oplossing beschikbaar.
 hidefromtoc: true
 feature: Timesheets

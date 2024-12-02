@@ -1,5 +1,5 @@
 ---
-title: '''Home: Percentage ''complete'' is afgesloten'
+title: 'Home: Percentage complete wordt afgesneden'
 description: Wanneer een gebruiker een lijst op de homepage bekijkt, gedeeltelijk besnoeiing de Volledige kolomic van Percent, en de gebruiker kan niet het nauwkeurige percentage zien voltooide van de voorwerpen.
 hidefromtoc: true
 feature: Get Started with Workfront

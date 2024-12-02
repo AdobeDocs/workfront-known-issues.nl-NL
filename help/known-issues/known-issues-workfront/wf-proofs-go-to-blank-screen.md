@@ -1,5 +1,5 @@
 ---
-title: 'Proofs: klikken op de proefdruknaam leidt tot een leeg scherm'
+title: 'Proefdrukken: als u op de naam van een proefdruk klikt, wordt het scherm leeg.'
 description: Wanneer een gebruiker in de webtestviewer op een proefdruknaam klikt om de proefdrukproef te openen, wordt deze naar een leeg scherm gebracht in plaats van de proefdrukproef.
 hidefromtoc: true
 feature: Digital Content and Documents

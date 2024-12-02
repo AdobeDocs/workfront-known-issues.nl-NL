@@ -1,5 +1,5 @@
 ---
-title: 'Projecten: menu Delen wordt niet geladen '
+title: 'Projecten: het menu Delen wordt niet geladen '
 description: Wanneer een gebruiker een taak of kwestie probeert te delen, wordt de Toegang van X van de Verlening aan menu onophoudelijk geladen, en de gebruiker kan niet de taak of de kwestie delen.
 hidefromtoc: true
 feature: Projects, Tasks, Work Management

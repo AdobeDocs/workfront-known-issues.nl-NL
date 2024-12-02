@@ -1,5 +1,5 @@
 ---
-title: "Proofs: gezipte proefdrukken genereren niet"
+title: 'Proefdrukken: gezipte proefdrukken worden niet gegenereerd'
 description: Wanneer een gebruiker een proefdruk maakt met ritssluiting en twee of meer bestanden in de proefdruk dezelfde naam hebben, kan de proefdruk niet worden gegenereerd.
 hidefromtoc: true
 feature: Digital Content and Documents

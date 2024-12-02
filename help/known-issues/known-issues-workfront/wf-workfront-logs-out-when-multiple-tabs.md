@@ -1,5 +1,5 @@
 ---
-title: 'Workfront: meerdere tabbladen voor browsers zorgen dat Workfront zich afmeldt'
+title: 'Workfront: Workfront meldt zich af met meerdere browsertabs'
 description: Wanneer een gebruiker meerdere browsertabbladen heeft geopend, kan Workfront zich automatisch afmelden.
 hidefromtoc: true
 feature: Get Started with Workfront

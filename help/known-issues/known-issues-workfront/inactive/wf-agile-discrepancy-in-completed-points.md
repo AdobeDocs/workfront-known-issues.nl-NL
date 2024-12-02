@@ -1,5 +1,5 @@
 ---
-title: 'Agile: Discrepancy in Completed Points for an iteration'
+title: 'Agile: Discrepantie in voltooide punten voor een herhaling'
 description: Het aantal dat wordt weergegeven voor Voltooide punten op het artikelbord komt soms niet overeen met het werkelijke aantal punten dat is ingevuld voor de artikelen in een herhaling
 exl-id: 65696b39-e2ab-409e-8bd3-811f399f4622
 feature: Agile

@@ -1,5 +1,5 @@
 ---
-title: 'Gelijk: het artikelbord wordt leeg weergegeven wanneer u een subtaak toevoegt'
+title: 'Stijl: het artikelbord wordt leeg weergegeven wanneer u een subtaak toevoegt'
 description: Wanneer een gebruiker een subtaak aan een artikelbord probeert toe te voegen terwijl een filter wordt geselecteerd, gaat het scherm leeg, en de gebruiker kan niet de subtaak toevoegen.
 hidefromtoc: true
 feature: Agile

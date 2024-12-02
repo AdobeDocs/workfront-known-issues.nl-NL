@@ -3,7 +3,8 @@ title: 'Lay-outsjablonen: aangepaste gegevensvelden worden niet weergegeven wann
 description: Wanneer een beheerder een gebied van douanegegevens aan de Summiere sectie van de Taak door een Malplaatje van de Lay-out toevoegt, toont het gebied leeg voor gebruikers die de Summiere sectie van een Taak bekijken.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
+exl-id: f37ecfc5-30b9-4fe2-9e76-a97be0ae969f
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%

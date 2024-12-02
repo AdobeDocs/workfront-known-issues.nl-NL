@@ -1,6 +1,6 @@
 ---
-title: '[!DNL Workfront]: Problemen bij het indienen van een Workfront-ondersteuningskwestie op Experience League'
-description: '""Als u een  [!DNL Workfront]  Gemachtigd Contact van de Steun bent en kwesties hebben die een steungeval voorleggen, gelieve ons bij de aantallen hieronder te roepen zodat kunnen wij u helpen."'
+title: '[!DNL Workfront]: problemen met het indienen van een Workfront-ondersteuningskwestie op Experience League'
+description: '"Als u een  [!DNL Workfront]  Gemachtigd Contact van de Steun bent en kwesties hebben die een steungeval voorleggen, gelieve ons bij de aantallen hieronder te roepen zodat kunnen wij u helpen.'
 hidefromtoc: true
 exl-id: f19b3e67-d31d-48f8-b847-dd4d309e11fc
 feature: System Setup and Administration

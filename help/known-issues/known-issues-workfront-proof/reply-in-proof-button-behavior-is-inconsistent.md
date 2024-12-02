@@ -1,5 +1,5 @@
 ---
-title: 'Home: gedrag van de knop Reageren in proef is inconsistent'
+title: 'Home: De werking van de knop Reageren in proef is inconsistent'
 description: Wanneer een gebruiker in de nieuwe  [!DNL Adobe Workfront]  ervaring een proef in het juiste paneel in [!UICONTROL Home] bekijkt, dan klikken zij [!UICONTROL Reply in proof] op een commentaar, toont een tekstvakje waar zij een update in het [!UICONTROL document Updates] gebied kunnen verlaten in plaats van worden geleid aan de Beproefende Kijker zoals bedoeld.
 exl-id: f9e08d81-135c-4b04-a239-2fb0fcc87ae5
 hidefromtoc: true

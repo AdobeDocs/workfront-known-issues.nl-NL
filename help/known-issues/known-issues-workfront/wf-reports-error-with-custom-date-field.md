@@ -1,5 +1,5 @@
 ---
-title: 'Rapporten: Fout bij het weergeven van rapportdetails die zijn gegroepeerd op aangepaste datum'
+title: 'Rapporten: Fout bij het bekijken van rapportdetails die door douanedatum worden gegroepeerd'
 description: Wanneer een gebruiker een rapport bekijkt, en in de details klikt, en het rapport door een gebied van de douanedatum wordt gegroepeerd, laden de details niet, en de gebruiker ziet een fout.
 hidefromtoc: true
 feature: Reports and Dashboards

@@ -1,5 +1,5 @@
 ---
-title: 'Integrations: Error when creating a request from Outlook'
+title: 'Integratie: fout bij het maken van een aanvraag vanuit Outlook'
 description: Wanneer een gebruiker probeert om een verzoek van Workfront voor de integratie van Vooruitzichten tot stand te brengen, en een gehechtheid toevoegt. De gebruiker ziet het bericht Er is iets misgegaan. Probeer het later opnieuw.
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Work Management

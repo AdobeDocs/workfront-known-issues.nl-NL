@@ -1,5 +1,5 @@
 ---
-title: 'Proofs: voltooide proefdrukken blijven in afwachting van mijn goedkeuringswidget'
+title: 'Proefdrukken: voltooide proefdrukken blijven beschikbaar op de widget Mijn goedkeuring'
 description: Nadat een gebruiker een beslissing heeft genomen over een proefdruk, blijft die proefdruk op de [!UICONTROL Awaiting My Approval] -widget staan op de pagina Gebruikers [!UICONTROL Home] in de nieuwe Home-ervaring.
 hidefromtoc: true
 feature: Digital Content and Documents

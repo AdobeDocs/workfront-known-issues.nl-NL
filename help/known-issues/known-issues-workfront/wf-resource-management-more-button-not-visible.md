@@ -1,5 +1,5 @@
 ---
-title: 'Resource planning: More button is not visible'
+title: 'Bronplanning: Meer knop is niet zichtbaar'
 description: Wanneer een gebruiker de bronnenplanner bekijkt en op de knop [!UICONTROL More] probeert te klikken, is de knop niet zichtbaar. Er is een tijdelijke oplossing beschikbaar.
 hidefromtoc: true
 feature: Resource Management

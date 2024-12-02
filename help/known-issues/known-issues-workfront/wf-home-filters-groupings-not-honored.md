@@ -1,5 +1,5 @@
 ---
-title: 'Nieuwe startpagina: standaardinstellingen voor widgetfilter en -groepering volgen de lay-outsjabloon niet'
+title: 'Nieuwe startpagina: standaardwaarden voor widgetfilter en -groepering volgen lay-outsjabloon niet'
 description: Wanneer een gebruiker Mijn Projecten, Mijn Taken, of Mijn Uitgave widget in de nieuwe ervaring van het Huis bekijkt, zijn het standaardfilter en het groeperen voor die widget niet het gebrek plaatsend in het lay-outmalplaatje dat aan die gebruiker wordt toegewezen.
 hidefromtoc: true
 feature: Get Started with Workfront

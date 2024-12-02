@@ -1,5 +1,5 @@
 ---
-title: 'Home: To-Do-widgetfouten voor nieuwe en voltooide to-dos'
+title: 'Home: To-Do-widgetfouten voor nieuwe en voltooide ''to-dos'''
 description: Wanneer gebruikers proberen een nieuwe taak te maken of een bestaande taak in te vullen in de widget voor thuistaken, wordt een fout aangetroffen die ze niet kunnen maken of voltooien.
 hidefromtoc: true
 feature: Get Started with Workfront

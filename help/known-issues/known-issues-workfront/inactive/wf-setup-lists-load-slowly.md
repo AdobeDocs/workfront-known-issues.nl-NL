@@ -1,5 +1,5 @@
 ---
-title: 'Instellen: lijsten worden traag geladen in Setup'
+title: 'Instellen: lijsten worden langzaam geladen in Setup'
 description: Wanneer een gebruiker zich in het gebied van de Opstelling bevindt en probeert om een lijst te laden, laadt de lijst zeer langzaam. Dit is gemeld op diverse gebieden door Opstelling.
 hidefromtoc: true
 exl-id: 4b48b101-9c38-416a-a45b-203cf8f6eefc

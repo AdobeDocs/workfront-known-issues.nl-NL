@@ -1,5 +1,5 @@
 ---
-title: 'Setup: kan [!UICONTROL Kick-Starts] niet gebruiken om groepen in te stellen'
+title: 'Instellen: kan [!UICONTROL Kick-Starts] niet gebruiken om groepen in te stellen'
 description: Wanneer een gebruiker een groep probeert te [!UICONTROL Kick-Start] , is het importeren mislukt en ziet de gebruiker een foutbericht.
 hidefromtoc: true
 feature: System Setup and Administration

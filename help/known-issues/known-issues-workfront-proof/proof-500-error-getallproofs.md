@@ -1,6 +1,6 @@
 ---
 title: 'Workfront Proof: 500-fout bij toegang tot Workfront Proof via API of Workfront Fusion'
-description: 'Wanneer een gebruiker de actie Proef API getAllProofs opent, retourneert de Workfront Proof-server het bericht: 500 Interne serverfout'
+description: 'Wanneer een gebruiker de actie Proef API getAllProofs opent, retourneert de Workfront Proof-server het volgende bericht: 500 Interne serverfout'
 hidefromtoc: true
 feature: Workfront Proof
 exl-id: 3c968354-58e2-43fc-8c27-2670683ac862

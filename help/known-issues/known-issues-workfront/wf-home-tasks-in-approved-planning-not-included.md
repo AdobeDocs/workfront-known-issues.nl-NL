@@ -1,5 +1,5 @@
 ---
-title: "Huis: De taken in projecten met Goedgekeurd of de status van de Planning zijn niet inbegrepen in Mijn Taken of Lijst van het Werk van het Huis"
+title: 'Home: De taken in projecten met Goedgekeurde of de status van de Planning zijn niet inbegrepen in Mijn Taken of de Lijst van het Werk van het Huis'
 description: De taken van projecten die de goedgekeurde status of de Planning hebben worden niet getoond in Huis. Er is een tijdelijke oplossing beschikbaar.
 hidefromtoc: true
 feature: Get Started with Workfront

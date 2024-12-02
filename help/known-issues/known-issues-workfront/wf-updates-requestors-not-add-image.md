@@ -1,5 +1,5 @@
 ---
-title: 'Updates: gebruikers van een aanvrager kunnen geen afbeeldingen toevoegen aan updates'
+title: 'Updates: gebruikers van de aanvrager kunnen geen afbeeldingen toevoegen aan updates'
 description: Wanneer een gebruiker met een licentie voor aanvragers het updategebied weergeeft en een afbeelding probeert toe te voegen, ontbreekt het pictogram om een afbeelding toe te voegen en is de optie om een afbeelding toe te voegen niet beschikbaar voor de gebruiker.
 hidefromtoc: true
 feature: Updates and Notifications

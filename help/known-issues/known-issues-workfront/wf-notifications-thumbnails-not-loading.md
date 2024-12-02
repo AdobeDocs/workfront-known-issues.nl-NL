@@ -1,5 +1,5 @@
 ---
-title: 'Meldingen: miniaturen zijn niet zichtbaar in e-mailmeldingen'
+title: 'Meldingen: Miniaturen zijn niet zichtbaar in e-mailmeldingen'
 description: Wanneer een gebruiker een e-mailbericht over een documentgoedkeuring weergeeft, wordt de documentminiatuur niet weergegeven in de e-mail.
 hidefromtoc: true
 feature: Updates and Notifications, Digital Content and Documents

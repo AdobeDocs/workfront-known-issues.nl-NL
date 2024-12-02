@@ -1,5 +1,5 @@
 ---
-title: 'Integrations: Cannot add new version of a document from  [!DNL Google Drive]'
+title: 'Integraties: kan geen nieuwe versie van een document toevoegen van  [!DNL Google Drive]'
 description: Als een gebruiker een documentlijst bekijkt, en probeert om een nieuwe versie van een document van  [!DNL Google Drive] toe te voegen, zien zij een bericht. Er is een tijdelijke oplossing beschikbaar.
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents

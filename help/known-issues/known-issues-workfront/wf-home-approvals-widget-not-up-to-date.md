@@ -1,5 +1,5 @@
 ---
-title: 'Home: widget voor goedkeuring is niet correct'
+title: 'Home: De widget voor goedkeuring is niet correct'
 description: De wachtende widget Mijn goedkeuringen in de nieuwe Home-ervaring geeft de goedkeuringen niet correct weer.
 hidefromtoc: true
 feature: Digital Content and Documents

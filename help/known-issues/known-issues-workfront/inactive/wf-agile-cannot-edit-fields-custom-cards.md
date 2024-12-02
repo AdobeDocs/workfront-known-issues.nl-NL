@@ -1,5 +1,5 @@
 ---
-title: 'Gelijk: kan geen velden bewerken van aangepaste formulieren op kaarten'
+title: 'Gereedschap: kan geen velden bewerken van aangepaste formulieren op kaarten'
 description: Wanneer een veld op een kaart op de Kanban Board een aangepast formulier ophaalt, kunnen gebruikers dat veld niet rechtstreeks vanaf de kaart bewerken.
 exl-id: 3edad5bb-7deb-45ea-a89c-6587c34bea12
 feature: Agile

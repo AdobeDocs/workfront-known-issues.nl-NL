@@ -1,5 +1,5 @@
 ---
-title: 'Lay-outsjablonen: lay-outsjablonen die inconsistenties in rapporten veroorzaken'
+title: 'Lay-outsjablonen: Lay-outsjablonen veroorzaken inconsistenties in rapporten'
 description: Layoutsjablonen uit de klassieke Workfront-ervaring zijn niet meer beschikbaar in de Workfront-interface, maar zijn mogelijk nog wel van invloed op Workfront-gegevens. Dit kan inconsistenties veroorzaken in velden die worden beïnvloed door lay-outsjablonen (zoals Gedeeld met) in rapporten of dashboards.
 hidefromtoc: true
 feature: System Setup and Administration

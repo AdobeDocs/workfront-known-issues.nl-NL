@@ -1,5 +1,5 @@
 ---
-title: 'Home: Kan de widget Vermeldingen niet verwijderen'
+title: 'Home: Kan de widget Onthoudingen niet verwijderen'
 description: Als een gebruiker in de nieuwe startpagina de widget voor herinneringen wil verwijderen, kan hij of zij deze niet verwijderen.
 hidefromtoc: true
 feature: Get Started with Workfront

@@ -1,5 +1,5 @@
 ---
-title: "Boards: Problemen met dubbele kaarten"
+title: 'Borden: Problemen met dubbele kaarten'
 description: Er zijn problemen gemeld met betrekking tot dubbele kaarten in de raden van bestuur.
 hidefromtoc: true
 feature: Agile

@@ -1,5 +1,5 @@
 ---
-title: 'Documenten: fout bij het uploaden van een groot bestand'
+title: 'Documenten: Fout bij het uploaden van een groot bestand'
 description: Wanneer een gebruiker probeert een groot bestand te uploaden (groter dan 25 MB), wordt het bestand niet geüpload en ziet de gebruiker de fout Kan het bestand niet uploaden.
 hidefromtoc: true
 feature: Digital Content and Documents

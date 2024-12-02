@@ -1,5 +1,5 @@
 ---
-title: 'Reports: Error when exporting report'
+title: 'Rapporten: Fout bij exporteren van rapport'
 description: Wanneer een gebruiker probeert om een rapport uit te voeren, voert het rapport niet uit, en de gebruiker ziet een fout.
 hidefromtoc: true
 feature: Reports and Dashboards

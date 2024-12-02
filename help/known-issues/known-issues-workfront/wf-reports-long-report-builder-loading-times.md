@@ -1,5 +1,5 @@
 ---
-title: 'Reports: Long report builder loading times'
+title: 'Rapporten: lange laadtijden van samenstellers van rapporten'
 description: De rapportaannemer vergt een uitgebreide hoeveelheid tijd, tot één minuut in sommige gevallen.
 hidefromtoc: true
 feature: Reports and Dashboards

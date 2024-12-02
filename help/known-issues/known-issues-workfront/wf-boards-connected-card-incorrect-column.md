@@ -1,5 +1,5 @@
 ---
-title: 'Boards: de aangesloten kaart bevindt zich in een onjuiste kolom'
+title: 'Borden: Verbonden kaart bevindt zich in onjuiste kolom'
 description: Problemen met verbonden kaarten zijn in de verkeerde kolom gemeld.
 hidefromtoc: true
 feature: Agile

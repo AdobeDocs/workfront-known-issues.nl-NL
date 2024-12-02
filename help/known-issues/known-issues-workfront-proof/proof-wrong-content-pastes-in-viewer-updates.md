@@ -1,9 +1,10 @@
 ---
-title: "Workfront Proof: Inhoud wordt onjuist geplakt in de sectie Updates van de Desktop Proofing Viewer"
-description: "Wanneer u inhoud probeert te plakken in de sectie Updates van een proefdruk in de Desktop Proofing Viewer, komt de inhoud niet overeen met de inhoud die is gekopieerd op het klembord."
+title: 'Workfront Proof: Inhoud wordt onjuist geplakt in het gedeelte Updates van de Desktop Proofing Viewer'
+description: Wanneer u inhoud probeert te plakken in de sectie Updates van een proefdruk in de Desktop Proofing Viewer, komt de inhoud niet overeen met de inhoud die is gekopieerd op het klembord.
 hidefromtoc: true
 feature: Workfront Proof
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+exl-id: 9469129d-3502-45f2-9efb-afe9d78a9ac7
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%

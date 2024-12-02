@@ -1,5 +1,5 @@
 ---
-title: "Workfront: branding is niet toegepast"
+title: 'Workfront: branding wordt niet toegepast'
 description: Wanneer een gebruiker bestanden uploadt naar het gedeelte Branding van de installatie, lijken de bestanden op de juiste wijze te zijn geüpload. Als een gebruiker echter het hoofdmenu weergeeft, ziet hij of zij het logo niet. In plaats daarvan zien ze een foutbericht.
 hidefromtoc: true
 feature: System Setup and Administration

@@ -1,5 +1,5 @@
 ---
-title: 'Home: kan de documentafbeelding niet bekijken in de werklijst'
+title: 'Home: Kan de documentafbeelding niet weergeven in de werklijst'
 description: Wanneer een gebruiker op een .docx-miniatuur klikt om een voorvertoning van het document weer te geven, wordt een videospeler geopend die het document niet kan zien.
 exl-id: 63b02355-0857-4da2-98d4-190ed4219b89
 hidefromtoc: true

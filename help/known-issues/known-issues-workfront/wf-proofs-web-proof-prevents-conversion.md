@@ -1,5 +1,5 @@
 ---
-title: "Proefdrukken: bewijs voorkomt conversie van taak of afgifte naar project"
+title: 'Proefdrukken: proefdrukken voorkomt conversie van taak of uitgave naar project'
 description: Wanneer een gebruiker een taak of kwestie probeert om te zetten die een Web geproduceerde proef in een project omvat, wordt het project niet gecreeerd en de gebruiker ziet een bericht. Er is een tijdelijke oplossing beschikbaar.
 hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management

@@ -1,5 +1,5 @@
 ---
-title: 'Aangepaste formulieren: kan niet schuiven naar extern opzoekveld'
+title: 'Aangepaste formulieren: kan niet schuiven in extern opzoekveld'
 description: Wanneer een gebruiker de opties in een extern opzoekveld probeert weer te geven, wordt het vervolgkeuzemenu met opties niet verschoven en kan de gebruiker niet de volledige lijst met opties zien
 hidefromtoc: true
 feature: Custom Forms

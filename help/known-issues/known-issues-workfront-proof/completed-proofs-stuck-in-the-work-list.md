@@ -1,5 +1,5 @@
 ---
-title: 'Home: voltooide proefdrukken die op de werklijst blijven staan'
+title: 'Home: voltooide proefdrukken die vastzitten in de werklijst'
 description: Nadat een gebruiker een proef voltooit, verschijnt het nog in [!UICONTROL Work List].
 exl-id: 1d52d477-4ba9-4a64-a91d-26682a6c607f
 hidefromtoc: true

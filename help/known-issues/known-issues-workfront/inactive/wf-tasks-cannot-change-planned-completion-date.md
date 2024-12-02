@@ -1,6 +1,6 @@
 ---
-title: 'Taken: kan de geplande voltooiingsdatum van een taak niet wijzigen'
-description: 'Wanneer een gebruiker probeert de geplande voltooiingsdatum van een taak te wijzigen, reageert het veld niet. '
+title: 'Taken: Kan geplande voltooiingsdatum van een taak niet wijzigen'
+description: 'Wanneer een gebruiker probeert de Geplande Datum van Voltooiing van een taak te veranderen, reageert het gebied niet. '
 hidefromtoc: true
 exl-id: a65d7c71-cc27-4f44-8f96-3c56b83910ac
 feature: Tasks

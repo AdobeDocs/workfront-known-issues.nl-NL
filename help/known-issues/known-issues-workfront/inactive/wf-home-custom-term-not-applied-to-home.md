@@ -1,5 +1,5 @@
 ---
-title: 'Home: aangepaste terminologie wordt niet toegepast op het thuisgebied'
+title: 'Home: Aangepaste terminologie wordt niet toegepast op het gebied Home'
 description: In het gebied Home worden standaardnamen voor objecten weergegeven in plaats van de terminologie die door de organisatie is ingesteld. Dit is op verschillende gebieden gemeld.
 exl-id: d15afc61-25f7-4fd8-9f9a-db94ed392082
 hidefromtoc: true
