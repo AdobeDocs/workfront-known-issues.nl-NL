@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8bb5041a13374ce5dde6a1db173487f50d049f17
+source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
 workflow-type: tm+mt
-source-wordcount: '2038'
+source-wordcount: '2072'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Goedkeuringen: geen gedelegeerde goedkeuringen voor gedelegeerden](known-issues-workfront/wf-approvals-delegation-not-working.md)
+      + [Documenten: fout &quot;Niet-opgeslagen wijzigingen&quot; bij het toevoegen van een formulier aan een document](known-issues-workfront/wf-documents-unsaved-changes-error.md)
+      + [Taken: het veld Gereed om te starten wordt niet bijgewerkt ondanks voltooide voordecessors](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)
+      + [Workfront: datumnotatie verandert tijdens de toepassing](known-issues-workfront/wf-workfront-date-format-changing.md)
       + [Workfront: ZScaler-instellingen kunnen leiden tot verminderde prestaties](known-issues-workfront//wf-workfront-zscaler.md)
       + [Tijdschema&#39;s: gebruikers van de contribuant hebben een knop &quot;Ter goedkeuring verzenden&quot;](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
       + [Meldingen: e-mailmeldingen voor updates worden niet verzonden](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)

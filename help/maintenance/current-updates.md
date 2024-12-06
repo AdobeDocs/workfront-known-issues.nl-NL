@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
+source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
 workflow-type: tm+mt
-source-wordcount: '6541'
+source-wordcount: '6944'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,77 @@ Voor onderhoudsupdates voorafgaand aan 2024, zie [ Vorige Updates van het Onderh
 
 De volgende onderhoudsupdates zijn uitgevoerd in 2024.
 
+## Updates in december 2024
+
++++**Update van het Onderhoud op 5 December, 2024**
+
+### Onderhoudsupdate op 5 december 2024
+
+#### Aangepaste formulieren
+
+**kan niet &quot;estiméByHours&quot;of &quot;hoursPerPoint&quot;taakgebieden** toevoegen
+
+Wanneer een gebruiker de velden &quot;estiméByHours&quot; of &quot;hoursPerPoint&quot; probeert toe te voegen aan een aangepast formulier in de formulierbuilder, wordt een foutbericht weergegeven: &quot;Dit is een ongeldige aangepaste expressie. Probeer het opnieuw.&quot;
+
+**logica van de Vertoning het werken niet in douaneformulieren**
+
+Wanneer een gebruiker informatie invoert in een aangepast formulier met weergavelogica, worden velden die op basis van de weergaverelogica moeten worden weergegeven, niet weergegeven.
+
+#### Home
+
+**de Medewerkers toonden nonfunctioneel &quot;Werk aan het&quot;knoop**
+
+Gebruikers van Contribute hebben toegang tot een niet-functionele knop &quot;eraan werken&quot; in de widget Mijn werk in Home.
+
+#### Rapporten
+
+**de kwarten van de Douane verschijnen niet in rapportherinneringen**
+
+Wanneer een gebruiker een rapport met een op datum-gebaseerde herinnering in werking stelt, verschijnen de aangepaste kwartalen niet in de lijst van selecties voor de herinnering.
+
++++
+
 ## Updates in november 2024
+
++++**Update van het Onderhoud op 28 November, 2024**
+
+### Onderhoudsupdate op 28 november 2024
+
+#### Projecten
+
+**kan geen projecten wegens &quot;toegang delen om&quot;fout** te schrappen
+
+Wanneer u probeert een project te delen, ontvangt de gebruiker een fout: &quot;U hebt onvoldoende toegang om dit project te verwijderen&quot;. Dit gebeurt ondanks het feit dat de gebruiker het project niet probeert te verwijderen en dat de gebruiker de eigenaar van het project is en toegang tot het project heeft via Delen en beheren.
+
+#### Rapporten
+
+**gebied van de Naam van de Categorie dat niet met douanevorm** verbindt
+
+Wanneer het bekijken van een lijst in een rapport die een gebied van de Naam van de Categorie bevat, kan de inhoud van de kolom van de Naam van de Categorie niet worden geklikt om de overeenkomstige douaneformulier te openen.
+
+**de douanekleuren van de Groep in rapporten die** niet werken
+
+Wanneer het toewijzen van een douanekleur aan een groep in de rapportbouwer, verschijnt de kleurenselectie niet wanneer het runnen van het rapport.
+
+**Lange ladingstijden voor rapporten**
+
+Rapporten duurt langer om te laden. Dit beïnvloedt het bekijken rapporten, en het uitgeven en het creëren van rapporten in de rapportbouwer.
+
+**gebied van de Tijd het missen voor berekende gebieden van de Datum/van de Tijd in rapportherinneringen**
+
+Wanneer het runnen van een rapport een gebied van de douaneDatum/van de Tijd heeft als herinnering wordt gebruikt, mist het gebied van de tijdselectie van de snelle interface die.
+
+**Onbekwaam om gedeelde rapporten/dashboards** te bekijken
+
+Wanneer een gebruiker tot een rapport of een dashboard probeert toegang te hebben dat met hen is gedeeld, kan het rapport of dashboard niet worden betreden.
+
+#### Timesheets
+
+**de gebruikers van de Medewerker hebben &quot;voorleggen voor goedkeuring&quot;knoop**
+
+Hoewel gebruikers met het toegangsniveau voor Medewerker geen uren kunnen invoeren in tijdbladen, hebben ze een knop &quot;Ter goedkeuring verzenden&quot; waarop ze kunnen klikken.
+
++++
 
 +++**Update van het Onderhoud op 21 November, 2024**
 
