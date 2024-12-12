@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
+source-git-commit: c99217ec17f8bacf7593c9e337c74952efb6c69b
 workflow-type: tm+mt
-source-wordcount: '2072'
+source-wordcount: '2120'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,12 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Aangepaste formulieren: aangepaste gegevens worden niet weergegeven in het deelvenster Samenvatting](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
+      + [Agile: kan artikelen in een iteratie niet bulksgewijs bewerken](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
+      + [Proefdrukken: kan ontvangers niet aan proefdrukken toevoegen](known-issues-workfront/wf-proofs-cannot-add-recipients.md)
+      + [Proefdrukken: de naam van het bewijs wordt niet weergegeven op het tabblad browser](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md)
+      + [Taken: Er is een fout opgetreden bij het toevoegen van persoonlijke taken](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md)
+      + [Proefdrukken: proefdrukken van webvastlegging genereren geen](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
       + [Goedkeuringen: geen gedelegeerde goedkeuringen voor gedelegeerden](known-issues-workfront/wf-approvals-delegation-not-working.md)
       + [Documenten: fout &quot;Niet-opgeslagen wijzigingen&quot; bij het toevoegen van een formulier aan een document](known-issues-workfront/wf-documents-unsaved-changes-error.md)
       + [Taken: het veld Gereed om te starten wordt niet bijgewerkt ondanks voltooide voordecessors](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)
@@ -170,7 +176,7 @@ ht-degree: 0%
       + [Updates: Koppeling in opmerking gaat naar leeg scherm](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [Teams: kan teameigenaar niet weergeven of team verwijderen](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [Proefdrukken: proefdrukken voorkomt conversie van taak of uitgave naar project](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
-      + [Taken: Bizcontext-fout bij het toevoegen of verwijderen van een taak](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
+      + [Taken: De fout van het gegevensbestand wanneer het toevoegen van of het schrappen van een taak (eerder fout Bizcontext)](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
       + [Lay-outsjabloon: bestemmingspagina is onjuist](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
       + [Rapporten: het filter Rapport retourneert geen verwachte resultaten](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [Project: Kan uitgave niet converteren naar project als een webproefdruk is bijgevoegd](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)

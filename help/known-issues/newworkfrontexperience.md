@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
+source-git-commit: 15525c915fd95ffaf04f5ee4725c23856cabed1a
 workflow-type: tm+mt
-source-wordcount: '1058'
+source-wordcount: '1112'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Uitgave** | **Laatst gewijzigd** |
 | ----------------------------------------------------------------- | ----------------- |
+| [ Gezicht: Kan geen bulkartikelen in een herhaling uitgeven ](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md) | 5 december 2024 |
 | [ Goedkeuringen: Gedelegeerde goedkeuringen verschijnen niet voor afgevaardigden ](known-issues-workfront/wf-approvals-delegation-not-working.md) | 5 december 2024 |
 | [ Documenten: &quot;Unsaved veranderingen&quot;fout wanneer het toevoegen van een vorm aan een document ](known-issues-workfront/wf-documents-unsaved-changes-error.md) | 5 december 2024 |
 | [ Taken: Klaar aan het gebied van het Begin niet het bijwerken ondanks voltooide predecessors ](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md) | 3 december 2024 |
@@ -53,6 +54,11 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Uitgave** | **Laatst gewijzigd** |
 | ---------------------------------- | ----------------- |
+| [ de vormen van de Douane: De gegevens van de Douane worden niet getoond in Samenvatting paneel ](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 11 december 2024 |
+| [ Proofs: Kan ontvangers niet toevoegen aan proef ](known-issues-workfront/wf-proofs-cannot-add-recipients.md) | 11 december 2024 |
+| [ Proofs: De naam van het proef verschijnt niet op browser tabel ](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | 11 december 2024 |
+| [ Taken: De fout van Hele wanneer het toevoegen van persoonlijke taken ](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md) | 11 december 2024 |
+| [ Proofs: De proeven Webcapture produceren niet ](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 11 december 2024 |
 | [ Rapporten: Het Bulk die in grafieklijsten uitgeeft is niet ontvankelijk ](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 3 december 2024 |
 | [ Rapporten: Lange tijden van de rapportbouwer ](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 21 november 2024 |
 | [ API: De timing van verzoeken uit ](known-issues-workfront/wf-api-request-timing-out.md) | 24 oktober 2024 |
@@ -63,7 +69,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | [ Meldingen: De fout van Wiops wanneer het plaatsen van berichtvoorkeur ](known-issues-workfront/wf-notifications-whoops-error.md) | 8 augustus 2024 |
 | [ Niveaus van de Toegang: Dubbele toegangsniveaus in het gebied van de Opstelling ](known-issues-workfront/wf-access-duplicate-level.md) | 25 juli 2024 |
 | [ Teams: Kan teameigenaar niet bekijken of team schrappen ](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 april 2024 |
-| [ Taken: De fout van Bizcontext wanneer het toevoegen van of het schrappen van een taak ](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 4 april 2024 |
 | [[!DNL Workfront]: Kwesties die a  [!DNL Workfront]  steungeval op Experience League ](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) voorleggen | 2 augustus 2022 |
 
 {style="table-layout:auto"}
@@ -74,6 +79,7 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [ Taken: De fout van het gegevensbestand wanneer het toevoegen van of het schrappen van een taak (eerder fout Bizcontext) ](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 10 december 2024 |
 | [ malplaatjes van de Lay-out: De gegevensgebieden van de Douane tonen niet wanneer toegevoegd aan de Samenvatting van de Taak door het Malplaatje van de Lay-out ](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 4 november 2024 |
 | [ Meldingen: E-mailberichten voor updates worden niet verzonden ](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | 5 december 2024 |
 | [ Workfront: De gebruikers van de medewerker kunnen tot Programma&#39;s of Portfolio&#39;s niet toegang hebben ](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | 5 december 2024 |
