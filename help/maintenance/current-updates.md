@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
+source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
 workflow-type: tm+mt
-source-wordcount: '6944'
+source-wordcount: '7090'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,36 @@ Voor onderhoudsupdates voorafgaand aan 2024, zie [ Vorige Updates van het Onderh
 De volgende onderhoudsupdates zijn uitgevoerd in 2024.
 
 ## Updates in december 2024
+
++++**Update van het Onderhoud op 19 December, 2024**
+
+### Onderhoudsupdate op 19 december 2024
+
+Deze update bevat alleen kleine of minder belangrijke opgeloste problemen. Workfront Support geeft een melding wanneer een probleem dat je hebt verzonden, is opgelost.
+
++++
+
++++**Update van het Onderhoud op 12 December, 2024**
+
+### Onderhoudsupdate op 12 december 2024
+
+#### Dashboards
+
+**De Kolom verdwijnt wanneer gebruikt voor het sorteren in een dashboardrapport**
+
+Wanneer het sorteren van een rapport dat door een kolom in een dashboard wordt geplaatst, verdwijnt de kolom en de inhoud wordt niet gesorteerd.
+
+#### Rapporten
+
+**de kolom van de Groep onder grafiekoptie veroorzaakt fout**
+
+Wanneer het toelaten van de &quot;kolom van de Groep onder grafiek&quot;optie in een rapport met een grafiek, toont het volgende foutenbericht: &quot;Er is een fout voorgekomen en wij werken om de kwestie op te lossen. Vernieuw deze browserpagina om verder te gaan met uw werk.&quot;
+
+**Bulk geeft uit en schrapt pictogrammen mist van rapporten**
+
+Wanneer u probeert meerdere rapportitems bulksgewijs te bewerken of te verwijderen, worden de pictogrammen Bewerken en Verwijderen niet altijd weergegeven.
+
++++
 
 +++**Update van het Onderhoud op 5 December, 2024**
 

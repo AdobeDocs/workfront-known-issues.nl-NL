@@ -3,14 +3,19 @@ title: 'Taken: het veld Gereed om te starten wordt niet bijgewerkt ondanks volto
 description: Het veld Gereed om te starten voor een taak met voorgangers werkt niet bij naar Waar, ondanks dat alle vereiste voorgangers zijn gemarkeerd als Voltooid.
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
+exl-id: 1eb9441c-ffd0-4953-9e5c-61e8e32b8600
+source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
 
 # Taken: het veld Gereed om te starten wordt niet bijgewerkt ondanks voltooide voordecessors
+
+>[!NOTE]
+>
+>Deze kwestie is op 9 december 2024 vastgesteld.
 
 Het veld Gereed om te starten voor een taak met voorgangers werkt niet bij naar Waar, ondanks dat alle vereiste voorgangers zijn gemarkeerd als Voltooid.
 

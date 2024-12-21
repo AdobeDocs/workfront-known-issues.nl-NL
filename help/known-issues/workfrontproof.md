@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor  [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 15525c915fd95ffaf04f5ee4725c23856cabed1a
+source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [ Proofs: Kan ontvangers niet toevoegen aan proef ](known-issues-workfront/wf-proofs-cannot-add-recipients.md) | 11 december 2024 |
 | [ Proofs: De naam van het proef verschijnt niet op browser tabel ](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | 11 december 2024 |
-| [ Proofs: De proeven Webcapture produceren niet ](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 11 december 2024 |
 | [ Documenten: Kan voorproefdocumenten met voorproefverbinding niet ](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 15 augustus 2024 |
 | [ Meldingen: De miniaturen niet zichtbaar in e-mailberichten ](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 juli 2024 |
 | [ kan geen mening voor de lijst van Documenten tot stand brengen ](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 15 juli 2024 |
@@ -57,6 +55,7 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [ Proofs: De proeven Webcapture produceren niet ](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 20 december 2024 |
 | [ Proofs: Gezipped proefdrukken ontbreken om ](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) te produceren | 7 juni 2024 |
 | [ Proofs: Fout wanneer het delen van proef van e-mailverbinding ](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 16 november 2023 |
 | [[!DNL Workfront Proof]: Kan werkstroom niet uitvouwen ](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25 oktober 2023 |
