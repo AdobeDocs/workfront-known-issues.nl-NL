@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor  [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
+source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [ Documenten: Het gebied van Documenten toont niet alle documenten ](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | 2 januari 2024 |
 | [ Workfront Mobile: De e-mailverbindingen van het bewijs zullen niet op iPhone ](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) openen | 9 oktober 2024 |
 | [ Gelijk: Het raad van het Verhaal gaat leeg wanneer het toevoegen van een subtask ](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 26 juli 2024 |
 | [ Proofs: Het openen van een proef opent veelvoudige exemplaren ](known-issues-workfront/wf-proofs-two-proofs-open.md) | 25 juli 2024 |

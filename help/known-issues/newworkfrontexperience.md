@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
+source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
 workflow-type: tm+mt
-source-wordcount: '1082'
+source-wordcount: '1142'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,11 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Uitgave** | **Laatst gewijzigd** |
 | ----------------------------------------------------------------- | ----------------- |
+| [ Updates: De geregistreerde uren tonen niet op het etiket van de Tijd van het Logboek in het gebied van Updates ](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md) | 2 januari 2024 |
+| [ Rapporten: De herinneringen van het rapport langzaam laden ](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 2 januari 2024 |
+| [ Meldingen: De pushberichten aan Workfront Mobile app werken niet ](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 2 januari 2024 |
+| [ Documenten: Het gebied van Documenten toont niet alle documenten ](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | 2 januari 2024 |
+| [ Aangepaste vormen: Fout wanneer het uitgeven van douanevorm door kolom ](known-issues-workfront/wf-custom-forms-error-when-editing.md) | 2 januari 2024 |
 | [ Documenten: &quot;Unsaved veranderingen&quot;fout wanneer het toevoegen van een vorm aan een document ](known-issues-workfront/wf-documents-unsaved-changes-error.md) | 5 december 2024 |
 | [ Integraties: Kan login aan Workfront voor Vooruitzichten ](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) niet | 3 december 2024 |
 | [ Taken: Kwesties met chronologieherberekening ](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 3 december 2024 |
@@ -49,6 +54,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Uitgave** | **Laatst gewijzigd** |
 | ---------------------------------- | ----------------- |
+| [ Verzoeken en kwesties: Fout met Geavanceerde Toewijzingen van de Gebruiker ](known-issues-workfront/wf-issues-advanced-user-assignment-error.md) | 2 januari 2025 |
 | [ de vormen van de Douane: Kan &quot;schattingByHours&quot;of &quot;hoursPerPoint&quot;taakgebieden ](known-issues-workfront/wf-custom-forms-invalid-fields.md) toevoegen | 20 december 2024 |
 | [ de vormen van de Douane: De gegevens van de Douane worden niet getoond in Samenvatting paneel ](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 11 december 2024 |
 | [ Proofs: De naam van het proef verschijnt niet op browser tabel ](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | 11 december 2024 |

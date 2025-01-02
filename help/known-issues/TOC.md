@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: c99217ec17f8bacf7593c9e337c74952efb6c69b
+source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
 workflow-type: tm+mt
-source-wordcount: '2120'
+source-wordcount: '2174'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,12 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Updates: geregistreerde uren worden niet weergegeven op het label Logtijd in het gebied Updates](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
+      + [Rapporten: rapport vraagt langzaam laden](known-issues-workfront/wf-reports-prompts-load-slowly.md)
+      + [Meldingen: pushmeldingen voor de Workfront Mobile-app werken niet](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
+      + [Documenten: in het gebied Documenten worden niet alle documenten weergegeven](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md)
+      + [Aangepaste formulieren: fout bij het bewerken van een aangepast formulier via kolom](known-issues-workfront/wf-custom-forms-error-when-editing.md)
+      + [Verzoeken en problemen: Fout met geavanceerde gebruikerstoewijzingen](known-issues-workfront/wf-issues-advanced-user-assignment-error.md)
       + [Aangepaste formulieren: aangepaste gegevens worden niet weergegeven in het deelvenster Samenvatting](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
       + [Agile: kan artikelen in een iteratie niet bulksgewijs bewerken](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
       + [Proefdrukken: kan ontvangers niet aan proefdrukken toevoegen](known-issues-workfront/wf-proofs-cannot-add-recipients.md)
