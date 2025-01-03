@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
+source-git-commit: be24594ee77ab33b5bec2e1fcd6219fa6ccebbe2
 workflow-type: tm+mt
-source-wordcount: '1142'
+source-wordcount: '1177'
 ht-degree: 0%
 
 ---
@@ -54,6 +54,10 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Uitgave** | **Laatst gewijzigd** |
 | ---------------------------------- | ----------------- |
+| [ Borden: Kan kaart aan verschillende kolom niet bewegen ](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | 2 januari 2025 |
+| [ de vormen van de Douane: Het bericht van de &quot;Ongeldige gebieden&quot;wanneer het uitgeven van een douanevorm ](known-issues-workfront/wf-custom-forms-blank-required-field.md) | 2 januari 2025 |
+| [ Gebruikers: Onduidelijke het bijwerken gebruikers is zeer langzaam ](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | 2 januari 2025 |
+| [ de vormen van de Douane: De radioknopen zijn horizontaal vermeld ](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md) | 2 januari 2025 |
 | [ Verzoeken en kwesties: Fout met Geavanceerde Toewijzingen van de Gebruiker ](known-issues-workfront/wf-issues-advanced-user-assignment-error.md) | 2 januari 2025 |
 | [ de vormen van de Douane: Kan &quot;schattingByHours&quot;of &quot;hoursPerPoint&quot;taakgebieden ](known-issues-workfront/wf-custom-forms-invalid-fields.md) toevoegen | 20 december 2024 |
 | [ de vormen van de Douane: De gegevens van de Douane worden niet getoond in Samenvatting paneel ](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 11 december 2024 |

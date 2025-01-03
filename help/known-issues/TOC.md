@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
+source-git-commit: be24594ee77ab33b5bec2e1fcd6219fa6ccebbe2
 workflow-type: tm+mt
-source-wordcount: '2174'
+source-wordcount: '2205'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Borden: Kan kaart niet naar andere kolom verplaatsen](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
+      + [Aangepaste formulieren: bericht &quot;Ongeldige velden&quot; bij het bewerken van een aangepast formulier](known-issues-workfront/wf-custom-forms-blank-required-field.md)
+      + [Gebruikers: gebruikers die bulksgewijs updates uitvoeren, zijn zeer traag](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
+      + [Aangepaste formulieren: keuzerondjes worden horizontaal weergegeven](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md)
       + [Updates: geregistreerde uren worden niet weergegeven op het label Logtijd in het gebied Updates](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
       + [Rapporten: rapport vraagt langzaam laden](known-issues-workfront/wf-reports-prompts-load-slowly.md)
       + [Meldingen: pushmeldingen voor de Workfront Mobile-app werken niet](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
