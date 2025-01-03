@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: be24594ee77ab33b5bec2e1fcd6219fa6ccebbe2
+source-git-commit: e35f7b857de061973467ddd90400dea51f3a2b59
 workflow-type: tm+mt
-source-wordcount: '2205'
+source-wordcount: '2219'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Aangepaste formulieren: aangepast formulier wordt weergegeven in de oude indeling](known-issues-workfront/wf-custom-forms-legacy-form-appears.md)
+      + [Factureringsrecord: uren worden niet opgeslagen](known-issues-workfront/wf-billing-record-hours-not-saved.md)
       + [Borden: Kan kaart niet naar andere kolom verplaatsen](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
       + [Aangepaste formulieren: bericht &quot;Ongeldige velden&quot; bij het bewerken van een aangepast formulier](known-issues-workfront/wf-custom-forms-blank-required-field.md)
       + [Gebruikers: gebruikers die bulksgewijs updates uitvoeren, zijn zeer traag](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)

@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: be24594ee77ab33b5bec2e1fcd6219fa6ccebbe2
+source-git-commit: e35f7b857de061973467ddd90400dea51f3a2b59
 workflow-type: tm+mt
-source-wordcount: '1177'
+source-wordcount: '1193'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,8 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Uitgave** | **Laatst gewijzigd** |
 | ----------------------------------------------------------------- | ----------------- |
+| [ de vormen van de Douane: De vorm van de douane verschijnt in erfenisformaat ](known-issues-workfront/wf-custom-forms-legacy-form-appears.md) | 3 januari 2024 |
+| [ het Factureren verslag: De uren worden niet bewaard ](known-issues-workfront/wf-billing-record-hours-not-saved.md) | 3 januari 2024 |
 | [ Updates: De geregistreerde uren tonen niet op het etiket van de Tijd van het Logboek in het gebied van Updates ](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md) | 2 januari 2024 |
 | [ Rapporten: De herinneringen van het rapport langzaam laden ](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 2 januari 2024 |
 | [ Meldingen: De pushberichten aan Workfront Mobile app werken niet ](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 2 januari 2024 |
