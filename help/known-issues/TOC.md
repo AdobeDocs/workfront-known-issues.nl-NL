@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: e35f7b857de061973467ddd90400dea51f3a2b59
+source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
 workflow-type: tm+mt
-source-wordcount: '2219'
+source-wordcount: '2242'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Home: Ontbrekende goedkeuringsknoppen in wachtende widget goedkeuring](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md)
+      + [Gebruikers: account dupliceren gemaakt bij wijzigen van systeembeheerder](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
+      + [Projecten: late voorwaarde niet van toepassing zoals verwacht](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
       + [Aangepaste formulieren: aangepast formulier wordt weergegeven in de oude indeling](known-issues-workfront/wf-custom-forms-legacy-form-appears.md)
       + [Factureringsrecord: uren worden niet opgeslagen](known-issues-workfront/wf-billing-record-hours-not-saved.md)
       + [Borden: Kan kaart niet naar andere kolom verplaatsen](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)

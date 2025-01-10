@@ -4,14 +4,18 @@ description: Na het schrappen van de status van een groep, ondanks de groep die 
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: 061bfacc-5350-4e5f-91c1-89b32835d6e5
-source-git-commit: 15525c915fd95ffaf04f5ee4725c23856cabed1a
+source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
 
 # Groepen: Problemen bij het verwijderen van groepsstatus
+
+>[!NOTE]
+>
+>Dit probleem is gesloten omdat het niet opnieuw kan worden weergegeven.
 
 De volgende problemen zijn gemeld met betrekking tot het verwijderen van groepsstatussen:
 

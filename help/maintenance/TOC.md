@@ -2,10 +2,10 @@
 user-guide-title: Onderhoudsreleases
 user-guide-description: Onderhoudsreleases voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 5888405d48bb6a271fcfe748d3cce99e2ccfadaf
+source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
 workflow-type: tm+mt
-source-wordcount: '15'
-ht-degree: 13%
+source-wordcount: '17'
+ht-degree: 11%
 
 ---
 
@@ -13,6 +13,7 @@ ht-degree: 13%
 # Onderhoudsrelease {#releases}
 
 + [Huidige updates](current-updates.md)
++ [2024 Updates](2024-updates.md)
 + [2023-updates](2023-updates.md)
 + [2022-updates](2022-updates.md)
 + [2021-updates](2021-updates.md)
