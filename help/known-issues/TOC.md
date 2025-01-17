@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
+source-git-commit: 72d8b7becf9d5a009c04108f3492bd19d1261a8c
 workflow-type: tm+mt
-source-wordcount: '2242'
+source-wordcount: '2262'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Taken: het geregistreerde uur blijft op vorige project zodra bewogen](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md)
+      + [Rapporten: de rapportfilters van het uur bevatten onjuiste datums](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md)
+      + [Timesheets: Onjuist totaal aantal uren](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md)
       + [Home: Ontbrekende goedkeuringsknoppen in wachtende widget goedkeuring](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md)
       + [Gebruikers: account dupliceren gemaakt bij wijzigen van systeembeheerder](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
       + [Projecten: late voorwaarde niet van toepassing zoals verwacht](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)

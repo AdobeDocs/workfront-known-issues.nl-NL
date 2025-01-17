@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
+source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -26,13 +26,37 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2025.
 
 ## Updates in januari 2025
 
-+++**Update van het Onderhoud op 9 Januari, 2025**
++++**Update van het Onderhoud op 16 Januari, 2025**
 
-<!-- Delete this entry when next is added, no updates were made. -->
+### Onderhoudsupdate op 16 januari 2025
 
-### Onderhoudsupdate op 9 januari 2025
+#### Documenten
 
-Deze update bevat alleen kleine of minder belangrijke opgeloste problemen. Workfront Support geeft een melding wanneer een probleem dat je hebt verzonden, is opgelost.
+**&quot;Niet-opgeslagen veranderingen&quot;fout wanneer het toevoegen van een vorm aan een document**
+
+Als u een formulier aan een document toevoegt, wordt een fout met de naam &quot;Niet-opgeslagen wijzigingen&quot; weergegeven die niet kan worden gesloten en interactie met de toepassing voorkomt.
+
+#### Proefdrukken
+
+**de naam van het Bewijs verschijnt niet op browser tabel**
+
+Wanneer een gebruiker een proef bekijkt, is de naam van de proef niet zichtbaar op browser tabel. In plaats daarvan wordt op het browsertabblad &quot;Workfront&quot; weergegeven.
+
+#### Verzoeken en vragen
+
+**Fout met Geavanceerde Toewijzingen van de Gebruiker**
+
+Wanneer een gebruiker een Geavanceerde Toewijzing van de Gebruiker op een verzoek of een kwestie probeert te maken, wordt de gebruiker niet toegewezen, en de gebruiker ziet de volgende fout:
+
+&quot;Er is een fout opgetreden en we werken eraan het probleem op te lossen. Vernieuw deze browserpagina om verder te gaan met uw werk.&quot;
+
+Het vernieuwen van de browserpagina is niet effectief.
+
+#### Verzoeken
+
+**kan geen verzoeken in de milieu&#39;s van de Voorproef creëren**
+
+Wanneer u een nieuwe aanvraag probeert te maken in een Sandbox-omgeving met voorvertoningen van voorvertoningen, wordt een fout weergegeven die aangeeft dat de aanvraagwachtrij niet meer beschikbaar is en dat de aanvraag niet kan worden gemaakt.
 
 +++
 
