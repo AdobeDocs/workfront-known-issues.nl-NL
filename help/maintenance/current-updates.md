@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
+source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,24 @@ Voor onderhoudsupdates voorafgaand aan 2025, zie [ Vorige Updates van het Onderh
 De volgende onderhoudsupdates zijn uitgevoerd in 2025.
 
 ## Updates in januari 2025
+
++++**Update van het Onderhoud op 23 Januari, 2025**
+
+### Onderhoudsupdate op 23 januari 2025
+
+#### Rapporten
+
+**fout van de de muntgebiedsoorzaak van de Douane het rapport**
+
+Wanneer een rapportmening twee of meer gebieden van de douanevaluta bevat, keert het rapport en fout terug.
+
+#### Gebruikers
+
+**De tag Niet-geregistreerd blijft bestaan na de aanmelding**
+
+Hoewel u zich minstens één keer met succes hebt aangemeld, verdwijnt de tag &#39;unregistered&#39; niet zoals verwacht voor nieuwe gebruikers.
+
++++
 
 +++**Update van het Onderhoud op 16 Januari, 2025**
 
