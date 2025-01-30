@@ -1,26 +1,27 @@
 ---
 title: 'Documenten: fout bij het gebruik van een openbare koppeling naar een document'
-description: Wanneer een gebruiker op een openbare koppeling klikt om naar een document in Workfront te gaan, wordt mogelijk een fout weergegeven.
+description: Wanneer een gebruiker op een openbare koppeling klikt om naar een document in Workfront te gaan, wordt een fout weergegeven.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: c5ef7b1b-7652-4a41-980d-210b7b48a586
-source-git-commit: d34df8cd575d6b17a02bc4ed25fa5ca891c2afe7
+source-git-commit: 154faa161413258aae76968495cb464b17d71857
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
 # Documenten: fout bij het gebruik van een openbare koppeling naar een document
 
+<!--
 >[!NOTE]
 >
->Dit probleem is opgelost.
+>This issue has been resolved.-->
 
-Wanneer een gebruiker op een openbare koppeling klikt om naar een document in Workfront te gaan, kan een van de volgende fouten worden weergegeven:
+Wanneer een gebruiker op een openbare koppeling klikt om naar een document in Workfront te gaan, wordt de volgende fout weergegeven: &quot;Dat document bestaat niet meer&quot;.
 
-* 500-fout
-* &quot;[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]&quot;
+**Oplossing**
 
+Als de gebruiker is aangemeld, kan hij of zij het document naar behoren bekijken.
 
-_Eerste rapporteerde op 30 Mei, 2024._
+_Eerste rapporteerde op 10 Januari, 2025._

@@ -3,15 +3,19 @@ title: 'Meldingen: pushmeldingen voor de Workfront Mobile-app werken niet'
 description: Wanneer een gebeurtenis plaatsvindt die een pushmelding naar de Workfront Mobile-app moet activeren, wordt het bericht niet ontvangen.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 0031b3acdaba091cc83ae44b9d47fb473dae6053
+exl-id: 5f2fab99-d825-4abf-ae4a-d03de6d10de2
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-
 # Meldingen: pushmeldingen voor de Workfront Mobile-app werken niet
+
+>[!NOTE]
+>
+>Dit artikel is vastgesteld op 22 januari 2025.
 
 Wanneer een gebeurtenis plaatsvindt die een pushmelding naar de Workfront Mobile-app moet activeren, wordt het bericht niet ontvangen.
 

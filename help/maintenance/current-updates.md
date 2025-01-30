@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,24 @@ Voor onderhoudsupdates voorafgaand aan 2025, zie [ Vorige Updates van het Onderh
 De volgende onderhoudsupdates zijn uitgevoerd in 2025.
 
 ## Updates in januari 2025
+
++++**Update van het Onderhoud op 30 Januari, 2025**
+
+### Onderhoudsupdate op 30 januari 2025
+
+#### Home
+
+**goedkeuringen verschijnen niet in Huis widget**
+
+De goedkeuringen die door een gebruiker worden voorgelegd verschijnen niet in hun eigen Mijn widget van Goedkeuringen, zelfs wanneer gefilterd om hen specifiek te tonen.
+
+#### Rapporten
+
+**de rapportfilters van het Uur omvatten onjuiste data**
+
+Wanneer het filtreren van een uurrapport om slechts een specifieke datum te tonen, is een verschillende aangrenzende datum eigenlijk inbegrepen in het rapport. Dit probleem lijkt te zijn gerelateerd aan de instellingen voor de tijdzone.
+
++++
 
 +++**Update van het Onderhoud op 23 Januari, 2025**
 

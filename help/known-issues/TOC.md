@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
 workflow-type: tm+mt
-source-wordcount: '2284'
+source-wordcount: '2297'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Proefdrukken: Kan bepaalde gebruikers niet labelen](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
+      + [Taken: filters en weergaven op projectniveau beschikbaar voor taken](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md)
       + [Rapporten: aangepaste typeringsvelden in boor-down reageren niet](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)
       + [Aanmelden als: sjabloon voor startpagina van beheerder wordt weergegeven](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
       + [Gebruikers: fout in kostenfrequentie bewerken](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md)
@@ -173,7 +175,7 @@ ht-degree: 0%
       + [Statussen: kan eerder verwijderde status niet opnieuw gebruiken](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
       + [Home: Kan de widget Onthoudingen niet verwijderen](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
       + [Navigatie: de knop Terug gaat niet terug naar de vorige pagina](known-issues-workfront/wf-navigation-back-button-not-work.md)
-      + [Documenten: fout bij het gebruik van een openbare koppeling naar een document](known-issues-workfront/wf-documents-public-link-not-working.md)
+      + [Documenten: fout bij het gebruik van een openbare koppeling naar een document](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md)
       + [Proefdrukken: kan de proefdrukviewer niet sluiten](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
       + [Projecten: het menu Delen wordt niet geladen](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
       + [Rapporten: openbare koppelingen naar een rapport werken niet](known-issues-workfront/wf-reports-public-link-not-working.md)

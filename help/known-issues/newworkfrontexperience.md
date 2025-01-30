@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
 workflow-type: tm+mt
-source-wordcount: '1136'
+source-wordcount: '1121'
 ht-degree: 0%
 
 ---
@@ -25,17 +25,15 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Uitgave** | **Laatst gewijzigd** |
 | ----------------------------------------------------------------- | ----------------- |
+| [ Proofs: Kan bepaalde gebruikers niet etiketteren ](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 30 januari 2025 |
+| [ Documenten: Fout wanneer het gebruiken van een openbare verbinding aan een document ](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md) | 30 januari 2025 |
+| [ Taken: Project-vlakke filters en meningen beschikbaar voor taken ](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | 30 januari 2025 |
 | [ Rapporten: De gebieden van de typeringsknoop van de douane in boor neer antwoordt niet ](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md) | 23 januari 2025 |
-| [ Login als: De lay-outmalplaatje van het Huis van de beheerder wordt getoond ](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md) | 23 januari 2025 |
-| [ Gebruikers: Het uitgeven van de fout van het kostentarief ](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md) | 23 januari 2025 |
 | [ Taken: Het geregistreerde uur blijft op vorig project zodra bewogen ](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | 16 januari 2025 |
-| [ Rapporten: De het rapportfilters van het uur omvatten onjuiste data ](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md) | 16 januari 2025 |
 | [ Timesheets: Onjuiste totale uren ](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md) | 16 januari 2025 |
 | [ Huis: De knopen van de goedkeuring ontbreken van het wachten van Goedkeuring widget ](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | 9 januari 2025 |
 | [ Gebruikers: De dubbele rekening leidde tot toen het veranderen van systeembeheerder ](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 9 januari 2025 |
 | [ Projecten: De laat voorwaarde die niet zoals verwacht van toepassing is ](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | 9 januari 2025 |
-| [ het Factureren verslag: De uren worden niet bewaard ](known-issues-workfront/wf-billing-record-hours-not-saved.md) | 3 januari 2024 |
-| [ Meldingen: De pushberichten aan Workfront Mobile app werken niet ](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 2 januari 2024 |
 | [ Integraties: Kan login aan Workfront voor Vooruitzichten ](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) niet | 3 december 2024 |
 | [ Taken: Kwesties met chronologieherberekening ](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 3 december 2024 |
 | [ Workfront: De Browser open lusjes verlaten niet om ](known-issues-workfront/wf-workfront-browser-tabs-error.md) te laden | 12 november 2024 |
@@ -58,7 +56,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Uitgave** | **Laatst gewijzigd** |
 | ---------------------------------- | ----------------- |
-| [ Borden: Kan kaart aan verschillende kolom niet bewegen ](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | 2 januari 2025 |
 | [ de vormen van de Douane: De gegevens van de Douane worden niet getoond in Samenvatting paneel ](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 11 december 2024 |
 | [ Rapporten: Het Bulk die in grafieklijsten uitgeeft is niet ontvankelijk ](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 3 december 2024 |
 | [ Rapporten: Lange tijden van de rapportbouwer ](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 21 november 2024 |
@@ -79,6 +76,7 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [ Login als: De lay-outmalplaatje van het Huis van de beheerder wordt getoond ](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md) | 23 januari 2025 |
 | [ Rapporten: De herinneringen van het rapport langzaam laden ](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 16 januari 2024 |
 | [ Proofs: De proeven Webcapture produceren niet ](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 20 december 2024 |
 | [ Workfront: De formaatveranderingen van de Datum door toepassing ](known-issues-workfront/wf-workfront-date-format-changing.md) | 20 december 2024 |
