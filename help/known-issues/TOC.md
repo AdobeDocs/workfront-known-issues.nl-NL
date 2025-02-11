@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
 workflow-type: tm+mt
-source-wordcount: '2297'
+source-wordcount: '2319'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Lay-outsjablonen: verwijderde weergaven nog steeds beschikbaar](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md)
+      + [Aangepaste formulieren: bedrijven ontbreken in aangepast veld typekop](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md)
+      + [Documenten: kan niet uploaden naar lijst met AEM-mapdocumenten](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md)
       + [Proefdrukken: Kan bepaalde gebruikers niet labelen](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
       + [Taken: filters en weergaven op projectniveau beschikbaar voor taken](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md)
       + [Rapporten: aangepaste typeringsvelden in boor-down reageren niet](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)
@@ -57,7 +60,7 @@ ht-degree: 0%
       + [Documenten: bij goedkeuring &quot;snel toevoegen&quot; wordt geen deadline ingevoerd voor nieuwe versies](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md)
       + [Lay-outsjablonen: beheerders kunnen sjablonen voor de lay-out Home niet bewerken](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md)
       + [Gebruikers: de tag &quot;Niet-geregistreerd&quot; blijft bestaan na aanmelding](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md)
-      + [Workfront: gebruikers van Contribute hebben geen toegang tot programma&#39;s of Portfolio&#39;s](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
+      + [Workfront: gebruikers van contribuanten hebben geen toegang tot programma&#39;s of portfolio&#39;s](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
       + [Goedkeuringen: &quot;Alle&quot; filters sluiten persoonlijk ingediende goedkeuringen uit](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
       + [Taken: Verstreken tijdsduur dagen onjuist voor bovenliggende taken met onderliggende items](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
       + [Rapporten: Bulkbewerking in grafieklijsten reageert niet](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
@@ -168,7 +171,7 @@ ht-degree: 0%
       + [Goedkeuringen: Te veel omleidingen](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
       + [Updates: gekopieerde koppeling wordt niet correct geplakt](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
       + [Rapporten: &quot;Geen gegevens om weer te geven&quot; wanneer de naam van het groeperen een slash of backslash heeft](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
-      + [Integraties: problemen met de integratie van Dropboxxen](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
+      + [Integraties: problemen met Dropbox-integratie](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
       + [Rapporten: Fout bij het bekijken van rapportdetails die door douanedatum worden gegroepeerd](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
       + [Home: De widget voor goedkeuring is niet correct](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + [Bronplanning: [!UICONTROL More] knop is niet zichtbaar](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
@@ -212,7 +215,7 @@ ht-degree: 0%
       + [Instellen: kan [!UICONTROL Kick-Starts] niet gebruiken om groepen in te stellen](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md)
       + [Kaarten: kaarten die na het vernieuwen naar een kolom zijn verplaatst, worden teruggezet naar de oorspronkelijke kolom](known-issues-workfront/inactive/wf-boards-cards-not-move-to-custom-status.md)
       + [Documenten: heeft geen toegang  [!DNL SharePoint]](known-issues-workfront/inactive/wf-docs-sharepoint-authorization-required.md)
-      + [Dashboard: grote lege marge bij afdrukken van dashboard naar PDF](known-issues-workfront/inactive/wf-dashboard-blank-area-when-printing.md)
+      + [Dashboard: Grote lege marge bij afdrukken van dashboard naar PDF](known-issues-workfront/inactive/wf-dashboard-blank-area-when-printing.md)
       + [Home: De taken in projecten met Goedgekeurde of de status van de Planning zijn niet inbegrepen in Mijn Taken of de Lijst van het Werk van het Huis](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
       + [[!DNL Workfront]: branding wordt niet toegepast](known-issues-workfront/inactive/wf-workfront-branding-not-applied.md)
       + [Proefdrukken: voltooide proefdrukken blijven beschikbaar op de widget [!UICONTROL Awaiting My Approval]](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)

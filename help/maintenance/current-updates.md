@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '458'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Voor informatie over onderhoudstekorten voor alle producten van de Adobe, met inbegrip van Workfront, zie de [ pagina van de Status van de Adobe ](https://status.adobe.com/).
+>Voor informatie over onderhoudstekorten voor alle producten van Adobe, met inbegrip van Workfront, zie de [ pagina van de Status van Adobe ](https://status.adobe.com/).
 
 Op deze pagina worden de problemen beschreven die zijn opgelost in de wekelijkse Workfront-updates.
 
@@ -23,6 +23,20 @@ Deze updates bevatten ook andere kleine of minder duidelijke foutoplossingen. [!
 Voor onderhoudsupdates voorafgaand aan 2025, zie [ Vorige Updates van het Onderhoud ](#previous-maintenance-updates)
 
 De volgende onderhoudsupdates zijn uitgevoerd in 2025.
+
+## Updates in februari 2025
+
++++**Update van het Onderhoud op 6 Februari, 2025**
+
+### Onderhoudsupdate op 6 februari 2025
+
+#### Lijsten
+
+**Onbekwaam om taaklijst uit te geven na het uploaden van bewijs**
+
+Tijdens het uploaden van een proefdruk naar een project, kan de taaklijst voor dat project niet inline worden bewerkt totdat de pagina is vernieuwd of de proefdruk klaar is met uploaden.
+
++++
 
 ## Updates in januari 2025
 
