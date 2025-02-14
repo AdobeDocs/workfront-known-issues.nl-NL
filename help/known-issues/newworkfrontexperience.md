@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
+source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
 workflow-type: tm+mt
-source-wordcount: '1147'
+source-wordcount: '1139'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,6 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | [ Documenten: Kan niet uploaden aan de lijst van de de omslagdocumenten van AEM ](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 11 februari 2025 |
 | [ Documenten: Fout wanneer het gebruiken van een openbare verbinding aan een document ](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md) | 30 januari 2025 |
 | [ Taken: Project-vlakke filters en meningen beschikbaar voor taken ](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | 30 januari 2025 |
-| [ Rapporten: De gebieden van de typeringsknoop van de douane in boor neer antwoordt niet ](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md) | 23 januari 2025 |
 | [ Taken: Het geregistreerde uur blijft op vorig project zodra bewogen ](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | 16 januari 2025 |
 | [ Timesheets: Onjuiste totale uren ](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md) | 16 januari 2025 |
 | [ Huis: De knopen van de goedkeuring ontbreken van het wachten van Goedkeuring widget ](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | 9 januari 2025 |
@@ -59,7 +58,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | **Uitgave** | **Laatst gewijzigd** |
 | ---------------------------------- | ----------------- |
 | [ Proofs: Goedgekeurde proefdrukken verschijnen in rapporten ](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 11 februari 2025 |
-| [ de vormen van de Douane: De gegevens van de Douane worden niet getoond in Samenvatting paneel ](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 11 december 2024 |
 | [ Rapporten: Het Bulk die in grafieklijsten uitgeeft is niet ontvankelijk ](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 3 december 2024 |
 | [ Rapporten: Lange tijden van de rapportbouwer ](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 21 november 2024 |
 | [ API: De timing van verzoeken uit ](known-issues-workfront/wf-api-request-timing-out.md) | 24 oktober 2024 |
@@ -79,6 +77,7 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [ Proofs: Kan geen proefdrukken voor video&#39;s tot stand brengen die van AEM door Fusion ](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) worden verbonden | 13 februari 2025 |
 | [ Login als: De lay-outmalplaatje van het Huis van de beheerder wordt getoond ](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md) | 23 januari 2025 |
 | [ Rapporten: De herinneringen van het rapport langzaam laden ](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 16 januari 2024 |
 | [ Proofs: De proeven Webcapture produceren niet ](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 20 december 2024 |

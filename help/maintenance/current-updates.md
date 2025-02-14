@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
+source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
 workflow-type: tm+mt
-source-wordcount: '458'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,24 @@ Voor onderhoudsupdates voorafgaand aan 2025, zie [ Vorige Updates van het Onderh
 De volgende onderhoudsupdates zijn uitgevoerd in 2025.
 
 ## Updates in februari 2025
+
++++**Update van het Onderhoud op 13 Februari, 2025**
+
+### Onderhoudsupdate op 13 februari 2025
+
+#### Aangepaste formulieren
+
+**Gegevens van de Douane niet getoond in Samenvattend paneel**
+
+Wanneer een klant het deelvenster Samenvatting voor een taak bekijkt, zijn er geen aangepaste gegevens die in het deelvenster Overzicht moeten worden weergegeven. Dit kan zich voordoen, ook al bevat de lay-outsjabloon voor taken aangepaste velden.
+
+#### Rapporten
+
+**Snelle vertoningskwesties**
+
+Wanneer het toegang tot van een veroorzaakt rapport met een groot aantal herinneringen, staat de snelle dialoog niet het scrollen toe om tot alle herinneringen of de knoop van het Rapport van de Looppas toegang te hebben.
+
++++
 
 +++**Update van het Onderhoud op 6 Februari, 2025**
 

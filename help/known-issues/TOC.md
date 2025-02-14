@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
+source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
 workflow-type: tm+mt
-source-wordcount: '2319'
+source-wordcount: '2330'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Proefdrukken: kan geen proefdrukken maken voor video&#39;s die via Fusion zijn gekoppeld vanuit AEM](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md)
       + [Lay-outsjablonen: verwijderde weergaven nog steeds beschikbaar](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md)
       + [Aangepaste formulieren: bedrijven ontbreken in aangepast veld typekop](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md)
       + [Documenten: kan niet uploaden naar lijst met AEM-mapdocumenten](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md)
