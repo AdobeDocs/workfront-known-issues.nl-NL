@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
+source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '649'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,30 @@ Voor onderhoudsupdates voorafgaand aan 2025, zie [ Vorige Updates van het Onderh
 De volgende onderhoudsupdates zijn uitgevoerd in 2025.
 
 ## Updates in februari 2025
+
++++**Update van het Onderhoud op 20 Februari, 2025**
+
+### Onderhoudsupdate op 20 februari 2025
+
+#### Meldingen
+
+**E-mail en in-app meldingsvertragingen**
+
+Wanneer een gebeurtenis plaatsvindt die e-mail- of in-app-meldingen activeert, worden de meldingen niet verzonden op het moment van de gebeurtenis en nemen ze in plaats daarvan een paar uur in beslag om te worden verzonden.
+
+#### Taken
+
+**het Logged uur blijft op vorig project zodra bewogen**
+
+Nadat de taken naar een nieuw project zijn verplaatst, omvat het totaal van de projecturen voor het oorspronkelijke project uren voor de verplaatste taken. De taken behouden nog behoorlijk hun geregistreerde uren in het nieuwe project.
+
+#### Timesheets
+
+**Onjuiste totale uren**
+
+Bij de berekening van het totaal aantal uren in een tijdschets wordt soms een onjuist bedrag weergegeven.
+
++++
 
 +++**Update van het Onderhoud op 13 Februari, 2025**
 

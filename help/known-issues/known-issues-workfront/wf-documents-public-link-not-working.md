@@ -4,19 +4,18 @@ description: Wanneer een gebruiker op een openbare koppeling klikt om naar een d
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: c5ef7b1b-7652-4a41-980d-210b7b48a586
-source-git-commit: 154faa161413258aae76968495cb464b17d71857
+source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
 # Documenten: fout bij het gebruik van een openbare koppeling naar een document
 
-<!--
 >[!NOTE]
 >
->This issue has been resolved.-->
+>Deze kwestie is op 14 februari 2025 opgelost.
 
 Wanneer een gebruiker op een openbare koppeling klikt om naar een document in Workfront te gaan, wordt de volgende fout weergegeven: &quot;Dat document bestaat niet meer&quot;.
 
