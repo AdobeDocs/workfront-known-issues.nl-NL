@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor  [!DNL Adobe Workfront Fusion]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
+source-git-commit: 9b24b2758215149cbc2517f3c7cbac24b4070f10
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ Deze pagina bevat problemen die momenteel worden geïdentificeerd in [!DNL Adobe
 >
 >Voor informatie betreffende serveruptime of stroomonderbrekingen, zie [ status.adobe.com ](https://status.adobe.com). Voor informatie over kwesties die onlangs werden bevestigd, zie [[!DNL Workfront]  Updates van het Onderhoud ](../maintenance/current-updates.md).
 
-## Nieuw
+<!--
+## New
 
-Deze onlangs gemelde problemen worden momenteel geëvalueerd.
+These recently reported issues are currently under review.
 
-| **Uitgave** | **Laatst gewijzigd** |
+| **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [ API: De timing van verzoeken uit ](known-issues-workfront/wf-api-request-timing-out.md) | 5 augustus 2024 |
 
-{style="table-layout:auto"}
+{style="table-layout:auto"}-->
 
 ## In uitvoering
 
