@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
+source-git-commit: a2d7e98c114ca65872e60c4d9b507f90d663e5df
 workflow-type: tm+mt
-source-wordcount: '2330'
+source-wordcount: '2344'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Lay-outsjabloon: sectie Aangepaste herhalingen is niet toegankelijk](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md)
+      + [Meldingen: dubbele e-mails](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
+      + [Workfront Fusion: verbindingsfout bij scenario](/help/known-issues/known-issues-workfront/wf-fusion-scenario-connection-error.md)
       + [Proefdrukken: kan geen proefdrukken maken voor video&#39;s die via Fusion zijn gekoppeld vanuit AEM](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md)
       + [Lay-outsjablonen: verwijderde weergaven nog steeds beschikbaar](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md)
       + [Aangepaste formulieren: bedrijven ontbreken in aangepast veld typekop](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md)
