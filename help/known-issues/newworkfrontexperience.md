@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a2d7e98c114ca65872e60c4d9b507f90d663e5df
+source-git-commit: 4b156962d5d83984311eb4a3124a6fc864d23249
 workflow-type: tm+mt
-source-wordcount: '1100'
+source-wordcount: '1109'
 ht-degree: 0%
 
 ---
@@ -26,9 +26,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | **Uitgave** | **Laatst gewijzigd** |
 | ----------------------------------------------------------------- | ----------------- |
 | [ malplaatje van de Lay-out: De sectie van de herhalingen van de douane ontoegankelijk ](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md) | 24 februari 2025 |
-| [ Meldingen: Dubbele e-mail ](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | 24 februari 2025 |
 | [ Proofs: Kan bepaalde gebruikers niet etiketteren ](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 februari 2025 |
-| [ Documenten: Kan niet uploaden aan de lijst van de de omslagdocumenten van AEM ](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 11 februari 2025 |
 | [ Taken: Project-vlakke filters en meningen beschikbaar voor taken ](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | 30 januari 2025 |
 | [ Gebruikers: De dubbele rekening leidde tot toen het veranderen van systeembeheerder ](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 9 januari 2025 |
 | [ Taken: Kwesties met chronologieherberekening ](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 3 december 2024 |
@@ -52,6 +50,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Uitgave** | **Laatst gewijzigd** |
 | ---------------------------------- | ----------------- |
+| [ Huis: De knopen van de goedkeuring ontbreken van het wachten van Goedkeuring widget ](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | 27 februari 2025 |
 | [ Proofs: Goedgekeurde proefdrukken verschijnen in rapporten ](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 11 februari 2025 |
 | [ Rapporten: Lange tijden van de rapportbouwer ](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 21 november 2024 |
 | [ Integraties: Kan login aan Workfront voor Vooruitzichten ](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) niet | 24 september 2024 |
@@ -70,6 +69,8 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [ Meldingen: Dubbele e-mail ](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | 27 februari 2025 |
+| [ Documenten: Kan niet uploaden aan de lijst van de de omslagdocumenten van AEM ](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 27 februari 2025 |
 | [ Integraties: Kan login aan Workfront voor Vooruitzichten ](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) niet | 20 februari 2025 |
 | [ Projecten: De laat voorwaarde die niet zoals verwacht van toepassing is ](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | 20 januari 2025 |
 | [ de vormen van de Douane: Bedrijven die van het gebied van de douanetype ](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) ontbreken | 20 februari 2025 |

@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
+source-git-commit: 4b156962d5d83984311eb4a3124a6fc864d23249
 workflow-type: tm+mt
-source-wordcount: '649'
+source-wordcount: '693'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,18 @@ Voor onderhoudsupdates voorafgaand aan 2025, zie [ Vorige Updates van het Onderh
 De volgende onderhoudsupdates zijn uitgevoerd in 2025.
 
 ## Updates in februari 2025
+
++++**Update van het Onderhoud op 27 Februari, 2025**
+
+### Onderhoudsupdate op 27 februari 2025
+
+#### Groepen
+
+**kan beheerder toegangsniveau niet delen**
+
+Wanneer het proberen om het niveau van de beheerdertoegang tot een groep te delen, antwoordt de doos om elke groep te controleren niet en de groep bereikt niet het verwachte toegangsniveau.
+
++++
 
 +++**Update van het Onderhoud op 20 Februari, 2025**
 
