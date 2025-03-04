@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: a2d7e98c114ca65872e60c4d9b507f90d663e5df
+source-git-commit: 3b0bd3d5de463bc58c4bbbf54d407632dadab58d
 workflow-type: tm+mt
-source-wordcount: '2344'
+source-wordcount: '2352'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Integratie: outlookIdentityToken-fout bij gebruik van Workfront for Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
       + [Lay-outsjabloon: sectie Aangepaste herhalingen is niet toegankelijk](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md)
       + [Meldingen: dubbele e-mails](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
       + [Workfront Fusion: verbindingsfout bij scenario](/help/known-issues/known-issues-workfront/wf-fusion-scenario-connection-error.md)
