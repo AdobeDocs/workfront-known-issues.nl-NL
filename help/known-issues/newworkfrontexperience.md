@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
+source-git-commit: 2b7c3f6d18c70dc117688fe389e80d87c11c0cc4
 workflow-type: tm+mt
-source-wordcount: '1069'
+source-wordcount: '1065'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,6 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | [ Workfront Mobile: Kan binnen ondertekenen zonder SSO ](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) te gebruiken niet | 14 augustus 2024 |
 | [ Integraties: Het verbinden van omslag van  [!DNL Google Drive]  verbindt geen activa in omslag ](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
 | [ Rapporten: Fout wanneer het bekijken van rapportdetails die door douanedatum ](known-issues-workfront/wf-reports-error-with-custom-date-field.md) worden gegroepeerd | 14 juni 2024 |
-| [ Opstelling: &quot;Aangemeld als&quot;banner verschijnt niet wanneer het programma geopend als een andere gebruiker ](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 mei 2024 |
 
 {style="table-layout:auto"}
 
@@ -46,6 +45,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Uitgave** | **Laatst gewijzigd** |
 | ---------------------------------- | ----------------- |
+| [ Login als: De beheerders van de groep kunnen niet login als een andere gebruiker ](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 6 maart 2025 |
 | [ Proofs: Goedgekeurde proefdrukken verschijnen in rapporten ](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 11 februari 2025 |
 | [ Rapporten: Lange tijden van de rapportbouwer ](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 21 november 2024 |
 | [ Integraties: Kan login aan Workfront voor Vooruitzichten ](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) niet | 24 september 2024 |

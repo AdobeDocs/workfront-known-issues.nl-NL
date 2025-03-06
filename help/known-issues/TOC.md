@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 3b0bd3d5de463bc58c4bbbf54d407632dadab58d
+source-git-commit: bde5a0c3f09e6a238224e03ecae168f6d5cda677
 workflow-type: tm+mt
-source-wordcount: '2352'
+source-wordcount: '2263'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Aanmelden als: groepsbeheerders kunnen zich niet aanmelden als een andere gebruiker](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
       + [Integratie: outlookIdentityToken-fout bij gebruik van Workfront for Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
       + [Lay-outsjabloon: sectie Aangepaste herhalingen is niet toegankelijk](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md)
       + [Meldingen: dubbele e-mails](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
@@ -180,30 +181,18 @@ ht-degree: 0%
       + [Rapporten: Fout bij het bekijken van rapportdetails die door douanedatum worden gegroepeerd](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
       + [Home: De widget voor goedkeuring is niet correct](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + [Bronplanning: [!UICONTROL More] knop is niet zichtbaar](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
-      + [Statussen: kan eerder verwijderde status niet opnieuw gebruiken](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
       + [Home: Kan de widget Onthoudingen niet verwijderen](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
       + [Navigatie: de knop Terug gaat niet terug naar de vorige pagina](known-issues-workfront/wf-navigation-back-button-not-work.md)
       + [Documenten: fout bij het gebruik van een openbare koppeling naar een document](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md)
       + [Proefdrukken: kan de proefdrukviewer niet sluiten](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
-      + [Projecten: het menu Delen wordt niet geladen](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
-      + [Rapporten: openbare koppelingen naar een rapport werken niet](known-issues-workfront/wf-reports-public-link-not-working.md)
-      + [[!UICONTROL Resource Planner]: kan filter niet delen](known-issues-workfront/wf-resource-planner-cannot-share-filter.md)
       + [De werkelijke voltooiingsdatum wordt weergegeven als n.v.t.](known-issues-workfront/wf-projects-completion-date-is-na.md)
       + [Taken: De rol van de baan verdwijnt niet uit lijst wanneer de gebruiker aan taak wordt toegewezen](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
       + [Gebruikers: gebruikers ontbreken bij het maken van bulktoewijzingen](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
-      + [Aangepaste formulieren: fout bij het bewerken van beschrijvende tekstvelden](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
-      + [Groepen: kan subgroep niet toevoegen](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
-      + [Updates: gecodeerde gebruikers kunnen niet zien wie ze labelde](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
       + [Documenten: Foutscherm bij downloaden of voorvertonen van element](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
-      + [Programma&#39;s: alle toegang tot het programma gaat verloren wanneer de gebruiker toegang tot het programma wordt bijgewerkt](known-issues-workfront/wf-programs-permissions-not-inherited.md)
       + [Documenten: UNK-bestandsextensie bij het koppelen van documenten van integratie](known-issues-workfront/wf-documents-unk-file-extension.md)
-      + [Updates: wanneer een vermelding wordt gekopieerd en geplakt, wordt de vermelde gebruiker niet op de hoogte gesteld](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [Projecten: project dat is gemaakt op basis van een uitgave die een sjabloon gebruikt, geeft geen prioriteit weer die is ingesteld in de sjabloon](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [Timesheets: Vastgezet tijdblad verwijst naar lege pagina](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
-      + [Setup: &quot;Aangemeld als&quot;-banner wordt niet weergegeven wanneer u bent aangemeld als een andere gebruiker.](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
       + [Bewijs van moderators kan toestemmingen niet uitgeven](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
-      + [[!DNL Workfront Goals]: kan doel niet verwijderen](known-issues-workfront/wf-goals-cannot-delete-goal.md)
-      + [Gebruikers: kan het toegangsniveau van de gebruiker niet wijzigen](known-issues-workfront/wf-users-cannot-modify-access-level.md)
       + [Updates: Koppeling in opmerking gaat naar leeg scherm](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [Teams: kan teameigenaar niet weergeven of team verwijderen](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [Proefdrukken: proefdrukken voorkomt conversie van taak of uitgave naar project](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
@@ -212,7 +201,6 @@ ht-degree: 0%
       + [Rapporten: het filter Rapport retourneert geen verwachte resultaten](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [Project: Kan uitgave niet converteren naar project als een webproefdruk is bijgevoegd](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
       + [Updates: gebruikers van de aanvrager kunnen geen afbeeldingen toevoegen aan updates](known-issues-workfront/wf-updates-requestors-not-add-image.md)
-      + [Borden: Kaart omvat geen subtaken](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
       + [Borden: Problemen met dubbele kaarten](known-issues-workfront/wf-boards-some-cards-duplicated.md)
       + [Proefdrukken: gezipte proefdrukken worden niet gegenereerd](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
       + [Nieuw [!UICONTROL Home]: standaardinstellingen voor widgetfilter en -groepering volgen niet de lay-outsjabloon](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
