@@ -4,9 +4,9 @@ description: De functionaliteit van Workfront die SSO gebruikt keert een fout va
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 372bab9a-fd77-41eb-a806-34e99ce55b17
-source-git-commit: 9a8c1695bc2469c3c29849e7ed735a71c347bcce
+source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
+>* Dit probleem is op 5 september 2024 opgelost.
 >* Dit is gemeld in de omgeving van de voorvertoningssandbox en in de omgeving van de aangepaste vernieuwingssandbox.
->* Dit is gemeld voor organisaties die gebruikmaken van een verouderde (niet-Adobe) SSO.
+>* Dit is gemeld voor organisaties die gebruikmaken van Legacy (non-Adobe) SSO.
 
 Workfront-functionaliteit die SSO gebruikt retourneert de volgende fout:
 
