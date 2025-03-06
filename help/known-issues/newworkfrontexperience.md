@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2b7c3f6d18c70dc117688fe389e80d87c11c0cc4
+source-git-commit: 10cc321822a7369abab69f75db1bf9a7995191c2
 workflow-type: tm+mt
-source-wordcount: '1065'
+source-wordcount: '983'
 ht-degree: 0%
 
 ---
@@ -30,12 +30,8 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | [ Gebruikers: De dubbele rekening leidde tot toen het veranderen van systeembeheerder ](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 9 januari 2025 |
 | [ Taken: Kwesties met chronologieherberekening ](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 3 december 2024 |
 | [ Workfront: De Browser open lusjes verlaten niet om ](known-issues-workfront/wf-workfront-browser-tabs-error.md) te laden | 12 november 2024 |
-| [ API: API de vraag ontbreekt toe te schrijven aan SQL fout ](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 12 september 2024 |
-| [ Borden: De status van de kaart past verbonden voorwerp en omringt filter ](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) niet aan | 3 september 2024 |
 | [ Huis: &quot;Geen toegang&quot;vertoningen als projectnaam ](known-issues-workfront/wf-home-no-access-project-name.md) | 15 augustus 2024 |
-| [ Workfront Mobile: Kan binnen ondertekenen zonder SSO ](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) te gebruiken niet | 14 augustus 2024 |
 | [ Integraties: Het verbinden van omslag van  [!DNL Google Drive]  verbindt geen activa in omslag ](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
-| [ Rapporten: Fout wanneer het bekijken van rapportdetails die door douanedatum ](known-issues-workfront/wf-reports-error-with-custom-date-field.md) worden gegroepeerd | 14 juni 2024 |
 
 {style="table-layout:auto"}
 
@@ -47,11 +43,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | ---------------------------------- | ----------------- |
 | [ Login als: De beheerders van de groep kunnen niet login als een andere gebruiker ](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 6 maart 2025 |
 | [ Proofs: Goedgekeurde proefdrukken verschijnen in rapporten ](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 11 februari 2025 |
-| [ Rapporten: Lange tijden van de rapportbouwer ](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 21 november 2024 |
 | [ Integraties: Kan login aan Workfront voor Vooruitzichten ](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) niet | 24 september 2024 |
-| [ Opstelling: Kwesties wanneer het programma openen als een andere gebruiker ](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 15 augustus 2024 |
-| [ Meldingen: De fout van Wiops wanneer het plaatsen van berichtvoorkeur ](known-issues-workfront/wf-notifications-whoops-error.md) | 8 augustus 2024 |
-| [ Niveaus van de Toegang: Dubbele toegangsniveaus in het gebied van de Opstelling ](known-issues-workfront/wf-access-duplicate-level.md) | 25 juli 2024 |
 | [ Teams: Kan teameigenaar niet bekijken of team schrappen ](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 april 2024 |
 | [[!DNL Workfront]: Kwesties die a  [!DNL Workfront]  steungeval op Experience League ](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) voorleggen | 2 augustus 2022 |
 
@@ -81,7 +73,6 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 | [ Workfront: De gebruikers van de contribuant hebben geen toegang tot Programma&#39;s of Portfolio&#39;s ](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | 5 december 2024 |
 | [ Workfront: De montages ZScaler kunnen verminderde prestaties veroorzaken ](known-issues-workfront//wf-workfront-zscaler.md) | 20 november 2024 |
 | [ Meldingen: De gebruikers van de medewerker ontvangen geen e-mailberichten ](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 12 november 2024 |
-| [ Rapporten: Lange tijden van de rapportbouwer ](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 12 november 2024 |
 | [ Meldingen: E-mails van het documentbericht kunnen beeldvoorproeven niet tonen ](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | 29 oktober 2024 |
 | [ Rapporten: Fout wanneer het uitvoeren van rapport ](known-issues-workfront/wf-reports-error-cache-content.md) | 14 oktober 2024 |
 | [ Huis: De geschrapte douanegebieden blijven in project, taak, en kwestie widgets ](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 8 oktober 2024 |
