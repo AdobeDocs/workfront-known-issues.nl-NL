@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 10cc321822a7369abab69f75db1bf9a7995191c2
+source-git-commit: ddcea9054f51049698bbe7eb059efe304a31f7d9
 workflow-type: tm+mt
-source-wordcount: '983'
+source-wordcount: '937'
 ht-degree: 0%
 
 ---
@@ -77,6 +77,7 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 | [ Rapporten: Fout wanneer het uitvoeren van rapport ](known-issues-workfront/wf-reports-error-cache-content.md) | 14 oktober 2024 |
 | [ Huis: De geschrapte douanegebieden blijven in project, taak, en kwestie widgets ](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 8 oktober 2024 |
 | [ Prioriteiten: De groeperingen verhinderen sorterend en gealigneerd het uitgeven ](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | 8 oktober 2024 |
+| [ Huis: Het huis loopt vast met &quot;uit geheugen&quot;fout ](known-issues-workfront/wf-home-crashes-with-error.md) | 5 september 2024 |
 | [ Rapporten: Onbekwaam om volledig grafiekrapport te scrollen ](known-issues-workfront/wf-reports-unable-to-scroll.md) | 19 september 2024 |
 | [ Workfront: De veelvoudige browser lusjes veroorzaken Workfront aan logout ](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 18 september 2024 |
 | [ de vormen van de Douane: Berekend gebied dat onjuiste waarde ](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) toont | 12 september 2024 |
@@ -119,27 +120,21 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 | [ Proofs: Het bewijs wordt niet gedeeld aan gebruikers op het Werkschema van het Bewijs ](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18 september 2022 |
 | [ Proofs: [!UICONTROL Active Proof Stages] gebied is leeg ](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md) | 14 september 2022 |
 | [ dashboards: De grafieken van het rapport die in een dashboard worden bekeken gebruiken verschillende kleuren dan wanneer bekeken in het rapport ](known-issues-workfront/inactive/wf-dashboard-reports-wrong-color.md) | 5 augustus 2022 |
-| [[!UICONTROL Home]: Aangepaste terminologie wordt niet toegepast op het thuisgebied ](known-issues-workfront/inactive/wf-home-custom-term-not-applied-to-home.md) | 3 juni 2022 |
 | [ Gelijk: Kan gebieden van douaneformulieren op kaarten niet uitgeven ](known-issues-workfront/inactive/wf-agile-cannot-edit-fields-custom-cards.md) | 11 mei 2022 |
 | [ Gelijk: Kwesties wanneer het bewegen van kaarten op het [!UICONTROL Agile] bord ](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md) | 27 april 2022 |
 | [ Goedkeuringen: De delegatie van de goedkeuring wordt geplaatst voor het onjuiste aantal dagen ](known-issues-workfront/inactive/wf-approval-delegation-incorrect-number-of-days.md) | 20 april 2022 |
 | [[!UICONTROL Home]: De nieuwe optie van de Taak toont gedeactiveerde gebruikers op [!UICONTROL Assign To] gebied ](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md) | 1 oktober 2021 |
 | [ Updates: De naam van het team verschijnt niet in @noemt ](known-issues-workfront/inactive/wf-updates-team-name-not-in-mention.md) | 1 oktober 2021 |
 | [ Gelijk: Discrepancy in [!UICONTROL Completed Points] voor een herhaling ](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md) | 22 juni 2021 |
-| [[!UICONTROL Home]: [!UICONTROL Reply in Proof] het gedrag van de knop is inconsistent ](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 21 juni 2021 |
 | [ E-mailberichten: &quot;[!UICONTROL I'm assigned to an issue]&quot;het plaatsen toont ](known-issues-workfront/inactive/wf-email-notif-im-assigned-to-issue-displaying.md) | 2 juni 2021 |
 | [ E-mailMeldingen: De gebruiker wordt niet geleid om draad van de commentaren ](known-issues-workfront/inactive/wf-email-notif-user-not-directed-to-thread.md) | 23 april 2021 |
 | [ Kalenders: [!DNL OR]  filterverklaring exclusief filterregel ](known-issues-workfront/inactive/wf-calendars-or-filter-statement.md) | 23 april 2021 |
 | [[!UICONTROL Workfront Proof]: [!UICONTROL Proof Approval] rapport kan deadlines niet nauwkeurig bepalen ](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 21 april 2021 |
-| [[!UICONTROL Home]: De naam van het project wordt als een GUID weergegeven in het dialoogvenster [!UICONTROL Work List]](known-issues-workfront/inactive/wf-home-project-name-shows-as-guid.md) | 11 februari 2021 |
 | [ Documenten: Het pictogram van het werkschema van het Bewijs toont niet ](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 25 januari 2021 |
 | [ Rapporten: De gebreken van de kalender aan oude data ](known-issues-workfront/inactive/wf-reports-caledar-defaults-to-old-dates.md) | 5 februari 2021 |
 | [ E-mailberichten: De e-mails formatteren niet correct in  [!DNL Outlook]](known-issues-workfront/inactive/wf-email-notif-not-formatting-in-outlook.md) | 30 maart 2021 |
-| [[!UICONTROL Home]: Kan de documentafbeelding niet weergeven in de [!UICONTROL Work List]](known-issues-workfront/inactive/wf-home-unable-to-view-document-image.md) | 9 november 2020 |
 | [ Lijsten: De naam van de vertoning wordt niet toegepast op de groepering van het douanegebied ](known-issues-workfront/inactive/wf-lists-display-name-not-applied-to-grouping.md) | 9 november 2020 |
-| [ Huis: De data van de delegatie van de goedkeuring veranderend na verfrissen en het verzenden van 2 e-mails ](known-issues-workfront/inactive/wf-home-approval-delegation-dates-changing.md) | 9 november 2020 |
 | [ Kalender: De taken tonen niet ](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md) | 9 november 2020 |
-| [ Huis: Het huis loopt vast met &quot;uit geheugen&quot;fout ](known-issues-workfront/wf-home-crashes-with-error.md) | 5 september 2024 |
 
 {style="table-layout:auto"}
 

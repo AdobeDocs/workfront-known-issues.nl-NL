@@ -4,9 +4,9 @@ description: Wanneer een gebruiker in de nieuwe  [!DNL Adobe Workfront]  ervarin
 exl-id: f9e08d81-135c-4b04-a239-2fb0fcc87ae5
 hidefromtoc: true
 feature: Workfront Proof
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: ddcea9054f51049698bbe7eb059efe304a31f7d9
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Het team van het Product evalueert momenteel deze probleemoplossing, die productverbeteringen kan vereisen. De verbeteringen van het product worden meegedeeld in de Mededelingen van het Product en niet met de Updates van het Onderhoud.
+>De functionaliteit met betrekking tot dit probleem is afgekeurd.
 
 Wanneer een gebruiker in de nieuwe [!DNL Adobe Workfront] -ervaring een proefdruk bekijkt in het rechterdeelvenster in [!UICONTROL Home] , klikt hij op [!UICONTROL Reply in proof] voor een opmerking, wordt een tekstvak weergegeven waarin hij of zij een update kan achterlaten in het [!UICONTROL Updates] -documentgebied in plaats van naar de [!UICONTROL Proofing Viewer] te worden omgeleid.
 

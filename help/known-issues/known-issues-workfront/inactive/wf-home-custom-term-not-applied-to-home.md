@@ -4,9 +4,9 @@ description: In het gebied Home worden standaardnamen voor objecten weergegeven 
 exl-id: d15afc61-25f7-4fd8-9f9a-db94ed392082
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
+source-git-commit: ddcea9054f51049698bbe7eb059efe304a31f7d9
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Het team van het Product evalueert momenteel deze probleemoplossing, die productverbeteringen kan vereisen. De verbeteringen van het product worden meegedeeld in de Mededelingen van het Product en niet met de Updates van het Onderhoud.
+>De functionaliteit met betrekking tot dit probleem is afgekeurd.
 
 In het gebied [!UICONTROL Home] worden standaardnamen voor objecten weergegeven in plaats van de terminologie die door de organisatie is ingesteld. Dit is gemeld op de volgende gebieden:
 

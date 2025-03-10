@@ -4,9 +4,9 @@ description: Wanneer een gebruiker goedkeuringen aan een gebruiker in een versch
 exl-id: 0dc3bc4c-b6b3-489f-aa4b-c925009512db
 hidefromtoc: true
 feature: Approvals
-source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
+source-git-commit: d4311fb34cd3eb6e6ec1bed838fbf197098dcc01
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Het team Product evalueert momenteel deze probleemoplossing. Wanneer dit probleem is opgelost, wordt dit in de productmededelingen vermeld en niet met de onderhoudsupdates.
+>De functionaliteit met betrekking tot dit probleem is afgekeurd.
 
 Wanneer een gebruiker goedkeuringen aan een gebruiker in een verschillende timezone delegeert, lijkt de delegatie met succes te bewaren en de gemachtigde gebruiker ontvangt een e-mailbericht met de correcte data. Als ze de pagina echter vernieuwen, zien ze dat de [!UICONTROL Start Date] één dag terug is verschoven en de [!UICONTROL End Date] 1 dag vooruit is verschoven. De gebruiker ontvangt ook een e-mailbericht met de verschoven datums.
 
