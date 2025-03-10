@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates in 2022
 description: 2022 Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 feature: Get Started with Workfront
-source-git-commit: 8dc177a194ae32bcb135910badc7fdb2c42e530d
+source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
 workflow-type: tm+mt
-source-wordcount: '15336'
+source-wordcount: '15333'
 ht-degree: 0%
 
 ---
@@ -1079,14 +1079,13 @@ Als gevolg van deze foutoplossingen is het e-mailadres dat wordt gebruikt voor h
 
 Eerder bevatte het proefdrukken van e-mailadressen het subdomein van uw organisatie. Bijvoorbeeld, berichten@[ bedrijfdomein ] .my.workfront.com
 
-Het opgeven van e-mailadressen bevat nu geen subdomein voor organisaties meer. Alle e-mailmeldingen over proefdrukken zijn afkomstig van het volgende adres: notification@my.workfront.com
+Het opgeven van e-mailadressen bevat nu geen subdomein voor organisaties meer. Alle e-mailmeldingen over proefdrukken zijn afkomstig van het volgende adres: `notification@my.workfront.com`
 
 Dientengevolge, adviseren wij u de volgende acties als u nog niet hebt:
 
-* Werk uw spamfilters bij om e-mails van notification@my.workfront.com te accepteren
-* Werk uw lijsten van gewenste personen bij om e-mails van notification@my.workfront.com te accepteren
-
-**de opties van de Gebruiker kunnen niet na aanvankelijke configuratie in de Malplaatjes van het Werkschema worden gewijzigd**
+* Werk uw spamfilters bij om e-mails van `notification@my.workfront.com` te accepteren
+* Werk uw lijsten van gewenste personen bij om e-mails van `notification@my.workfront.com` te accepteren
+  **de opties van de Gebruiker kunnen niet na aanvankelijke configuratie in de Malplaatjes van het Werkschema worden gewijzigd**
 
 *[!DNL Workfront Proof]*
 
@@ -1374,13 +1373,13 @@ Wanneer een gebruiker een aangepast formulier met een sectie-einde probeert te b
 
 [!UICONTROL Specified section break security cannot be applied on all object types]
 
-**Kwesties wanneer het drukken van Dashboards aan PDF**
+**Kwesties wanneer druk Dashboards aan PDF**
 
 *Dashboards*
 
 De volgende problemen zijn gemeld bij het afdrukken van een dashboard op een PDF:
 De PDF drukt niet elke rij in het rapport af. Waar regels ontbreken, wordt alleen lege ruimte weergegeven.
-De PDF omvat lege ruimten tussen de kolomkopballen en de eerste rij van het rapport.
+PDF omvat lege ruimten tussen de kolomkopballen en de eerste rij van het rapport.
 
 **[!DNL Portfolio Optimizer]toont een score van 0 wanneer het gebruiken van andere taal dan het Engels**
 

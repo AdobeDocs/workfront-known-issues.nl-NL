@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ddcea9054f51049698bbe7eb059efe304a31f7d9
+source-git-commit: 8e83060ba2fddb328ca6750d6eb72b2d9e860e6a
 workflow-type: tm+mt
-source-wordcount: '937'
+source-wordcount: '935'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,6 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Uitgave** | **Laatst gewijzigd** |
 | ----------------------------------------------------------------- | ----------------- |
-| [ malplaatje van de Lay-out: De sectie van de herhalingen van de douane ontoegankelijk ](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md) | 24 februari 2025 |
 | [ Proofs: Kan bepaalde gebruikers niet etiketteren ](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 februari 2025 |
 | [ Gebruikers: De dubbele rekening leidde tot toen het veranderen van systeembeheerder ](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 9 januari 2025 |
 | [ Taken: Kwesties met chronologieherberekening ](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 3 december 2024 |
@@ -41,8 +40,8 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Uitgave** | **Laatst gewijzigd** |
 | ---------------------------------- | ----------------- |
+| [ Updates: Sommige gebruikers kunnen beelden of documenten niet zien in bijlage aan commentaren ](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 10 maart 2025 |
 | [ Login als: De beheerders van de groep kunnen niet login als een andere gebruiker ](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 6 maart 2025 |
-| [ Proofs: Goedgekeurde proefdrukken verschijnen in rapporten ](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 11 februari 2025 |
 | [ Integraties: Kan login aan Workfront voor Vooruitzichten ](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) niet | 24 september 2024 |
 | [ Teams: Kan teameigenaar niet bekijken of team schrappen ](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 april 2024 |
 | [[!DNL Workfront]: Kwesties die a  [!DNL Workfront]  steungeval op Experience League ](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) voorleggen | 2 augustus 2022 |
