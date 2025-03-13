@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
+source-git-commit: 592c51c774fcf9f6ff3e633fec7b2be559ea3158
 workflow-type: tm+mt
-source-wordcount: '1614'
+source-wordcount: '1629'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Aanvragen: wachtrij aanvragen is niet beschikbaar](/help/known-issues/known-issues-workfront/wf-requests-queue-not-available.md)
+      + [Projecten: de status van de projectvoortgang wordt niet automatisch bijgewerkt naar Te laat](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
       + [Updates: sommige gebruikers kunnen geen afbeeldingen of documenten zien die aan opmerkingen zijn gekoppeld](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md)
       + [Aanmelden als: groepsbeheerders kunnen zich niet aanmelden als een andere gebruiker](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
       + [Integratie: outlookIdentityToken-fout bij gebruik van Workfront for Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
