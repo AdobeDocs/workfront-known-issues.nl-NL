@@ -4,20 +4,18 @@ description: De volgende punten zijn gerapporteerd met betrekking tot de herbere
 hidefromtoc: true
 feature: Tasks, Work Management
 exl-id: 43211889-8c49-4f40-adca-2a2922c5b8dc
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
+source-git-commit: 77776e8134a24a6b85a01ac97029306f389437ef
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
 
 # Taken: problemen met tijdlijnherberekening
 
-<!--
 >[!NOTE]
 >
->This article was fixed on October 10, 2024.
--->
+>Dit artikel is vastgesteld op 10 maart 2025.
 
 De volgende punten zijn gerapporteerd met betrekking tot de herberekening van tijdlijnen:
 

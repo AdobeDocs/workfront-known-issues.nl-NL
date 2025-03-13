@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 670de537b1a167ad682f6e74f5ef02e4f6691c46
+source-git-commit: a463b80b8f40ef00f074a855b3a6265595d70198
 workflow-type: tm+mt
-source-wordcount: '727'
+source-wordcount: '797'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,18 @@ Voor onderhoudsupdates voorafgaand aan 2025, zie [ Vorige Updates van het Onderh
 De volgende onderhoudsupdates zijn uitgevoerd in 2025.
 
 ## Updates in maart 2025
+
++++**Update van het Onderhoud op 13 Maart, 2025**
+
+### Onderhoudsupdate op 13 maart 2025
+
+#### Rapporten
+
+**Telling van punten in grafiek is onnauwkeurig**
+
+In een dashboardrapport werkt het klikken op een grafiekresultaat met meer dan 15 items en het selecteren om slechts 15 items weer te geven zoals u had verwacht. Nochtans, als u het zelfde rapport buiten het dashboard opent en op het zelfde grafiekresultaat klikt, wijst het erop dat alle punten worden getoond, maar slechts 15 eigenlijk verschijnen.
+
++++
 
 +++**Update van het Onderhoud op 6 Maart, 2025**
 
