@@ -4,7 +4,7 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9369fd311a0d3610cc431ce51bcfb4bf25a20005
+source-git-commit: 70391ab9ea91c84b22e23049bc1e791e55a8829f
 workflow-type: tm+mt
 source-wordcount: '942'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Uitgave** | **Laatst gewijzigd** |
 | ----------------------------------------------------------------- | ----------------- |
-| [ Proofs: De productie van de proef is langzaam ](/help/known-issues/known-issues-workfront/wf-proofs-generation-takes-long-time.md) | 17 maart 2025 |
+| [ Proofs: De productie van de proef is langzaam ](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md) | 17 maart 2025 |
 | [ Projecten: De status van de vooruitgang van het project werkt automatisch niet aan Late ](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md) bij | 13 maart 2025 |
 | [ Proofs: Kan bepaalde gebruikers niet etiketteren ](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 februari 2025 |
 | [ Gebruikers: De dubbele rekening leidde tot toen het veranderen van systeembeheerder ](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 9 januari 2025 |
