@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 592c51c774fcf9f6ff3e633fec7b2be559ea3158
+source-git-commit: 9a60d4716a7f940fbbb344fa955f4d0d16edc2f4
 workflow-type: tm+mt
-source-wordcount: '1629'
+source-wordcount: '1639'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Updates: updates worden vertraagd](known-issues-workfront/wf-updates-delay-in-updates.md)
+      + [Proefdrukken: het genereren van proefdrukken is bijzonder traag](/help/known-issues/known-issues-workfront/wf-proofs-generation-takes-long-time.md)
       + [Aanvragen: wachtrij aanvragen is niet beschikbaar](/help/known-issues/known-issues-workfront/wf-requests-queue-not-available.md)
       + [Projecten: de status van de projectvoortgang wordt niet automatisch bijgewerkt naar Te laat](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
       + [Updates: sommige gebruikers kunnen geen afbeeldingen of documenten zien die aan opmerkingen zijn gekoppeld](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md)
