@@ -1,17 +1,17 @@
 ---
-title: 'Proefdrukken: het genereren van proefdrukken gaat zeer langzaam'
+title: 'Proefdrukken: het genereren van proefdrukken gaat langzaam'
 description: Wanneer een gebruiker een proefdruk maakt in Workfront, kan het 3-10 minuten duren voordat de proefdruk is gegenereerd. De proef wordt geproduceerd, maar langzaam.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 4bf50235-be87-4dc2-b447-e843efdd4fb6
-source-git-commit: e341f1ee7dd8815ffff91d3d7aa170349fca7338
+source-git-commit: 75e4621a42d1abb038beb069d119eb19cce0189b
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-# Proefdrukken: het genereren van proefdrukken gaat zeer langzaam
+# Proefdrukken: het genereren van proefdrukken gaat langzaam
 
 Wanneer een gebruiker een proefdruk maakt in Workfront, kan het 3-10 minuten duren voordat de proefdruk is gegenereerd. De proef wordt geproduceerd, maar langzaam.
 
