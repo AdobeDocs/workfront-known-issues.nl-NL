@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f9c3efc48b0a3978f38986959e52652bf3509daf
+source-git-commit: b1a44fbf96213a612d5667f49ed1757aac6a2345
 workflow-type: tm+mt
-source-wordcount: '933'
+source-wordcount: '941'
 ht-degree: 0%
 
 ---
@@ -52,6 +52,7 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [ Filters: De Dropdown verdwijnt wanneer het klikken op scrollbar ](known-issues-workfront/wf-filter-scroll-bar.md) | 26 maart 2025 |
 | [ Teams: Kan teameigenaar niet bekijken of team schrappen ](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 13 maart 2025 |
 | [ Huis: &quot;Geen toegang&quot;vertoningen als projectnaam ](known-issues-workfront/wf-home-no-access-project-name.md) | 13 maart 2025 |
 | [ Integraties: outlookIdentityToken fout wanneer het gebruiken van Workfront voor Vooruitzichten ](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | 4 maart 2025 |
