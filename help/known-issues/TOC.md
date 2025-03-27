@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: b1a44fbf96213a612d5667f49ed1757aac6a2345
+source-git-commit: 9f1db9c48f25e3e0eddc4ae214b1ef6600597696
 workflow-type: tm+mt
-source-wordcount: '1658'
+source-wordcount: '1685'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Aanvragen: Ingesloten code-URL&#39;s laden de aanvraagwachtrij niet correct](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
+      + [Rapporten: gebruikers in verschillende tijdzones krijgen verschillende rapportresultaten](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md)
+      + [Gebruikers: groepsbeheerders kunnen gebruikers niet deactiveren](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md)
       + [Filters: Vervolgkeuzelijst verdwijnt wanneer u op de schuifbalk klikt](known-issues-workfront/wf-filter-scroll-bar.md)
       + [Home: Kan geen reacties verzenden van de widget voor berichten](/help/known-issues/known-issues-workfront/wf-home-mention-replies-not-sent.md)
       + [Updates: updates worden vertraagd](known-issues-workfront/wf-updates-delay-in-updates.md)

@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b1a44fbf96213a612d5667f49ed1757aac6a2345
+source-git-commit: 1a9af831359c7d61ab477f693e873dbfb6c58efa
 workflow-type: tm+mt
-source-wordcount: '941'
+source-wordcount: '958'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,8 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Uitgave** | **Laatst gewijzigd** |
 | ----------------------------------------------------------------- | ----------------- |
-| [ Huis: Kan antwoorden van de widget van Vermeldingen niet verzenden ](/help/known-issues/known-issues-workfront/wf-home-mention-replies-not-sent.md) | 20 maart 2025 |
+| [ Verzoeken: Ingesloten code URLs laadt niet correct de verzoekrij ](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md) | 27 maart 2025 |
+| [ Rapporten: De gebruikers in verschillende tijdzones krijgen verschillende rapportresultaten ](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md) | 27 maart 2025 |
 | [ Proofs: Kan bepaalde gebruikers niet etiketteren ](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 februari 2025 |
 | [ Gebruikers: De dubbele rekening leidde tot toen het veranderen van systeembeheerder ](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 9 januari 2025 |
 | [ Workfront: De Browser open lusjes verlaten niet om ](known-issues-workfront/wf-workfront-browser-tabs-error.md) te laden | 12 november 2024 |
@@ -39,7 +40,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Uitgave** | **Laatst gewijzigd** |
 | ---------------------------------- | ----------------- |
-| [ Updates: De updates worden vertraagd ](known-issues-workfront/wf-updates-delay-in-updates.md) | 17 maart 2025 |
+| [ Gebruikers: De beheerders van de groep kunnen gebruikers ](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md) niet deactiveren | 27 maart 2025 |
 | [ Updates: Sommige gebruikers kunnen beelden of documenten niet zien in bijlage aan commentaren ](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 10 maart 2025 |
 | [ Login als: De beheerders van de groep kunnen niet login als een andere gebruiker ](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 6 maart 2025 |
 | [[!DNL Workfront]: Kwesties die a  [!DNL Workfront]  steungeval op Experience League ](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) voorleggen | 2 augustus 2022 |
