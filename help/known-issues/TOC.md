@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9f1db9c48f25e3e0eddc4ae214b1ef6600597696
+source-git-commit: 545032a42d837620d24a0cac7a16bbecb1d945e4
 workflow-type: tm+mt
-source-wordcount: '1685'
+source-wordcount: '1707'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Dashboards: Aangepast dashboard wordt niet geopend](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
       + [Aanvragen: Ingesloten code-URL&#39;s laden de aanvraagwachtrij niet correct](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
       + [Rapporten: gebruikers in verschillende tijdzones krijgen verschillende rapportresultaten](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md)
       + [Gebruikers: groepsbeheerders kunnen gebruikers niet deactiveren](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md)
@@ -225,6 +226,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Bekende problemen in Workfront Fusion](workfrontfusion.md)
    + Huidige problemen in [!DNL Workfront Fusion] {#fusion-current}
+      + [Workfront Fusion: Workfront Event Subscription versie 2-opties niet beschikbaar bij verbinding met een Sandbox-omgeving](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md)
       + [Workfront Fusion: Scenario wordt niet uitgevoerd](known-issues-workfront-fusion/fusion-scenario-not-running.md)
       + [Workfront Fusion: &quot;Van nu af aan&quot; instellen voor het verwerken van alle gegevens](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
       + [Workfront Fusion: kan geen gebruikers toevoegen aan of verwijderen uit Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md)

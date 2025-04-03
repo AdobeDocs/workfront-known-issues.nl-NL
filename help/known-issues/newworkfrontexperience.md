@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f4dc1e1d5296a8fc10b25c30985fac9a578ce7d6
+source-git-commit: 1ffbb90dba272020f484e3f1d05fffbe88c55f64
 workflow-type: tm+mt
-source-wordcount: '958'
+source-wordcount: '953'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Uitgave** | **Laatst gewijzigd** |
 | ----------------------------------------------------------------- | ----------------- |
+| [ dashboards: Het dashboard van de Douane opent niet ](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md) | 3 april 2025 |
 | [ Verzoeken: Ingesloten code URLs laadt niet correct de verzoekrij ](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md) | 27 maart 2025 |
 | [ Rapporten: De gebruikers in verschillende tijdzones krijgen verschillende rapportresultaten ](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md) | 27 maart 2025 |
 | [ Proofs: Kan bepaalde gebruikers niet etiketteren ](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 februari 2025 |
@@ -41,7 +42,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | **Uitgave** | **Laatst gewijzigd** |
 | ---------------------------------- | ----------------- |
 | [ Gebruikers: De beheerders van de groep kunnen gebruikers ](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md) niet deactiveren | 27 maart 2025 |
-| [ Updates: Sommige gebruikers kunnen beelden of documenten niet zien in bijlage aan commentaren ](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 10 maart 2025 |
 | [ Login als: De beheerders van de groep kunnen niet login als een andere gebruiker ](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 6 maart 2025 |
 | [[!DNL Workfront]: Kwesties die a  [!DNL Workfront]  steungeval op Experience League ](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) voorleggen | 2 augustus 2022 |
 
