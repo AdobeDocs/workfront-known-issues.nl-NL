@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1ffbb90dba272020f484e3f1d05fffbe88c55f64
+source-git-commit: 282c250c226a0024d0359bca938ad56d78026848
 workflow-type: tm+mt
-source-wordcount: '953'
+source-wordcount: '946'
 ht-degree: 0%
 
 ---
@@ -106,7 +106,6 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 | [ Proofs: De proef toont niet in rapporten zoals goedgekeurd ](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 3 augustus 2023 |
 | [[!UICONTROL Setup]: Kan auditlogs niet exporteren ](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md) | 20 juli 2023 |
 | [ Proofs: De proef wordt langzaam gecreeerd in het milieu van de Voorproef ](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 8 juni 2023 |
-| [ Documenten: [!UICONTROL Proofing Activities] de opties leiden tot login pagina ](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md) | 21 april 2023 |
 | [ Filters: Kan geen filter van een rapport over een dashboard delen ](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md) | 11 april 2023 |
 | [ Proofs: Het meethulpmiddel keurt geen decimale punten ](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) goed | 27 maart 2023 |
 | [ Documenten: 404 fout wanneer het toegang tot van document verbonden van  [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23 maart 2023 |

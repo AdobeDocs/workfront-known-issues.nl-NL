@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor  [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 70391ab9ea91c84b22e23049bc1e791e55a8829f
+source-git-commit: ab447226ac968d1efee5a8846e8aa1f02661af47
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '402'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,6 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 | [ Proofs: De proef wordt langzaam gecreeerd in het milieu van de Voorproef ](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 9 juni 2023 |
 | [ Proofs: De proef wordt langzaam gecreeerd in het milieu van de Voorproef ](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 8 juni 2023 |
 | [[!DNL Workfront Proof]: 500 fout wanneer het toegang tot van  [!DNL Workfront Proof]  door API of  [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 25 mei 2023 |
-| [ Documenten: [!UICONTROL Proofing Activities] de opties leiden tot login pagina ](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md) | 21 april 2023 |
 | [ Proofs: Het meethulpmiddel keurt geen decimale punten ](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) goed | 27 maart 2023 |
 | [ Documenten: 404 fout wanneer het toegang tot van document verbonden van  [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23 maart 2023 |
 | [ Documenten: Kwesties met de Lijst van het Document ](known-issues-workfront/inactive/wf-documents-list-missing-elements.md) | 23 maart 2023 |

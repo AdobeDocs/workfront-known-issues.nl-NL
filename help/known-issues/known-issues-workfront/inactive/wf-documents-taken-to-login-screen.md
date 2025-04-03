@@ -4,9 +4,9 @@ description: Wanneer een gebruiker de pagina Documentdetails bekijkt en op een t
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 637fa798-9d23-497c-a50b-e40deaa4fd61
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
+source-git-commit: ab447226ac968d1efee5a8846e8aa1f02661af47
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Het team van het Product evalueert momenteel deze probleemoplossing, die productverbeteringen kan vereisen. De verbeteringen van het product worden meegedeeld in de Mededelingen van het Product en niet met de Updates van het Onderhoud.
+>Dit probleem is opgelost.
 
 Wanneer een gebruiker de pagina [!UICONTROL Document Details] bekijkt en op een tikon in het [!UICONTROL Proofing Activities] menu klikt, wordt de gebruiker geleid naar een login pagina in plaats van de voorgenomen bestemmingspagina.
 
