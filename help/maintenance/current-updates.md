@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 1ffbb90dba272020f484e3f1d05fffbe88c55f64
+source-git-commit: 7694737e6f8bc14d4c166be918bbe96948b930f8
 workflow-type: tm+mt
-source-wordcount: '891'
+source-wordcount: '964'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,24 @@ Voor onderhoudsupdates voorafgaand aan 2025, zie [ Vorige Updates van het Onderh
 De volgende onderhoudsupdates zijn uitgevoerd in 2025.
 
 ## Updates in april 2025
+
++++**(Geplande) onderhoudsupdate op 10 april 2025**
+
+### **(Geplande) onderhoudsupdate op 10 april 2025**
+
+#### Dashboards
+
+**het dashboard van de Douane opent niet**
+
+Wanneer een gebruiker een object weergeeft en een aangepast dashboard probeert te openen dat aan het object is gekoppeld, wordt het dashboard niet geopend.
+
+#### Rapporten
+
+**de Gebruikers in verschillende tijdstreken krijgen verschillende rapportresultaten**
+
+De gebruikers in verschillende tijdstreken die de datumkiezer gebruiken om een rapport voor een bepaalde datum te krijgen krijgen krijgen verschillende resultaten voor dat rapport.
+
++++
 
 +++**Update van het Onderhoud op 3 April, 2025**
 
