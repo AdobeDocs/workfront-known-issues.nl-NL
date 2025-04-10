@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 282c250c226a0024d0359bca938ad56d78026848
+source-git-commit: 1d6e079de904bba0142e73d01bbc3020aadf95df
 workflow-type: tm+mt
-source-wordcount: '946'
+source-wordcount: '928'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Uitgave** | **Laatst gewijzigd** |
 | ----------------------------------------------------------------- | ----------------- |
-| [ dashboards: Het dashboard van de Douane opent niet ](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md) | 3 april 2025 |
 | [ Verzoeken: Ingesloten code URLs laadt niet correct de verzoekrij ](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md) | 27 maart 2025 |
-| [ Rapporten: De gebruikers in verschillende tijdzones krijgen verschillende rapportresultaten ](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md) | 27 maart 2025 |
 | [ Proofs: Kan bepaalde gebruikers niet etiketteren ](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 februari 2025 |
 | [ Gebruikers: De dubbele rekening leidde tot toen het veranderen van systeembeheerder ](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 9 januari 2025 |
 | [ Workfront: De Browser open lusjes verlaten niet om ](known-issues-workfront/wf-workfront-browser-tabs-error.md) te laden | 12 november 2024 |
