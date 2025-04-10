@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1d6e079de904bba0142e73d01bbc3020aadf95df
+source-git-commit: cb008302e356aebf208353058a6fada352155c61
 workflow-type: tm+mt
-source-wordcount: '928'
+source-wordcount: '912'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Uitgave** | **Laatst gewijzigd** |
 | ----------------------------------------------------------------- | ----------------- |
-| [ Verzoeken: Ingesloten code URLs laadt niet correct de verzoekrij ](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md) | 27 maart 2025 |
 | [ Proofs: Kan bepaalde gebruikers niet etiketteren ](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 februari 2025 |
-| [ Gebruikers: De dubbele rekening leidde tot toen het veranderen van systeembeheerder ](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 9 januari 2025 |
 | [ Workfront: De Browser open lusjes verlaten niet om ](known-issues-workfront/wf-workfront-browser-tabs-error.md) te laden | 12 november 2024 |
 | [ Integraties: Het verbinden van omslag van  [!DNL Google Drive]  verbindt geen activa in omslag ](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
 
@@ -39,7 +37,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Uitgave** | **Laatst gewijzigd** |
 | ---------------------------------- | ----------------- |
-| [ Gebruikers: De beheerders van de groep kunnen gebruikers ](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md) niet deactiveren | 27 maart 2025 |
+| [ Verzoeken: Ingesloten code URLs laadt niet correct de verzoekrij ](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md) | 10 april 2025 |
 | [ Login als: De beheerders van de groep kunnen niet login als een andere gebruiker ](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 6 maart 2025 |
 | [[!DNL Workfront]: Kwesties die a  [!DNL Workfront]  steungeval op Experience League ](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) voorleggen | 2 augustus 2022 |
 
