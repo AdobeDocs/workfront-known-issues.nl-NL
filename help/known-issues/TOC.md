@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 545032a42d837620d24a0cac7a16bbecb1d945e4
+source-git-commit: 769cf7631661402b5add6e719838358859e25a21
 workflow-type: tm+mt
-source-wordcount: '1707'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Sjablonen: kan niet delen met Contribute-toegang](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
       + [Dashboards: Aangepast dashboard wordt niet geopend](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
       + [Aanvragen: Ingesloten code-URL&#39;s laden de aanvraagwachtrij niet correct](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
       + [Rapporten: gebruikers in verschillende tijdzones krijgen verschillende rapportresultaten](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md)

@@ -1,12 +1,12 @@
 ---
-title: Bekende Kwesties in nieuwe  [!DNL Adobe Workfront]  Ervaring
-description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]  Ervaring
-keywords: nieuw bestand, bestand toevoegen
+title: Bekende problemen in de nieuwe [!DNL Adobe Workfront] ervaring
+description: Bekende problemen gemeld voor nieuwe [!DNL Adobe Workfront] ervaring
+keywords: Nieuw bestand, Bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: cb008302e356aebf208353058a6fada352155c61
+source-git-commit: 769cf7631661402b5add6e719838358859e25a21
 workflow-type: tm+mt
-source-wordcount: '912'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,10 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Uitgave** | **Laatst gewijzigd** |
 | ----------------------------------------------------------------- | ----------------- |
+| [ Malplaatjes: Kan niet met Contribute toegang delen ](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md) | 11 april 2025 |
 | [ Proofs: Kan bepaalde gebruikers niet etiketteren ](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 februari 2025 |
-| [ Workfront: De Browser open lusjes verlaten niet om ](known-issues-workfront/wf-workfront-browser-tabs-error.md) te laden | 12 november 2024 |
-| [ Integraties: Het verbinden van omslag van  [!DNL Google Drive]  verbindt geen activa in omslag ](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
+| [Workfront: Browsertabbladen die open blijven, kunnen niet worden geladen](known-issues-workfront/wf-workfront-browser-tabs-error.md) | dinsdag 12 november 2024 |
+| [Integraties: Als u een map [!DNL Google Drive] koppelt, worden geen activa in de map gekoppeld](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
 
 {style="table-layout:auto"}
 
@@ -63,15 +64,15 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 | [ Rapporten: De herinneringen van het rapport langzaam laden ](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 16 januari 2024 |
 | [ Proofs: De proeven Webcapture produceren niet ](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 20 december 2024 |
 | [ Workfront: De formaatveranderingen van de Datum door toepassing ](known-issues-workfront/wf-workfront-date-format-changing.md) | 20 december 2024 |
-| [ Goedkeuringen: Gedelegeerde goedkeuringen verschijnen niet voor afgevaardigden ](known-issues-workfront/wf-approvals-delegation-not-working.md) | 20 december 2024 |
-| [ Taken: De fout van het gegevensbestand wanneer het toevoegen van of het schrappen van een taak (eerder fout Bizcontext) ](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 10 december 2024 |
+| [Goedkeuringen: Gedelegeerde goedkeuringen worden niet weergegeven voor gemachtigden](known-issues-workfront/wf-approvals-delegation-not-working.md) | dinsdag 20 december 2024 |
+| [Taken: Databasefout bij het toevoegen of verwijderen van een taak (voorheen Bizcontext-fout)](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 10 december 2024 |
 | [ malplaatjes van de Lay-out: De gegevensgebieden van de Douane tonen niet wanneer toegevoegd aan de Samenvatting van de Taak door het Malplaatje van de Lay-out ](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 4 november 2024 |
 | [ Meldingen: E-mailberichten voor updates worden niet verzonden ](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | 5 december 2024 |
 | [ Workfront: De gebruikers van de contribuant hebben geen toegang tot Programma&#39;s of Portfolio&#39;s ](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | 5 december 2024 |
 | [ Workfront: De montages ZScaler kunnen verminderde prestaties veroorzaken ](known-issues-workfront//wf-workfront-zscaler.md) | 20 november 2024 |
 | [ Meldingen: De gebruikers van de medewerker ontvangen geen e-mailberichten ](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 12 november 2024 |
-| [ Meldingen: E-mails van het documentbericht kunnen beeldvoorproeven niet tonen ](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | 29 oktober 2024 |
-| [ Rapporten: Fout wanneer het uitvoeren van rapport ](known-issues-workfront/wf-reports-error-cache-content.md) | 14 oktober 2024 |
+| [Meldingen: e-mails met documentmeldingen kunnen geen afbeeldingsvoorbeelden weergeven](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | 29 oktober 2024 |
+| [Rapporten: Fout bij het exporteren van rapport](known-issues-workfront/wf-reports-error-cache-content.md) | 14 oktober 2024 |
 | [ Huis: De geschrapte douanegebieden blijven in project, taak, en kwestie widgets ](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 8 oktober 2024 |
 | [ Prioriteiten: De groeperingen verhinderen sorterend en gealigneerd het uitgeven ](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | 8 oktober 2024 |
 | [ Huis: Het huis loopt vast met &quot;uit geheugen&quot;fout ](known-issues-workfront/wf-home-crashes-with-error.md) | 5 september 2024 |
@@ -93,15 +94,15 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 | [ Rapporten: De filter van het rapport keert verwachte resultaten niet terug ](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md) | 1 april 2024 |
 | [ Opstelling: Kan niet gebruiken [!UICONTROL Kick-Starts] aan opstellingsgroeperingen ](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md) | 30 november 2023 |
 | [ Proofs: Fout wanneer het delen van proef van e-mailverbinding ](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 16 november 2023 |
-| [ de Fusie van Workfront: Dubbele projecten die van enige module ](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) worden gecreeerd | 9 november 2023 |
-| [ Dashboard: Grote lege marge wanneer het druk dashboard aan PDF ](known-issues-workfront/inactive/wf-dashboard-blank-area-when-printing.md) | 7 november 2023 |
+| [Workfront Fusion: Dubbele projecten gemaakt op basis van één module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 9 november 2023 |
+| [Dashboard: Grote lege marge bij het afdrukken van dashboard naar PDF](known-issues-workfront/inactive/wf-dashboard-blank-area-when-printing.md) | dinsdag 7 november 2023 |
 | [[!UICONTROL Home]: [!UICONTROL Requests] widget geeft niet alle toegewezen teams weer ](known-issues-workfront/inactive/wf-home-request-shows-one-team.md) | 26 oktober 2023 |
 | [[!DNL Workfront Proof]: Kan werkstroom niet uitvouwen ](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25 oktober 2023 |
 | [[!UICONTROL Home]: &quot;[!UICONTROL Mentions]&quot;-widget in new [!UICONTROL Home] is niet beperkt tot berichten waaraan de gebruiker een tag heeft toegewezen ](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md) | 25 september 2023 |
 | [[!UICONTROL Home]: Nieuwe [!UICONTROL Home] voorvertoning van widget geeft geen juiste naam van object weer. ](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 7 september 2023 |
 | [ Proofs: De proef toont niet in rapporten zoals goedgekeurd ](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 3 augustus 2023 |
 | [[!UICONTROL Setup]: Kan auditlogs niet exporteren ](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md) | 20 juli 2023 |
-| [ Proofs: De proef wordt langzaam gecreeerd in het milieu van de Voorproef ](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 8 juni 2023 |
+| [Proefdrukken: Proefdrukken worden langzaam gemaakt in de Preview-omgeving](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 8 juni 2023 |
 | [ Filters: Kan geen filter van een rapport over een dashboard delen ](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md) | 11 april 2023 |
 | [ Proofs: Het meethulpmiddel keurt geen decimale punten ](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) goed | 27 maart 2023 |
 | [ Documenten: 404 fout wanneer het toegang tot van document verbonden van  [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23 maart 2023 |
@@ -123,8 +124,8 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 | [ Updates: De naam van het team verschijnt niet in @noemt ](known-issues-workfront/inactive/wf-updates-team-name-not-in-mention.md) | 1 oktober 2021 |
 | [ Gelijk: Discrepancy in [!UICONTROL Completed Points] voor een herhaling ](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md) | 22 juni 2021 |
 | [ E-mailberichten: &quot;[!UICONTROL I'm assigned to an issue]&quot;het plaatsen toont ](known-issues-workfront/inactive/wf-email-notif-im-assigned-to-issue-displaying.md) | 2 juni 2021 |
-| [ E-mailMeldingen: De gebruiker wordt niet geleid om draad van de commentaren ](known-issues-workfront/inactive/wf-email-notif-user-not-directed-to-thread.md) | 23 april 2021 |
-| [ Kalenders: [!DNL OR]  filterverklaring exclusief filterregel ](known-issues-workfront/inactive/wf-calendars-or-filter-statement.md) | 23 april 2021 |
+| [ E-mailMeldingen: De gebruiker wordt niet geleid om draad van de commentaren ](known-issues-workfront/inactive/wf-email-notif-user-not-directed-to-thread.md) | dinsdag 23 april 2021 |
+| [Kalenders: [!DNL OR] filterverklaring exclusief filterregel](known-issues-workfront/inactive/wf-calendars-or-filter-statement.md) | dinsdag 23 april 2021 |
 | [[!UICONTROL Workfront Proof]: [!UICONTROL Proof Approval] rapport kan deadlines niet nauwkeurig bepalen ](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 21 april 2021 |
 | [ Documenten: Het pictogram van het werkschema van het Bewijs toont niet ](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 25 januari 2021 |
 | [ Rapporten: De gebreken van de kalender aan oude data ](known-issues-workfront/inactive/wf-reports-caledar-defaults-to-old-dates.md) | 5 februari 2021 |
