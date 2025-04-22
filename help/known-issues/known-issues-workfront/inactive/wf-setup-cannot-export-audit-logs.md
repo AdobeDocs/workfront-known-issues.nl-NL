@@ -4,9 +4,9 @@ description: Wanneer een gebruiker probeert om een groot aantal controlelogboeke
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: a9a7b551-58ba-412f-bef4-b0dae16d2611
-source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
+source-git-commit: e32c9244e39877d2a541d4911348c5adee553c62
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Het team Product evalueert momenteel deze probleemoplossing. Wanneer dit probleem is opgelost, wordt dit in de productmededelingen vermeld en niet met de onderhoudsupdates.
+>Deze kwestie is vastgesteld op 4 november 2024.
 
 Wanneer een gebruiker probeert om een groot aantal controlelogboeken uit te voeren, de logboeken niet uitvoeren. Er zijn geen aanwijzingen dat de export is mislukt.
 

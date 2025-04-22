@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e75c9fdb389dacf156c21a6a82f61470a4758375
+source-git-commit: e32c9244e39877d2a541d4911348c5adee553c62
 workflow-type: tm+mt
-source-wordcount: '914'
+source-wordcount: '901'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,6 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | ----------------------------------------------------------------- | ----------------- |
 | [ Malplaatjes: Kan niet met Contribute toegang delen ](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md) | 11 april 2025 |
 | [ Proofs: Kan bepaalde gebruikers niet etiketteren ](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 februari 2025 |
-| [ Workfront: De Browser open lusjes verlaten niet om ](known-issues-workfront/wf-workfront-browser-tabs-error.md) te laden | 12 november 2024 |
 | [ Integraties: Het verbinden van omslag van  [!DNL Google Drive]  verbindt geen activa in omslag ](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
 
 {style="table-layout:auto"}
@@ -50,6 +49,7 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [ Workfront: De Browser open lusjes verlaten niet om ](known-issues-workfront/wf-workfront-browser-tabs-error.md) te laden | 22 april 2025 |
 | [ Filters: De Dropdown verdwijnt wanneer het klikken op scrollbar ](known-issues-workfront/wf-filter-scroll-bar.md) | 26 maart 2025 |
 | [ Teams: Kan teameigenaar niet bekijken of team schrappen ](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 13 maart 2025 |
 | [ Huis: &quot;Geen toegang&quot;vertoningen als projectnaam ](known-issues-workfront/wf-home-no-access-project-name.md) | 13 maart 2025 |
@@ -78,7 +78,6 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 | [ Huis: Het huis loopt vast met &quot;uit geheugen&quot;fout ](known-issues-workfront/wf-home-crashes-with-error.md) | 5 september 2024 |
 | [ Rapporten: Onbekwaam om volledig grafiekrapport te scrollen ](known-issues-workfront/wf-reports-unable-to-scroll.md) | 19 september 2024 |
 | [ Workfront: De veelvoudige browser lusjes veroorzaken Workfront aan logout ](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 18 september 2024 |
-| [ de vormen van de Douane: Berekend gebied dat onjuiste waarde ](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) toont | 12 september 2024 |
 | [ Huis: Het huis loopt vast met &quot;uit geheugen&quot;fout ](known-issues-workfront/wf-home-crashes-with-error.md) | 12 september 2024 |
 | [ Boeken: bord wordt niet weergegeven als gebruiker bij gebruik van [!UICONTROL Log in as]](known-issues-workfront/wf-boards-log-in-as.md) | 30 augustus 2024 |
 | [ Navigatie: De rug knoop gaat niet terug naar vorige pagina ](known-issues-workfront/wf-navigation-back-button-not-work.md) | 30 augustus 2024 |
@@ -101,7 +100,6 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 | [[!UICONTROL Home]: &quot;[!UICONTROL Mentions]&quot;-widget in new [!UICONTROL Home] is niet beperkt tot berichten waaraan de gebruiker een tag heeft toegewezen ](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md) | 25 september 2023 |
 | [[!UICONTROL Home]: Nieuwe [!UICONTROL Home] voorvertoning van widget geeft geen juiste naam van object weer. ](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 7 september 2023 |
 | [ Proofs: De proef toont niet in rapporten zoals goedgekeurd ](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 3 augustus 2023 |
-| [[!UICONTROL Setup]: Kan auditlogs niet exporteren ](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md) | 20 juli 2023 |
 | [ Proofs: De proef wordt langzaam gecreeerd in het milieu van de Voorproef ](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 8 juni 2023 |
 | [ Filters: Kan geen filter van een rapport over een dashboard delen ](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md) | 11 april 2023 |
 | [ Proofs: Het meethulpmiddel keurt geen decimale punten ](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) goed | 27 maart 2023 |

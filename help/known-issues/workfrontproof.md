@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor  [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: f352217ebfb597ea74b02a99c639b27bb3eed53d
+source-git-commit: e32c9244e39877d2a541d4911348c5adee553c62
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '389'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | [ Updates: Sommige gebruikers kunnen beelden of documenten niet zien in bijlage aan commentaren ](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 10 maart 2025 |
 | [ Proofs: Goedgekeurde proefdrukken verschijnen in rapporten ](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 11 februari 2025 |
 | [ Meldingen: De miniaturen niet zichtbaar in e-mailberichten ](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 juli 2024 |
-| [ Documenten: Fout wanneer het gebruiken van een openbare verbinding aan een document ](known-issues-workfront/wf-documents-public-link-not-working.md) | 5 juni 2024 |
 | [ Huis: De widget van goedkeuringen is niet nauwkeurig ](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8 mei 2024 |
 
 {style="table-layout:auto"}
