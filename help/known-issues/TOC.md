@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: e75c9fdb389dacf156c21a6a82f61470a4758375
+source-git-commit: ad58881526869c966792584b9a139c2759e7282d
 workflow-type: tm+mt
-source-wordcount: '1719'
+source-wordcount: '1538'
 ht-degree: 0%
 
 ---
@@ -50,50 +50,29 @@ ht-degree: 0%
       + [Home: Ontbrekende goedkeuringsknoppen in wachtende widget goedkeuring](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md)
       + [Gebruikers: account dupliceren gemaakt bij wijzigen van systeembeheerder](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
       + [Projecten: late voorwaarde niet van toepassing zoals verwacht](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
-      + [Aangepaste formulieren: aangepast formulier wordt weergegeven in de oude indeling](known-issues-workfront/wf-custom-forms-legacy-form-appears.md)
       + [Factureringsrecord: uren worden niet opgeslagen](known-issues-workfront/wf-billing-record-hours-not-saved.md)
       + [Borden: Kan kaart niet naar andere kolom verplaatsen](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
-      + [Aangepaste formulieren: bericht &quot;Ongeldige velden&quot; bij het bewerken van een aangepast formulier](known-issues-workfront/wf-custom-forms-blank-required-field.md)
       + [Gebruikers: gebruikers die bulksgewijs updates uitvoeren, zijn zeer traag](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
-      + [Aangepaste formulieren: keuzerondjes worden horizontaal weergegeven](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md)
-      + [Updates: geregistreerde uren worden niet weergegeven op het label Logtijd in het gebied Updates](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
       + [Rapporten: rapport vraagt langzaam laden](known-issues-workfront/wf-reports-prompts-load-slowly.md)
       + [Meldingen: pushmeldingen voor de Workfront Mobile-app werken niet](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
-      + [Documenten: in het gebied Documenten worden niet alle documenten weergegeven](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md)
-      + [Aangepaste formulieren: fout bij het bewerken van een aangepast formulier via kolom](known-issues-workfront/wf-custom-forms-error-when-editing.md)
-      + [Verzoeken en problemen: Fout met geavanceerde gebruikerstoewijzingen](known-issues-workfront/wf-issues-advanced-user-assignment-error.md)
       + [Aangepaste formulieren: aangepaste gegevens worden niet weergegeven in het deelvenster Samenvatting](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
-      + [Agile: kan artikelen in een iteratie niet bulksgewijs bewerken](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
-      + [Proefdrukken: kan ontvangers niet aan proefdrukken toevoegen](known-issues-workfront/wf-proofs-cannot-add-recipients.md)
-      + [Proefdrukken: de naam van het bewijs wordt niet weergegeven op het tabblad browser](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md)
-      + [Taken: Er is een fout opgetreden bij het toevoegen van persoonlijke taken](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md)
       + [Proefdrukken: proefdrukken van webvastlegging genereren geen](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
       + [Goedkeuringen: geen gedelegeerde goedkeuringen voor gedelegeerden](known-issues-workfront/wf-approvals-delegation-not-working.md)
-      + [Documenten: fout &quot;Niet-opgeslagen wijzigingen&quot; bij het toevoegen van een formulier aan een document](known-issues-workfront/wf-documents-unsaved-changes-error.md)
-      + [Taken: het veld Gereed om te starten wordt niet bijgewerkt ondanks voltooide voordecessors](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)
       + [Workfront: datumnotatie verandert tijdens de toepassing](known-issues-workfront/wf-workfront-date-format-changing.md)
       + [Workfront: ZScaler-instellingen kunnen leiden tot verminderde prestaties](known-issues-workfront//wf-workfront-zscaler.md)
-      + [Tijdschema&#39;s: gebruikers van de contribuant hebben een knop &quot;Ter goedkeuring verzenden&quot;](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
       + [Meldingen: e-mailmeldingen voor updates worden niet verzonden](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
-      + [Aangepaste formulieren: kan de taakvelden &quot;estiméByHours&quot; of &quot;hoursPerPoint&quot; niet toevoegen](known-issues-workfront/wf-custom-forms-invalid-fields.md)
-      + [Documenten: bij goedkeuring &quot;snel toevoegen&quot; wordt geen deadline ingevoerd voor nieuwe versies](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md)
-      + [Lay-outsjablonen: beheerders kunnen sjablonen voor de lay-out Home niet bewerken](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md)
       + [Gebruikers: de tag &quot;Niet-geregistreerd&quot; blijft bestaan na aanmelding](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md)
       + [Workfront: gebruikers van contribuanten hebben geen toegang tot programma&#39;s of portfolio&#39;s](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
       + [Goedkeuringen: &quot;Alle&quot; filters sluiten persoonlijk ingediende goedkeuringen uit](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
       + [Taken: Verstreken tijdsduur dagen onjuist voor bovenliggende taken met onderliggende items](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
       + [Rapporten: Bulkbewerking in grafieklijsten reageert niet](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
       + [Workfront: geopende browsertabbladen kunnen niet worden geladen](known-issues-workfront/wf-workfront-browser-tabs-error.md)
-      + [Rapporten: rapporten kunnen niet worden geladen](known-issues-workfront/wf-reports-fail-to-load.md)
       + [Lay-outsjablonen: aangepaste gegevensvelden worden niet weergegeven wanneer ze aan Taakoverzicht worden toegevoegd via Lay-outsjabloon](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
-      + [Home: De widget Mijn updates werkt niet](known-issues-workfront/wf-home-my-updates-not-working.md)
-      + [Documenten: de knop Goedkeuringsopties ontbreekt in documenten](known-issues-workfront/wf-documents-missing-approval-button.md)
       + [Integraties: JumpSeat-integratie mislukt voor organisaties op Unified Shell](known-issues-workfront/wf-integrations-jumpseat-error-with-unified-shell.md)
       + [Meldingen: e-mailberichten met documentmeldingen kunnen geen voorvertoningen van afbeeldingen weergeven](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
       + [Proefdrukken: kan geen proefdrukken maken in de voorvertoningsomgeving](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md)
       + [Home: Verwijderde aangepaste velden blijven aanwezig in project-, taak- en uitgave-widgets](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
       + [Prioriteiten: groeperingen voorkomen sorteren en inline bewerken](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
-      + [Projecten: kan projecten niet delen door fout &quot;toegang tot verwijderen&quot;](known-issues-workfront/wf-projects-sharing-access-error.md)
       + [Rapporten: kan niet schuiven om het hele diagramrapport te zien](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + [Groepen: verwijderde groepsstatus wordt opnieuw weergegeven](known-issues-workfront/wf-groups-deleted-status-reappears.md)
       + [Meldingen: gebruikers van contribuanten ontvangen geen e-mailmeldingen](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md)

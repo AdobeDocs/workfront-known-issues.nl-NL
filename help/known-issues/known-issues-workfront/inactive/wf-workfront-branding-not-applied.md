@@ -1,12 +1,12 @@
 ---
 title: 'Workfront: Branding is niet beschikbaar'
-description: Wanneer een gebruiker bestanden uploadt naar het gedeelte Branding van de installatie, lijken de bestanden op de juiste wijze te zijn geüpload. Als een gebruiker echter het hoofdmenu weergeeft, ziet hij of zij het logo niet. In plaats daarvan zien ze een foutbericht.
+description: Branding is niet beschikbaar voor organisaties die zijn gemigreerd naar de Adobe Admin Console, Adobe Unified Shell of Adobe IMS (Identity Management System).
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 0c7e5ebf-c09a-45fd-a017-c1607cef8b78
-source-git-commit: edbb0ac85506450aaf5b5147525fe50f2089b119
+source-git-commit: 838c8ed34b72916597a4a28ec00a5711bba3fe23
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---

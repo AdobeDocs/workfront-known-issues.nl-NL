@@ -4,7 +4,7 @@ description: De volgende punten zijn gerapporteerd met betrekking tot de herbere
 hidefromtoc: true
 feature: Tasks, Work Management
 exl-id: 43211889-8c49-4f40-adca-2a2922c5b8dc
-source-git-commit: 77776e8134a24a6b85a01ac97029306f389437ef
+source-git-commit: 838c8ed34b72916597a4a28ec00a5711bba3fe23
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Dit artikel is vastgesteld op 10 maart 2025.
+>Deze kwestie is op 10 maart 2025 vastgesteld.
 
 De volgende punten zijn gerapporteerd met betrekking tot de herberekening van tijdlijnen:
 

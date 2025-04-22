@@ -4,7 +4,7 @@ description: Wanneer een gebruiker probeert om gebruikers in bulk uit te geven, 
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: 937bf534-e401-4a2f-9193-af935cfa5337
-source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
+source-git-commit: 838c8ed34b72916597a4a28ec00a5711bba3fe23
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Dit artikel is vastgesteld op 21 januari 2025.
+>Dit probleem is opgelost op 21 januari 2025.
 
 Wanneer een gebruiker probeert om gebruikers in bulk uit te geven, duurt het uitgeven venster zeer lang om te openen. Dit geldt zelfs voor slechts twee gebruikers, maar het duurt nog langer voor meer gebruikers.
 
