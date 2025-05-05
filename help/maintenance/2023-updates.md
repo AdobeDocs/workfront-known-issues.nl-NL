@@ -169,7 +169,7 @@ Wanneer een gebruiker een proef probeert te produceren, wordt de proef niet gecr
 
 &quot;[!UICONTROL Error generating proof]&quot;
 
-Dit komt voor wanneer het de toegangsniveau dat van de gebruiker [!UICONTROL  View Contact Info] plaatst aan Gehandicapten wordt geplaatst.
+Dit komt voor wanneer het de toegangsniveau dat van de gebruiker [!UICONTROL &#x200B; View Contact Info] plaatst aan Gehandicapten wordt geplaatst.
 
 **Gebieden ontruimen wanneer een document aan een verzoek** wordt toegevoegd
 

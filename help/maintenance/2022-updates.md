@@ -604,7 +604,7 @@ Om op de nieuwe functionaliteit te wijzen van het kunnen zowel taken als kwestie
 
 +++**[!DNL Workfront Scenario Planner]Onderhoudsupdate op 15 september 2022**
 
-**filter dat met een Groep wordt gedeeld toont nu in de [!DNL Scenario Planner] [!UICONTROL Import Projects] lijst van 1} {voor leden van alle Subgroups**
+**filter dat met een Groep wordt gedeeld toont nu in de [!DNL Scenario Planner] [!UICONTROL Import Projects] lijst van 1&rbrace; &lbrace;voor leden van alle Subgroups**
 
 *[!DNL Workfront Scenario Planner]*
 
