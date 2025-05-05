@@ -999,7 +999,7 @@ Om een commentaarkwestie in [!UICONTROL Desktop Proofing Viewe] r te bevestigen,
 
 Gebruikers die [!UICONTROL Desktop Proofing Viewer] al hebben geïnstalleerd, krijgen deze update automatisch.
 
-Gebruikers kunnen ook handmatig de nieuwste versie verkleinen. Voor meer informatie, zie [ installeer [!UICONTROL Desktop Proofing Viewer] ](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html).
+Gebruikers kunnen ook handmatig de nieuwste versie verkleinen. Voor meer informatie, zie [ installeer [!UICONTROL Desktop Proofing Viewer] ](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=nl-NL).
 
 * Vorige versie: 2.1.22
 * Nieuwe versie: 2.1.23
@@ -1210,7 +1210,7 @@ _het Bewijs_
 
 We hebben een nieuwe versie van de Desktop Proofing Viewer geïmplementeerd om een probleem met het bevriezen van bestanden in de Desktop Proofing Viewer te verhelpen. Gebruikers die de Desktop Proofing Viewer al hebben geïnstalleerd, krijgen deze update automatisch.
 
-Gebruikers kunnen ook handmatig de nieuwste versie verkleinen. Voor meer informatie, zie [ installeer de Desktop het Proofing Kijker ](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=en).
+Gebruikers kunnen ook handmatig de nieuwste versie verkleinen. Voor meer informatie, zie [ installeer de Desktop het Proofing Kijker ](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=nl-NL).
 
 * Vorige versie: 2.1.19
 * Nieuwe versie: 2.1.20

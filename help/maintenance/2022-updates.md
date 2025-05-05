@@ -649,7 +649,7 @@ Wanneer een gebruiker een taak of kwestie in een project creeert en buiten de ve
 
 Vanaf donderdag 8 september 2022 hebben we de mogelijkheid om een bewijs te verzenden naar een dropzone in het standalone [!DNL Workfront Proof] product verwijderd.
 
-U kunt dropzones nog steeds op andere manieren gebruiken om nieuwe proefdrukken en nieuwe versies van proefdrukken naar uw account te verzenden zonder u aan te hoeven melden bij uw account. Zie [ Dropzone ](https://experienceleague.adobe.com/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/create-proofs-and-files/dropzone.html) voor meer informatie.
+U kunt dropzones nog steeds op andere manieren gebruiken om nieuwe proefdrukken en nieuwe versies van proefdrukken naar uw account te verzenden zonder u aan te hoeven melden bij uw account. Zie [ Dropzone ](https://experienceleague.adobe.com/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/create-proofs-and-files/dropzone.html?lang=nl-NL) voor meer informatie.
 
 +++
 
