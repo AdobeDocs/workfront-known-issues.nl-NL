@@ -4,7 +4,7 @@ description: De verbindingen van de hulp in  [!DNL Workfront Fusion]  leiden mom
 hidefromtoc: true
 exl-id: 3775d0c6-6bca-4727-b03e-4a0659cb3267
 feature: Workfront Fusion
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: 889157407be97219b0a258c038f5094b197238b1
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Dit probleem is op 25 april 2023 opgelost.
+>Deze kwestie is op 5 mei 2025 opgelost.
 
 De Help-koppelingen in [!DNL Workfront Fusion] leiden momenteel niet tot de bedoelde Help-pagina&#39;s. In plaats daarvan leiden alle [!DNL Fusion] Help-koppelingen naar de [!DNL Workfront] startpagina voor documentatie. Vanaf deze openingspagina kunt u zoeken naar de informatie die u nodig hebt.
 
