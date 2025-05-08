@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 62665ccbeec605b625b79379a99e7877d9ae037c
+source-git-commit: 3dd2b146d100d75f3b756c461b52faf917768537
 workflow-type: tm+mt
-source-wordcount: '1056'
+source-wordcount: '1086'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,14 @@ Voor onderhoudsupdates voorafgaand aan 2025, zie [ Vorige Updates van het Onderh
 De volgende onderhoudsupdates zijn uitgevoerd in 2025.
 
 ## Updates in mei 2025
+
++++**Update van het Onderhoud op 8 Mei, 2025**
+
+### Onderhoudsupdate op 8 mei 2025
+
+Deze update bevat alleen kleine of minder belangrijke opgeloste problemen. Workfront Support geeft een melding wanneer een probleem dat je hebt verzonden, is opgelost.
+
++++
 
 +++**Update van het Onderhoud op 1 Mei, 2025**
 
