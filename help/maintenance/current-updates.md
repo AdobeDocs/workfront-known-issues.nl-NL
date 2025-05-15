@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3dd2b146d100d75f3b756c461b52faf917768537
+source-git-commit: 55507ca9bb62e46af3b896819faeeacc8262c660
 workflow-type: tm+mt
-source-wordcount: '1086'
+source-wordcount: '1129'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,18 @@ Voor onderhoudsupdates voorafgaand aan 2025, zie [ Vorige Updates van het Onderh
 De volgende onderhoudsupdates zijn uitgevoerd in 2025.
 
 ## Updates in mei 2025
+
++++**Update van het Onderhoud op 15 Mei, 2025**
+
+### Onderhoudsupdate op 15 mei 2025
+
+#### Rapporten
+
+**Fout wanneer het bekijken van een rapport met een milestone mening**
+
+Wanneer een gebruiker probeert om een rapport te bekijken dat een mijlpaalmening beschikbaar heeft om toe te laten, laadt het rapport niet en toont een fout.
+
++++
 
 +++**Update van het Onderhoud op 8 Mei, 2025**
 
