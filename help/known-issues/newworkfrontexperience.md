@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 62326cae8815b0ee835a882fbedd9b1615369a5f
+source-git-commit: 7b73c768009d730f95684e6cc3fb46dbd08c9afe
 workflow-type: tm+mt
-source-wordcount: '883'
+source-wordcount: '892'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Uitgave** | **Laatst gewijzigd** |
 | ---------------------------------- | ----------------- |
+| [ Gebruikers: &quot;In afwachting van goedkeuring&quot;badge toont op nieuwe gebruikers ](known-issues-workfront/wf-users-pending-approval.md) | 23 mei 2025 |
 | [ Documenten: De duimnagels van het document tonen niet ](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17 april 2025 |
 | [[!DNL Workfront]: Kwesties die a  [!DNL Workfront]  steungeval op Experience League ](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) voorleggen | 2 augustus 2022 |
 
