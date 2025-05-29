@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7b73c768009d730f95684e6cc3fb46dbd08c9afe
+source-git-commit: 624dbff910e8d2a8ae29704f94b3dc348a249be0
 workflow-type: tm+mt
-source-wordcount: '892'
+source-wordcount: '901'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Uitgave** | **Laatst gewijzigd** |
 | ----------------------------------------------------------------- | ----------------- |
-| [ Planner van het Middel: De knoop van de Uitvoer is gehandicapt ](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md) | 22 mei 2025 |
+| [ Onderzoek: Het geavanceerde Onderzoek keert geen verwachte resultaten terug ](/help/known-issues/known-issues-workfront/wf-search-advanced-not-working.md) | 29 mei 2025 |
 | [ Integraties: Het verbinden van omslag van  [!DNL Google Drive]  verbindt geen activa in omslag ](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
 
 {style="table-layout:auto"}
@@ -36,6 +36,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Uitgave** | **Laatst gewijzigd** |
 | ---------------------------------- | ----------------- |
+| [ Planner van het Middel: De knoop van de Uitvoer is gehandicapt ](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md) | 29 mei 2025 |
 | [ Gebruikers: &quot;In afwachting van goedkeuring&quot;badge toont op nieuwe gebruikers ](known-issues-workfront/wf-users-pending-approval.md) | 23 mei 2025 |
 | [ Documenten: De duimnagels van het document tonen niet ](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17 april 2025 |
 | [[!DNL Workfront]: Kwesties die a  [!DNL Workfront]  steungeval op Experience League ](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) voorleggen | 2 augustus 2022 |
