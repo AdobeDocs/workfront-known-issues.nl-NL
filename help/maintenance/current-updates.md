@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 23766d8e6c6e67c7106f138c83057ba99cb1da1a
+source-git-commit: 6e9a1d2bc434be36549a91e692d4fa44db0f26cd
 workflow-type: tm+mt
-source-wordcount: '1196'
+source-wordcount: '1248'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,20 @@ Deze updates bevatten ook andere kleine of minder duidelijke foutoplossingen. [!
 Voor onderhoudsupdates voorafgaand aan 2025, zie [ Vorige Updates van het Onderhoud ](#previous-maintenance-updates)
 
 De volgende onderhoudsupdates zijn uitgevoerd in 2025.
+
+## Updates in juni 2025
+
++++**Updates van het Onderhoud op 2-6 Juni, 2025**
+
+### Onderhoudsupdate op 2-6 juni 2025
+
+### Zoeken
+
+**Geavanceerd Onderzoek keert geen verwachte resultaten terug**
+
+Wanneer een gebruiker Geavanceerd zoeken gebruikt, worden de verwachte resultaten niet geretourneerd. Dit kan zelfs voorkomen wanneer er geen filters op Geavanceerd Onderzoek worden toegepast.
+
++++
 
 ## Updates in mei 2025
 
