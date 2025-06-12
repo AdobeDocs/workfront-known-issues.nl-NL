@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor  [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 2d481e92c9f1ac680d0381970028a1e341cdfa65
+source-git-commit: 93003ab8b3f6b5fe38255c08e43da37ebcfd5887
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '383'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | [ Proofs: Kan bewijs van directe verbinding niet openen ](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md) | 9 juni 2025 |
 | [ Documenten: De duimnagels van het document tonen niet ](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17 april 2025 |
 | [ Updates: Sommige gebruikers kunnen beelden of documenten niet zien in bijlage aan commentaren ](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 10 maart 2025 |
-| [ Proofs: Goedgekeurde proefdrukken verschijnen in rapporten ](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 11 februari 2025 |
 | [ Meldingen: De miniaturen niet zichtbaar in e-mailberichten ](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 juli 2024 |
 | [ Huis: De widget van goedkeuringen is niet nauwkeurig ](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8 mei 2024 |
 
@@ -60,7 +59,6 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 | [[!DNL Workfront Proof]: Kan werkstroom niet uitvouwen ](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25 oktober 2023 |
 | [ Workfront Proof: De gegevens van het dashboard niet altijd nauwkeurig ](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 19 september 2023 |
 | [ Workfront Proof: De gegevens van het onderzoek niet altijd nauwkeurig ](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | 19 september 2023 |
-| [ Proofs: De proef toont niet in rapporten zoals goedgekeurd ](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 3 augustus 2023 |
 | [ Proofs: De proef wordt langzaam gecreeerd in het milieu van de Voorproef ](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 9 juni 2023 |
 | [ Proofs: De proef wordt langzaam gecreeerd in het milieu van de Voorproef ](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 8 juni 2023 |
 | [[!DNL Workfront Proof]: 500 fout wanneer het toegang tot van  [!DNL Workfront Proof]  door API of  [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 25 mei 2023 |
@@ -76,7 +74,6 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 | [ Proofs: Het bewijs wordt niet gedeeld aan gebruikers op het Werkschema van het Bewijs ](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18 september 2022 |
 | [ Proofs: [!UICONTROL Active Proof Stages] gebied is leeg ](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md) | 14 september 2022 |
 | [[!DNL Workfront Proof]: Kan gebruiker aan proef niet toevoegen door de gebruiker in een commentaar te etiketteren ](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 23 maart 2022 |
-| [[!UICONTROL Home]: [!UICONTROL Reply in Proof] het gedrag van de knop is inconsistent ](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 21 juni 2021 |
 | [[!DNL Workfront Proof]: [!UICONTROL Proof Approval] rapport kan deadlines niet nauwkeurig bepalen ](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 21 april 2021 |
 | [ Documenten: Het pictogram van het werkschema van het Bewijs toont niet ](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 5 maart 2021 |
 

@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d4655e47130729985089c2ab6880e4db4f43294a
+source-git-commit: ba6b0d326919a29c45204fe52549401bdeda20f0
 workflow-type: tm+mt
-source-wordcount: '900'
+source-wordcount: '872'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,6 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 | [ Integraties: outlookIdentityToken fout wanneer het gebruiken van Workfront voor Vooruitzichten ](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | 4 maart 2025 |
 | [ Meldingen: Dubbele e-mail ](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | 27 februari 2025 |
 | [ Documenten: Kan niet uploaden aan de lijst van de de omslagdocumenten van AEM ](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 27 februari 2025 |
-| [ Integraties: Kan login aan Workfront voor Vooruitzichten ](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) niet | 20 februari 2025 |
 | [ Projecten: De laat voorwaarde die niet zoals verwacht van toepassing is ](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | 20 januari 2025 |
 | [ de vormen van de Douane: Bedrijven die van het gebied van de douanetype ](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) ontbreken | 20 februari 2025 |
 | [ Proofs: Kan geen proefdrukken voor video&#39;s tot stand brengen die van AEM door Fusion ](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) worden verbonden | 13 februari 2025 |
@@ -70,7 +69,6 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 | [ Meldingen: E-mailberichten voor updates worden niet verzonden ](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | 5 december 2024 |
 | [ Workfront: De gebruikers van de contribuant hebben geen toegang tot Programma&#39;s of Portfolio&#39;s ](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | 5 december 2024 |
 | [ Workfront: De montages ZScaler kunnen verminderde prestaties veroorzaken ](known-issues-workfront//wf-workfront-zscaler.md) | 20 november 2024 |
-| [ Meldingen: De gebruikers van de medewerker ontvangen geen e-mailberichten ](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 12 november 2024 |
 | [ Meldingen: E-mails van het documentbericht kunnen beeldvoorproeven niet tonen ](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | 29 oktober 2024 |
 | [ Rapporten: Fout wanneer het uitvoeren van rapport ](known-issues-workfront/wf-reports-error-cache-content.md) | 14 oktober 2024 |
 | [ Huis: De geschrapte douanegebieden blijven in project, taak, en kwestie widgets ](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 8 oktober 2024 |
@@ -99,7 +97,6 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 | [[!DNL Workfront Proof]: Kan werkstroom niet uitvouwen ](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25 oktober 2023 |
 | [[!UICONTROL Home]: &quot;[!UICONTROL Mentions]&quot;-widget in new [!UICONTROL Home] is niet beperkt tot berichten waaraan de gebruiker een tag heeft toegewezen ](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md) | 25 september 2023 |
 | [[!UICONTROL Home]: Nieuwe [!UICONTROL Home] voorvertoning van widget geeft geen juiste naam van object weer. ](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 7 september 2023 |
-| [ Proofs: De proef toont niet in rapporten zoals goedgekeurd ](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 3 augustus 2023 |
 | [ Proofs: De proef wordt langzaam gecreeerd in het milieu van de Voorproef ](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 8 juni 2023 |
 | [ Filters: Kan geen filter van een rapport over een dashboard delen ](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md) | 11 april 2023 |
 | [ Proofs: Het meethulpmiddel keurt geen decimale punten ](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) goed | 27 maart 2023 |
