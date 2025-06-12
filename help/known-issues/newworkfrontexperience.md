@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2d481e92c9f1ac680d0381970028a1e341cdfa65
+source-git-commit: d4655e47130729985089c2ab6880e4db4f43294a
 workflow-type: tm+mt
-source-wordcount: '913'
+source-wordcount: '900'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,6 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | **Uitgave** | **Laatst gewijzigd** |
 | ----------------------------------------------------------------- | ----------------- |
 | [ Rapporten: De drilldown van de Grafiek omvat onnauwkeurige resultaten ](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md) | 9 juni 2025 |
-| [ Timesheets: Timesheets niet correct geproduceerd ](known-issues-workfront/wf-timesheets-one-week-created.md) | 3 juni 2025 |
 | [ Integraties: Het verbinden van omslag van  [!DNL Google Drive]  verbindt geen activa in omslag ](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
 
 {style="table-layout:auto"}
@@ -38,7 +37,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | **Uitgave** | **Laatst gewijzigd** |
 | ---------------------------------- | ----------------- |
 | [ Proofs: Kan bewijs van directe verbinding niet openen ](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md) | 9 juni 2025 |
-| [ Planner van het Middel: De knoop van de Uitvoer is gehandicapt ](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md) | 29 mei 2025 |
 | [ Gebruikers: &quot;In afwachting van goedkeuring&quot;badge toont op nieuwe gebruikers ](known-issues-workfront/wf-users-pending-approval.md) | 23 mei 2025 |
 | [ Documenten: De duimnagels van het document tonen niet ](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17 april 2025 |
 | [[!DNL Workfront]: Kwesties die a  [!DNL Workfront]  steungeval op Experience League ](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) voorleggen | 2 augustus 2022 |
