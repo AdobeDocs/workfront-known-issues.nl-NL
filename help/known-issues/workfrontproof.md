@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor  [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 93003ab8b3f6b5fe38255c08e43da37ebcfd5887
+source-git-commit: c11e453722792402e6c4f0a1a7e993632856999b
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '397'
 ht-degree: 0%
 
 ---
@@ -51,6 +51,7 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [ Proofs: Kan gebruikers niet toevoegen aan een proef door naam in het milieu van de Voorproef ](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 16 juni 2025 |
 | [ Proofs: Het sluiten van proef richt zich aan documentenlijst ](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) opnieuw | 14 mei 2025 |
 | [ Proofs: Kan geen proefdrukken voor video&#39;s tot stand brengen die van AEM door Fusion ](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) worden verbonden | 13 februari 2025 |
 | [ Proofs: De proeven Webcapture produceren niet ](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 20 december 2024 |
