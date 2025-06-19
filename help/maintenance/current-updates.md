@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: d4655e47130729985089c2ab6880e4db4f43294a
+source-git-commit: f1eb46ee67560fe897317c76eec9dfec801f21f7
 workflow-type: tm+mt
-source-wordcount: '1321'
+source-wordcount: '1360'
 ht-degree: 0%
 
 ---
@@ -26,9 +26,17 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2025.
 
 ## Updates in juni 2025
 
-+++**de week van Updates van het Onderhoud van 9-13 juni, 2025**
++++**de week van Updates van het Onderhoud van 15-21 juni, 2025**
 
-### Onderhoudsupdate week van 9-13 juni 2025
+### Onderhoudsupdate week van 15-21 juni 2025
+
+Deze week worden alleen kleine of minder belangrijke opgeloste problemen bijgewerkt. Workfront Support geeft een melding wanneer een probleem dat je hebt verzonden, is opgelost.
+
++++
+
++++**de week van Updates van het Onderhoud van 8-14 juni, 2025**
+
+### Onderhoudsupdate week van 8-14 juni 2025
 
 #### Resource Planner
 
@@ -44,9 +52,9 @@ Wanneer een gebruiker probeert om timesheets te produceren, en de generatie word
 
 +++
 
-+++**de week van Updates van het Onderhoud van 2-6 juni, 2025**
++++**de week van Updates van het Onderhoud van 1-7 juni, 2025**
 
-### Onderhoudsupdate week van 2-6 juni 2025
+### Onderhoudsupdate week van 1-7 juni 2025
 
 ### Zoeken
 
@@ -58,9 +66,9 @@ Wanneer een gebruiker Geavanceerd zoeken gebruikt, worden de verwachte resultate
 
 ## Updates in mei 2025
 
-+++**de week van Updates van het Onderhoud van 26-30 mei, 2025**
++++**de week van Updates van het Onderhoud van 25-31 mei, 2025**
 
-### Onderhoudsupdate week van 26-30 mei 2025
+### Onderhoudsupdate week van 25-31 mei 2025
 
 Deze week worden alleen kleine of minder belangrijke opgeloste problemen bijgewerkt. Workfront Support geeft een melding wanneer een probleem dat je hebt verzonden, is opgelost.
 
