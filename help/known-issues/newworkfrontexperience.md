@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7924fcf0740229da5f7130691b1574aecf129eed
+source-git-commit: e1833c5e6ae78b2cfc174dbffb6c43d9597be2e1
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '904'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Uitgave** | **Laatst gewijzigd** |
 | ---------------------------------- | ----------------- |
+| [ Projecten: Kan project niet naar gespecificeerd programma verplaatsen ](/help/known-issues/known-issues-workfront/wf-projects-cannot-move-to-program.md) | 20 juni 2025 |
 | [ Workfront: De voorwerpen uit synchronisatie tussen Workfront en Snowflake ](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 17 juni 2025 |
 | [ Proofs: Kan bewijs van directe verbinding niet openen ](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md) | 9 juni 2025 |
 | [ Gebruikers: &quot;In afwachting van goedkeuring&quot;badge toont op nieuwe gebruikers ](known-issues-workfront/wf-users-pending-approval.md) | 23 mei 2025 |
