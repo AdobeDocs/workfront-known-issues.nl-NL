@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f1eb46ee67560fe897317c76eec9dfec801f21f7
+source-git-commit: e98c29b84e022c2c8101f21f2cae5b74bda3718e
 workflow-type: tm+mt
-source-wordcount: '1360'
+source-wordcount: '1421'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,18 @@ Voor onderhoudsupdates voorafgaand aan 2025, zie [ Vorige Updates van het Onderh
 De volgende onderhoudsupdates zijn uitgevoerd in 2025.
 
 ## Updates in juni 2025
+
++++**de week van Updates van het Onderhoud van 22-27 juni, 2025**
+
+### Onderhoudsupdate week van 22-27 juni 2025
+
+#### Proefdrukken
+
+**kan bewijs van directe verbinding niet openen**
+
+Wanneer een gebruiker een proefdruk probeert te openen via een directe koppeling, wordt de proefdruk niet geopend. Dit kan gebeuren, ook al bevindt de gebruiker zich op een workflow voor de proefdruk of is de gebruiker een Workfront-beheerder.
+
++++
 
 +++**de week van Updates van het Onderhoud van 15-21 juni, 2025**
 
