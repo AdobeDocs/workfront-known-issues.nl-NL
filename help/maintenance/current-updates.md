@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e98c29b84e022c2c8101f21f2cae5b74bda3718e
+source-git-commit: 833fe5b1c0483baa3243fc02679f5515ed75b67f
 workflow-type: tm+mt
-source-wordcount: '1421'
+source-wordcount: '1463'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,14 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2025.
 **kan bewijs van directe verbinding niet openen**
 
 Wanneer een gebruiker een proefdruk probeert te openen via een directe koppeling, wordt de proefdruk niet geopend. Dit kan gebeuren, ook al bevindt de gebruiker zich op een workflow voor de proefdruk of is de gebruiker een Workfront-beheerder.
+
+#### Rapporten
+
+**drilldown van de Grafiek omvat onnauwkeurige resultaten**
+
+Wanneer een gebruiker een grafiekrapport bekijkt en probeert om in een specifieke groepering neer te drijven, omvatten de details resultaten die niet in de geselecteerde groepering zijn.
+
+Dit is gerapporteerd in rapporten gegroepeerd op datum.
 
 +++
 
