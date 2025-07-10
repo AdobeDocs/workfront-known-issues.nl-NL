@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3fbede430b19640e45981dd0771bc66d509f2e4f
+source-git-commit: ddb39855b501df99cd0ad13c72f53487839c45ca
 workflow-type: tm+mt
-source-wordcount: '914'
+source-wordcount: '916'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Uitgave** | **Laatst gewijzigd** |
 | ---------------------------------- | ----------------- |
-| [ Projecten: Kan project niet naar gespecificeerd programma verplaatsen ](/help/known-issues/known-issues-workfront/wf-projects-cannot-move-to-program.md) | 20 juni 2025 |
+| [ Projecten: Fout wanneer het toevoegen van een project aan een programma ](/help/known-issues/known-issues-workfront/wf-projects-error-when-adding-to-program.md) | 10 juli 2025 |
 | [ Workfront: De voorwerpen uit synchronisatie tussen Workfront en Snowflake ](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 17 juni 2025 |
 | [ Gebruikers: &quot;In afwachting van goedkeuring&quot;badge toont op nieuwe gebruikers ](known-issues-workfront/wf-users-pending-approval.md) | 23 mei 2025 |
 | [ Documenten: De duimnagels van het document tonen niet ](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17 april 2025 |

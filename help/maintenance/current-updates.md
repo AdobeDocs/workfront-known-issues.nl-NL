@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 833fe5b1c0483baa3243fc02679f5515ed75b67f
+source-git-commit: ddb39855b501df99cd0ad13c72f53487839c45ca
 workflow-type: tm+mt
-source-wordcount: '1463'
+source-wordcount: '1522'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,20 @@ Deze updates bevatten ook andere kleine of minder duidelijke foutoplossingen. [!
 Voor onderhoudsupdates voorafgaand aan 2025, zie [ Vorige Updates van het Onderhoud ](#previous-maintenance-updates)
 
 De volgende onderhoudsupdates zijn uitgevoerd in 2025.
+
+## Updates in juli 2025
+
++++**de week van Updates van het Onderhoud van 6-12 juli, 2025**
+
+### Onderhoudsupdates week van 6-12 juli
+
+### Projecten
+
+**kan project niet naar gespecificeerd programma** bewegen
+
+Wanneer een gebruiker probeert om een project naar een programma te bewegen, beweegt het project niet. Dit kan zich voordoen, ook al heeft de gebruiker een bericht ontvangen dat aangeeft dat het project is verplaatst.
+
++++
 
 ## Updates in juni 2025
 
