@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ddb39855b501df99cd0ad13c72f53487839c45ca
+source-git-commit: 798be3dd7ef5e7bf0ecf14484242f7758ac9d9a4
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '924'
 ht-degree: 0%
 
 ---
@@ -52,7 +52,8 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [ Proofs: Kan gebruikers niet toevoegen aan een proef door naam in het milieu van de Voorproef ](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 16 juni 2025 |
+| [ Toestemmingen: De toestemmingen van Objecten worden niet correct geërft ](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | 15 juli 2025 |
+| [ Proofs: Kan gebruikers niet aan een proef toevoegen door naam in het milieu van de Voorproef ](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 16 juni 2025 |
 | [ Proofs: Het sluiten van proef richt zich aan documentenlijst ](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) opnieuw | 14 mei 2025 |
 | [ Filters: De Dropdown verdwijnt wanneer het klikken op scrollbar ](known-issues-workfront/wf-filter-scroll-bar.md) | 26 maart 2025 |
 | [ Teams: Kan teameigenaar niet bekijken of team schrappen ](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 13 maart 2025 |
