@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 73fd34c9ae295f0c3ac0d13c433f50afaf283626
+source-git-commit: 26bd9f2b4dd14d378f555a63b6599a7cd8beeb58
 workflow-type: tm+mt
-source-wordcount: '924'
+source-wordcount: '915'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,6 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 | **Uitgave** | **Laatst gewijzigd** |
 | ----------------------------------------------------------------- | ----------------- |
 | [ Toestemmingen: De toestemmingen van Objecten worden niet correct geërft ](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md) | 16 juli 2025 |
-| [ Integraties: De kwesties met Workfront voor de integratie van Slack ](known-issues-workfront/wf-integrations-slack-integration-not-working.md) | 7 juli 2025 |
 | [ Taken: Het gebied van goedkeurt verdwijnt van linkernavigatie ](known-issues-workfront/wf-tasks-approvals-tab-disappears.md) | 27 juni 2025 |
 | [ Integraties: Het verbinden van omslag van  [!DNL Google Drive]  verbindt geen activa in omslag ](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
 
