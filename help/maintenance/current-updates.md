@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: ddb39855b501df99cd0ad13c72f53487839c45ca
+source-git-commit: 6981a09efc71d2b7b5c20362878b0101ffd00b06
 workflow-type: tm+mt
-source-wordcount: '1522'
+source-wordcount: '1590'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,22 @@ Voor onderhoudsupdates voorafgaand aan 2025, zie [ Vorige Updates van het Onderh
 De volgende onderhoudsupdates zijn uitgevoerd in 2025.
 
 ## Updates in juli 2025
+
++++**de week van Updates van het Onderhoud van 13-19 juli, 2025**
+
+### Onderhoudsupdates week van 13-192 juli
+
+### Integraties
+
+**kwesties met Workfront voor de integratie van Slack**
+
+Over de integratie van Workfront for Slack zijn de volgende problemen gemeld:
+
+* In Slack worden gebruikers niet op de hoogte gesteld wanneer updates worden uitgevoerd in Workfront.
+* Gebruikers kunnen zich niet vanuit Slack aanmelden bij Workfront.
+* Andere opdrachten in de Workfront for Slack-integratie werken niet zoals verwacht.
+
++++
 
 +++**de week van Updates van het Onderhoud van 6-12 juli, 2025**
 
