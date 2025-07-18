@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 4d0ff9fa398a3daf22ffbf202073cde6b5e05458
+source-git-commit: 9c3e3f27f5e1bf4e221fbf7a5d6bad6a1bf94ebc
 workflow-type: tm+mt
-source-wordcount: '1292'
+source-wordcount: '1286'
 ht-degree: 0%
 
 ---
@@ -185,17 +185,13 @@ ht-degree: 0%
       + [Workfront Fusion: uitvoeropmaak voor datums](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: fout met laag geheugen](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: dubbele projecten gemaakt van één module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]: [!DNL Workfront] > [!UICONTROL &#x200B; Custom API Call] module die 404 of 422 fouten terugkeert](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: [!DNL Workfront] > [!UICONTROL  Custom API Call] module die 404 of 422 fouten terugkeert](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: Fout: &quot;Kan de verbinding niet verifiëren&quot;](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: [!DNL Fusion]  de module keert 404 fout zonder verdere informatie terug](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] In-app Help-koppelingen leiden niet tot specifieke Help-pagina&#39;s](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
-+ [!UICONTROL Adobe Workfront Goals] {#goals}
-   + [Bekende problemen in  [!DNL Workfront Goals]](workfrontgoals.md)
 + [!DNL Workfront] Mobiele toepassing {#mobile}
    + [Bekende Kwesties in  [!DNL Workfront]  Mobiele App](workfrontmobile.md)
-+ [!DNL Workfront Scenario Planner] {#scenarioplanner}
-   + [Bekende problemen in  [!DNL Workfront Scenario Planner]](workfrontscenarioplanner.md)
 
 <!--
 
