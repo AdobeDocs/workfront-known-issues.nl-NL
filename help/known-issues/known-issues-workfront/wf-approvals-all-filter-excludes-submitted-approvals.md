@@ -4,9 +4,9 @@ description: Wanneer het bekijken van goedkeuringen in of Mijn goedkeurt widget 
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 5b861fdd-0fcf-492a-ab32-3454c3cc5f21
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -20,3 +20,5 @@ ht-degree: 0%
 Wanneer het bekijken van goedkeuringen in of Mijn goedkeurt widget in Huis of op de Mijn pagina van Updates, omvat de lijst geen goedkeuringen die door de gebruiker worden voorgelegd zelfs wanneer de filter aan &quot;Alle&quot;wordt geplaatst.
 
 _Eerste rapporteerde op 16 oktober, 2024._
+
+&lt;!—CHECK ME—1 view April-June 2025—>

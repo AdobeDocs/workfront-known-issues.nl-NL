@@ -4,7 +4,7 @@ description: Wanneer een gebruiker wordt vermeld of opgenomen in een opmerking o
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: dff78c3d-2355-4381-9cf6-11e2bf303c7b
-source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
@@ -20,3 +20,5 @@ ht-degree: 0%
 Wanneer een gebruiker wordt vermeld of opgenomen in een opmerking of update in de updatestream van een object, ontvangen deze mogelijk niet het verwachte e-mailbericht of bericht in de app over de opmerking.
 
 _Eerste rapporteerde op 20 september, 2022._
+
+<!--CHECK ME - NO VIEWS APRIL-JUNE 2025-->

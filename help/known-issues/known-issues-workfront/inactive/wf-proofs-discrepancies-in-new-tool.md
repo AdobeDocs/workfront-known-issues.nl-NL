@@ -4,7 +4,7 @@ description: Workfront heeft onlangs zijn proefverwerkingsprogramma gewijzigd va
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: b2b6ba28-6bc3-4a74-9b25-74cc77659631
-source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
@@ -24,3 +24,6 @@ Workfront werkt aan het upgraden van zijn bibliotheken naar het oude programma e
 Als u momenteel problemen ondervindt met het verwerken van dergelijke bestanden, raden we u aan de pagina&#39;s te exporteren naar JPG of PNG en ze als zodanig te controleren.
 
 _Eerste rapporteerde op 15 augustus, 2023._
+
+<!--CHECK ME - NO VIEWS APRIL-JUNE 2025-->
+
