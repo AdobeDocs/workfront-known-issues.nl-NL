@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 69833d9af1ea8ca2eea02cf1e37ddcb7ed6b229e
+source-git-commit: 4d0ff9fa398a3daf22ffbf202073cde6b5e05458
 workflow-type: tm+mt
-source-wordcount: '1394'
+source-wordcount: '1292'
 ht-degree: 0%
 
 ---
@@ -36,17 +36,8 @@ ht-degree: 0%
       + [Proefdrukken: proefdruk wordt doorgestuurd naar documentenlijst](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md)
       + [Documenten: documentminiaturen worden niet weergegeven](known-issues-workfront/wf-documents-thumbnails-not-display.md)
       + [Sjablonen: kan niet delen met Contribute-toegang](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
-      + [Dashboards: Aangepast dashboard wordt niet geopend](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
-      + [Aanvragen: Ingesloten code-URL&#39;s laden de aanvraagwachtrij niet correct](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
-      + [Rapporten: gebruikers in verschillende tijdzones krijgen verschillende rapportresultaten](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md)
-      + [Gebruikers: groepsbeheerders kunnen gebruikers niet deactiveren](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md)
       + [Filters: Vervolgkeuzelijst verdwijnt wanneer u op de schuifbalk klikt](known-issues-workfront/wf-filter-scroll-bar.md)
-      + [Home: Kan geen reacties verzenden van de widget voor berichten](/help/known-issues/known-issues-workfront/wf-home-mention-replies-not-sent.md)
-      + [Updates: updates worden vertraagd](known-issues-workfront/wf-updates-delay-in-updates.md)
-      + [Proefdrukken: het genereren van proefdrukken gaat langzaam](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md)
-      + [Aanvragen: wachtrij aanvragen is niet beschikbaar](/help/known-issues/known-issues-workfront/wf-requests-queue-not-available.md)
       + [Projecten: de status van de projectvoortgang wordt niet automatisch bijgewerkt naar Te laat](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
-      + [Updates: sommige gebruikers kunnen geen afbeeldingen of documenten zien die aan opmerkingen zijn gekoppeld](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md)
       + [Aanmelden als: groepsbeheerders kunnen zich niet aanmelden als een andere gebruiker](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
       + [Integratie: outlookIdentityToken-fout bij gebruik van Workfront for Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
       + [Meldingen: dubbele e-mails](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
@@ -56,7 +47,6 @@ ht-degree: 0%
       + [Documenten: kan niet uploaden naar lijst met AEM-mapdocumenten](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md)
       + [Proefdrukken: Kan bepaalde gebruikers niet labelen](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
       + [Aanmelden als: sjabloon voor startpagina van beheerder wordt weergegeven](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
-      + [Gebruikers: account dupliceren gemaakt bij wijzigen van systeembeheerder](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
       + [Projecten: late voorwaarde niet van toepassing zoals verwacht](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
       + [Rapporten: rapport vraagt langzaam laden](known-issues-workfront/wf-reports-prompts-load-slowly.md)
       + [Proefdrukken: proefdrukken van webvastlegging genereren geen](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
@@ -82,7 +72,6 @@ ht-degree: 0%
       + [Workfront: Workfront meldt zich af met meerdere browsertabs](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
       + [Verzoeken: de gebruiker kan de status wijzigen bij gebrek aan machtigingen](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
       + [Rapporten: Fout bij exporteren van rapport](known-issues-workfront/wf-reports-error-cache-content.md)
-      + [Aangepaste formulieren: berekend veld met onjuiste waarde](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md)
       + [Workfront Fusion: kan een verbinding niet verifiëren met Workfront Log in als functionaliteit](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
       + [Meldingen: Miniaturen zijn niet zichtbaar in e-mailmeldingen](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
       + [Portfolio&#39;s: gebruiker kan portfolio niet instellen](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
@@ -128,7 +117,6 @@ ht-degree: 0%
       + [Proefdrukken: gereedschap Meten accepteert geen decimale punten](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md)
       + [Documenten: problemen met de documentlijst](known-issues-workfront/inactive/wf-documents-list-missing-elements.md)
       + [Documenten: 404 fout bij het openen van een document dat is gekoppeld vanuit  [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md)
-      + [Documenten: [!UICONTROL Proofing Activities] opties leiden tot aanmeldingspagina](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md)
       + [[!UICONTROL Workload Balancer]: Uren worden niet aangepast om rekening te houden met vrije tijd](known-issues-workfront/inactive/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [[!UICONTROL Updates]: Kan de tijd voor de huidige dag in het [!UICONTROL Updates] -gebied niet vastleggen](known-issues-workfront/inactive/wf-updates-cannot-log-time-for-today-in-updates.md)
       + [Documenten: machtigingen worden niet overgeërfd wanneer een document naar een nieuw project wordt verplaatst](known-issues-workfront/inactive/wf-documents-permissions-not-interited-when-moved.md)
@@ -189,7 +177,6 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Bekende problemen in Workfront Fusion](workfrontfusion.md)
    + Huidige problemen in [!DNL Workfront Fusion] {#fusion-current}
-      + [Workfront Fusion: Workfront Event Subscription versie 2-opties niet beschikbaar bij verbinding met een Sandbox-omgeving](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md)
       + [Workfront Fusion: Scenario wordt niet uitgevoerd](known-issues-workfront-fusion/fusion-scenario-not-running.md)
       + [Workfront Fusion: &quot;Van nu af aan&quot; instellen voor het verwerken van alle gegevens](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
       + [Workfront Fusion: kan geen gebruikers toevoegen aan of verwijderen uit Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
@@ -198,7 +185,7 @@ ht-degree: 0%
       + [Workfront Fusion: uitvoeropmaak voor datums](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: fout met laag geheugen](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: dubbele projecten gemaakt van één module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]: [!DNL Workfront] > [!UICONTROL &#x200B; Custom API Call] module die 404 of 422 fouten terugkeert](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: [!DNL Workfront] > [!UICONTROL  Custom API Call] module die 404 of 422 fouten terugkeert](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: Fout: &quot;Kan de verbinding niet verifiëren&quot;](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: [!DNL Fusion]  de module keert 404 fout zonder verdere informatie terug](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] In-app Help-koppelingen leiden niet tot specifieke Help-pagina&#39;s](known-issues-workfront-fusion/help-links-in-modules-not-working.md)

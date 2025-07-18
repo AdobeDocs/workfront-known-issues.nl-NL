@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor  [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: e98c29b84e022c2c8101f21f2cae5b74bda3718e
+source-git-commit: 23747b7f1257a4c52760d0d9448e7e2bb9ef0a91
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,6 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
-| [ Proofs: De productie van de proef is langzaam ](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md) | 17 maart 2025 |
 | [ Proofs: Kan bepaalde gebruikers niet etiketteren ](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 februari 2025 |
 | [ Integraties: Het verbinden van omslag van  [!DNL Google Drive]  verbindt geen activa in omslag ](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
 
@@ -38,7 +37,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
 | [ Documenten: De duimnagels van het document tonen niet ](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17 april 2025 |
-| [ Updates: Sommige gebruikers kunnen beelden of documenten niet zien in bijlage aan commentaren ](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 10 maart 2025 |
 | [ Meldingen: De miniaturen niet zichtbaar in e-mailberichten ](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 juli 2024 |
 | [ Huis: De widget van goedkeuringen is niet nauwkeurig ](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8 mei 2024 |
 
