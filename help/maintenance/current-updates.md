@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 5ec1db8c8e20fa50225e9dfba3b71c157c883587
+source-git-commit: 07785bc2688bd08ce2877bf37ddcf856467da24f
 workflow-type: tm+mt
-source-wordcount: '1629'
+source-wordcount: '1646'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,11 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2025.
 
 ### Onderhoudsupdate week van 20-26 juli 2025
 
-Deze week worden alleen kleine of minder belangrijke opgeloste problemen bijgewerkt. Workfront Support geeft een melding wanneer een probleem dat je hebt verzonden, is opgelost.
+#### Proefdrukken
+
+**kan gebruikers in proefdrukcommentaren niet etiketteren**
+
+Wanneer een gebruiker een andere gebruiker probeert te labelen in een proefdrukopmerking en de naam van de gebruiker begint te typen, wordt de gebruiker niet weergegeven in de lijst en kan deze niet worden geselecteerd om te worden gelabeld.
 
 +++
 
