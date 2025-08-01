@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 07785bc2688bd08ce2877bf37ddcf856467da24f
+source-git-commit: 32b7c00b3338bc4d1152b1b0748843daaa58a115
 workflow-type: tm+mt
-source-wordcount: '1646'
+source-wordcount: '1740'
 ht-degree: 0%
 
 ---
@@ -29,6 +29,18 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2025.
 +++**de week van Updates van het Onderhoud van 20-26 juli, 2025**
 
 ### Onderhoudsupdate week van 20-26 juli 2025
+
+#### Projecten
+
+**de Waarschuwing toont nu wanneer de chronologie niet opnieuw heeft berekend**
+
+Er wordt nu een waarschuwingspictogram weergegeven wanneer de tijdlijn van het project niet opnieuw is berekend. Wanneer de gebruiker de muisaanwijzer op dit pictogram plaatst, wordt het volgende bericht weergegeven:
+
+&quot;De tijdlijn van het project is onjuist. Projectmanagers moeten mogelijk de tijdlijn handmatig opnieuw berekenen.&quot;
+
+Soms worden tijdlijnen niet opnieuw berekend omdat een project bijzonder complex is. Bijvoorbeeld, kan een project dat veelvoudige gebiedsdelen, een groot aantal taken, verscheidene dwars-project predecessors, of veelvoudige taakinspringingen heeft worden beïnvloed.
+
+Voorheen waren er geen aanwijzingen dat een tijdlijn niet opnieuw was berekend.
 
 #### Proefdrukken
 
