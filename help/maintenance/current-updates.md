@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 32b7c00b3338bc4d1152b1b0748843daaa58a115
+source-git-commit: 0c440c0387e3d981351c943cdc097bb283b0e1de
 workflow-type: tm+mt
-source-wordcount: '1740'
+source-wordcount: '1760'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,11 @@ Voor onderhoudsupdates voorafgaand aan 2025, zie [ Vorige Updates van het Onderh
 
 De volgende onderhoudsupdates zijn uitgevoerd in 2025.
 
-## Updates in juli 2025
+## Updates in augustus 2025
 
-+++**de week van Updates van het Onderhoud van 20-26 juli, 2025**
++++**de week van Updates van het Onderhoud van 27 tot Augustus 3 juli, 2025**
 
-### Onderhoudsupdate week van 20-26 juli 2025
+### Onderhoudsupdates week van 27-8 augustus 2025
 
 #### Projecten
 
@@ -41,6 +41,14 @@ Er wordt nu een waarschuwingspictogram weergegeven wanneer de tijdlijn van het p
 Soms worden tijdlijnen niet opnieuw berekend omdat een project bijzonder complex is. Bijvoorbeeld, kan een project dat veelvoudige gebiedsdelen, een groot aantal taken, verscheidene dwars-project predecessors, of veelvoudige taakinspringingen heeft worden beïnvloed.
 
 Voorheen waren er geen aanwijzingen dat een tijdlijn niet opnieuw was berekend.
+
++++
+
+## Updates in juli 2025
+
++++**de week van Updates van het Onderhoud van 20-26 juli, 2025**
+
+### Onderhoudsupdates week van 20-26 juli 2025
 
 #### Proefdrukken
 
