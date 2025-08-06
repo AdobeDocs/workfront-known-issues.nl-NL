@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor  [!DNL Adobe Workfront Fusion]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 889157407be97219b0a258c038f5094b197238b1
+source-git-commit: 8329afea4d9cdd80c6e9dba9636dcf8b27c910e4
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,7 @@ De oplossingen voor deze kwesties staan momenteel niet op de routekaart. In somm
 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [ de Fusie van Workfront: De updates aan webhaak autosave niet ](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md) | 6 augustus 2025 |
 | [ Proofs: Kan geen proefdrukken voor video&#39;s tot stand brengen die van AEM door Fusion ](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) worden verbonden | 13 februari 2025 |
 | [ de Fusie van Workfront: Begin plaatsend &quot;van nu op&quot;verwerking alle gegevens ](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | 29 oktober 2024 |
 | [ de Fusie van Workfront: Het gebied mist van module ](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | 5 februari 2024 |
