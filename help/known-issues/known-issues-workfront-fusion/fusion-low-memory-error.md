@@ -4,9 +4,9 @@ description: De uitvoering van een scenario mislukt door een fout met onvoldoend
 hidefromtoc: true
 feature: Workfront Fusion
 exl-id: df39ee6b-1693-4b8d-8d42-d3567f8bf1dd
-source-git-commit: 45cea090d9e54514be9983b5443e7ee54b1f2d94
+source-git-commit: c3608d9cb3f26bfb44b9c71247ab797a44a383de
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Het team van het Product evalueert momenteel deze probleemoplossing, die productverbeteringen kan vereisen. De verbeteringen van het product worden meegedeeld in de Mededelingen van het Product en niet met de Updates van het Onderhoud.
+>Dit probleem is opgelost.
 
 De uitvoering van een scenario mislukt door een fout met onvoldoende geheugen. Dit kan gebeuren ook al is het scenario eerder met succes uitgevoerd.
 

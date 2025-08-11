@@ -4,9 +4,9 @@ description: Wanneer een gebruiker wordt vermeld of opgenomen in een opmerking o
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: dff78c3d-2355-4381-9cf6-11e2bf303c7b
-source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
+source-git-commit: c3608d9cb3f26bfb44b9c71247ab797a44a383de
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
@@ -15,10 +15,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Het team van het Product evalueert momenteel deze probleemoplossing, die productverbeteringen kan vereisen. De verbeteringen van het product worden meegedeeld in de Mededelingen van het Product en niet met de Updates van het Onderhoud.
+>Dit probleem is op 18 april 2023 opgelost.
 
 Wanneer een gebruiker wordt vermeld of opgenomen in een opmerking of update in de updatestream van een object, ontvangen deze mogelijk niet het verwachte e-mailbericht of bericht in de app over de opmerking.
 
 _Eerste rapporteerde op 20 september, 2022._
-
-<!--CHECK ME - NO VIEWS APRIL-JUNE 2025-->
