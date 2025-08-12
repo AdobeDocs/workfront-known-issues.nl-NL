@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8acb6274be323f577faa059a9c4f02ab8a887dd2
+source-git-commit: 58539ae80132638236be9b90e0dad35be139f8ce
 workflow-type: tm+mt
-source-wordcount: '1294'
+source-wordcount: '1306'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Documenten: gebruikers die na voltooiing van de goedkeuring als fiatteurs zijn toegevoegd, worden niet op de hoogte gesteld](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md)
       + [Proefdrukken: kan geen codes toevoegen aan gebruikers in proefdrukopmerkingen](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md)
       + [Rechten: objectmachtigingen worden niet correct overgeërfd](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md)
       + [Rechten: objectmachtigingen worden niet correct overgeërfd](known-issues-workfront/wf-permissions-not-inherited-correctly.md)
@@ -186,7 +187,7 @@ ht-degree: 0%
       + [Workfront Fusion: uitvoeropmaak voor datums](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: fout met laag geheugen](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: dubbele projecten gemaakt van één module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]: [!DNL Workfront] > [!UICONTROL &#x200B; Custom API Call] module die 404 of 422 fouten terugkeert](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: [!DNL Workfront] > [!UICONTROL  Custom API Call] module die 404 of 422 fouten terugkeert](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: Fout: &quot;Kan de verbinding niet verifiëren&quot;](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: [!DNL Fusion]  de module keert 404 fout zonder verdere informatie terug](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] In-app Help-koppelingen leiden niet tot specifieke Help-pagina&#39;s](known-issues-workfront-fusion/help-links-in-modules-not-working.md)

@@ -4,9 +4,9 @@ description: Bekende problemen gemeld voor  [!DNL Adobe Workfront Proof]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 23747b7f1257a4c52760d0d9448e7e2bb9ef0a91
+source-git-commit: 58539ae80132638236be9b90e0dad35be139f8ce
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '384'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [ Documenten: De gebruikers die als goedkeuraars worden toegevoegd nadat de goedkeuring volledig is worden niet op de hoogte gebracht ](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 12 augustus 2025 |
 | [ Documenten: De duimnagels van het document tonen niet ](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17 april 2025 |
 | [ Meldingen: De miniaturen niet zichtbaar in e-mailberichten ](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 juli 2024 |
 | [ Huis: De widget van goedkeuringen is niet nauwkeurig ](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8 mei 2024 |

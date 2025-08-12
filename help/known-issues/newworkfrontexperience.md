@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 17a909d31fc171dae062b760366ad2fed541883e
+source-git-commit: 58539ae80132638236be9b90e0dad35be139f8ce
 workflow-type: tm+mt
-source-wordcount: '905'
+source-wordcount: '918'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Uitgave** | **Laatst gewijzigd** |
 | ---------------------------------- | ----------------- |
+| [ Documenten: De gebruikers die als goedkeuraars worden toegevoegd nadat de goedkeuring volledig is worden niet op de hoogte gebracht ](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 12 augustus 2025 |
 | [ Proofs: Kan gebruikers in proefdrukcommentaren niet etiketteren ](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | 10 juli 2025 |
 | [ Workfront: De voorwerpen uit synchronisatie tussen Workfront en Snowflake ](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 17 juni 2025 |
 | [ Gebruikers: &quot;In afwachting van goedkeuring&quot;badge toont op nieuwe gebruikers ](known-issues-workfront/wf-users-pending-approval.md) | 23 mei 2025 |
