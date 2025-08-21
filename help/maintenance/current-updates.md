@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 9fb1fd8ba321c8b86a5f56228c4c64b668036754
+source-git-commit: 2b38481cecee37d6b1afcca93630566261378292
 workflow-type: tm+mt
-source-wordcount: '1879'
+source-wordcount: '1957'
 ht-degree: 0%
 
 ---
@@ -26,13 +26,33 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2025.
 
 ## Updates in augustus 2025
 
++++**week van de Updates van het Onderhoud van 17-23 augustus, 2025**
+
+### Onderhoudsupdate week van 17-25 augustus 2025
+
+#### Projecten
+
+**Fout wanneer het toevoegen van een project aan een programma**
+
+Wanneer een gebruiker probeert om een bestaand project aan een programma toe te voegen, wordt het project niet toegevoegd, en de gebruiker ziet het volgende foutenbericht:
+
+Fout bij laden van secundaire inhoud...
+
+**de Uitgevoerde projecten bevatten onjuiste Ware Uren**
+
+Wanneer een gebruiker een project naar Excel uitvoert, toont de Ware kolom van Uren niet de correcte gegevens.
+
++++
+
 +++**de week van Updates van het Onderhoud van 10-16 augustus, 2025**
 
 ### Onderhoudsupdate week van 10-16 augustus 2025
 
 Deze week worden alleen kleine of minder belangrijke opgeloste problemen bijgewerkt. Workfront Support geeft een melding wanneer een probleem dat je hebt verzonden, is opgelost.
 
-++++++**de week van de Updates van het Onderhoud van 3-9 augustus, 2025**
++++
+
++++**de week van de Updates van het Onderhoud van 3-9 augustus, 2025**
 
 ### Onderhoudsupdate week van 3 augustus 2025
 
