@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2b38481cecee37d6b1afcca93630566261378292
+source-git-commit: a66310d736a326ea77557db8547b232caff4ee60
 workflow-type: tm+mt
-source-wordcount: '1957'
+source-wordcount: '2091'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,33 @@ Voor onderhoudsupdates voorafgaand aan 2025, zie [ Vorige Updates van het Onderh
 
 De volgende onderhoudsupdates zijn uitgevoerd in 2025.
 
+## Updates in september 2025
+
++++**de week van de Updates van het Onderhoud van 31-september 6, 2025**
+
+### Onderhoudsupdate week van 31-6 september 2025
+
+#### API
+
+**Nieuwe gidsen om het overbelasten van de Abonnementen van de Gebeurtenis te vermijden**
+
+Gebeurtenisabonnementen zijn ontworpen om te zorgen voor een betrouwbare levering van gebeurtenissen voor alle gebruikers. Om dit te garanderen zijn er voorzorgsmaatregelen getroffen om te voorkomen dat één gebruiker buitensporige gebeurtenisproductie aanbrengt die mogelijke problemen met betrekking tot de servicekwaliteit voor alle gebruikers kan veroorzaken. Als gevolg hiervan kan een gebruiker die te veel gebeurtenissen produceert met een hoge snelheid binnen een korte tijdsperiode, worden geconfronteerd met sandboxing en vertraging bij de levering van de gebeurtenis.
+
++++
+
 ## Updates in augustus 2025
+
++++**de week van Updates van het Onderhoud van 24-30 augustus, 2025**
+
+### Onderhoudsupdate week van 24-30 augustus 2025
+
+Deze week worden alleen kleine of minder belangrijke opgeloste problemen bijgewerkt. Workfront Support geeft een melding wanneer een probleem dat je hebt verzonden, is opgelost.
+
++++
 
 +++**week van de Updates van het Onderhoud van 17-23 augustus, 2025**
 
-### Onderhoudsupdate week van 17-25 augustus 2025
+### Onderhoudsupdate week van 17-23 augustus 2025
 
 #### Projecten
 
