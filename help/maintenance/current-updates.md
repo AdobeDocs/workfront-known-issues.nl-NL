@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 13a081ac430090ef3ac7f5c0e1ac1ba6a68227bd
+source-git-commit: 5468975035561c205f30fb2a92f6ad43346c0c2f
 workflow-type: tm+mt
-source-wordcount: '2091'
+source-wordcount: '2133'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,12 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2025.
 **Nieuwe gidsen om het overbelasten van de Abonnementen van de Gebeurtenis te vermijden**
 
 Gebeurtenisabonnementen zijn ontworpen om te zorgen voor een betrouwbare levering van gebeurtenissen voor alle gebruikers. Om dit te garanderen zijn er voorzorgsmaatregelen getroffen om te voorkomen dat één gebruiker buitensporige gebeurtenisproductie aanbrengt die mogelijke problemen met betrekking tot de servicekwaliteit voor alle gebruikers kan veroorzaken. Als gevolg hiervan kan een gebruiker die te veel gebeurtenissen produceert met een hoge snelheid binnen een korte tijdsperiode, worden geconfronteerd met sandboxing en vertraging bij de levering van de gebeurtenis.
+
+#### Documenten
+
+**Gebruikers die als goedkeuraars worden toegevoegd nadat de goedkeuring volledig is worden niet op de hoogte gebracht**
+
+Wanneer een gebruiker een document heeft goedgekeurd en vervolgens meer gebruikers als fiatteurs worden toegevoegd, ontvangen de toegevoegde fiatteurs geen in-app- of e-mailmeldingen van de goedkeuringsaanvraag.
 
 +++
 
@@ -410,7 +416,7 @@ Tijdens het uploaden van een proefdruk naar een project, kan de taaklijst voor d
 
 ### Onderhoudsupdate op 30 januari 2025
 
-#### Home
+#### Startpagina
 
 **goedkeuringen verschijnen niet in Huis widget**
 
