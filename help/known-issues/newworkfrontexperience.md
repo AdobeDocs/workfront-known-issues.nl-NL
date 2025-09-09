@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e3e815c60625524fe6fef45c22d5421d4a9fa89a
+source-git-commit: 4f1d7936c677f102f32a4b6c480a7bf3f53962bd
 workflow-type: tm+mt
-source-wordcount: '944'
+source-wordcount: '952'
 ht-degree: 8%
 
 ---
@@ -35,6 +35,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Uitgave** | **Laatst gewijzigd** |
 | ---------------------------------- | ----------------- |
+| [ Gebruikers: Kan identiteitskaart van de Federatie van een gebruiker niet uitgeven ](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md) | woensdag 9 september 2025 |
 | [ Documenten: De gebruikers die als goedkeuraars worden toegevoegd nadat de goedkeuring volledig is worden niet op de hoogte gebracht ](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | woensdag 12 augustus 2025 |
 | [ Proofs: Kan gebruikers in proefdrukcommentaren niet etiketteren ](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | vrijdag 10 juli 2025 |
 | [ Workfront: De voorwerpen uit synchronisatie tussen Workfront en Snowflake ](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | woensdag 17 juni 2025 |
