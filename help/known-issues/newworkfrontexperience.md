@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 4f1d7936c677f102f32a4b6c480a7bf3f53962bd
+source-git-commit: 3cb9b2b88c62e98d8d57f76b4300eb1601bfb8cb
 workflow-type: tm+mt
-source-wordcount: '952'
+source-wordcount: '980'
 ht-degree: 8%
 
 ---
@@ -25,6 +25,8 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Uitgave** | **Laatst gewijzigd** |
 | ----------------------------------------------------------------- | ----------------- |
+| [ Gebruikers: Kan berichtmontages voor een andere gebruiker uitgeven ](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md) | vrijdag 11 september 2025 |
+| [ Gebruikers: Kan toegangsniveau van een gebruiker niet veranderen ](known-issues-workfront/wf-users-cannot-change-access-level.md) | vrijdag 11 september 2025 |
 | [ Integraties: Het verbinden van omslag van  [!DNL Google Drive]  verbindt geen activa in omslag ](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | woensdag 25 juni 2024 |
 
 {style="table-layout:auto"}
@@ -51,6 +53,7 @@ Correcties voor deze problemen staan momenteel niet op de routekaart, maar er zi
 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [ Proofs: Kan geen proef van een dossier van PowerPoint produceren ](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md) | vrijdag 11 september 2025 |
 | [ Toestemmingen: De toestemmingen van Objecten worden niet correct geërft ](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | woensdag 15 juli 2025 |
 | [ Filters: De Dropdown verdwijnt wanneer het klikken op scrollbar ](known-issues-workfront/wf-filter-scroll-bar.md) | donderdag 26 maart 2025 |
 | [ Integraties: outlookIdentityToken fout wanneer het gebruiken van Workfront voor Vooruitzichten ](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | woensdag 4 maart 2025 |

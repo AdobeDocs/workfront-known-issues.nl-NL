@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 4f1d7936c677f102f32a4b6c480a7bf3f53962bd
+source-git-commit: 3cb9b2b88c62e98d8d57f76b4300eb1601bfb8cb
 workflow-type: tm+mt
-source-wordcount: '1305'
+source-wordcount: '1330'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Proefdrukken: kan geen proefdruk genereren op basis van een PowerPoint-bestand](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md)
+      + [Gebruikers: kan instellingen voor meldingen voor een andere gebruiker niet bewerken](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md)
+      + [Gebruikers: kan het toegangsniveau van een gebruiker niet wijzigen](known-issues-workfront/wf-users-cannot-change-access-level.md)
       + [Gebruikers: kan de federatie-id van een gebruiker niet bewerken](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md)
       + [Documenten: gebruikers die na voltooiing van de goedkeuring als fiatteurs zijn toegevoegd, worden niet op de hoogte gesteld](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md)
       + [Proefdrukken: kan geen codes toevoegen aan gebruikers in proefdrukopmerkingen](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md)
@@ -187,7 +190,7 @@ ht-degree: 0%
       + [Workfront Fusion: uitvoeropmaak voor datums](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: fout met laag geheugen](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: dubbele projecten gemaakt van één module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]: [!DNL Workfront] > [!UICONTROL &#x200B; Custom API Call] module die 404 of 422 fouten terugkeert](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: [!DNL Workfront] > [!UICONTROL  Custom API Call] module die 404 of 422 fouten terugkeert](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: Fout: &quot;Kan de verbinding niet verifiëren&quot;](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: [!DNL Fusion]  de module keert 404 fout zonder verdere informatie terug](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] In-app Help-koppelingen leiden niet tot specifieke Help-pagina&#39;s](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
