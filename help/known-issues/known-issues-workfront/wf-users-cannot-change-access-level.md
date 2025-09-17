@@ -3,15 +3,19 @@ title: 'Gebruikers: kan het toegangsniveau van een gebruiker niet wijzigen'
 description: Wanneer een beheerder probeert om het toegangsniveau van een gebruiker te veranderen, is het toegangsniveau geen veranderingen, en de beheerder ziet een foutenmelding.
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 3cb9b2b88c62e98d8d57f76b4300eb1601bfb8cb
+source-git-commit: 003b0e7c9b4f12ccefe534d91f06d254d26cb1a3
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
 
 # Gebruikers: kan het toegangsniveau van een gebruiker niet wijzigen
+
+>[!NOTE]
+>
+>Dit probleem is op 12 september 2025 opgelost.
 
 Wanneer een beheerder probeert om het toegangsniveau van een gebruiker te veranderen, is het toegangsniveau geen veranderingen, en admin ziet het volgende bericht:
 

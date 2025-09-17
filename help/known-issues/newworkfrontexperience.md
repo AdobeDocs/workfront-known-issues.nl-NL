@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3cb9b2b88c62e98d8d57f76b4300eb1601bfb8cb
+source-git-commit: 003b0e7c9b4f12ccefe534d91f06d254d26cb1a3
 workflow-type: tm+mt
-source-wordcount: '980'
+source-wordcount: '971'
 ht-degree: 8%
 
 ---
@@ -25,7 +25,6 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Uitgave** | **Laatst gewijzigd** |
 | ----------------------------------------------------------------- | ----------------- |
-| [ Gebruikers: Kan berichtmontages voor een andere gebruiker uitgeven ](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md) | vrijdag 11 september 2025 |
 | [ Gebruikers: Kan toegangsniveau van een gebruiker niet veranderen ](known-issues-workfront/wf-users-cannot-change-access-level.md) | vrijdag 11 september 2025 |
 | [ Integraties: Het verbinden van omslag van  [!DNL Google Drive]  verbindt geen activa in omslag ](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | woensdag 25 juni 2024 |
 
