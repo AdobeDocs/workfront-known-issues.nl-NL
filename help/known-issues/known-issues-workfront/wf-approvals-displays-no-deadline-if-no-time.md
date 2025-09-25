@@ -1,9 +1,9 @@
 ---
-title: 'Goedkeuringen: goedkeuring wordt weergegeven als Geen deadline wanneer geen tijd is opgenomen in deadline'
+title: 'Goedkeuringen: goedkeuring wordt weergegeven als Geen deadline als de tijd niet is opgenomen in de deadline'
 description: Wanneer een goedkeuringstermijn slechts een datum, en niet een tijd omvat, toont het in het Huis van Goedkeuren widget als deadline van Geen.
 hidefromtoc: true
 feature: Digital Content and Documents, Get Started with Workfront
-source-git-commit: 6eac1cb70ad0bbd7b1ddb77139dd185b35564cd8
+source-git-commit: ca8e5b7ff629064fdd7f372c21090a10cf2346da
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
