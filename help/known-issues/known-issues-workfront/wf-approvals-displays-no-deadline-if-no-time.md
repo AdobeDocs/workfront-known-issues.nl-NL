@@ -3,7 +3,7 @@ title: 'Goedkeuringen: goedkeuring wordt weergegeven als Geen deadline wanneer g
 description: Wanneer een goedkeuringstermijn slechts een datum, en niet een tijd omvat, toont het in het Huis van Goedkeuren widget als deadline van Geen.
 hidefromtoc: true
 feature: Digital Content and Documents, Get Started with Workfront
-source-git-commit: e8169129ed6b03ff7d6b58ee24521885d5dc1acd
+source-git-commit: 6eac1cb70ad0bbd7b1ddb77139dd185b35564cd8
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Goedkeuringen: goedkeuring wordt weergegeven als &quot;Geen deadline&quot; wanneer er geen tijd is opgenomen in de deadline
+# Goedkeuringen: goedkeuring wordt weergegeven als &quot;Geen deadline&quot; wanneer de tijd niet is opgenomen in de deadline
 
-Wanneer een goedkeuringstermijn slechts een datum, en niet een tijd omvat, toont het in het Huis van Goedkeuren widget als uiterste termijn van &quot;Geen deadline.&quot;
+Wanneer een goedkeuringsdeadline alleen een datum en geen tijd bevat, wordt deze in de widget Startpagina voor goedkeuringen weergegeven als de deadline &quot;Geen deadline&quot;.
 
 **Oplossing**
 
