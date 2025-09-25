@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3cb9b2b88c62e98d8d57f76b4300eb1601bfb8cb
+source-git-commit: e8169129ed6b03ff7d6b58ee24521885d5dc1acd
 workflow-type: tm+mt
-source-wordcount: '2172'
+source-wordcount: '2269'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,28 @@ Voor onderhoudsupdates voorafgaand aan 2025, zie [ Vorige Updates van het Onderh
 De volgende onderhoudsupdates zijn uitgevoerd in 2025.
 
 ## Updates in september 2025
+
++++**de week van Updates van het Onderhoud van 21-27 september, 2025**
+
+### Onderhoudsupdates week van 21-27 september 2025
+
+#### Gebruikers
+
+**kan berichten montages voor een andere gebruiker uitgeven**
+
+Wanneer een gebruiker de meldingsinstellingen voor een andere gebruiker probeert te bewerken, kan hij of zij de instellingen niet bewerken. Het volgende bericht wordt weergegeven:
+
+&quot;U hebt onvoldoende toegang om financiële gegevens te bewerken.&quot;
+
++++
+
++++**de week van Updates van het Onderhoud van 14-20 september, 2025**
+
+### Onderhoudsupdates week van 14-20 september 2025
+
+Deze week worden alleen kleine of minder belangrijke opgeloste problemen bijgewerkt. Workfront Support geeft een melding wanneer een probleem dat je hebt verzonden, is opgelost.
+
++++
 
 +++**de week van Updates van het Onderhoud van 7-13 september, 2025**
 

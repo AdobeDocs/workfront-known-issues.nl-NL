@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 003b0e7c9b4f12ccefe534d91f06d254d26cb1a3
+source-git-commit: e8169129ed6b03ff7d6b58ee24521885d5dc1acd
 workflow-type: tm+mt
-source-wordcount: '971'
+source-wordcount: '985'
 ht-degree: 8%
 
 ---
@@ -36,6 +36,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Uitgave** | **Laatst gewijzigd** |
 | ---------------------------------- | ----------------- |
+| [ goedkeurt: De toestemmingen tonen als &quot;Geen deadline&quot;wanneer de tijd niet inbegrepen in deadline is ](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | vrijdag 25 september 2025 |
 | [ Gebruikers: Kan identiteitskaart van de Federatie van een gebruiker niet uitgeven ](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md) | woensdag 9 september 2025 |
 | [ Documenten: De gebruikers die als goedkeuraars worden toegevoegd nadat de goedkeuring volledig is worden niet op de hoogte gebracht ](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | woensdag 12 augustus 2025 |
 | [ Proofs: Kan gebruikers in proefdrukcommentaren niet etiketteren ](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | vrijdag 10 juli 2025 |
