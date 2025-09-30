@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e8169129ed6b03ff7d6b58ee24521885d5dc1acd
+source-git-commit: db29bf0acb4baecaee208821d81318b15c74233b
 workflow-type: tm+mt
-source-wordcount: '985'
+source-wordcount: '995'
 ht-degree: 8%
 
 ---
@@ -25,6 +25,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Uitgave** | **Laatst gewijzigd** |
 | ----------------------------------------------------------------- | ----------------- |
+| [ Programma&#39;s: Kan niet sparen wanneer het uitgeven van een programma ](known-issues-workfront/wf-programs-cannot-save-when-editing-program.md) | woensdag 30 september 2025 |
 | [ Gebruikers: Kan toegangsniveau van een gebruiker niet veranderen ](known-issues-workfront/wf-users-cannot-change-access-level.md) | vrijdag 11 september 2025 |
 | [ Integraties: Het verbinden van omslag van  [!DNL Google Drive]  verbindt geen activa in omslag ](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | woensdag 25 juni 2024 |
 
@@ -37,7 +38,6 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 | **Uitgave** | **Laatst gewijzigd** |
 | ---------------------------------- | ----------------- |
 | [ goedkeurt: De toestemmingen tonen als &quot;Geen deadline&quot;wanneer de tijd niet inbegrepen in deadline is ](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | vrijdag 25 september 2025 |
-| [ Gebruikers: Kan identiteitskaart van de Federatie van een gebruiker niet uitgeven ](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md) | woensdag 9 september 2025 |
 | [ Documenten: De gebruikers die als goedkeuraars worden toegevoegd nadat de goedkeuring volledig is worden niet op de hoogte gebracht ](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | woensdag 12 augustus 2025 |
 | [ Proofs: Kan gebruikers in proefdrukcommentaren niet etiketteren ](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | vrijdag 10 juli 2025 |
 | [ Workfront: De voorwerpen uit synchronisatie tussen Workfront en Snowflake ](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | woensdag 17 juni 2025 |
@@ -53,6 +53,7 @@ Correcties voor deze problemen staan momenteel niet op de routekaart, maar er zi
 
 | **Uitgave** | **Laatst gewijzigd** |
 | -----------------------------------------------------------------| ----------------- |
+| [ Goedkeuringen: De knopen van het besluit van de Goedkeuring tonen niet in de Kijker van het Bewijs ](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | woensdag 30 september 2025 |
 | [ Proofs: Kan geen proef van een dossier van PowerPoint produceren ](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md) | vrijdag 11 september 2025 |
 | [ Toestemmingen: De toestemmingen van Objecten worden niet correct geërft ](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | woensdag 15 juli 2025 |
 | [ Filters: De Dropdown verdwijnt wanneer het klikken op scrollbar ](known-issues-workfront/wf-filter-scroll-bar.md) | donderdag 26 maart 2025 |
