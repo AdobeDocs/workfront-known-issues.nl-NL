@@ -3,15 +3,19 @@ title: 'Programma''s: kan niet worden opgeslagen tijdens het bewerken van een pr
 description: Wanneer een gebruiker een programma bewerkt en de wijzigingen probeert op te slaan, worden de wijzigingen niet opgeslagen.
 hidefromtoc: true
 feature: Work Management
-source-git-commit: db29bf0acb4baecaee208821d81318b15c74233b
+source-git-commit: 932556d1c72aa33e9169034f41f6250d249a228b
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
 
 # Programma&#39;s: kan niet worden opgeslagen tijdens het bewerken van een programma
+
+>[!NOTE]
+>
+>Deze kwestie is op 3 oktober 2025 opgelost.
 
 Wanneer een gebruiker een programma bewerkt en de wijzigingen probeert op te slaan, worden de wijzigingen niet opgeslagen.
 

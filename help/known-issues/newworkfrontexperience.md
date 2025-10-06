@@ -4,9 +4,9 @@ description: Gerapporteerde bekende kwesties voor nieuwe  [!DNL Adobe Workfront]
 keywords: nieuw bestand, bestand toevoegen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: db29bf0acb4baecaee208821d81318b15c74233b
+source-git-commit: 932556d1c72aa33e9169034f41f6250d249a228b
 workflow-type: tm+mt
-source-wordcount: '995'
+source-wordcount: '978'
 ht-degree: 8%
 
 ---
@@ -25,7 +25,6 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Uitgave** | **Laatst gewijzigd** |
 | ----------------------------------------------------------------- | ----------------- |
-| [ Programma&#39;s: Kan niet sparen wanneer het uitgeven van een programma ](known-issues-workfront/wf-programs-cannot-save-when-editing-program.md) | woensdag 30 september 2025 |
 | [ Gebruikers: Kan toegangsniveau van een gebruiker niet veranderen ](known-issues-workfront/wf-users-cannot-change-access-level.md) | vrijdag 11 september 2025 |
 | [ Integraties: Het verbinden van omslag van  [!DNL Google Drive]  verbindt geen activa in omslag ](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | woensdag 25 juni 2024 |
 
@@ -57,7 +56,6 @@ Correcties voor deze problemen staan momenteel niet op de routekaart, maar er zi
 | [ Proofs: Kan geen proef van een dossier van PowerPoint produceren ](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md) | vrijdag 11 september 2025 |
 | [ Toestemmingen: De toestemmingen van Objecten worden niet correct geërft ](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | woensdag 15 juli 2025 |
 | [ Filters: De Dropdown verdwijnt wanneer het klikken op scrollbar ](known-issues-workfront/wf-filter-scroll-bar.md) | donderdag 26 maart 2025 |
-| [ Integraties: outlookIdentityToken fout wanneer het gebruiken van Workfront voor Vooruitzichten ](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | woensdag 4 maart 2025 |
 | [ Documenten: Kan niet uploaden aan de lijst van de de omslagdocumenten van AEM ](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | vrijdag 27 februari 2025 |
 | [ Proofs: Kan geen proefdrukken voor video&#39;s tot stand brengen die van AEM door Fusion ](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) worden verbonden | vrijdag 13 februari 2025 |
 | [ Proofs: De proeven Webcapture produceren niet ](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 20 december 2024 |

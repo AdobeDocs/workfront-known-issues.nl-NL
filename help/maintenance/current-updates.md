@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e8169129ed6b03ff7d6b58ee24521885d5dc1acd
+source-git-commit: 932556d1c72aa33e9169034f41f6250d249a228b
 workflow-type: tm+mt
-source-wordcount: '2269'
+source-wordcount: '2314'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,20 @@ Deze updates bevatten ook andere kleine of minder duidelijke foutoplossingen. [!
 Voor onderhoudsupdates voorafgaand aan 2025, zie [ Vorige Updates van het Onderhoud ](#previous-maintenance-updates)
 
 De volgende onderhoudsupdates zijn uitgevoerd in 2025.
+
+## Updates in oktober 2025
+
++++**de week van Updates van het Onderhoud van 28-Oktober 4, 2025**
+
+### Onderhoudsupdates week van 28-4 oktober 2025
+
+#### Programma&#39;s
+
+**kan niet sparen wanneer het uitgeven van een programma**
+
+Wanneer een gebruiker een programma bewerkt en de wijzigingen probeert op te slaan, worden de wijzigingen niet opgeslagen.
+
++++
 
 ## Updates in september 2025
 
