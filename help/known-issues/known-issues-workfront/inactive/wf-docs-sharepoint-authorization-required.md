@@ -29,6 +29,6 @@ De timing van de autorisatie wordt gecontroleerd door Microsoft.
 
 Opnieuw autoriseren.
 
-Als de kwesties blijven bestaan, controleer de [&#128279;](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-sharepoint-integration.html?lang=nl-NL#troubleshooting) sectie van het Oplossen van problemen  van [ vormen de integratie van SharePoint ](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-sharepoint-integration.html?lang=nl-NL).
+Als de kwesties blijven bestaan, controleer de [&#128279;](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-sharepoint-integration.html?lang=nl-NL#troubleshooting) sectie van het Oplossen van problemen  van [&#x200B; vormen de integratie van SharePoint &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-sharepoint-integration.html?lang=nl-NL).
 
 _Eerste rapporteerde op 9 November, 2023._

@@ -13,13 +13,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Voor informatie over onderhoudstekorten voor alle producten van de Adobe, met inbegrip van Workfront, zie de [ pagina van de Status van de Adobe ](https://status.adobe.com/).
+>Voor informatie over onderhoudstekorten voor alle producten van de Adobe, met inbegrip van Workfront, zie de [&#x200B; pagina van de Status van de Adobe &#x200B;](https://status.adobe.com/).
 
 Op deze pagina worden de problemen beschreven die zijn opgelost in de wekelijkse Workfront-updates.
 
 Deze updates bevatten ook andere kleine of minder duidelijke foutoplossingen. [!DNL Workfront] Ondersteuning geeft een melding wanneer een probleem dat u hebt verzonden, is opgelost.
 
-Voor onderhoudsupdates voorafgaand aan 2024, zie [ Vorige Updates van het Onderhoud ](#previous-maintenance-updates)
+Voor onderhoudsupdates voorafgaand aan 2024, zie [&#x200B; Vorige Updates van het Onderhoud &#x200B;](#previous-maintenance-updates)
 
 De volgende onderhoudsupdates zijn uitgevoerd in 2024.
 

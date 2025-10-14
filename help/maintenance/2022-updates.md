@@ -28,7 +28,7 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2022.
 * [January 2022](#updates-in-january-2022)
 -->
 
-Voor onderhoudsupdates voorafgaand aan 2022, zie [ Vorige Updates van het Onderhoud ](#previous-maintenance-updates)
+Voor onderhoudsupdates voorafgaand aan 2022, zie [&#x200B; Vorige Updates van het Onderhoud &#x200B;](#previous-maintenance-updates)
 
 ## Updates in december 2022
 
@@ -649,7 +649,7 @@ Wanneer een gebruiker een taak of kwestie in een project creeert en buiten de ve
 
 Vanaf donderdag 8 september 2022 hebben we de mogelijkheid om een bewijs te verzenden naar een dropzone in het standalone [!DNL Workfront Proof] product verwijderd.
 
-U kunt dropzones nog steeds op andere manieren gebruiken om nieuwe proefdrukken en nieuwe versies van proefdrukken naar uw account te verzenden zonder u aan te hoeven melden bij uw account. Zie [ Dropzone ](https://experienceleague.adobe.com/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/create-proofs-and-files/dropzone.html?lang=nl-NL) voor meer informatie.
+U kunt dropzones nog steeds op andere manieren gebruiken om nieuwe proefdrukken en nieuwe versies van proefdrukken naar uw account te verzenden zonder u aan te hoeven melden bij uw account. Zie [&#x200B; Dropzone &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/create-proofs-and-files/dropzone.html?lang=nl-NL) voor meer informatie.
 
 +++
 
@@ -1073,7 +1073,7 @@ Wanneer een gebruiker een bijlage probeert te uploaden met behulp van de [!DNL W
 
 *[!DNL Workfront]Proef*
 
-Eerder deze maand hebben we als onderdeel van een patch voor de [!DNL Workfront] Production-omgeving een fout opgelost in het e-mailmeldingssysteem voor proefdrukken. Deze wijziging werd niet meegedeeld in de onderhoudsupdate toen deze werd vrijgegeven. Wij hebben de volgende informatie aan de [ Update van het Onderhoud op 2 Juni, 2022 ](#maintenance-update-on-june-2-2022) toegevoegd:
+Eerder deze maand hebben we als onderdeel van een patch voor de [!DNL Workfront] Production-omgeving een fout opgelost in het e-mailmeldingssysteem voor proefdrukken. Deze wijziging werd niet meegedeeld in de onderhoudsupdate toen deze werd vrijgegeven. Wij hebben de volgende informatie aan de [&#x200B; Update van het Onderhoud op 2 Juni, 2022 &#x200B;](#maintenance-update-on-june-2-2022) toegevoegd:
 
 Als gevolg van deze foutoplossingen is het e-mailadres dat wordt gebruikt voor het verzenden van proefdrukmeldingen, gewijzigd.
 

@@ -17,7 +17,7 @@ Deze pagina bevat problemen die momenteel zijn geïdentificeerd in de [!DNL Adob
 
 >[!IMPORTANT]
 >
->Voor informatie betreffende serveruptime of stroomonderbrekingen, zie [ status.adobe.com ](https://status.adobe.com). Voor informatie over kwesties die onlangs werden bevestigd, zie [[!DNL Workfront]  Updates van het Onderhoud ](../maintenance/current-updates.md).
+>Voor informatie betreffende serveruptime of stroomonderbrekingen, zie [&#x200B; status.adobe.com &#x200B;](https://status.adobe.com). Voor informatie over kwesties die onlangs werden bevestigd, zie [[!DNL Workfront]  Updates van het Onderhoud &#x200B;](../maintenance/current-updates.md).
 
 <!--**There are currently no known issues for [!DNL Workfront Mobile]**-->
 
