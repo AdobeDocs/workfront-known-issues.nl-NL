@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 932556d1c72aa33e9169034f41f6250d249a228b
+source-git-commit: fa2cfd357e63ec39c64926865584ba39a78f75a6
 workflow-type: tm+mt
-source-wordcount: '2314'
+source-wordcount: '2492'
 ht-degree: 0%
 
 ---
@@ -14,17 +14,51 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Voor informatie over onderhoudstekorten voor alle producten van Adobe, met inbegrip van Workfront, zie de [&#x200B; pagina van de Status van Adobe &#x200B;](https://status.adobe.com/).
+>Voor informatie over onderhoudstekorten voor alle producten van Adobe, met inbegrip van Workfront, zie de [ pagina van de Status van Adobe ](https://status.adobe.com/).
 
 Op deze pagina worden de problemen beschreven die zijn opgelost in de wekelijkse Workfront-updates.
 
 Deze updates bevatten ook andere kleine of minder duidelijke foutoplossingen. [!DNL Workfront] Ondersteuning geeft een melding wanneer een probleem dat u hebt verzonden, is opgelost.
 
-Voor onderhoudsupdates voorafgaand aan 2025, zie [&#x200B; Vorige Updates van het Onderhoud &#x200B;](#previous-maintenance-updates)
+Voor onderhoudsupdates voorafgaand aan 2025, zie [ Vorige Updates van het Onderhoud ](#previous-maintenance-updates)
 
 De volgende onderhoudsupdates zijn uitgevoerd in 2025.
 
 ## Updates in oktober 2025
+
++++**de week van Updates van het Onderhoud van 19-25 oktober, 2025**
+
+### Onderhoudsupdates week van 19-25 oktober 2025
+
+#### Aangepaste formulieren
+
+**de vertoningslogica van het Gebied wordt niet correct gevolgd**
+
+Wanneer een gebruiker een aangepast formulier invult dat weergavelogica bevat (waarbij sommige velden worden weergegeven of niet zijn gebaseerd op de waarden in andere velden), worden de velden niet weergegeven op een manier die overeenkomt met die veldlogica.
+
+#### Proefdrukken
+
+**kan proefdrukkijker niet sluiten**
+
+Wanneer een gebruiker een proef in de het proefdrukken kijker bekijkt en probeert om de proef te sluiten door X in de hoger-juiste hoek te klikken, sluit de proef niet.
+
++++
+
++++**de week van Updates van het Onderhoud van 12-18 oktober, 2025**
+
+### Onderhoudsupdate week van 12-18 oktober 2025
+
+Deze week worden alleen kleine of minder belangrijke opgeloste problemen bijgewerkt. Workfront Support geeft een melding wanneer een probleem dat je hebt verzonden, is opgelost.
+
++++
+
++++**de week van Updates van het Onderhoud van 5-11 oktober, 2025**
+
+### Onderhoudsupdate week van 5-11 oktober 2025
+
+Deze week worden alleen kleine of minder belangrijke opgeloste problemen bijgewerkt. Workfront Support geeft een melding wanneer een probleem dat je hebt verzonden, is opgelost.
+
++++
 
 +++**de week van Updates van het Onderhoud van 28-Oktober 4, 2025**
 
