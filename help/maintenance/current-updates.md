@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 99364233b38b7b2e12c20b6a8185ebef9796552c
+source-git-commit: 21ce5890bfe3ca5bf5080fe3c0c8aec8dcb14e89
 workflow-type: tm+mt
-source-wordcount: '2492'
+source-wordcount: '2607'
 ht-degree: 0%
 
 ---
@@ -14,15 +14,48 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Voor informatie over onderhoudstekorten voor alle producten van Adobe, met inbegrip van Workfront, zie de [&#x200B; pagina van de Status van Adobe &#x200B;](https://status.adobe.com/).
+>Voor informatie over onderhoudstekorten voor alle producten van Adobe, met inbegrip van Workfront, zie de [ pagina van de Status van Adobe ](https://status.adobe.com/).
 
 Op deze pagina worden de problemen beschreven die zijn opgelost in de wekelijkse Workfront-updates.
 
 Deze updates bevatten ook andere kleine of minder duidelijke foutoplossingen. [!DNL Workfront] Ondersteuning geeft een melding wanneer een probleem dat u hebt verzonden, is opgelost.
 
-Voor onderhoudsupdates voorafgaand aan 2025, zie [&#x200B; Vorige Updates van het Onderhoud &#x200B;](#previous-maintenance-updates)
+Voor onderhoudsupdates voorafgaand aan 2025, zie [ Vorige Updates van het Onderhoud ](#previous-maintenance-updates)
 
 De volgende onderhoudsupdates zijn uitgevoerd in 2025.
+
+
+
+## Updates in november 2025
+
++++**de week van Updates van het Onderhoud van 26-november 1, 2025**
+
+### Onderhoudsupdates week van 26-1 november 2025
+
+#### Rapporten
+
+**Kwesties betreffende dropdowns in grafieken**
+
+De volgende problemen zijn gerapporteerd met betrekking tot uitvalssituaties in grafieken:
+
+* Wanneer een gebruiker een rapport met een dropdown kolom bekijkt, en de eigenschap van de Grafiek gebruikt, werkt de daling neer in het venster van de Grafiek niet.
+* Wanneer een gebruiker probeert om gebruikers van een rapport toe te wijzen, gebruikend een dropdown, wordt de taak niet bewaard.
+
+#### Gebruikers
+
+**kan geavanceerde opties niet gebruiken wanneer het creëren van gebruikers**
+
+Wanneer een Workfront-beheerder een gebruiker maakt en de geavanceerde optie probeert te gebruiken, kunnen deze de opties niet gebruiken. Het volgende bericht wordt weergegeven:
+
+```
+Cannot read properties of undefined (reading 'sections')
+
+Cannot read properties of undefined (reading 'sections')
+
+Error fetching object details
+```
+
++++
 
 ## Updates in oktober 2025
 

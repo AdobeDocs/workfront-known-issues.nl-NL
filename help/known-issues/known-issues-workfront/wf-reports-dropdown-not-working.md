@@ -3,15 +3,19 @@ title: 'Rapporten: Problemen met dropdowns in grafieken'
 description: Er zijn problemen gemeld met betrekking tot uitvallen in grafieken.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: b226eee1f982acf3e37c6d2c319067e139f6c559
+source-git-commit: 21ce5890bfe3ca5bf5080fe3c0c8aec8dcb14e89
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
 
 # Rapporten: Problemen met dropdowns in grafieken
+
+>[!NOTE]
+>
+>Deze kwestie is vastgesteld op 29 oktober 2025.
 
 De volgende problemen zijn gerapporteerd met betrekking tot uitvalssituaties in grafieken:
 
