@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 0329ebb285dcf771bd23b0cebf93e36152d6587f
+source-git-commit: d632bcd074dcec7145a788ea5ad7e08c78ca9a57
 workflow-type: tm+mt
-source-wordcount: '2646'
+source-wordcount: '2712'
 ht-degree: 0%
 
 ---
@@ -14,19 +14,31 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Voor informatie over onderhoudstekorten voor alle producten van Adobe, met inbegrip van Workfront, zie de [&#x200B; pagina van de Status van Adobe &#x200B;](https://status.adobe.com/).
+>Voor informatie over onderhoudstekorten voor alle producten van Adobe, met inbegrip van Workfront, zie de [ pagina van de Status van Adobe ](https://status.adobe.com/).
 
 Op deze pagina worden de problemen beschreven die zijn opgelost in de wekelijkse Workfront-updates.
 
 Deze updates bevatten ook andere kleine of minder duidelijke foutoplossingen. [!DNL Workfront] Ondersteuning geeft een melding wanneer een probleem dat u hebt verzonden, is opgelost.
 
-Voor onderhoudsupdates voorafgaand aan 2025, zie [&#x200B; Vorige Updates van het Onderhoud &#x200B;](#previous-maintenance-updates)
+Voor onderhoudsupdates voorafgaand aan 2025, zie [ Vorige Updates van het Onderhoud ](#previous-maintenance-updates)
 
 De volgende onderhoudsupdates zijn uitgevoerd in 2025.
 
 
 
 ## Updates in november 2025
+
++++**de week van Updates van het Onderhoud van 9-15 november, 2025**
+
+### Onderhoudsupdates week van 9-15 november 2025
+
+#### Taken
+
+**Toevoegend predecessors is niet meer afhankelijk van de Taken&#39; uitgeeft sub-montages in het toegangsniveau**
+
+Gebruikers kunnen voorgangers toevoegen aan taken wanneer de toegang Bewerken is ingeschakeld voor Taken op hun toegangsniveau, ongeacht de subinstellingen die u hebt geselecteerd. Dit is nu consistent met de bestaande API-functionaliteit.
+
++++
 
 +++**de week van Updates van het Onderhoud van 2-8 november, 2025**
 
