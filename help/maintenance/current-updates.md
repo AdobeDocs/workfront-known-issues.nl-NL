@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: d632bcd074dcec7145a788ea5ad7e08c78ca9a57
+source-git-commit: f02312a28e7585e19c4718a71b5198e6e616660a
 workflow-type: tm+mt
-source-wordcount: '2712'
+source-wordcount: '2790'
 ht-degree: 0%
 
 ---
@@ -14,19 +14,31 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Voor informatie over onderhoudstekorten voor alle producten van Adobe, met inbegrip van Workfront, zie de [&#x200B; pagina van de Status van Adobe &#x200B;](https://status.adobe.com/).
+>Voor informatie over onderhoudstekorten voor alle producten van Adobe, met inbegrip van Workfront, zie de [ pagina van de Status van Adobe ](https://status.adobe.com/).
 
 Op deze pagina worden de problemen beschreven die zijn opgelost in de wekelijkse Workfront-updates.
 
 Deze updates bevatten ook andere kleine of minder duidelijke foutoplossingen. [!DNL Workfront] Ondersteuning geeft een melding wanneer een probleem dat u hebt verzonden, is opgelost.
 
-Voor onderhoudsupdates voorafgaand aan 2025, zie [&#x200B; Vorige Updates van het Onderhoud &#x200B;](#previous-maintenance-updates)
+Voor onderhoudsupdates voorafgaand aan 2025, zie [ Vorige Updates van het Onderhoud ](#previous-maintenance-updates)
 
 De volgende onderhoudsupdates zijn uitgevoerd in 2025.
 
 
 
 ## Updates in november 2025
+
++++**de week van de Updates van het Onderhoud van de Planning van Workfront van 9-15 november, 2025**
+
+### Workfront Planning Maintenance Updates Week van 9-15 november 2025
+
+#### Recordtypen
+
+**Toevoegend predecessors is niet meer afhankelijk van de Taken&#39; uitgeeft sub-montages in het toegangsniveau**
+
+We hebben de opties Bewerken en Instellingen verwijderd uit het menu Meer van een algemeen recordtype dat aan een secundaire werkruimte is toegevoegd van een bestaand algemeen recordtype. Vóór deze update zijn de menu&#39;s gedimd en niet functioneel.
+
++++
 
 +++**de week van Updates van het Onderhoud van 9-15 november, 2025**
 
