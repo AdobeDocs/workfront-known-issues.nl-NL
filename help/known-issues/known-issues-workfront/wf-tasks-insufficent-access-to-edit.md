@@ -3,15 +3,19 @@ title: 'Taken: Onvoldoende toegangsbericht bij inline bewerkingstaken'
 description: Wanneer een gebruiker een taak in een lijst of rapport inline probeert uit te geven, kunnen zij niet de taak uitgeven, en zij zien het bericht u niet voldoende toegang hebt om taken aan deze taak te maken.
 hidefromtoc: true
 feature: Tasks
-source-git-commit: ccf054641b3686bd490bda5e9fd2651194a9a31b
+source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
 
 
 # Taken: &#39;Onvoldoende toegang&#39;-bericht bij inline bewerkingstaken
+
+>[!NOTE]
+>
+>Deze kwestie is vastgesteld op 21 november 2025.
 
 Wanneer een gebruiker een taak in een lijst of rapport inline probeert uit te geven, kunnen zij niet de taak uitgeven, en zij zien het bericht &quot;U hebt onvoldoende toegang om taken aan deze taak te maken.&quot;
 
