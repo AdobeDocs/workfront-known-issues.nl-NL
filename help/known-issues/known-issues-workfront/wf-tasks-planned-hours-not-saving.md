@@ -3,15 +3,19 @@ title: 'Taken: geplande uren worden niet opgeslagen tijdens het maken van een ta
 description: ''
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
+source-git-commit: bdd9120739d574c2f22021b7bb5ed0066b79f402
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
 
 # Taken: geplande uren worden niet opgeslagen tijdens het maken van een taak
+
+>[!NOTE]
+>
+>Dit probleem is op 3 december 2025 opgelost.
 
 Wanneer een gebruiker een taak maakt en geplande uren invoert, wordt de taak opgeslagen en worden de geplande uren niet opgeslagen.
 
