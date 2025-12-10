@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 714d49f190bbe66d94c2cd86d68e46500f130d1a
+source-git-commit: bc0c04caa8b45bc8bd9e0417f4ca3713741ab852
 workflow-type: tm+mt
-source-wordcount: '2943'
+source-wordcount: '3008'
 ht-degree: 0%
 
 ---
@@ -14,17 +14,31 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Voor informatie over onderhoudstekorten voor alle producten van Adobe, met inbegrip van Workfront, zie de [&#x200B; pagina van de Status van Adobe &#x200B;](https://status.adobe.com/).
+>Voor informatie over onderhoudstekorten voor alle producten van Adobe, met inbegrip van Workfront, zie de [ pagina van de Status van Adobe ](https://status.adobe.com/).
 
 Op deze pagina worden de problemen beschreven die zijn opgelost in de wekelijkse Workfront-updates.
 
 Deze updates bevatten ook andere kleine of minder duidelijke foutoplossingen. [!DNL Workfront] Ondersteuning geeft een melding wanneer een probleem dat u hebt verzonden, is opgelost.
 
-Voor onderhoudsupdates voorafgaand aan 2025, zie [&#x200B; Vorige Updates van het Onderhoud &#x200B;](#previous-maintenance-updates)
+Voor onderhoudsupdates voorafgaand aan 2025, zie [ Vorige Updates van het Onderhoud ](#previous-maintenance-updates)
 
 De volgende onderhoudsupdates zijn uitgevoerd in 2025.
 
 ## Updates in december 2025
+
++++**de week van Updates van het Onderhoud van 7-13 december, 2025**
+
+### Onderhoudsupdates week van 7-13 december 2025
+
+#### Gebruikers
+
+**Bulk die gebruikers uitgeeft verwijdert middelpools en directe rapporten**
+
+Wanneer een gebruiker bulkbewerkingsgebruikers is, klikt u in het veld Brongroepen en voert u geen waarde in, worden Brongroepen voor alle bewerkte gebruikers verwijderd.
+
+Bulkbewerking kan ook directe rapporten verwijderen van de bewerkte gebruikers.
+
++++
 
 +++**de week van Updates van het Onderhoud van 30-December 6, 2025**
 
