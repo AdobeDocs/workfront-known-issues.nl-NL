@@ -3,15 +3,19 @@ title: 'Gebruikers: Fout bij openen van gebruikerspagina'
 description: Wanneer een gebruiker de pagina Gebruikers probeert te openen vanuit het hoofdmenu, wordt de pagina niet geopend en ziet de gebruiker een foutbericht.
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: d01bdae322f5bf46acc55fd638df4cc995b4fe2a
+source-git-commit: e55fc268af331c75b7f2d1094edf483668e97080
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
 
 # Gebruikers: Fout bij openen van gebruikerspagina
+
+>[!NOTE]
+>
+>Dit probleem is op 12 december 2025 opgelost.
 
 Wanneer een gebruiker de pagina Gebruikers probeert te openen vanuit het hoofdmenu, wordt de pagina niet geopend en ziet de gebruiker het volgende bericht:
 
