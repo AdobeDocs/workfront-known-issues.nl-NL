@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e55fc268af331c75b7f2d1094edf483668e97080
+source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
 workflow-type: tm+mt
-source-wordcount: '3103'
+source-wordcount: '3210'
 ht-degree: 0%
 
 ---
@@ -14,17 +14,41 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Voor informatie over onderhoudstekorten voor alle producten van Adobe, met inbegrip van Workfront, zie de [&#x200B; pagina van de Status van Adobe &#x200B;](https://status.adobe.com/).
+>Voor informatie over onderhoudstekorten voor alle producten van Adobe, met inbegrip van Workfront, zie de [ pagina van de Status van Adobe ](https://status.adobe.com/).
 
 Op deze pagina worden de problemen beschreven die zijn opgelost in de wekelijkse Workfront-updates.
 
 Deze updates bevatten ook andere kleine of minder duidelijke foutoplossingen. [!DNL Workfront] Ondersteuning geeft een melding wanneer een probleem dat u hebt verzonden, is opgelost.
 
-Voor onderhoudsupdates voorafgaand aan 2025, zie [&#x200B; Vorige Updates van het Onderhoud &#x200B;](#previous-maintenance-updates)
+Voor onderhoudsupdates voorafgaand aan 2025, zie [ Vorige Updates van het Onderhoud ](#previous-maintenance-updates)
 
 De volgende onderhoudsupdates zijn uitgevoerd in 2025.
 
 ## Updates in december 2025
+
++++**de week van Updates van het Onderhoud van 14-20 december, 2025**
+
+### Onderhoudsupdates week van 14-20 december 2025
+
+#### Toewijzingen
+
+**de taken van het Team worden niet bewaard**
+
+Wanneer een gebruiker een team aan een het werkpunt in Workfront toewijst, wordt de teamtaak niet bewaard, en het team wordt niet op de hoogte gebracht van het werk.
+
+#### Taken
+
+**gealigneerde geeft aan een taak uit sparen niet**
+
+Wanneer een gebruiker inline wijzigingen aanbrengt in een taak in de oudere taakervaring en opslaat, worden de wijzigingen niet opgeslagen.
+
+#### Timesheets
+
+**niet geproduceerde Tijdopnamen**
+
+Timesheets worden niet automatisch gegenereerd zoals u had verwacht. Dit kan zich voordoen, ook al zijn de tijdpaginaprofielen accuraat en worden de tijdbladen voor andere weken op de juiste wijze gegenereerd.
+
++++
 
 +++**de week van Updates van het Onderhoud van 7-13 december, 2025**
 
