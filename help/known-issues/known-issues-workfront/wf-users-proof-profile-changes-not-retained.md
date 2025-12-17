@@ -3,9 +3,9 @@ title: 'Gebruikers: problemen met wijzigingen in proefdrukprofiel'
 description: Er zijn problemen gemeld met betrekking tot het aanbrengen van wijzigingen in het proefdrukprofiel van een gebruiker.
 hidefromtoc: true
 feature: People Teams and Groups, Digital Content and Documents
-source-git-commit: c959c8460956a227157853d54f2f54d1a03229b4
+source-git-commit: fb31912bbb8e62578293dc0b4df3761f433913da
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,9 @@ ht-degree: 0%
 
 # Gebruikers: problemen met wijzigingen in proefdrukprofiel
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on December 5, 2025.
--->
+>Dit probleem is op 17 december 2025 opgelost.
 
 De volgende problemen zijn gemeld met betrekking tot het aanbrengen van wijzigingen in het proefdrukprofiel van een gebruiker:
 
