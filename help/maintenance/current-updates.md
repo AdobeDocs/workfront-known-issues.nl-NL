@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
+source-git-commit: db432f61d90c0900d7522c64c7feb990268b5542
 workflow-type: tm+mt
-source-wordcount: '3210'
+source-wordcount: '3378'
 ht-degree: 0%
 
 ---
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Voor informatie over onderhoudstekorten voor alle producten van Adobe, met inbegrip van Workfront, zie de [&#x200B; pagina van de Status van Adobe &#x200B;](https://status.adobe.com/).
+>Voor informatie over onderhoudstekorten voor alle producten van Adobe, met inbegrip van Workfront, zie de [ pagina van de Status van Adobe ](https://status.adobe.com/).
 
 Op deze pagina worden de problemen beschreven die zijn opgelost in de wekelijkse Workfront-updates.
 
 Deze updates bevatten ook andere kleine of minder duidelijke foutoplossingen. [!DNL Workfront] Ondersteuning geeft een melding wanneer een probleem dat u hebt verzonden, is opgelost.
 
-Voor onderhoudsupdates voorafgaand aan 2025, zie [&#x200B; Vorige Updates van het Onderhoud &#x200B;](#previous-maintenance-updates)
+Voor onderhoudsupdates voorafgaand aan 2025, zie [ Vorige Updates van het Onderhoud ](#previous-maintenance-updates)
 
 De volgende onderhoudsupdates zijn uitgevoerd in 2025.
 
@@ -36,6 +36,13 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2025.
 
 Wanneer een gebruiker een team aan een het werkpunt in Workfront toewijst, wordt de teamtaak niet bewaard, en het team wordt niet op de hoogte gebracht van het werk.
 
+#### Planningen
+
+**Toestemmingen om te plannen die voor een groep** worden ingetrokken
+
+Wanneer een de groepsbeheerder van Workfront een datumuitzondering aan een programma toevoegt en de veranderingen opslaat, worden de toestemmingen aan dat programma verwijderd uit de groep, en de beheerder van Workfront moet toegang voor de groep verlenen.
+
+
 #### Taken
 
 **gealigneerde geeft aan een taak uit sparen niet**
@@ -47,6 +54,20 @@ Wanneer een gebruiker inline wijzigingen aanbrengt in een taak in de oudere taak
 **niet geproduceerde Tijdopnamen**
 
 Timesheets worden niet automatisch gegenereerd zoals u had verwacht. Dit kan zich voordoen, ook al zijn de tijdpaginaprofielen accuraat en worden de tijdbladen voor andere weken op de juiste wijze gegenereerd.
+
+#### Gebruikers
+
+**Kwesties met veranderingen in het Profiel van het Bewijs**
+
+De volgende problemen zijn gemeld met betrekking tot het aanbrengen van wijzigingen in het proefdrukprofiel van een gebruiker:
+
+* Wanneer een gebruiker een ander Proefdrukprofiel aan een gebruiker toewijst en opslaat, wordt de wijziging niet opgeslagen en behoudt de gebruiker het vorige Proefdrukprofiel.
+* Het proefdrukprofiel van een gebruiker kan worden weergegeven als het onjuiste proefdrukprofiel, zelfs als het juiste proefdrukprofiel is toegewezen.
+* Wanneer een gebruiker andere wijzigingen aanbrengt, kunnen de bijbehorende proefdrukmachtigingen ook worden gewijzigd.
+
+**Optie om proef automatisch te produceren mist van gebruikersprofiel**
+
+Wanneer een gebruiker een gebruikersprofiel weergeeft, is de optie &quot;Automatisch proefdrukken genereren bij het uploaden van documenten&quot; niet beschikbaar. Dit kan zich voordoen, ook al is aan alle voorwaarden voor de optie voldaan.
 
 +++
 
