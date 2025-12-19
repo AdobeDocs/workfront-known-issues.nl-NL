@@ -3,7 +3,7 @@ title: 'exporteren: gebruikers kunnen financiële gegevens bekijken in de weerga
 description: De gebruikers met Mening of geven toegang tot Financiële Gegevens in hun toegangsniveau uit kunnen financiële gegevens in het beeld van het dashboard van het Canvas zien, zelfs als de de financieringstoestemming van de Mening op het taak of projectniveau wordt verwijderd.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: a76c92773d0c295c5fc726062f765ffd37611037
+source-git-commit: fc6c4f1fa7f563ef7d7aa9335fb8b89025fcb572
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
