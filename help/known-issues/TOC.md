@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: fb31912bbb8e62578293dc0b4df3761f433913da
+source-git-commit: 8063c450291e294889aaec3f6484963cba6508ce
 workflow-type: tm+mt
-source-wordcount: '1569'
+source-wordcount: '1452'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 0%
       + [Planningen: machtigingen om te plannen ingetrokken voor een groep](known-issues-workfront/wf-schedules-group-permissions-revoked.md)
       + [Toewijzingen: teamtoewijzingen worden niet opgeslagen](known-issues-workfront/wf-assignments-not-saved.md)
       + [Taken: geplande uren worden niet opgeslagen tijdens het maken van een taak](known-issues-workfront/wf-tasks-planned-hours-not-saving.md)
-      + [&#x200B; Timesheets: niet geproduceerde Timesheets &#x200B;](known-issues-workfront/wf-timesheets-not-generated.md)
+      + [ Timesheets: niet geproduceerde Timesheets ](known-issues-workfront/wf-timesheets-not-generated.md)
       + [Taken: &#39;Onvoldoende toegang&#39;-bericht bij inline bewerkingstaken](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md)
       + [Goedkeuringen: koppelingen naar goedkeuringen niet beschikbaar](known-issues-workfront/wf-approvals-link-not-appearing.md)
       + [Aanvragen: De maker van het formulier kan het formulier niet aanvragen](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md)
@@ -48,28 +48,13 @@ ht-degree: 0%
       + [Goedkeuringen: goedkeuring wordt weergegeven als &quot;Geen deadline&quot; wanneer er geen tijd is opgenomen in de deadline](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)
       + [Proefdrukken: kan geen proefdruk genereren op basis van een PowerPoint-bestand](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md)
       + [Gebruikers: kan instellingen voor meldingen voor een andere gebruiker niet bewerken](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md)
-      + [Gebruikers: kan het toegangsniveau van een gebruiker niet wijzigen](known-issues-workfront/wf-users-cannot-change-access-level.md)
       + [Gebruikers: kan de federatie-id van een gebruiker niet bewerken](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md)
-      + [Documenten: gebruikers die na voltooiing van de goedkeuring als fiatteurs zijn toegevoegd, worden niet op de hoogte gesteld](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md)
-      + [Proefdrukken: kan geen codes toevoegen aan gebruikers in proefdrukopmerkingen](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md)
-      + [Rechten: objectmachtigingen worden niet correct overgeërfd](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md)
       + [Rechten: objectmachtigingen worden niet correct overgeërfd](known-issues-workfront/wf-permissions-not-inherited-correctly.md)
-      + [Projecten: fout bij het toevoegen van een project aan een programma](/help/known-issues/known-issues-workfront/wf-projects-error-when-adding-to-program.md)
-      + [Instellen: kan zich niet aanmelden als een andere gebruiker](known-issues-workfront/wf-setup-cannot-login-as-in-preview.md)
-      + [Integraties: problemen met de integratie van Workfront for Slack](known-issues-workfront/wf-integrations-slack-integration-not-working.md)
-      + [Taken: het gebied voor goedkeuring verdwijnt uit linkernavigatie](known-issues-workfront/wf-tasks-approvals-tab-disappears.md)
-      + [Projecten: kan project niet naar opgegeven programma verplaatsen](/help/known-issues/known-issues-workfront/wf-projects-cannot-move-to-program.md)
       + [Workfront: objecten zijn niet synchroon tussen Workfront en Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md)
       + [Proefdrukken: kan geen gebruikers toevoegen aan een proefdruk op naam in de voorvertoningsomgeving](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md)
-      + [Proefdrukken: kan proef niet openen via directe koppeling](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md)
-      + [Rapporten: Grafiekdrilldown bevat onjuiste resultaten](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md)
-      + [Timesheets: Timesheets zijn niet correct gegenereerd](known-issues-workfront/wf-timesheets-one-week-created.md)
-      + [Zoeken: Geavanceerd zoeken retourneert geen verwachte resultaten](/help/known-issues/known-issues-workfront/wf-search-advanced-not-working.md)
       + [Gebruikers: het symbool &quot;In afwachting van goedkeuring&quot; wordt weergegeven op nieuwe gebruikers](known-issues-workfront/wf-users-pending-approval.md)
-      + [Bronnen: knop Exporteren is uitgeschakeld](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md)
       + [Proefdrukken: proefdruk wordt doorgestuurd naar documentenlijst](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md)
       + [Documenten: documentminiaturen worden niet weergegeven](known-issues-workfront/wf-documents-thumbnails-not-display.md)
-      + [Sjablonen: kan niet delen met Contribute-toegang](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
       + [Filters: Vervolgkeuzelijst verdwijnt wanneer u op de schuifbalk klikt](known-issues-workfront/wf-filter-scroll-bar.md)
       + [Projecten: de status van de projectvoortgang wordt niet automatisch bijgewerkt naar Te laat](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
       + [Aanmelden als: groepsbeheerders kunnen zich niet aanmelden als een andere gebruiker](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
@@ -91,7 +76,6 @@ ht-degree: 0%
       + [Workfront: gebruikers van contribuanten hebben geen toegang tot programma&#39;s of portfolio&#39;s](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
       + [Goedkeuringen: &quot;Alle&quot; filters sluiten persoonlijk ingediende goedkeuringen uit](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
       + [Taken: Verstreken tijdsduur dagen onjuist voor bovenliggende taken met onderliggende items](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
-      + [Workfront: geopende browsertabbladen kunnen niet worden geladen](known-issues-workfront/wf-workfront-browser-tabs-error.md)
       + [Lay-outsjablonen: aangepaste gegevensvelden worden niet weergegeven wanneer ze aan Taakoverzicht worden toegevoegd via Lay-outsjabloon](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
       + [Integraties: JumpSeat-integratie mislukt voor organisaties op Unified Shell](known-issues-workfront/wf-integrations-jumpseat-error-with-unified-shell.md)
       + [Meldingen: e-mailberichten met documentmeldingen kunnen geen voorvertoningen van afbeeldingen weergeven](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
@@ -142,7 +126,6 @@ ht-degree: 0%
       + [[!UICONTROL Home]: Nieuwe [!UICONTROL Home] -voorvertoning van widget geeft geen correcte naam van object weer](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
       + [[!UICONTROL Home]: [!UICONTROL Requests] niet alle toegewezen teams worden weergegeven](known-issues-workfront/inactive/wf-home-request-shows-one-team.md)
       + [[!UICONTROL Home]: De [!UICONTROL Mentions] -widget in new [!UICONTROL Home] is niet beperkt tot berichten waarin de gebruiker is gelabeld](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md)
-      + [[!UICONTROL Setup]: kan auditlogs niet exporteren](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md)
       + [Proefdrukken: proefdrukken worden langzaam gemaakt in de voorvertoningsomgeving](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md)
       + [Aangepaste formulieren: &quot;[!UICONTROL Whoops]&quot;-fout bij het instellen van een berekend veld](known-issues-workfront/inactive/wf-custom-forms-error-with-calculated-field.md)
       + [Proofs: [!UICONTROL Proof Activity] tab wordt geopend [!UICONTROL Proof Details]](known-issues-workfront/inactive/wf-proofs-proofing-activity-redirects-to-details.md)
@@ -220,10 +203,13 @@ ht-degree: 0%
       + [Workfront Fusion: uitvoeropmaak voor datums](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: fout met laag geheugen](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: dubbele projecten gemaakt van één module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]: [!DNL Workfront] > [!UICONTROL &#x200B; Custom API Call] module die 404 of 422 fouten terugkeert](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: [!DNL Workfront] > [!UICONTROL  Custom API Call] module die 404 of 422 fouten terugkeert](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: Fout: &quot;Kan de verbinding niet verifiëren&quot;](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: [!DNL Fusion]  de module keert 404 fout zonder verdere informatie terug](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] In-app Help-koppelingen leiden niet tot specifieke Help-pagina&#39;s](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
+
++ [!DNL Workfront] Planning {#planning}
+   + [Bekende Kwesties in  [!DNL Workfront]  Planning](workfrontplanning.md)
 
 + [!DNL Workfront] Mobiele toepassing {#mobile}
    + [Bekende Kwesties in  [!DNL Workfront]  Mobiele App](workfrontmobile.md)
