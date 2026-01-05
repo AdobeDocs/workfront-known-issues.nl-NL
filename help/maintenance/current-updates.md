@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f10450876e7ccd1b308772778d1be0cd76f6e57e
+source-git-commit: 9b7fb2257432fae02c7ab8eba1aca5d05bfea90e
 workflow-type: tm+mt
-source-wordcount: '3415'
+source-wordcount: '3664'
 ht-degree: 0%
 
 ---
@@ -14,17 +14,61 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Voor informatie over onderhoudstekorten voor alle producten van Adobe, met inbegrip van Workfront, zie de [&#x200B; pagina van de Status van Adobe &#x200B;](https://status.adobe.com/).
+>Voor informatie over onderhoudstekorten voor alle producten van Adobe, met inbegrip van Workfront, zie de [ pagina van de Status van Adobe ](https://status.adobe.com/).
 
 Op deze pagina worden de problemen beschreven die zijn opgelost in de wekelijkse Workfront-updates.
 
 Deze updates bevatten ook andere kleine of minder duidelijke foutoplossingen. [!DNL Workfront] Ondersteuning geeft een melding wanneer een probleem dat u hebt verzonden, is opgelost.
 
-Voor onderhoudsupdates voorafgaand aan 2025, zie [&#x200B; Vorige Updates van het Onderhoud &#x200B;](#previous-maintenance-updates)
+Voor onderhoudsupdates voorafgaand aan 2025, zie [ Vorige Updates van het Onderhoud ](#previous-maintenance-updates)
 
 De volgende onderhoudsupdates zijn uitgevoerd in 2025.
 
 ## Updates in december 2025
+
++++**de week van Updates van het Onderhoud van de Planning van Workfront van 21-27 december, 2025**
+
+### Workfront Planning Maintenance Updates week van 21-27 december 2025
+
+#### Fout bij verwijderen van verbonden veld
+
+Wanneer een gebruiker probeert om een verbonden gebied in de Planning van Workfront te verwijderen, kunnen zij niet het gebied verwijderen, en zij zien het bericht &quot;Onbekwaam om het gebied te schrappen. Probeer het opnieuw.&quot;
+
++++
+
++++**de week van Updates van het Onderhoud van 21-27 december, 2025**
+
+### Onderhoudsupdates week van 21-27 december 2025
+
+#### Aangepaste formulieren
+
+**kan rijke tekstgebieden niet uitgeven**
+
+Wanneer een gebruiker een RTF-veld op een aangepast formulier probeert te bewerken, worden de wijzigingen niet opgeslagen en wordt het veld niet bijgewerkt met de wijzigingen.
+
+#### Taken
+
+**kan gebruikersrol niet selecteren wanneer het creëren van een taak**
+
+Wanneer een gebruiker een taak maakt en een gebruikersrol probeert toe te wijzen, is de optie om de rol toe te wijzen niet aanwezig, en de gebruiker kan geen gebruikersrol toewijzen.
+
++++
+
++++**de week van de Updates van het Onderhoud van de Planning van Workfront van 14-20 december, 2025**
+
+### Workfront Planning Maintenance Updates Week van 14-20 december 2025
+
+#### Kan geen veld toevoegen aan een weergave
+
+>[!NOTE]
+>
+>* Dit probleem is gemeld in de sandbox Aangepast vernieuwen.
+
+Wanneer een gebruiker probeert om een gebied aan een mening in de Planning van Workfront toe te voegen, wordt het gebied niet toegevoegd, en de gebruiker ziet het volgende bericht:
+
+&quot;Kan de veldkolom niet maken. Probeer het opnieuw.&quot;
+
++++
 
 +++**de week van Updates van het Onderhoud van 14-20 december, 2025**
 
@@ -41,6 +85,12 @@ Wanneer een gebruiker als fiatteur aan een voorwerp wordt toegewezen, verschijnt
 **de taken van het Team worden niet bewaard**
 
 Wanneer een gebruiker een team aan een het werkpunt in Workfront toewijst, wordt de teamtaak niet bewaard, en het team wordt niet op de hoogte gebracht van het werk.
+
+#### Verzoeken
+
+**Toestemmingen niet geërft wanneer het creëren van een verzoek**
+
+Wanneer een gebruiker een aanvraag maakt, overerft die aanvraag geen machtigingen. Dit betekent dat gebruikers mogelijk geen toegang hebben tot het verzoek.
 
 #### Planningen
 

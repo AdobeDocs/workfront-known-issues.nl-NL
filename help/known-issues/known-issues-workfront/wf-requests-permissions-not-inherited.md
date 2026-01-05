@@ -3,15 +3,19 @@ title: 'Verzoeken: Rechten die niet worden overgeërfd bij het maken van een aan
 description: Wanneer een gebruiker een aanvraag maakt, overerft die aanvraag geen machtigingen. Dit betekent dat gebruikers mogelijk geen toegang hebben tot het verzoek.
 hidefromtoc: true
 feature: Requests
-source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
+source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
 
 
 # Verzoeken: Rechten die niet worden overgeërfd bij het maken van een aanvraag
+
+>[!NOTE]
+>
+>Dit probleem is op 19 december 2025 opgelost.
 
 Wanneer een gebruiker een aanvraag maakt, overerft die aanvraag geen machtigingen. Dit betekent dat gebruikers mogelijk geen toegang hebben tot het verzoek.
 

@@ -3,9 +3,9 @@ title: Bekende problemen in  [!DNL Adobe Workfront Planning]
 description: Bekende problemen gemeld voor  [!DNL Adobe Workfront Planning]
 keywords: nieuw bestand, bestand toevoegen
 feature: Workfront Planning
-source-git-commit: 8063c450291e294889aaec3f6484963cba6508ce
+source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Deze pagina bevat problemen die momenteel worden geïdentificeerd in [!DNL Adobe
 
 >[!IMPORTANT]
 >
->Voor informatie betreffende serveruptime of stroomonderbrekingen, zie [&#x200B; status.adobe.com &#x200B;](https://status.adobe.com). Voor informatie over kwesties die onlangs werden bevestigd, zie [[!DNL Workfront]  Updates van het Onderhoud &#x200B;](../maintenance/current-updates.md).
+>Voor informatie betreffende serveruptime of stroomonderbrekingen, zie [ status.adobe.com ](https://status.adobe.com). Voor informatie over kwesties die onlangs werden bevestigd, zie [[!DNL Workfront]  Updates van het Onderhoud ](../maintenance/current-updates.md).
 
 ## Nieuw
 
@@ -24,7 +24,7 @@ Deze onlangs gemelde problemen worden momenteel geëvalueerd.
 
 | **Uitgave** | **Laatst gewijzigd** |
 | --- | --- |
-| [&#x200B; Planning van Workfront: Fout wanneer het verwijderen van verbonden gebied &#x200B;](known-issues-workfront/wf-planning-cannot-delete-connected-field.md) | 12 december 2025 |
+| Geen | |
 
 {style="table-layout:auto"}
 
@@ -34,7 +34,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Uitgave** | **Laatst gewijzigd** |
 | --- | --- |
-| [&#x200B; Planning van Workfront: Kan geen gebied aan een mening toevoegen &#x200B;](known-issues-workfront/wf-planning-cannot-add-field.md) | 15 december 2025 |
+| Geen | |
 
 {style="table-layout:auto"}
 
