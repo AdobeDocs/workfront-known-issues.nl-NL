@@ -3,10 +3,10 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c2634db0768c32bb003d6401afc2239e941bf6d2
+source-git-commit: 0bda09f90283710c8ad1e6275ba48ccf7455fbe1
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 2%
+source-wordcount: '217'
+ht-degree: 1%
 
 ---
 
@@ -14,17 +14,29 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->Voor informatie over onderhoudstekorten voor alle producten van Adobe, met inbegrip van Workfront, zie de [&#x200B; pagina van de Status van Adobe &#x200B;](https://status.adobe.com/).
+>Voor informatie over onderhoudstekorten voor alle producten van Adobe, met inbegrip van Workfront, zie de [ pagina van de Status van Adobe ](https://status.adobe.com/).
 
 Op deze pagina worden de problemen beschreven die zijn opgelost in de wekelijkse Workfront-updates.
 
 Deze updates bevatten ook andere kleine of minder duidelijke foutoplossingen. [!DNL Workfront] Ondersteuning geeft een melding wanneer een probleem dat u hebt verzonden, is opgelost.
 
-Voor onderhoudsupdates voorafgaand aan 2026, zie [&#x200B; Vorige Updates van het Onderhoud &#x200B;](#previous-maintenance-updates)
+Voor onderhoudsupdates voorafgaand aan 2026, zie [ Vorige Updates van het Onderhoud ](#previous-maintenance-updates)
 
 De volgende onderhoudsupdates zijn uitgevoerd in 2026.
 
 ## Updates in januari 2026
+
++++**Workfront de week van de Updates van het Onderhoud van de Fusie van Januari 4-10, 2026**
+
+### Onderhoudsupdates week van 4-10 januari 2012
+
+**Ontbrekende kopbalfout op de modules van AWS**
+
+AWS-modules vertonen de volgende fout:
+
+&quot;Ontbrekende vereiste header voor deze aanvraag&quot;
+
++++
 
 +++**de week van Updates van het Onderhoud van 4-10 Januari, 2026**
 
