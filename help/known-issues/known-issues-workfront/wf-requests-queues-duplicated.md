@@ -3,9 +3,9 @@ title: 'Verzoeken: Vragenrijen worden meerdere keren weergegeven'
 description: Wanneer een gebruiker een aanvraag begint te maken en een aanvraagwachtrij selecteert, wordt dezelfde aanvraagwachtrij meerdere keren weergegeven in de vervolgkeuzelijst.
 hidefromtoc: true
 feature: Requests
-source-git-commit: 0dac0311dd76f0653d72f4d4a6e5a79c36f0679e
+source-git-commit: fa4e4373f3f39973086a40fc66e0d307a996d38a
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Dit probleem is gemeld in de ervaringen met oudere rapporten.
+>* Dit probleem is op 8 januari 2026 opgelost.
+>* Dit probleem is gemeld in de ervaringen met oudere rapporten.
 
 Wanneer een gebruiker een aanvraag begint te maken en een aanvraagwachtrij selecteert, wordt dezelfde aanvraagwachtrij meerdere keren weergegeven in de vervolgkeuzelijst.
 
