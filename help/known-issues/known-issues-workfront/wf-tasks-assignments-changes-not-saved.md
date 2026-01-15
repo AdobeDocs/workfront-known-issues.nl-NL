@@ -3,9 +3,9 @@ title: Bewerkingen die zijn aangebracht in het dialoogvenster Bewerken van een t
 description: Wanneer een gebruiker wijzigingen aanbrengt in de sectie Bewerken van een taak in het dialoogvenster Verouderde taak en deze opslaat, worden de wijzigingen niet opgeslagen.
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 11192c5977f47ed04fd7cef0b059d20a8af29221
+source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Dit probleem is van toepassing op oudere taken.
+>* Dit probleem is van toepassing op oudere taken.
+>* Het team van het Product evalueert momenteel deze probleemoplossing, die productverbeteringen kan vereisen. De verbeteringen van het product worden meegedeeld in de Mededelingen van het Product en niet met de Updates van het Onderhoud.
 
 Wanneer een gebruiker wijzigingen aanbrengt in de sectie Bewerken van een taak in het dialoogvenster Verouderde taak en deze opslaat, worden de wijzigingen niet opgeslagen.
 
