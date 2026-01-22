@@ -218,7 +218,7 @@ ht-degree: 0%
       + [Workfront Fusion: Uitvoeropmaak voor data](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: Weinig geheugenfout](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: Dubbele projecten gemaakt uit één module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Custom API Call] module geeft 404- of 422-fouten terug](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL &#x200B; Custom API Call] module geeft 404- of 422-fouten terug](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: &quot;Verbinding niet kunnen verifiëren&quot; foutmelding](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: [!DNL Fusion] module geeft 404-fout terug zonder verdere informatie](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] Helplinks in de app leiden niet naar specifieke helppagina&#39;s](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
