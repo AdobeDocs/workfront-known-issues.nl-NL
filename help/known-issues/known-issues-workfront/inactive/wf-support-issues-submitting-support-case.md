@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Als u een contactpersoon voor [!DNL Workfront] geautoriseerde ondersteuning bent en problemen hebt met het indienen van een ondersteuningsaanvraag, gaat u naar de volgende communautaire blogs voor instructies:
 
-* [&#x200B; hoe te om een Ticket van de Steun op de liga van de Ervaring voor te leggen &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/how-to-submit-a-support-ticket-on-experience-league/ba-p/461737)
+* [&#x200B; hoe te om een Ticket van de Steun op de liga van de Ervaring voor te leggen &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/how-to-submit-a-support-ticket-on-experience-league/ba-p/461737?profile.language=nl)
 * [&#x200B; het Aanmelden voor het eerst als nieuw of bestaand Communautair lid van het Experience League van Workfront &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/logging-in-for-the-first-time-as-a-new-or-existing-workfront/ba-p/461472)
 
 Als je nog steeds problemen hebt, kun je ons bellen op de onderstaande nummers zodat we je kunnen helpen.
