@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 0549c4661b03901a78f302b58b25c1b5ccb88df1
+source-git-commit: adace5b91add331ee783d029763298b62d3ec8db
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '601'
 ht-degree: 0%
 
 ---
@@ -14,15 +14,43 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Voor informatie over onderhoudstekorten voor alle producten van Adobe, met inbegrip van Workfront, zie de [&#x200B; pagina van de Status van Adobe &#x200B;](https://status.adobe.com/).
+>Voor informatie over onderhoudstekorten voor alle producten van Adobe, met inbegrip van Workfront, zie de [ pagina van de Status van Adobe ](https://status.adobe.com/).
 
 Op deze pagina worden de problemen beschreven die zijn opgelost in de wekelijkse Workfront-updates.
 
 Deze updates bevatten ook andere kleine of minder duidelijke foutoplossingen. [!DNL Workfront] Ondersteuning geeft een melding wanneer een probleem dat u hebt verzonden, is opgelost.
 
-Voor onderhoudsupdates voorafgaand aan 2026, zie [&#x200B; Vorige Updates van het Onderhoud &#x200B;](#previous-maintenance-updates)
+Voor onderhoudsupdates voorafgaand aan 2026, zie [ Vorige Updates van het Onderhoud ](#previous-maintenance-updates)
 
 De volgende onderhoudsupdates zijn uitgevoerd in 2026.
+
+## Updates in februari 2026
+
++++**de week van de Update van het Onderhoud van 1-7 februari, 2026**
+
+### Onderhoudsupdate week van 1 februari 2026
+
+#### Verzoeken
+
+**&quot;U hebt onvoldoende toegang&quot;fout wanneer het kopiëren van verzoeken**
+
+Wanneer een gebruiker een aanvraag probeert te kopiëren via de aanvraagpagina, wordt de aanvraag niet gekopieerd en ziet de gebruiker de volgende fout:
+
+&quot;U hebt onvoldoende toegang om deze uitgave te bewerken.&quot;
+
+**&quot;U moet een systeem admin&quot;fout zijn wanneer het kopiëren van verzoeken**
+
+Wanneer een gebruiker een verzoek kopieert en probeert op te slaan, slaat de aanvraag niet op en ziet de gebruiker het volgende bericht:
+
+&quot;U moet systeembeheerder zijn om deze parameterwaarde van douanegegevens te veranderen.&quot;
+
+#### Gebruikers
+
+**de Gebruikers zijn niet correct provisioned op Adobe Admin Console**
+
+Als een gebruiker al op een Adobe Admin Console aanwezig is en vervolgens automatisch wordt ingericht naar een console die Workfront bevat, wordt die gebruiker niet correct ingericht naar de nieuwe console.
+
++++
 
 ## Updates in januari 2026
 
