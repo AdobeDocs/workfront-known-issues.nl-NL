@@ -3,15 +3,19 @@ title: 'Documenten: het deelvenster Samenvatting is leeg'
 description: Wanneer een gebruiker een documentlijst weergeeft en op een document klikt, wordt het deelvenster Samenvatting geopend, maar blijft het leeg. De gebruiker kan het deelvenster Samenvatting niet sluiten.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 0b5281162e06a95b3f4da1c566e890cfad956912
+exl-id: 475cda94-7329-4df9-b8db-819e4634bbd4
+source-git-commit: 90752886f1ea4a0388d50685a597a6aca7393949
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
-
 # Documenten: het deelvenster Samenvatting is leeg
+
+>[!NOTE]
+>
+>Dit probleem is op 5 februari 2026 opgelost.
 
 Wanneer een gebruiker een documentlijst weergeeft en op een document klikt, wordt het deelvenster Samenvatting geopend, maar blijft het leeg. De gebruiker kan het deelvenster Samenvatting niet sluiten.
 

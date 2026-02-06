@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: adace5b91add331ee783d029763298b62d3ec8db
+source-git-commit: 90752886f1ea4a0388d50685a597a6aca7393949
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '761'
 ht-degree: 0%
 
 ---
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Voor informatie over onderhoudstekorten voor alle producten van Adobe, met inbegrip van Workfront, zie de [&#x200B; pagina van de Status van Adobe &#x200B;](https://status.adobe.com/).
+>Voor informatie over onderhoudstekorten voor alle producten van Adobe, met inbegrip van Workfront, zie de [ pagina van de Status van Adobe ](https://status.adobe.com/).
 
 Op deze pagina worden de problemen beschreven die zijn opgelost in de wekelijkse Workfront-updates.
 
 Deze updates bevatten ook andere kleine of minder duidelijke foutoplossingen. [!DNL Workfront] Ondersteuning geeft een melding wanneer een probleem dat u hebt verzonden, is opgelost.
 
-Voor onderhoudsupdates voorafgaand aan 2026, zie [&#x200B; Vorige Updates van het Onderhoud &#x200B;](#previous-maintenance-updates)
+Voor onderhoudsupdates voorafgaand aan 2026, zie [ Vorige Updates van het Onderhoud ](#previous-maintenance-updates)
 
 De volgende onderhoudsupdates zijn uitgevoerd in 2026.
 
@@ -30,7 +30,21 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2026.
 
 ### Onderhoudsupdate week van 1 februari 2026
 
+#### Documenten
+
+**Samenvattingspaneel is leeg**
+
+Wanneer een gebruiker een documentlijst weergeeft en op een document klikt, wordt het deelvenster Samenvatting geopend, maar blijft het leeg. De gebruiker kan het deelvenster Samenvatting niet sluiten.
+
+Als de gebruiker de pagina opnieuw laadt, wordt het deelvenster Samenvatting mogelijk gevuld zoals verwacht. Als de gebruiker echter op een ander document klikt, is het overzichtsvenster van dat document leeg.
+
 #### Verzoeken
+
+**&quot;Geen onderwerp&quot;vertoningen in verzoeklijst**
+
+Wanneer een gebruiker de verzoeklijst in de nieuwe het vragen ervaring bekijkt, tonen sommige verzoeken &quot;Geen onderwerp&quot;in de Onderwerpkolom.
+
+Als de gebruiker één van deze verzoeken opent, zien zij dat het verzoek een onderwerp heeft.
 
 **&quot;U hebt onvoldoende toegang&quot;fout wanneer het kopiëren van verzoeken**
 
@@ -49,6 +63,12 @@ Wanneer een gebruiker een verzoek kopieert en probeert op te slaan, slaat de aan
 **de Gebruikers zijn niet correct provisioned op Adobe Admin Console**
 
 Als een gebruiker al op een Adobe Admin Console aanwezig is en vervolgens automatisch wordt ingericht naar een console die Workfront bevat, wordt die gebruiker niet correct ingericht naar de nieuwe console.
+
+#### Werklastverdeling
+
+**Uren per gebruiker worden niet correct berekend**
+
+Wanneer een gebruiker de uren van een gebruiker in de Balancer van de Werklast bekijkt, kunnen die uren verkeerd berekenen. In de weekweergave kan bijvoorbeeld één berekening van het aantal uren worden weergegeven, maar in de weergave van vier weken wordt een ander aantal uren voor die week weergegeven.
 
 +++
 
