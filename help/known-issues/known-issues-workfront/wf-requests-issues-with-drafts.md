@@ -3,15 +3,19 @@ title: 'Verzoeken: Problemen met concepten in de nieuwe verzoekende ervaring'
 description: Er zijn meerdere meldingen gedaan met betrekking tot concepten in de nieuwe ervaring die u opvraagt.
 hidefromtoc: true
 feature: Requests
-source-git-commit: 3b8387b0412b69d303c3f848be361fd83f2c328b
+exl-id: 951ea13c-774d-484d-99fd-ca119d258870
+source-git-commit: 50106ee9af1f41283cabe146785f0c792601ccf2
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
 
-
 # Verzoeken: Problemen met concepten in de nieuwe verzoekende ervaring
+
+>[!NOTE]
+>
+>Dit probleem is op 9 februari 2026 opgelost.
 
 De volgende kwesties zijn gerapporteerd met betrekking tot concepten in de nieuwe ervaring met verzoeken:
 
