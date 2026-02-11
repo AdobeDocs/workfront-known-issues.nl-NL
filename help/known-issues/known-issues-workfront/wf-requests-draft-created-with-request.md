@@ -3,15 +3,19 @@ title: 'Verzoeken: Concept wordt samen met verzoek gemaakt, veroorzaakt probleme
 description: Wanneer een gebruiker een nieuw verzoek maakt en verzendt in de nieuwe ervaring die het verzoek indient, wordt ook een concept gecreeerd. In het concept wordt alleen de eerste letter van de naam van het verzonden verzoek weergegeven. Als u het concept probeert te openen, treedt er een fout op.
 hidefromtoc: true
 feature: Requests
-source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
+exl-id: ab7288a4-dfff-4b1d-96d6-f05f0a2c14cb
+source-git-commit: 926f7feb7e740d5a857cfa66ea186128ae6171b1
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
 
-
 # Verzoeken: Concept wordt samen met verzoek gemaakt, veroorzaakt problemen
+
+>[!NOTE]
+>
+>Dit probleem is op 10 februari 2026 opgelost.
 
 Wanneer een gebruiker een nieuw verzoek maakt en verzendt in de nieuwe ervaring die het verzoek indient, wordt ook een concept gecreeerd. In het concept wordt alleen de eerste letter van de naam van het verzonden verzoek weergegeven. Als u het concept probeert te openen, treedt de fout &#39;&#39;Kan niet ophalen&#39;&#39; op.
 

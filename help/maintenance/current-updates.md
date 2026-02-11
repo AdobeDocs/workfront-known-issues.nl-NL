@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 50106ee9af1f41283cabe146785f0c792601ccf2
+source-git-commit: 926f7feb7e740d5a857cfa66ea186128ae6171b1
 workflow-type: tm+mt
-source-wordcount: '859'
+source-wordcount: '951'
 ht-degree: 0%
 
 ---
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Voor informatie over onderhoudstekorten voor alle producten van Adobe, met inbegrip van Workfront, zie de [&#x200B; pagina van de Status van Adobe &#x200B;](https://status.adobe.com/).
+>Voor informatie over onderhoudstekorten voor alle producten van Adobe, met inbegrip van Workfront, zie de [ pagina van de Status van Adobe ](https://status.adobe.com/).
 
 Op deze pagina worden de problemen beschreven die zijn opgelost in de wekelijkse Workfront-updates.
 
 Deze updates bevatten ook andere kleine of minder duidelijke foutoplossingen. [!DNL Workfront] Ondersteuning geeft een melding wanneer een probleem dat u hebt verzonden, is opgelost.
 
-Voor onderhoudsupdates voorafgaand aan 2026, zie [&#x200B; Vorige Updates van het Onderhoud &#x200B;](#previous-maintenance-updates)
+Voor onderhoudsupdates voorafgaand aan 2026, zie [ Vorige Updates van het Onderhoud ](#previous-maintenance-updates)
 
 De volgende onderhoudsupdates zijn uitgevoerd in 2026.
 
@@ -37,6 +37,12 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2026.
 Wanneer het meer van Gegevens wordt gevraagd, keert het niet alle verwachte resultaten terug.
 
 #### Verzoeken
+
+**Gecreeerd Ontwerp samen met verzoek veroorzaakt kwesties**
+
+Wanneer een gebruiker een nieuw verzoek maakt en verzendt in de nieuwe ervaring die het verzoek indient, wordt ook een concept gecreeerd. In het concept wordt alleen de eerste letter van de naam van het verzonden verzoek weergegeven. Als u het concept probeert te openen, treedt de fout &#39;&#39;Kan niet ophalen&#39;&#39; op.
+
+Als het ingediende verzoek vervolgens wordt verwijderd, lijkt het te zijn verwijderd, maar blijft het zichtbaar in het gebied Verzoeken van Workfront. Als de gebruiker de aanvraag opnieuw probeert te openen, wordt een bericht weergegeven dat aangeeft dat de aanvraag niet bestaat.
 
 **Kwesties met concepten in nieuwe het vragen ervaring**
 
