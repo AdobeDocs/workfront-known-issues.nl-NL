@@ -17,7 +17,7 @@ Deze pagina bevat problemen die momenteel worden geïdentificeerd in [!DNL Adobe
 
 >[!IMPORTANT]
 >
->Voor informatie betreffende serveruptime of stroomonderbrekingen, zie [ status.adobe.com ](https://status.adobe.com). Voor informatie over kwesties die onlangs werden bevestigd, zie [[!DNL Workfront]  Updates van het Onderhoud ](../maintenance/current-updates.md).
+>Voor informatie betreffende serveruptime of stroomonderbrekingen, zie [&#x200B; status.adobe.com &#x200B;](https://status.adobe.com). Voor informatie over kwesties die onlangs werden bevestigd, zie [[!DNL Workfront]  Updates van het Onderhoud &#x200B;](../maintenance/current-updates.md).
 
 ## Nieuw
 
@@ -35,7 +35,7 @@ De oplossingen voor deze problemen zijn momenteel in uitvoering of zijn gepland 
 
 | **Uitgave** | **Laatst gewijzigd** |
 | --- | --- |
-| [ Meldend: De gebieden van de Planning van Workfront verschijnen niet in het rapportbouwer van de Dashboards van het Canvas ](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md) | donderdag 11 februari 2026 |
+| [&#x200B; Meldend: De gebieden van de Planning van Workfront verschijnen niet in het rapportbouwer van de Dashboards van het Canvas &#x200B;](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md) | donderdag 11 februari 2026 |
 
 {style="table-layout:auto"}
 
