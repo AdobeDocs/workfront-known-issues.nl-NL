@@ -3,7 +3,7 @@ title: 'Toewijzingen: kan geavanceerde toewijzingswijziging niet opslaan vanuit 
 description: Wanneer een gebruiker een geavanceerde toewijzingswijziging probeert aan te brengen vanuit een rapport, slaat de wijziging niet op en ziet de gebruiker een foutbericht.
 hidefromtoc: true
 feature: Tasks, Reports and Dashboards
-source-git-commit: 798b9d8993fa7a8551b175c9ef87f5d0415b980d
+source-git-commit: 48c35e6d2e5df5b2a0078a0b5327505b09c7b7f8
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
@@ -22,3 +22,5 @@ Wanneer een gebruiker probeert om een geavanceerde taakverandering van een rappo
 U kunt geavanceerde taken van de de taaklijst van het project veranderen.
 
 _Eerste rapporteerde op 4 Februari, 2026._
+
+
