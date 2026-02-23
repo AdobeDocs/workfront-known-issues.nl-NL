@@ -2,9 +2,9 @@
 user-guide-title: Bekende problemen
 user-guide-description: Bekende problemen voor  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 7cb718dba611fea9837171c8b0e1fbb56811c7e4
+source-git-commit: 46d019fafcfe638580b6faac5c09bcc16516c465
 workflow-type: tm+mt
-source-wordcount: '1717'
+source-wordcount: '1731'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekende problemen in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Huidige problemen in [!DNL Adobe Workfront] {#wf-current}
+      + [Programma&#39;s: overerfde machtigingen werken niet voor programma&#39;s](known-issues-workfront/wf-programs-inherited-permissions-not-working.md)
+      + [Borden: Dubbele kaartenweergave aan boord](known-issues-workfront/wf-boards-duplicate-cards.md)
       + [Taken: De grote taaklijst springt onverwacht naar een verschillende plaats in de lijst](known-issues-workfront/wf-tasks-large-task-list-jumps.md)
       + [Goedkeuringen: Mijn widget Goedkeuringen toont proefdrukken die zich niet in het werkgebied bevinden waarin de gebruiker is toegewezen](known-issues-workfront/wf-approvals-widget-showing-stage-not-started.md)
       + [Home: Onthoudingen van proefdrukken worden niet weergegeven in de widget voor herinneringen](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md)
@@ -62,7 +64,7 @@ ht-degree: 0%
       + [Planningen: machtigingen om te plannen ingetrokken voor een groep](known-issues-workfront/wf-schedules-group-permissions-revoked.md)
       + [Toewijzingen: teamtoewijzingen worden niet opgeslagen](known-issues-workfront/wf-assignments-not-saved.md)
       + [Taken: geplande uren worden niet opgeslagen tijdens het maken van een taak](known-issues-workfront/wf-tasks-planned-hours-not-saving.md)
-      + [&#x200B; Timesheets: niet geproduceerde Timesheets &#x200B;](known-issues-workfront/wf-timesheets-not-generated.md)
+      + [ Timesheets: niet geproduceerde Timesheets ](known-issues-workfront/wf-timesheets-not-generated.md)
       + [Taken: &#39;Onvoldoende toegang&#39;-bericht bij inline bewerkingstaken](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md)
       + [Goedkeuringen: koppelingen naar goedkeuringen niet beschikbaar](known-issues-workfront/wf-approvals-link-not-appearing.md)
       + [Aanvragen: De maker van het formulier kan het formulier niet aanvragen](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md)
@@ -233,7 +235,7 @@ ht-degree: 0%
       + [Workfront Fusion: uitvoeropmaak voor datums](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: fout met laag geheugen](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: dubbele projecten gemaakt van één module](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]: [!DNL Workfront] > [!UICONTROL &#x200B; Custom API Call] module die 404 of 422 fouten terugkeert](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: [!DNL Workfront] > [!UICONTROL  Custom API Call] module die 404 of 422 fouten terugkeert](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: Fout: &quot;Kan de verbinding niet verifiëren&quot;](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: [!DNL Fusion]  de module keert 404 fout zonder verdere informatie terug](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] In-app Help-koppelingen leiden niet tot specifieke Help-pagina&#39;s](known-issues-workfront-fusion/help-links-in-modules-not-working.md)

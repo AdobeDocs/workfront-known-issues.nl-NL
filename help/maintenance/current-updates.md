@@ -3,9 +3,9 @@ title: Workfront-onderhoudsupdates
 description: Onderhoudsupdates voor  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 7cb718dba611fea9837171c8b0e1fbb56811c7e4
+source-git-commit: 2b5a817ea5d3891fc3d344c746322c8c89e80e85
 workflow-type: tm+mt
-source-wordcount: '1040'
+source-wordcount: '1265'
 ht-degree: 0%
 
 ---
@@ -14,17 +14,31 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Voor informatie over onderhoudstekorten voor alle producten van Adobe, met inbegrip van Workfront, zie de [&#x200B; pagina van de Status van Adobe &#x200B;](https://status.adobe.com/).
+>Voor informatie over onderhoudstekorten voor alle producten van Adobe, met inbegrip van Workfront, zie de [ pagina van de Status van Adobe ](https://status.adobe.com/).
 
 Op deze pagina worden de problemen beschreven die zijn opgelost in de wekelijkse Workfront-updates.
 
 Deze updates bevatten ook andere kleine of minder duidelijke foutoplossingen. [!DNL Workfront] Ondersteuning geeft een melding wanneer een probleem dat u hebt verzonden, is opgelost.
 
-Voor onderhoudsupdates voorafgaand aan 2026, zie [&#x200B; Vorige Updates van het Onderhoud &#x200B;](#previous-maintenance-updates)
+Voor onderhoudsupdates voorafgaand aan 2026, zie [ Vorige Updates van het Onderhoud ](#previous-maintenance-updates)
 
 De volgende onderhoudsupdates zijn uitgevoerd in 2026.
 
 ## Updates in februari 2026
+
++++**de week van de Update van het Onderhoud van 22-28 februari, 2026**
+
+### Onderhoudsupdate week van 22-28 februari 2026
+
+#### Verzoeken
+
+**kan geen document uploaden wanneer het invullen van een verzoek**
+
+Wanneer een gebruiker een aanvraag invult en probeert een document te uploaden, wordt het document niet geüpload en ziet de gebruiker de volgende fout:
+
+&quot;Uploadfout: probeer een kleiner bestand of voeg het bestand toe nadat u het hebt gemaakt.&quot;
+
++++
 
 +++**de week van de Update van het Onderhoud van 15-21 februari 2026**
 
@@ -32,9 +46,33 @@ De volgende onderhoudsupdates zijn uitgevoerd in 2026.
 
 #### Aangepaste formulieren
 
+**Berekende gebieden die geen gegevens voor niet-admins** tonen
+
+Wanneer een gebruiker die geen Workfront-beheerder is, een aangepast formulier weergeeft met velden die gegevens ophalen uit een alleen-beheersectie van het formulier, wordt de berekende waarde niet weergegeven in dat veld. Als de gebruiker Recalculate Uitdrukkingen in werking stelt, toont de waarde maar verfrist zich.
+
+Workfront-beheerders kunnen de waarden van de velden naar behoren zien.
+
 **de logica van de Vertoning toont correct niet op verzoekvorm**
 
 Wanneer een gebruiker een aangepast formulier invult dat is verbonden met een aanvraag, wordt de weergaveregel niet gevolgd en worden sommige velden mogelijk niet naar behoren weergegeven.
+
+#### Startpagina
+
+**Vermeldingen van proefdrukken verschijnen niet in de widget Vermeldingen**
+
+Wanneer een gebruiker wordt vermeld in een opmerking over een bewijs, wordt die vermelding niet opgenomen in de widget voor aantekeningen in Home.
+
+#### Aanmelden
+
+**Workfront laadt niet na login**
+
+Wanneer een gebruiker zich aanmeldt bij Workfront, wordt Workfront niet geladen. Als de gebruiker de pagina vernieuwt, wordt Workfront naar behoren geladen.
+
+#### Rapportage
+
+Workfront Planning fields not appear in Canvas Dashboards report builder
+
+Wanneer een gebruiker de bouwer in de Dashboards van het Canvas gebruikt en om gebieden van de Planning van Workfront van verwijzingen te voorzien, tonen die gebieden niet binnen de bouwer.
 
 #### Verzoeken
 
