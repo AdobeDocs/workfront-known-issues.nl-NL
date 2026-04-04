@@ -13,7 +13,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Voor informatie over onderhoudstekorten voor alle producten van de Adobe, met inbegrip van Workfront, zie de [&#x200B; pagina van de Status van de Adobe &#x200B;](https://status.adobe.com/).
+>Voor informatie over onderhoudstekorten voor alle producten van de Adobe, met inbegrip van Workfront, zie de [&#x200B; pagina van de Status van de Adobe &#x200B;](https://status.adobe.com/nl-nl/).
 
 Op deze pagina worden de problemen beschreven die zijn opgelost in de wekelijkse Workfront-updates.
 
