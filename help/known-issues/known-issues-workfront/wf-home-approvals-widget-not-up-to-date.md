@@ -4,7 +4,7 @@ description: De wachtende widget Mijn goedkeuringen in de nieuwe Home-ervaring g
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 3b96bccc-8e2c-47f5-8639-10e870953bb4
-source-git-commit: 4d5f810258b537324feb23e53f370a2c55877a0b
+source-git-commit: ea69ee1c87a75a05ecb7813a92bfa811635113dc
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
@@ -19,7 +19,8 @@ ht-degree: 0%
 >[!NOTE]
 >
 >This issue was fixed on May 2, 2024.
- WF, WFP-->
+ WF, WFP
+-->
 
 De wachtende widget Mijn goedkeuringen in de nieuwe Home-ervaring geeft de goedkeuringen niet correct weer.
 
